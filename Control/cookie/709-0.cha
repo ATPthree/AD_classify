@@ -1,0 +1,88 @@
+@UTF8
+@PID:	11312/t-00002419-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|74;|female|Control||Participant|26||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	709-0, audio
+@G:	Cookie
+*INV:	tell me everything you see happening in that picture . 3130_5640
+%wor:	tell 3130_3320 me 3320_3470 everything 3470_3900 you 3900_4040 see 4040_4240 happening 4240_4750 in 4750_5000 that 5000_5260 picture 5260_5640 .
+%mor:	v|tell pro:obj|me pro:indef|everything pro:per|you v|see
+	part|happen-PRESP prep|in det:dem|that n|picture .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|OBJ 4|5|SUBJ 5|1|CJCT 6|5|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+*INV:	everything that's going on there . 5800_7120
+%wor:	everything 5800_6210 that's 6210_6400 going 6400_6730 on 6730_7010 there 7010_7120 .
+%mor:	pro:indef|everything pro:rel|that~aux|be&3S part|go-PRESP prep|on
+	n|there .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|AUX 4|1|CMOD 5|4|JCT 6|5|POBJ 7|1|PUNCT
+*PAR:	okay . [+ exc] 7720_8160
+%wor:	okay 7720_8160 . [+ exc]
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	well in the first place the [/] &+m the mother forgot to turn off
+	the water and the water's running out the sink . 9133_14053
+%wor:	well 9133_9303 in 9303_9383 the 9383_9393 first 9393_9683 place 9683_9993 the [/] 9993_10213 &+m the 10513_10633 mother 10633_10953 forgot 10953_11353 to 11353_11423 turn 11423_11693 off 11693_11863  the 11863_11923 water 11923_12273 and 12273_12513 the 12513_12613 water's 12613_13003 running 13003_13333 out 13333_13533 the 13533_13713 sink 13713_14053 .
+%mor:	co|well prep|in det:art|the adj|first n|place det:art|the n|mother
+	v|forget&PAST inf|to v|turn prep|off det:art|the n|water coord|and
+	det:art|the n|water~aux|be&3S part|run-PRESP prep|out det:art|the
+	n|sink .
+%gra:	1|8|COM 2|8|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|7|DET 7|8|SUBJ 8|0|ROOT
+	9|10|INF 10|8|COMP 11|10|JCT 12|13|DET 13|11|POBJ 14|18|LINK
+	15|16|DET 16|18|SUBJ 17|18|AUX 18|8|CJCT 19|18|JCT 20|21|DET
+	21|19|POBJ 22|8|PUNCT
+*PAR:	and &+sh she's standing there &=laughs . 14723_16673
+%wor:	and 14723_15293 &+sh she's 15513_15853 standing 15983_16433 there 16433_16673 &=laughs .
+%mor:	coord|and pro:sub|she~aux|be&3S part|stand-PRESP n|there .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	it's falling on the floor . 16745_17995
+%wor:	it's 16745_17025 falling 17025_17325 on 17325_17485 the 17485_17575 floor 17575_17995 .
+%mor:	pro:per|it~aux|be&3S part|fall-PRESP prep|on det:art|the n|floor .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	the child is got a stool and reaching up into the cookie jar .
+	[+ gram] 18562_21942
+%wor:	the 18562_18722 child 18722_19102 is 19102_19342 got 19632_19852 a 19852_19952 stool 19952_20202 and 20202_20462 reaching 20462_20842 up 20842_20972 into 20972_21172 the 21172_21362 cookie 21362_21632 jar 21632_21942 .  [+ gram]
+%mor:	det:art|the n|child aux|be&3S part|get&PASTP det:art|a n|stool
+	coord|and part|reach-PRESP adv|up prep|into det:art|the n|cookie
+	n|jar .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|CONJ
+	8|7|COORD 9|8|JCT 10|8|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|4|PUNCT
+*PAR:	and the [/] the [/] the stool is tipping over . 21965_24605
+%wor:	and 21965_22365 the [/] 22665_22875 the [/] 23295_23395 the 23395_23435  stool 23435_23665 is 23665_23905 tipping 23905_24335 over 24335_24605 .
+%mor:	coord|and det:art|the n|stool aux|be&3S part|tip-PRESP adv|over .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	and he's sorta [: sort_of] put down the plates . [+ gram] 24626_27576
+%wor:	and 24626_24886 he's 25086_25336 sorta [: sort_of] 25586_26066 put 26686_26886 down 26886_27196 the 27196_27296 plates 27296_27576 . [+ gram]
+%mor:	coord|and pro:sub|he~cop|be&3S adv|sort_of v|put&ZERO prep|down
+	det:art|the n|plate-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|CPRED 6|5|JCT 7|8|DET
+	8|6|POBJ 9|3|PUNCT
+*PAR:	and she's reaching up to get it but I don't see anything wrong with
+	&=laughs her though . 27600_32340
+%wor:	and 27600_27740 she's 27740_28090 reaching 28090_28490 up 28490_28660 to 28660_28750 get 28750_28960 it 28960_29080 but 29080_29230 I 29230_29350 don't 29350_29560 see 29920_30060 anything 30060_30640 wrong 31050_31420 with 31420_31580  &=laughs her 31580_32010 though 32010_32340 .
+%mor:	coord|and pro:sub|she~aux|be&3S part|reach-PRESP adv|up inf|to
+	v|get pro:per|it conj|but pro:sub|I mod|do~neg|not v|see
+	pro:indef|anything n|wrong prep|with pro:obj|her adv|though .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|INF 7|4|XJCT 8|7|OBJ
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|11|NEG 13|4|CJCT 14|15|MOD
+	15|13|OBJ 16|13|JCT 17|16|POBJ 18|13|JCT 19|4|PUNCT
+*INV:	okay ? 38649_38879
+%wor:	okay 38649_38879 ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	yeah that's it . [+ exc] 39252_39752
+%wor:	yeah 39252_39362 that's 39362_39652 it 39652_39752 . [+ exc]
+%mor:	co|yeah pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	I can't see anything . [+ exc] 39770_40480
+%wor:	I 39770_39940 can't 39940_40210 see 40210_40270 anything 40270_40480 . [+ exc]
+%mor:	pro:sub|I mod|can~neg|not v|see pro:indef|anything .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	+< that's fine . 39980_40790
+%wor:	+< that's 39980_40220 fine 40220_40790 .
+%mor:	pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

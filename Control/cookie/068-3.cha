@@ -1,0 +1,97 @@
+@UTF8
+@PID:	11312/t-00002229-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@Options:	multi
+@ID:	eng|Pitt|PAR|62;00.|female|Control||Participant|||
+@Media:	068-3, audio
+@Comment:	age is educated estimate, extrapolated from incomplete
+	demographic data
+@G:	Cookie
+*PAR:	it's a sunny day (be)cause the window's open . 30_3460
+%wor:	it's 30_130 a 130_1530 sunny 1560_1890 day 1890_2300 (be)cause 2300_2500 the 2500_2520 window's 2520_2950 open 2950_3460 .
+%mor:	pro:per|it~cop|be&3S det:art|a adj|sun&dn-Y n|day conj|because
+	det:art|the n|window~cop|be&3S adj|open .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|9|LINK 7|8|DET
+	8|9|SUBJ 9|2|CJCT 10|9|PRED 11|2|PUNCT
+*PAR:	this is the interpreted one . [+ exc] 3999_5239
+%wor:	this 3999_4139 is 4139_4259 the 4259_4269 interpreted 4269_4969 one 4969_5239 . [+ exc]
+%mor:	pro:dem|this cop|be&3S det:art|the part|interpret-PASTP
+	pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|OBJ 6|2|PUNCT
+*PAR:	okay then &-um the little boy is reaching up to get a cookie an(d)
+	he's about to fall off the chair [: stool] [* s:r] . 5416_10406
+%wor:	okay 5416_5806 then 5806_6186 &-um 6186_7156 the 7186_7196 little 7196_7476 boy 7476_7626 is 7626_7826 reaching 7826_8106 up 8106_8236 to 8236_8286 get 8286_8436 a 8436_8476 cookie 8476_8606 an(d) 8606_8716  he's 8716_8886 about 8886_9126 to 9126_9186 fall 9186_9336 off 9336_9566 the 9566_9706 chair [: stool] [* s:r] 9706_10406 .
+%mor:	co|okay adv:tem|then det:art|the adj|little n|boy aux|be&3S
+	part|reach-PRESP adv|up inf|to v|get det:art|a n|cookie coord|and
+	pro:sub|he~cop|be&3S adv|about prep|to n|fall prep|off det:art|the
+	n|stool .
+%gra:	1|2|COM 2|7|JCT 3|5|DET 4|5|MOD 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|10|INF 10|7|XJCT 11|12|DET 12|10|OBJ 13|15|LINK 14|15|SUBJ
+	15|10|CJCT 16|17|JCT 17|15|JCT 18|17|POBJ 19|18|NJCT 20|21|DET
+	21|19|POBJ 22|7|PUNCT
+*PAR:	and &-uh the water's overflowing in the sinks [: sink] [* s:r] . 10457_15627
+%wor:	and 10457_12297 &-uh 12377_12817 the 12817_13927 water's 13957_14257 overflowing 14257_14787 in 14787_14957 the 14957_14987 sinks [: sink] [* s:r] 14987_15627 .
+%mor:	coord|and det:art|the n|water~aux|be&3S over#part|flow-PRESP
+	prep|in det:art|the n|sink .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	and the mother is drying the dishes but she doesn't see the water
+	flowing over the &+s +//. 16077_20017
+%wor:	and 16077_16477 the 16477_16527 mother 16527_16767 is 16767_17147 drying 17147_17677 the 17677_17687 dishes 17687_18367 but 18367_18587 she 18587_18677 doesn't 18677_18987 see 18987_19127 the 19127_19167 water 19167_19447  flowing 19447_19727 over 19727_19847 the 19847_20017 &+s +//.
+%mor:	coord|and det:art|the n|mother aux|be&3S part|dry-PRESP det:art|the
+	n|dish-PL conj|but pro:sub|she mod|do&3S~neg|not v|see det:art|the
+	n|water part|flow-PRESP prep|over det:art|the +//.
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ
+	8|12|LINK 9|12|SUBJ 10|12|AUX 11|10|NEG 12|5|PUNCT 13|14|DET
+	14|12|OBJ 15|14|XMOD 16|15|JCT 17|18|DET 18|16|POBJ
+*PAR:	obviously she is just spaced out somewhere (be)cause she doesn't
+	know that the boy's getting the cookies and she doesn't know the
+	water's overflowing in the sink an(d) even she's standing in it . 20034_29214
+%wor:	obviously 20034_20604 she 20604_20774 is 20774_21154 just 21154_21594 spaced 21594_22054 out 22054_22374 somewhere 22374_22784 (be)cause 22784_23014 she 23014_23074 doesn't 23074_23864  know 23864_24144 that 24144_24324 the 24324_24434 boy's 24434_24674 getting 24674_25094 the 25094_25104 cookies 25104_25464 and 25464_25644 she 25644_25664 doesn't 25664_26004 know 26004_26124 the 26124_26184  water's 26184_26584 overflowing 26584_27084 in 27084_27184 the 27184_27214 sink 27214_27494 an(d) 27494_27584 even 27584_27804 she's 27804_27984 standing 27984_28404 in 28404_28614 it 28864_29214 .
+%mor:	adv|obvious&dadj-LY pro:sub|she aux|be&3S adv|just part|space-PASTP
+	adv|out adv|somewhere conj|because pro:sub|she mod|do&3S~neg|not
+	v|know comp|that det:art|the n|boy~aux|be&3S part|get-PRESP
+	det:art|the n|cookie-PL coord|and pro:sub|she mod|do&3S~neg|not
+	v|know det:art|the n|water~aux|be&3S over#part|flow-PRESP prep|in
+	det:art|the n|sink coord|and adv|even pro:sub|she~aux|be&3S
+	part|stand-PRESP prep|in pro:per|it .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|5|JCT 8|12|LINK
+	9|12|SUBJ 10|12|AUX 11|10|NEG 12|5|CJCT 13|17|LINK 14|15|DET
+	15|17|SUBJ 16|17|AUX 17|12|COMP 18|19|DET 19|17|OBJ 20|24|LINK
+	21|24|SUBJ 22|24|AUX 23|22|NEG 24|5|CJCT 25|26|DET 26|28|SUBJ
+	27|28|AUX 28|24|OBJ 29|24|JCT 30|31|DET 31|29|POBJ 32|36|LINK
+	33|36|JCT 34|36|SUBJ 35|36|AUX 36|5|CJCT 37|36|JCT 38|37|POBJ
+	39|5|PUNCT
+*PAR:	&=sighs &-um (.) <the &+l little> [/] the little girl <has her> [/]
+	has her hand [//] finger on her mouth so she's &-um telling the
+	little boy to be quiet an(d) not let mother know that we're getting
+	the cookies out_of the cookie jar . 29571_46751
+%wor:	&=sighs &-um 29571_29661 (.) <the 29661_29751 &+l little 29911_30061> [/] the little girl <has her> [/]  has her hand [//] 30061_32541 finger 32541_32691 on 32691_32751 her 32751_35351 mouth 35351_35471 so 35471_35591 she's 35591_35741 &-um 35741_35891 telling 35891_36251 the 36251_36281  little 36281_36801 boy 36801_37051 to 37051_37311 be 37311_37391 quiet 38341_38621 an(d) 38621_39171 not 39171_39231 let 39231_39391 mother 39391_39591 know 39591_39931 that 39931_40221 we're 40221_40281 getting 40281_40651  the 40651_40951 cookies 40981_41531 out_of 42501_46001 the 46001_46101 cookie 46101_46371 jar 46371_46751 .
+%mor:	det:art|the adj|little n|girl aux|have&3S det:poss|her n|finger
+	prep|on det:poss|her n|mouth co|so pro:sub|she~aux|be&3S
+	part|tell-PRESP det:art|the adj|little n|boy inf|to cop|be adj|quiet
+	coord|and neg|not v|let&ZERO n|mother v|know comp|that
+	pro:sub|we~aux|be&PRES part|get-PRESP det:art|the n|cookie-PL
+	prep|out_of det:art|the n|cookie n|jar .
+%gra:	1|3|DET 2|3|MOD 3|6|SUBJ 4|6|AUX 5|6|DET 6|0|INCROOT 7|6|NJCT
+	8|9|DET 9|7|POBJ 10|13|COM 11|13|SUBJ 12|13|AUX 13|6|CJCT 14|16|DET
+	15|16|MOD 16|13|OBJ 17|18|INF 18|16|XMOD 19|18|PRED 20|22|LINK
+	21|22|NEG 22|18|CJCT 23|24|SUBJ 24|22|COMP 25|28|LINK 26|28|SUBJ
+	27|28|AUX 28|24|COMP 29|30|DET 30|28|OBJ 31|28|JCT 32|34|DET
+	33|34|MOD 34|31|POBJ 35|6|PUNCT
+*PAR:	and &-um I'd say mother's in some kind of a depression or something
+	. 49544_54824
+%wor:	and 49544_50064 &-um 50094_50594 I'd 52484_52684 say 52684_52814 mother's 52814_53274 in 53274_53354 some 53354_53534 kind 53534_53724 of 53724_53784 a 53784_53814 depression 53814_54314 or 54314_54374 something 54374_54824  .
+%mor:	coord|and pro:sub|I~mod|genmod v|say n|mother~cop|be&3S prep|in
+	qn|some n|kind prep|of det:art|a n|depression coord|or
+	pro:indef|something .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|JCT
+	8|9|QUANT 9|7|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|6|CONJ
+	14|13|COORD 15|4|PUNCT
+*PAR:	(..) just not with it . [+ gram] 59537_60297
+%wor:	(..) just 59537_59767 not 59767_59967 with 59967_60167 it 60167_60297 . [+ gram]
+%mor:	adv|just neg|not prep|with pro:per|it .
+%gra:	1|2|JCT 2|3|NEG 3|0|INCROOT 4|3|POBJ 5|3|PUNCT
+@End

@@ -1,0 +1,124 @@
+@UTF8
+@PID:	11312/t-00002365-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|50;|male|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	248-0, audio
+@G:	Cookie
+*INV:	just tell me all the action you see going on in the picture . 420_2880
+%wor:	just 420_640 tell 640_790 me 790_920 all 920_1090 the 1090_1200 action 1200_1630 you 1630_1740 see 1740_1950 going 1950_2210 on 2210_2310 in 2310_2500 the 2550_2560 picture 2560_2880 .
+%mor:	adv|just v|tell pro:obj|me adv|all det:art|the n|action pro:per|you
+	co|see part|go-PRESP adv|on prep|in det:art|the n|picture .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|6|JCT 5|6|DET 6|2|OBJ 7|6|OBJ 8|9|COM
+	9|7|COMP 10|9|JCT 11|9|JCT 12|13|DET 13|11|POBJ 14|2|PUNCT
+*PAR:	well my goodness here ! [+ exc] 4971_7921
+%wor:	well 4971_6601 my 6601_6661 goodness 6661_7361 here 7361_7921 ! [+ exc]
+%mor:	co|well co|my co|goodness n|here !
+%gra:	1|4|COM 2|4|COM 3|4|COM 4|0|INCROOT 5|4|PUNCT
+*PAR:	little boy's about to fall off a chair [: stool] [* s:r] while he's
+	reachin(g) for some cookies . [+ gram] 9088_13038
+%wor:	little 9088_9288 boy's 9288_9698 about 9698_10008 to 10008_10048 fall 10048_10568 off 10568_10768 a 10768_10798 chair [: stool] [* s:r] 10798_11258 while 11258_11518 he's 11518_11678  reachin(g) 11678_11978 for 11978_12198 some 12198_12438 cookies 12468_13038 . [+ gram]
+%mor:	adj|little n|boy~cop|be&3S adv|about prep|to n|fall prep|off
+	det:art|a n|stool conj|while pro:sub|he~aux|be&3S part|reach-PRESP
+	prep|for qn|some n|cookie-PL .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|JCT 8|9|DET
+	9|7|POBJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|3|CJCT 14|13|JCT
+	15|16|QUANT 16|14|POBJ 17|3|PUNCT
+*PAR:	and he's handing some cookies to his sister apparently . 13272_16192
+%wor:	and 13272_13472 he's 13472_13632 handing 13662_13942 some 13942_14132 cookies 14172_14542 to 14542_14682 his 14682_15032 sister 15032_15542 apparently 15732_16192 .
+%mor:	coord|and pro:sub|he~aux|be&3S part|hand-PRESP qn|some n|cookie-PL
+	prep|to det:poss|his n|sister adv|apparent&dadj-LY .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|6|NJCT
+	8|9|DET 9|7|POBJ 10|4|JCT 11|4|PUNCT
+*PAR:	and the mother &+o is over here . 18043_21013
+%wor:	and 18043_18403 the 19283_19393 mother 19443_19873 &+o is 19873_20233 over 20233_20373 here 20373_21013 .
+%mor:	coord|and det:art|the n|mother cop|be&3S prep|over n|here .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	probably the mother . [+ gram] 21473_22123
+%wor:	probably 21473_21813 the 21963_21973 mother 21973_22123 . [+ gram]
+%mor:	adv|probable&dadj-LY det:art|the n|mother .
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	wiping a plate . [+ gram] 23705_24805
+%wor:	wiping 23705_24295 a 24385_24415 plate 24415_24805 . [+ gram]
+%mor:	part|wipe-PRESP det:art|a n|plate .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	filling dishes . [+ gram] 26072_27062
+%wor:	filling 26072_26392 dishes 26422_27062 . [+ gram]
+%mor:	part|fill-PRESP n|dish-PL .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	and meanwhile the water's overflowing out_of the sink and dropping
+	on the floor . 27445_31185
+%wor:	and 27445_27625 meanwhile 27625_27945 the 27945_27955 water's 27955_28425 overflowing 28425_29085 out_of 29085_29535 the 29535_29595 sink 29595_29965 and 29965_30205 dropping 30205_30635  on 30675_30755 the 30755_30825 floor 30825_31185 .
+%mor:	coord|and adv:tem|meanwhile det:art|the n|water~aux|be&3S
+	over#part|flow-PRESP prep|out_of det:art|the n|sink coord|and
+	part|drop-PRESP prep|on det:art|the n|floor .
+%gra:	1|6|LINK 2|6|LINK 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|CONJ 11|10|COORD 12|11|JCT 13|14|DET 14|12|POBJ
+	15|6|PUNCT
+*PAR:	and she's standing in water . 31329_32399
+%wor:	and 31329_31359 she's 31359_31479 standing 31479_31719 in 31719_32109 water 32159_32399 .
+%mor:	coord|and pro:sub|she~aux|be&3S part|stand-PRESP prep|in n|water .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	which doesn't make sense „ does it ? [+ exc] [+ gram] 33257_34517
+%wor:	which 33257_33407 doesn't 33407_33607 make 33837_33987 sense 33987_34297 „ does 34297_34447 it 34447_34517 ? [+ exc] [+ gram]
+%mor:	pro:int|which mod|do&3S~neg|not v|make n|sense end|end mod|do&3S
+	pro:per|it ?
+%gra:	1|4|LINK 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|8|ENDP 7|8|AUX 8|4|END
+	9|4|PUNCT
+*INV:	&=laughs .
+%wor:	&=laughs .
+*PAR:	I don't see any birds on the windowsills . 37197_39257
+%wor:	I 37197_37207 don't 37207_37497 see 37497_37677 any 37677_37787 birds 37787_38287 on 38287_38527 the 38527_38547 windowsills 38547_39257 .
+%mor:	pro:sub|I mod|do~neg|not v|see qn|any n|bird-PL prep|on det:art|the
+	n|+n|window+n|sill-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*PAR:	no action outside . [+ exc] 42196_43466
+%wor:	no 42196_42276 action 42446_42886 outside 42886_43466 . [+ exc]
+%mor:	qn|no n|action adv|+prep|out+n|side .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|2|PUNCT
+*PAR:	so ‡ that looks like that's about all the action . [+ exc] 43666_45266
+%wor:	so 43666_43706 ‡ that 43706_43836 looks 43836_44026 like 44026_44236 that's 44236_44426 about 44426_44566 all 44566_44636 the 44636_44646 action 44646_45266 . [+ exc]
+%mor:	co|so beg|beg pro:dem|that v|look-3S prep|like
+	pro:rel|that~cop|be&3S prep|about qn|all det:art|the n|action .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|LINK 7|5|POBJ
+	8|7|JCT 9|11|QUANT 10|11|DET 11|8|POBJ 12|4|PUNCT
+*PAR:	girl's reaching up for a cookie . [+ gram] 50381_51841
+%wor:	girl's 50381_50651 reaching 50651_51011 up 51041_51181 for 51181_51281 a 51281_51311 cookie 51531_51841 . [+ gram]
+%mor:	n|girl~aux|be&3S part|reach-PRESP adv|up prep|for det:art|a
+	n|cookie .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ
+	8|3|PUNCT
+*PAR:	she's got her finger up her nose or to [//] touching her nose for
+	some reason . 52985_56425
+%wor:	she's 52985_53105 got 53105_53325 her 53325_53385 finger 53385_53795 up 53795_53835 her 53835_53875 nose 53875_53965 or 53965_54075 to [//] 54425_54485 touching 55045_55305 her 55375_55425 nose 55425_55525 for 55525_55625  some 56015_56145 reason 56175_56425 .
+%mor:	pro:sub|she~aux|be&3S part|get&PASTP det:poss|her n|finger adv|up
+	det:poss|her n|nose coord|or part|touch-PRESP det:poss|her n|nose
+	prep|for qn|some n|reason .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|CONJ 10|9|COORD 11|12|DET 12|10|OBJ 13|12|NJCT 14|15|QUANT
+	15|13|POBJ 16|3|PUNCT
+*PAR:	can't tell if the grass is growing „ sorry . [+ exc] 67233_68993
+%wor:	can't 67233_67523 tell 67523_67763 if 67763_67833 the 67833_67893 grass 67893_68303 is 68303_68393 growing 68393_68693 „ sorry 68873_68993 . [+ exc]
+%mor:	mod|can~neg|not v|tell comp|if det:art|the n|grass aux|be&3S
+	part|grow-PRESP end|end co|sorry .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|8|LINK 5|6|DET 6|8|SUBJ 7|8|AUX 8|3|COMP
+	9|10|ENDP 10|3|END 11|3|PUNCT
+*INV:	&=laughs oh ‡ come_on can't you see it growing &=laughs ? 70366_72596
+%wor:	&=laughs oh 70366_70716 ‡ come_on 70746_71216 can't 71216_71456 you 71456_71616 see 71616_71956 it 72286_72406 growing 72406_72596 &=laughs ?
+%mor:	co|oh beg|beg co|come_on mod|can~neg|not pro:per|you v|see
+	pro:per|it part|grow-PRESP ?
+%gra:	1|0|BEG 2|1|BEGP 3|7|COM 4|7|AUX 5|4|NEG 6|7|SUBJ 7|0|ROOT 8|9|SUBJ
+	9|7|COMP 10|7|PUNCT
+*PAR:	+< no [/] no . [+ exc] 72409_72669
+%wor:	+< no [/] 72409_72569 no 72569_72669 . [+ exc]
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay good . 73973_75083
+%wor:	okay 73973_74653 good 74823_75083 .
+%mor:	co|okay adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

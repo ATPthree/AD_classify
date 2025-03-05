@@ -1,0 +1,132 @@
+@UTF8
+@PID:	11312/t-00002732-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|77;|male|PossibleAD||Participant|25||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	711-0, audio
+@G:	Cookie
+*INV:	I want you to take a look at this picture here and tell me
+	everything that you see happening in that picture . 300_6180
+%wor:	I 300_460 want 460_690 you 690_790 to 790_850 take 850_1080 a 1080_1120 look 1120_1350 at 1350_1500 this 1500_1670 picture 1670_2110 here 2110_2460 and 2900_3100 tell 3100_3370 me 3370_3700  everything 3910_4410 that 4410_4570 you 4570_4660 see 4660_4930 happening 4930_5450 in 5450_5600 that 5600_5800 picture 5800_6180 .
+%mor:	pro:sub|I v|want pro:per|you inf|to v|take det:art|a v|look prep|at
+	det:dem|this n|picture adv|here coord|and v|tell pro:obj|me
+	pro:indef|everything pro:rel|that pro:per|you v|see
+	part|happen-PRESP prep|in det:dem|that n|picture .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|INF 5|2|COMP 6|7|DET 7|5|OBJ 8|7|JCT
+	9|10|DET 10|8|POBJ 11|7|JCT 12|7|CONJ 13|12|COORD 14|13|OBJ2
+	15|13|OBJ 16|18|LINK 17|18|SUBJ 18|15|CMOD 19|18|COMP 20|19|JCT
+	21|22|DET 22|20|POBJ 23|2|PUNCT
+*PAR:	oh ‡ you want me to tell you . [+ exc] 6440_7440
+%wor:	oh 6440_6600 ‡ you 6600_6660 want 6660_6950 me 6950_7070 to 7070_7130 tell 7130_7350 you 7350_7440 . [+ exc]
+%mor:	co|oh beg|beg pro:per|you v|want pro:obj|me inf|to v|tell
+	pro:per|you .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|INF 7|4|COMP 8|7|OBJ
+	9|4|PUNCT
+*INV:	+< yeah ‡ just tell me everything that you see going on in that
+	picture . 7031_10341
+%wor:	+< yeah 7031_7121 ‡ just 7121_7461 tell 7461_7711 me 7711_8021 everything 8191_8601 that 8601_8761 you 8761_8821 see 8821_8991 going 8991_9421 on 9421_9641 in 9641_9841 that 9841_10031  picture 10031_10341 .
+%mor:	co|yeah beg|beg adv|just v|tell pro:obj|me pro:indef|everything
+	pro:rel|that pro:per|you v|see part|go-PRESP adv|on prep|in
+	det:dem|that n|picture .
+%gra:	1|0|BEG 2|1|BEGP 3|4|JCT 4|0|ROOT 5|4|OBJ2 6|4|OBJ 7|9|LINK
+	8|9|SUBJ 9|6|CMOD 10|9|COMP 11|10|JCT 12|10|JCT 13|14|DET 14|12|POBJ
+	15|4|PUNCT
+*PAR:	the mother and her two children . [+ gram] 10776_12656
+%wor:	the 10776_11146 mother 11146_11476 and 11476_11566 her 11566_11696 two 11696_12026 children 12026_12656 . [+ gram]
+%mor:	det:art|the n|mother coord|and det:poss|her det:num|two n|child&PL
+	.
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|6|DET 5|6|QUANT 6|3|COORD 7|2|PUNCT
+*PAR:	and the children are getting in the cookie jar . 12738_15758
+%wor:	and 12738_12828 the 12828_13628 children 13628_14158 are 14158_14268 getting 14268_14448 in 14448_14608 the 14608_14758 cookie 14758_15208 jar 15208_15758 .
+%mor:	coord|and det:art|the n|child&PL aux|be&PRES part|get-PRESP prep|in
+	det:art|the n|cookie n|jar .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|5|PUNCT
+*PAR:	and she's doing the dishes and spilling the water . 15777_18357
+%wor:	and 15777_15897 she's 15897_16217 doing 16217_16677 the 16677_16687 dishes 16687_17177 and 17177_17287 spilling 17287_17697 the 17697_17717 water 17717_18357 .
+%mor:	coord|and pro:sub|she~aux|be&3S part|do-PRESP det:art|the n|dish-PL
+	coord|and part|spill-PRESP det:art|the n|water .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|CONJ
+	8|7|COORD 9|10|DET 10|8|OBJ 11|4|PUNCT
+*PAR:	and she had the spigot on . 18380_19540
+%wor:	and 18380_18540 she 18540_18610 had 18610_18910 the 18910_18920 spigot 18920_19340 on 19340_19540 .
+%mor:	coord|and pro:sub|she v|have&PAST det:art|the n|spigot adv|on .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*PAR:	and she didn't know it perhaps . 19555_21015
+%wor:	and 19555_19665 she 19665_19715 didn't 19715_20085 know 20085_20305 it 20305_20495 perhaps 20495_21015 .
+%mor:	coord|and pro:sub|she mod|do&PAST~neg|not v|know pro:per|it
+	adv|perhaps .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|JCT
+	8|5|PUNCT
+*PAR:	&=coughs pardon me . [+ exc] 23468_23948
+%wor:	&=coughs pardon 23468_23918 me 23918_23948 . [+ exc]
+%mor:	v|pardon pro:obj|me .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	and they're looking out into the garden from the kitchen window . 25452_28682
+%wor:	and 25452_25552 they're 25552_25642 looking 25642_26022 out 26022_26172 into 26172_26552 the 26552_26592 garden 26592_26972 from 26972_27392 the 27392_27432 kitchen 27432_27922 window 28242_28682 .
+%mor:	coord|and pro:sub|they~aux|be&PRES part|look-PRESP adv|out
+	prep|into det:art|the n|garden prep|from det:art|the n|kitchen
+	n|window .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|4|PUNCT
+*PAR:	it's open . 28700_29390
+%wor:	it's 28700_28890 open 28890_29390 .
+%mor:	pro:per|it~cop|be&3S adj|open .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	and the &-uh cookies must be pretty good they're eating . 29407_34157
+%wor:	and 29407_30027 the 30027_32297 &-uh 32327_32337 cookies 32337_32677 must 32677_32937 be 32937_33017 pretty 33017_33377 good 33377_33617 they're 33617_33787 eating 33787_34157 .
+%mor:	coord|and det:art|the n|cookie-PL mod|must cop|be adv|pretty
+	adj|good pro:sub|they~aux|be&PRES part|eat-PRESP .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PRED
+	8|10|SUBJ 9|10|AUX 10|7|CMOD 11|5|PUNCT
+*PAR:	<the tair [: chair] [* p:w-ret]> [//] &-uh the chair [: stool]
+	[* s:r] is &+t &-uh tilting and he's gonna fall off . 34979_38629
+%wor:	<the 34979_35209 tair [: chair] [* p:w-ret]> [//] 35209_35819 &-uh 35819_35839 the 35839_35859 chair [: stool]  [* s:r] 35859_36179 is 36179_36649 &+t &-uh 36679_36899 tilting 36899_37429 and 37429_37549 he's 37549_37719 gonna 37719_37959 fall 37959_38369 off 38369_38629 .
+%mor:	det:art|the n|stool aux|be&3S part|tilt-PRESP coord|and
+	pro:sub|he~aux|be&3S part|go&PRESP~inf|to v|fall adv|off .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|4|CJCT 9|10|INF 10|8|COMP 11|10|JCT 12|4|PUNCT
+*PAR:	and &-uh <the lady> [//] the mother's splashing her shoes and
+	stockings all up overflowing the water . 39992_46582
+%wor:	and 39992_40422 &-uh 40422_40432 <the 40432_40492 lady 40492_41272> [//] the mother's splashing her shoes and  stockings all up overflowing the water . 41272_46582
+%mor:	coord|and det:art|the n|mother~aux|be&3S part|splash-PRESP
+	det:poss|her n|shoe-PL coord|and n:gerund|stock-GERUND-PL adv|all
+	adv|up over#part|flow-PRESP det:art|the n|water .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|CONJ
+	9|8|COORD 10|9|JCT 11|9|JCT 12|9|JCT 13|14|DET 14|12|OBJ 15|5|PUNCT
+*PAR:	and there's &-um &-uh a window and curtains on the window . 47868_53838
+%wor:	and 47868_48118 there's 48118_48418 &-um 48418_48988 &-uh 49528_49568 a 50798_51468 window 51718_52388 and 52388_52578 curtains 52578_53038 on 53038_53288 the 53288_53308 window 53308_53838 .
+%mor:	coord|and pro:exist|there~cop|be&3S det:art|a n|window coord|and
+	n|curtain-PL prep|on det:art|the n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|CONJ 7|6|COORD
+	8|5|NJCT 9|10|DET 10|8|POBJ 11|3|PUNCT
+*PAR:	and I can see some trees outside there . 53855_56105
+%wor:	and 53855_53975 I 53975_54035 can 54035_54175 see 54175_54405 some 54405_54665 trees 54665_55145 outside 55145_55845 there 55845_56105 .
+%mor:	coord|and pro:sub|I mod|can v|see qn|some n|tree-PL prep|outside
+	n|there .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|6|NJCT
+	8|7|POBJ 9|4|PUNCT
+*PAR:	and [/] and there's dishes that &+h had been washed . 57755_58335
+%wor:	and [/] 57755_58335 and there's dishes that &+h had been washed .
+%mor:	coord|and pro:exist|there~cop|be&3S n|dish-PL pro:rel|that
+	aux|have&PAST aux|be&PASTP part|wash-PASTP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|8|LINK 6|8|AUX 7|8|AUX
+	8|4|CMOD 9|3|PUNCT
+*PAR:	and she's dryin(g) them . 58335_61585
+%wor:	and she's 58335_58635 dryin(g) 58635_60575 them 60575_61585 .
+%mor:	coord|and pro:sub|she~aux|be&3S part|dry-PRESP pro:obj|them .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and there's some shrub out there and +... 62110_63300
+%wor:	and there's some 62110_62300 shrub 62300_62700 out 62700_62910 there 62910_63300 and +...
+%mor:	coord|and pro:exist|there~cop|be&3S qn|some n|shrub prep|out
+	n|there coord|and +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|5|NJCT 7|6|POBJ
+	8|3|CONJ 9|3|PUNCT
+*INV:	okay very good . 65087_67258
+%wor:	okay 65088_65438 very 66638_66878 good 66878_67258 .
+%mor:	co|okay adv|very adj|good .
+%gra:	1|3|COM 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+@End

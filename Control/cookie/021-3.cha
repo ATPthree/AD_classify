@@ -1,0 +1,80 @@
+@UTF8
+@PID:	11312/t-00002198-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|76;00.|female|Control||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	021-3, audio
+@Comment:	age is educated estimate, extrapolated from incomplete
+	demographic data
+@G:	Cookie
+*PAR:	alright ? [+ exc] 2940_3230
+%wor:	alright 2940_3230 ? [+ exc]
+%mor:	co|alright ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 3292_3472
+%wor:	mhm 3292_3472 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	mother's doing the dishes . 3647_4927
+%wor:	mother's 3647_4017 doing 4017_4297 the 4297_4377 dishes 4377_4927 .
+%mor:	n|mother~aux|be&3S part|do-PRESP det:art|the n|dish-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	the sink is overflowing . 4975_6515
+%wor:	the 4975_5055 sink 5055_5425 is 5425_5595 overflowing 5595_6515 .
+%mor:	det:art|the n|sink aux|be&3S over#part|flow-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	the &-uh &-uh stool is falling . 7014_9514
+%wor:	the 7014_7604 &-uh 7604_7784 &-uh 8054_8214 stool 8214_8704 is 8704_8904 falling 8904_9514 .
+%mor:	det:art|the n|stool aux|be&3S part|fall-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	the boy is going for the cookies . 9534_11074
+%wor:	the 9534_9744 boy 9744_9924 is 9924_10054 going 10054_10284 for 10284_10404 the 10404_10554 cookies 10554_11074 .
+%mor:	det:art|the n|boy aux|be&3S part|go-PRESP prep|for det:art|the
+	n|cookie-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	she's reaching out for him . 11097_12727
+%wor:	she's 11097_11447 reaching 11447_11907 out 11907_12127 for 12127_12327 him 12327_12727 .
+%mor:	pro:sub|she~aux|be&3S part|reach-PRESP adv|out prep|for pro:obj|him
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*PAR:	&-um the mother's looking out the window . 13398_16708
+%wor:	&-um 13398_14118 the 14288_14648 mother's 14648_15088 looking 15088_15408 out 15408_15618 the 15618_15638 window 15638_16708 .
+%mor:	det:art|the n|mother~aux|be&3S part|look-PRESP prep|out det:art|the
+	n|window .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	sink is overflowing . [+ gram] 17591_18251
+%wor:	sink 17591_17711 is 17711_17771 overflowing 17931_18251 . [+ gram]
+%mor:	n|sink aux|be&3S over#part|flow-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	&-uh let's see . [+ exc] 19037_19527
+%wor:	&-uh 19037_19117 let's 19117_19327 see 19437_19527 . [+ exc]
+%mor:	v|let~pro:obj|us v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+*PAR:	they use the sink . 19840_20780
+%wor:	they 19840_19910 use 19960_20130 the 20170_20220 sink 20220_20780 .
+%mor:	pro:sub|they v|use det:art|the n|sink .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	the boy reaching down to give her the cookie . [+ gram] 21850_24920
+%wor:	the 21850_22000 boy 22000_22390 reaching 22910_23430 down 23430_23720 to 23720_23780 give 23780_24000 her 24000_24090 the 24090_24250 cookie 24250_24920 . [+ gram]
+%mor:	det:art|the n|boy part|reach-PRESP adv|down inf|to v|give
+	pro:obj|her det:art|the n|cookie .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|3|JCT 5|6|INF 6|3|XJCT 7|6|OBJ2
+	8|9|DET 9|6|OBJ 10|2|PUNCT
+*PAR:	I think that's it . [+ exc] 26445_27215
+%wor:	I 26445_26495 think 26495_26765 that's 26765_26995 it 26995_27215 . [+ exc]
+%mor:	pro:sub|I v|think pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|PRED 6|2|PUNCT
+*INV:	okay . 27960_28210
+%wor:	okay 27960_28210 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(.) okay . 32150_32460
+%wor:	(.) okay 32150_32460 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,82 @@
+@UTF8
+@PID:	11312/t-00002267-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|66;00.|female|Control||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	114-4, audio
+@Comment:	age is educated estimate, extrapolated from incomplete
+	demographic data
+@G:	Cookie
+*INV:	xxx .
+%wor:	xxx .
+*PAR:	everything that you see ? [+ exc] 1869_3309
+%wor:	everything 1869_2539 that 2539_2749 you 2749_2819 see 2819_3309 ? [+ exc]
+%mor:	pro:indef|everything pro:rel|that pro:per|you v|see ?
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CMOD 5|1|PUNCT
+*INV:	mhm +/. 3361_4011
+%wor:	mhm 3361_4011 +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+< that I see them +/? [+ exc] [+ gram] 3733_4683
+%wor:	+< that 3733_3873 I 3873_4033 see 4033_4443 them 4443_4683 +/? [+ exc] [+ gram]
+%mor:	comp|that pro:sub|I v|see pro:obj|them +/?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	+< see going on in the picture +/. 4241_5811
+%wor:	+< see 4241_4451 going 4451_5011 on 5011_5261 in 5261_5471 the 5471_5481 picture 5481_5811 +/.
+%mor:	v|see part|go-PRESP adv|on prep|in det:art|the n|picture +/.
+%gra:	1|0|ROOT 2|1|COMP 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*PAR:	+< alright . [+ exc] 5820_6280
+%wor:	+< alright 5820_6280 . [+ exc]
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the mother is drying dishes . 6297_8707
+%wor:	the 6297_6397 mother 6397_6827 is 6827_7307 drying 7487_7967 dishes 7967_8707 .
+%mor:	det:art|the n|mother aux|be&3S part|dry-PRESP n|dish-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	the water is running out_of the sink . 9001_12261
+%wor:	the 9001_9181 water 9391_10071 is 10071_10341 running 10341_10671 out_of 10671_11321 the 11321_11361 sink 11361_12261 .
+%mor:	det:art|the n|water aux|be&3S part|run-PRESP prep|out_of
+	det:art|the n|sink .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	the boy is going to fall off the stool . 13276_16155
+%wor:	the 13276_13456 boy 13456_13936 is 13936_14206 going 14206_14446 to 14446_14536 fall 14536_14926 off 14926_15176 the 15176_15296 stool 15296_16156 .
+%mor:	det:art|the n|boy aux|be&3S part|go-PRESP prep|to n|fall prep|off
+	det:art|the n|stool .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*PAR:	he's getting cookies . 16501_17811
+%wor:	he's 16501_16701 getting 16701_17061 cookies 17061_17811 .
+%mor:	pro:sub|he~aux|be&3S part|get-PRESP n|cookie-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and the girl is waiting for a cookie from his [: her] [* s:r]
+	brother . 19037_23147
+%wor:	and 19037_19487 the 20037_20117 girl 20117_20487 is 20487_20737 waiting 20737_21197 for 21197_21427 a 21427_21527 cookie 21527_21937 from 21937_22307 his [: her] [* s:r]  brother . 22307_23147
+%mor:	coord|and det:art|the n|girl aux|be&3S part|wait-PRESP prep|for
+	det:art|a n|cookie prep|from det:poss|her n|brother .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|5|PUNCT
+*PAR:	is there more ? [+ exc] 25794_26684
+%wor:	is 25794_25974 there 25974_26104 more 26104_26684 ? [+ exc]
+%mor:	cop|be&3S adv|there adv|more ?
+%gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|1|PUNCT
+*INV:	you just tell me when you think you've got it all . 28787_30647
+%wor:	you 28787_28917 just 28917_29167 tell 29167_29357 me 29357_29537 when 29537_29657 you 29657_29727 think 29727_30007 you've 30007_30167 got 30167_30347 it 30347_30467 all 30467_30647 .
+%mor:	pro:per|you adv|just v|tell pro:obj|me conj|when pro:per|you
+	v|think pro:per|you~aux|have part|get&PASTP pro:per|it adv|all .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|3|CJCT
+	8|10|SUBJ 9|10|AUX 10|7|COMP 11|10|OBJ 12|10|JCT 13|3|PUNCT
+*PAR:	+< &-hm (.) <I don't> [/] I don't see any other action there .
+	[+ exc] 30447_34657
+%wor:	+< &-hm 30447_31427 (.) <I 32477_32537 don't 32537_32757> [/] I don't see any other action there .  [+ exc] 32757_34657
+%mor:	pro:sub|I mod|do~neg|not v|see qn|any qn|other n|action adv|there .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|QUANT 6|7|QUANT 7|4|OBJ
+	8|4|JCT 9|4|PUNCT
+*INV:	okay that's fine . 35079_36229
+%wor:	okay 35079_35439 that's 35609_35909 fine 35909_36229 .
+%mor:	co|okay pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

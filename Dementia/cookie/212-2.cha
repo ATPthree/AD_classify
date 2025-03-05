@@ -1,0 +1,161 @@
+@UTF8
+@PID:	11312/t-00002553-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|85;|male|ProbableAD||Participant|25||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	212-2, audio
+@G:	Cookie
+*INV:	I want you to tell me everything that you see going on in this
+	picture . 30_4670
+%wor:	I 30_60 want 60_440 you 440_570 to 570_630 tell 630_790 me 790_1070 everything 1100_1960 that 2490_2760 you 2760_2900 see 2900_3170 going 3170_3550 on 3550_3730 in 3730_3810 this 3810_4200  picture 4200_4670 .
+%mor:	pro:sub|I v|want pro:per|you inf|to v|tell pro:obj|me
+	pro:indef|everything pro:rel|that pro:per|you v|see part|go-PRESP
+	adv|on prep|in det:dem|this n|picture .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|INF 5|2|COMP 6|5|OBJ 7|5|OBJ
+	8|10|LINK 9|10|SUBJ 10|7|CMOD 11|10|COMP 12|11|JCT 13|11|JCT
+	14|15|DET 15|13|POBJ 16|2|PUNCT
+*INV:	everything that you see happening there . 4903_6803
+%wor:	everything 4903_5463 that 5463_5623 you 5623_5723 see 5723_6023 happening 6023_6563 there 6563_6803 .
+%mor:	pro:indef|everything pro:rel|that pro:per|you v|see
+	part|happen-PRESP n|there .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CMOD 5|4|COMP 6|5|OBJ 7|1|PUNCT
+*PAR:	yeah, alright . [+ exc] 6962_7822
+%wor:	yeah, 6962_7102 alright 7102_7822 . [+ exc]
+%mor:	co|yeah cm|cm adj|alright .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+*PAR:	the girl is reaching up for a cookie . 9056_10976
+%wor:	the 9056_9136 girl 9136_9626 is 9626_9666 reaching 9666_9906 up 9906_10126 for 10126_10296 a 10296_10386 cookie 10386_10976 .
+%mor:	det:art|the n|girl aux|be&3S part|reach-PRESP adv|up prep|for
+	det:art|a n|cookie .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*PAR:	the youngster's getting the cookie out_of the cupboard . 11876_15136
+%wor:	the 11876_12416 youngster's 12656_13296 getting 13326_13626 the 13626_13746 cookie 13746_14016 out_of 14016_14336 the 14336_14496 cupboard 14496_15136 .
+%mor:	det:art|the n|youngster~aux|be&3S part|get-PRESP det:art|the
+	n|cookie prep|out_of det:art|the n|+n|cup+n|board .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*PAR:	the cookie is in the pan [: jar] [* s:r-rep] &-uh [/] pan [: jar]
+	[* s:r] . 15784_18444
+%wor:	the 15784_15934 cookie 15934_16284 is 16284_16474 in 16474_17464 the 17464_17904 pan [: jar] [* s:r-rep] 17904_18104 &-uh [/] 18104_18114 pan [: jar]  [* s:r] 18114_18444 .
+%mor:	det:art|the n|cookie cop|be&3S prep|in det:art|the n|jar n|jar .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ
+	8|3|PUNCT
+*PAR:	<the &-uh bench [: stool] [* s:r-ret] or> [//] the stool that he's
+	standin(g) on is falling . 18735_24315
+%wor:	<the 18735_19095 &-uh 19095_19385 bench [: stool] [* s:r-ret] 20745_21005 or 21805_21945> [//] the stool that he's  standin(g) on is falling . 21945_24315
+%mor:	det:art|the n|stool comp|that pro:sub|he~aux|be&3S part|stand-PRESP
+	adv|on cop|be&3S part|fall-PRESP .
+%gra:	1|2|DET 2|8|SUBJ 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|CMOD 7|6|JCT
+	8|0|ROOT 9|8|PRED 10|8|PUNCT
+*PAR:	the door to the cookie cupboard is open . 25492_29012
+%wor:	the 25492_25662 door 25662_26092 to 26092_26272 the 26272_26682 cookie 26902_27402 cupboard 28062_28402 is 28402_28562 open 28562_29012 .
+%mor:	det:art|the n|door prep|to det:art|the n|cookie n|+n|cup+n|board
+	cop|be&3S adj|open .
+%gra:	1|2|DET 2|7|SUBJ 3|2|NJCT 4|6|DET 5|6|MOD 6|3|POBJ 7|0|ROOT
+	8|7|PRED 9|7|PUNCT
+*PAR:	the lady is washing dishes . 29033_31353
+%wor:	the 29033_29193 lady 29933_30373 is 30373_30513 washing 30513_30993 dishes 30993_31353 .
+%mor:	det:art|the n|lady aux|be&3S part|wash-PRESP n|dish-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	she has a dish cloth in her hand . 31400_33910
+%wor:	she 31400_31530 has 31530_31950 a 31950_32220 dish 32400_32630 cloth 32630_32960 in 32960_33100 her 33100_33260 hand 33260_33910 .
+%mor:	pro:sub|she v|have&3S det:art|a n|dish n|cloth prep|in det:poss|her
+	n|hand .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*PAR:	the &-uh sink is runnin(g) over . 34770_36580
+%wor:	the 34770_35180 &-uh 35210_35460 sink 35460_35780 is 35780_35920 runnin(g) 35920_36270 over 36270_36580 .
+%mor:	det:art|the n|sink aux|be&3S part|run-PRESP adv|over .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	the spigot is &-um not shut off . 36600_39960
+%wor:	the 36600_36710 spigot 36710_37400 is 38150_38500 &-um 38500_38880 not 38980_39200 shut 39200_39470 off 39470_39960 .
+%mor:	det:art|the n|spigot aux|be&3S neg|not part|shut&PASTP prep|off .
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	there's two handles and neither one is shut off . 40171_43211
+%wor:	there's 40171_40331 two 40331_40631 handles 40631_41081 and 41751_41881 neither 41881_42111 one 42111_42331 is 42331_42431 shut 42431_42691 off 42691_43211 .
+%mor:	pro:exist|there~cop|be&3S det:num|two n|handle-PL coord|and
+	qn|neither pro:indef|one aux|be&3S part|shut&PASTP prep|off .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|9|LINK 6|7|QUANT 7|9|SUBJ
+	8|9|AUX 9|2|CJCT 10|9|JCT 11|2|PUNCT
+*PAR:	there's [//] &-um and it's fallin(g) on the floor . 43695_46485
+%wor:	there's [//] 43695_44055 &-um 44055_44515 and 44665_44815 it's 44815_45035 fallin(g) 45035_45675 on 45675_45895 the 45895_45935 floor 45935_46485 .
+%mor:	coord|and pro:per|it~aux|be&3S part|fall-PRESP prep|on det:art|the
+	n|floor .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	the [//] there's two cups and a dish <on the table [: countertop]
+	[* s:r-ret]> [//] on the &-uh top [: countertop] [* s:r-ret] [//]
+	cabinettops [: countertops] [* s:r] . 47703_57183
+%wor:	the [//] 47703_48053 there's 48053_48453 two 48453_48743 cups 48743_49183 and 50423_50583 a 50583_50653 dish 50653_51023 <on 51023_51503 the 51503_51513 table [: countertop]  [* s:r-ret]> [//] 52373_52783 on 52783_53653 the 53653_53763 &-uh 54053_54063 top [: countertop] [* s:r-ret] [//]  cabinettops [: countertops] [* s:r] 54063_57183 .
+%mor:	pro:exist|there~cop|be&3S det:num|two n|cup-PL coord|and det:art|a
+	n|dish prep|on det:art|the n|+n|counter+n|top-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|CONJ 6|7|DET 7|5|COORD
+	8|7|NJCT 9|10|DET 10|8|POBJ 11|2|PUNCT
+*PAR:	there's curtains . 60839_61799
+%wor:	there's 60839_61009 curtains 61009_61799 .
+%mor:	pro:exist|there~cop|be&3S n|curtain-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	there's &-uh two windows . 62456_64635
+%wor:	there's 62456_62786 &-uh 62786_63116 two 63116_63716 windows 63716_64636 .
+%mor:	pro:exist|there~cop|be&3S det:num|two n|window-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+*PAR:	at least there's a window with two &-uh panes showing, partial the
+	others . 65685_71175
+%wor:	at 65685_65795 least 65795_66005 there's 66125_66465 a 66465_66545 window 66545_66995 with 66995_67185 two 67185_67865 &-uh 68535_68545 panes 68545_68985 showing, 68985_69755 partial 69785_70375 the 70635_70745  others 70745_71175 .
+%mor:	prep|at n|least pro:exist|there~cop|be&3S det:art|a n|window
+	prep|with det:num|two n|pane-PL part|show-PRESP cm|cm adj|partial
+	det:art|the n:pt|others .
+%gra:	1|4|JCT 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|6|NJCT
+	8|9|QUANT 9|7|POBJ 10|6|XMOD 11|10|LP 12|10|JCT 13|14|DET 14|12|OBJ
+	15|4|PUNCT
+*PAR:	and it looks like a scenery outside like a [/] a walk and some
+	bushes and things . 71804_77774
+%wor:	and 71804_71994 it 71994_72054 looks 72054_72294 like 72294_72514 a 72514_72584 scenery 72584_73124 outside 73124_73774 like 73774_74034 a [/] 74034_74374 a 74524_74614 walk 74614_75264 and 75824_76044 some 76044_76534  bushes 76614_77074 and 77074_77294 things 77294_77774 .
+%mor:	coord|and pro:per|it v|look-3S prep|like det:art|a n|scenery
+	adv|+prep|out+n|side prep|like det:art|a n|walk coord|and qn|some
+	n|bush-PL coord|and n|thing-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|3|JCT
+	9|10|DET 10|8|POBJ 11|3|CONJ 12|13|QUANT 13|11|COORD 14|13|CONJ
+	15|14|COORD 16|3|PUNCT
+*PAR:	and some bushes in front of the [//] (.) some kind of a building .
+	[+ gram] 78848_83448
+%wor:	and 78848_79048 some 79048_79238 bushes 79238_79608 in 79608_79738 front 79738_80718 of 80718_80798 the [//] 82248_82278 (.) some 82278_82518 kind 82518_82768 of 82768_82858 a 82858_82908 building 82908_83448 .  [+ gram]
+%mor:	coord|and qn|some n|bush-PL prep|in n|front prep|of qn|some n|kind
+	prep|of det:art|a n|building .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|5|NJCT 7|8|QUANT
+	8|6|POBJ 9|8|NJCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*PAR:	she has on an apron, (.) shoes . 85797_88927
+%wor:	she 85797_85947 has 85947_86297 on 86297_86627 an 86627_86787 apron, 86787_87257 (.) shoes 88207_88927 .
+%mor:	pro:sub|she aux|have&3S prep|on det:art|a n|apron cm|cm n|shoe-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|LP 7|5|ENUM
+	8|2|PUNCT
+*PAR:	and <the child> [//] the young girl has shoes and stockings on and
+	the boy has stockings on and shoes . 89397_95247
+%wor:	and 89397_89647 <the 89647_89657 child 89657_90057> [//] the young girl has shoes and stockings on and  the boy has stockings on and shoes . 90057_95247
+%mor:	coord|and det:art|the adj|young n|girl aux|have&3S n|shoe-PL
+	coord|and n:gerund|stock-GERUND-PL adv|on coord|and det:art|the
+	n|boy aux|have&3S n:gerund|stock-GERUND-PL adv|on coord|and
+	n|shoe-PL .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|14|SUBJ 7|6|CONJ
+	8|7|COORD 9|8|JCT 10|6|CONJ 11|12|DET 12|10|COORD 13|14|AUX
+	14|0|ROOT 15|14|JCT 16|14|CONJ 17|16|COORD 18|14|PUNCT
+*PAR:	and &-uh (.) the cabinet has two [/] two three four five doors to
+	it . 96265_105755
+%wor:	and 96265_96825 &-uh 100445_100485 (.) the 100865_101385 cabinet 101525_101955 has 101955_102285 two [/] 102285_102975 two 103515_103725 three 103725_104075 four 104075_104455 five 104455_104895 doors 104895_105265 to 105265_105465 it 105465_105755  .
+%mor:	coord|and det:art|the n|cabinet v|have&3S det:num|two det:num|three
+	det:num|four det:num|five n|door-PL prep|to pro:per|it .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|QUANT 6|7|DATE 7|9|QUANT
+	8|9|QUANT 9|4|OBJ 10|9|NJCT 11|10|POBJ 12|4|PUNCT
+*INV:	okay good . 105950_106850
+%wor:	okay 105950_106400 good 106610_106850 .
+%mor:	co|okay adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*INV:	thanks . 106873_107513
+%wor:	thanks 106873_107513 .
+%mor:	co|thanks .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

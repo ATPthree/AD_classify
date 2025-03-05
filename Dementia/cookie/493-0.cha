@@ -1,0 +1,149 @@
+@UTF8
+@PID:	11312/t-00002665-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|76;|female|ProbableAD||Participant|15||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	493-0, audio
+@G:	Cookie
+*PAR:	<where do you> [/] where do you mean in the picture ? [+ exc] 5990_7240
+%wor:	<where 5990_6080 do 6080_6140 you 6140_6260> [/] where do you mean in the picture ? [+ exc] 6260_7240
+%mor:	pro:int|where mod|do pro:per|you v|mean prep|in det:art|the
+	n|picture ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*INV:	here's the picture . 7865_8615
+%wor:	here's 7865_8175 the 8175_8295 picture 8295_8615 .
+%mor:	pro:exist|here~cop|be&3S det:art|the n|picture .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	tell me everything you see going on in that picture . 8826_11106
+%wor:	tell 8826_8956 me 8956_9076 everything 9076_9466 you 9466_9596 see 9596_9996 going 10156_10456 on 10456_10696 in 10696_10776 that 10776_10986 picture 10986_11106 .
+%mor:	v|tell pro:obj|me pro:indef|everything pro:per|you v|see
+	part|go-PRESP adv|on prep|in det:dem|that n|picture .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|OBJ 4|5|SUBJ 5|1|CJCT 6|5|COMP 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|1|PUNCT
+*PAR:	oh I see . [+ exc] 11201_11931
+%wor:	oh 11201_11421 I 11421_11601 see 11601_11931 . [+ exc]
+%mor:	co|oh pro:sub|I v|see .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	you want me tell you now ? [+ gram] [+ exc] 12302_13262
+%wor:	you 12302_12502 want 12502_12662 me 12662_12802 tell 12802_12972 you 12972_13062 now 13062_13262 ? [+ gram] [+ exc]
+%mor:	pro:per|you v|want pro:obj|me v|tell pro:per|you adv:tem|now ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|COMP 5|6|SUBJ 6|4|JCT 7|2|PUNCT
+*INV:	mhm . 13540_13970
+%wor:	mhm 13540_13970 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	well ‡ the kids are up there at the cookie jar . 14580_16840
+%wor:	well 14580_14820 ‡ the 14820_14930 kids 14930_15270 are 15270_15380 up 15380_15570 there 15570_15680 at 15680_15980 the 15980_16060 cookie 16060_16450 jar 16450_16840 .
+%mor:	co|well beg|beg det:art|the n|kid-PL cop|be&PRES prep|up n|there
+	prep|at det:art|the n|cookie n|jar .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|5|PUNCT
+*PAR:	they're gettin(g) cookies and she's dryin(g) dishes . 17972_20222
+%wor:	they're 17972_18062 gettin(g) 18062_18342 cookies 18342_18812 and 18812_18932 she's 18932_19242 dryin(g) 19242_19702 dishes 19702_20222 .
+%mor:	pro:sub|they~aux|be&PRES part|get-PRESP n|cookie-PL coord|and
+	pro:sub|she~aux|be&3S part|dry-PRESP n|dish-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|3|CJCT 9|8|OBJ 10|3|PUNCT
+*PAR:	and &-uh she's got her curtains all fixed up on the windows . 23108_27768
+%wor:	and 23108_23448 &-uh 24798_24808 she's 24808_25028 got 25028_25238 her 25238_25448 curtains 25648_26108 all 26108_26398 fixed 26738_27048 up 27048_27238 on 27238_27338 the 27338_27358 windows 27358_27768 .
+%mor:	coord|and pro:sub|she~aux|be&3S part|get&PASTP det:poss|her
+	n|curtain-PL adv|all v|fix-PAST adv|up prep|on det:art|the
+	n|window-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|JCT 8|4|CJCT
+	9|8|JCT 10|8|JCT 11|12|DET 12|10|POBJ 13|4|PUNCT
+*PAR:	and the kid is almost upset on that stool . 29896_32305
+%wor:	and 29896_30026 the 30026_30036 kid 30036_30306 is 30306_30516 almost 30516_30986 upset 30986_31476 on 31516_31696 that 31696_31856 stool 31856_32306 .
+%mor:	coord|and det:art|the n|kid cop|be&3S adv|almost adj|upset prep|on
+	det:dem|that n|stool .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*PAR:	I don't know how he could stand like that and get a picture taken .
+	[+ exc] 34845_38525
+%wor:	I 34845_34915 don't 34915_35025 know 35025_35135 how 35135_35325 he 35325_35435 could 35435_35575 stand 35575_36035 like 36035_36305 that 36305_36485 and 36485_36635 get 37405_37525 a 37525_37565 picture 37565_37975 taken 37975_38525 .  [+ exc]
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|how pro:sub|he mod|could
+	v|stand co|like pro:dem|that coord|and v|get det:art|a n|picture
+	part|take&PASTP .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|4|COMP 9|8|COM 10|4|OBJ 11|10|CONJ 12|11|COORD 13|14|DET 14|12|OBJ
+	15|14|XMOD 16|4|PUNCT
+*INV:	okay . 39591_39681
+%wor:	okay 39591_39681 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	she's got an apron on . 40976_41556
+%wor:	she's 40976_41066 got 41066_41166 an 41166_41226 apron 41226_41456 on 41456_41556 .
+%mor:	pro:sub|she~aux|be&3S part|get&PASTP det:art|a n|apron adv|on .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*PAR:	cabinets here . [+ gram] 43633_44423
+%wor:	cabinets 43633_44333 here 44333_44423 . [+ gram]
+%mor:	n|cabinet-PL adv|here .
+%gra:	1|0|INCROOT 2|1|NJCT 3|1|PUNCT
+*INV:	can you see anything else going on here ? 46168_47848
+%wor:	can 46168_46278 you 46278_46398 see 46428_46498 anything 46498_46828 else 46828_47008 going 47008_47388 on 47388_47638 here 47638_47848 ?
+%mor:	mod|can pro:per|you v|see pro:indef|anything post|else
+	part|go-PRESP prep|on n|here ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|PQ 6|4|XMOD 7|6|JCT 8|7|POBJ
+	9|3|PUNCT
+*PAR:	it seemed like there's water &+spl splattered over . 49099_51809
+%wor:	it 49099_49189 seemed 49189_49409 like 49409_49619 there's 49619_49929 water 49929_50709 &+spl splattered 50909_51509 over 51509_51809 .
+%mor:	pro:per|it cop|seem-PAST co|like pro:exist|there~cop|be&3S n|water
+	v|splatter-PAST adv|over .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|5|SUBJ 5|2|PRED 6|7|SUBJ 7|5|CPRED
+	8|7|JCT 9|2|PUNCT
+*PAR:	isn't that out_o(f) the sink ? [+ exc] 51900_53190
+%wor:	isn't 51900_52030 that 52030_52360 out_o(f) 52360_52750 the 52750_52830 sink 52830_53190 ? [+ exc]
+%mor:	cop|be&3S~neg|not pro:dem|that prep|out_of det:art|the n|sink ?
+%gra:	1|0|ROOT 2|1|NEG 3|1|PRED 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*PAR:	&*INV:okay isn't that water ? [+ exc] 53560_54240
+%wor:	&*INV:okay isn't 53560_53730 that 53730_53900 water 53900_54240 ? [+ exc]
+%mor:	cop|be&3S~neg|not pro:dem|that v|water ?
+%gra:	1|0|ROOT 2|1|NEG 3|4|SUBJ 4|1|CPRED 5|1|PUNCT
+*PAR:	and &-uh I see a big plate and couple saucers like . 55476_60496
+%wor:	and 55476_56186 &-uh 56956_56986 I 56986_57066 see 57066_57316 a 57316_57516 big 57626_57956 plate 57956_58406 and 58406_58626 couple 58626_59256 saucers 59776_60326 like 60326_60496 .
+%mor:	coord|and pro:sub|I v|see det:art|a adj|big n|plate coord|and
+	qn|couple n|saucer-PL prep|like .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|CONJ
+	8|9|QUANT 9|7|COORD 10|9|NJCT 11|3|PUNCT
+*PAR:	and I don't know about the curtains . 62895_64275
+%wor:	and 62895_63115 I 63115_63225 don't 63225_63325 know 63325_63405 about 63405_63655 the 63655_63715 curtains 63715_64275 .
+%mor:	coord|and pro:sub|I mod|do~neg|not v|know prep|about det:art|the
+	n|curtain-PL .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	the curtains got different [//] something made there . [+ es] 64908_70128
+%wor:	the 64908_64978 curtains 64978_65448 got 65448_65668 different [//] 67098_67698 something 69328_69698 made 69698_69978 there 69978_70128 . [+ es]
+%mor:	det:art|the n|curtain-PL v|get&PAST pro:indef|something v|make&PAST
+	adv|there .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|3|PUNCT
+*PAR:	she must have one of those double aprons back and front „ is it .
+	[+ gram] 72860_75930
+%wor:	she 72860_72960 must 72960_73230 have 73230_73410 one 73410_73560 of 73560_73680 those 73680_73760 double 73800_74180 aprons 74550_75020 back 75020_75450 and 75450_75630 front 75630_75790 „ is 75790_75850 it 75850_75930 .  [+ gram]
+%mor:	pro:sub|she mod|must v|have det:num|one prep|of pro:dem|those
+	v|double n|apron-PL adv|back coord|and n|front end|end aux|be&3S
+	pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|4|JCT 6|5|POBJ 7|4|ENUM 8|7|OBJ
+	9|3|JCT 10|3|CONJ 11|10|COORD 12|14|ENDP 13|14|AUX 14|3|END
+	15|3|PUNCT
+*PAR:	and the kids are at the cookie jar . 77257_78587
+%wor:	and 77257_77447 the 77447_77457 kids 77457_77757 are 77757_77867 at 77867_78107 the 78107_78117 cookie 78117_78447 jar 78497_78587 .
+%mor:	coord|and det:art|the n|kid-PL cop|be&PRES prep|at det:art|the
+	n|cookie n|jar .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*INV:	okay ? 81753_81993
+%wor:	okay 81753_81993 ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	yeah . [+ exc] 82492_82702
+%wor:	yeah 82492_82702 . [+ exc]
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 83231_83541
+%wor:	okay 83231_83541 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

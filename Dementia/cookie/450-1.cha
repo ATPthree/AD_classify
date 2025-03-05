@@ -1,0 +1,92 @@
+@UTF8
+@PID:	11312/t-00002650-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|75;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	450-1, audio
+@G:	Cookie
+*INV:	look at this picture here . 360_1410
+%wor:	look 360_530 at 530_620 this 620_790 picture 790_1140 here 1140_1410 .
+%mor:	v|look prep|at det:dem|this n|picture adv|here .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|JCT 6|1|PUNCT
+*INV:	I'd like you to look at this picture and tell me everything that
+	you see happening in the picture . 2103_6353
+%wor:	I'd 2103_2183 like 2183_2383 you 2383_2453 to 2453_2523 look 2523_2733 at 2733_2843 this 2843_2983 picture 2983_3483 and 3793_3913 tell 3913_4103 me 4103_4323 everything 4383_4773 that 4773_4873  you 4873_4993 see 4993_5263 happening 5263_5733 in 5733_5833 the 5833_5853 picture 5853_6353 .
+%mor:	pro:sub|I~mod|genmod v|like pro:per|you inf|to v|look prep|at
+	det:dem|this n|picture coord|and v|tell pro:obj|me
+	pro:indef|everything pro:rel|that pro:per|you v|see
+	part|happen-PRESP prep|in det:art|the n|picture .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|SUBJ 5|6|INF 6|3|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|CONJ 11|10|COORD 12|11|OBJ2 13|11|OBJ 14|16|LINK
+	15|16|SUBJ 16|13|CMOD 17|16|COMP 18|17|JCT 19|20|DET 20|18|POBJ
+	21|3|PUNCT
+*PAR:	&-hm . [+ exc] 6733_7063
+%wor:	&-hm 6733_7063 . [+ exc]
+*INV:	everything that you see going on . 11152_12642
+%wor:	everything 11152_11562 that 11562_11672 you 11672_11752 see 11752_11972 going 11972_12332 on 12332_12642 .
+%mor:	pro:indef|everything pro:rel|that pro:per|you v|see part|go-PRESP
+	adv|on .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CMOD 5|4|COMP 6|5|JCT 7|1|PUNCT
+*PAR:	well ‡ a little boy is &-uh stealin(g) &-uh cookies out_of the
+	cookie jar and givin(g) some to his sister . 13538_19768
+%wor:	well 13538_14518 ‡ a 14518_14698 little 14698_14998 boy 14998_15058 is 15088_15678 &-uh 15678_15788 stealin(g) 15788_16478 &-uh 16478_16608 cookies 16608_17078 out_of 17078_17528 the 17528_17548 cookie 17548_17918  jar 17918_18388 and 18388_18548 givin(g) 18548_18838 some 18838_19098 to 19098_19158 his 19158_19308 sister 19308_19768 .
+%mor:	co|well beg|beg det:art|a adj|little n|boy aux|be&3S
+	part|steal-PRESP n|cookie-PL prep|out_of det:art|the n|cookie n|jar
+	coord|and part|give-PRESP pro:indef|some prep|to det:poss|his
+	n|sister .
+%gra:	1|0|BEG 2|1|BEGP 3|5|DET 4|5|MOD 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|OBJ
+	9|7|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|7|CONJ 14|13|COORD
+	15|14|OBJ 16|15|NJCT 17|18|DET 18|16|POBJ 19|7|PUNCT
+*PAR:	and his stool was startin(g) to fall . 20419_22559
+%wor:	and 20419_20729 his 20729_20919 stool 20919_21389 was 21389_21619 startin(g) 21619_22049 to 22049_22109 fall 22109_22559 .
+%mor:	coord|and det:poss|his n|stool aux|be&PAST&13S part|start-PRESP
+	prep|to n|fall .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ
+	8|5|PUNCT
+*PAR:	so ‡ he's gonna fall . 22579_23679
+%wor:	so 22579_22869 ‡ he's 22869_23109 gonna 23109_23389 fall 23389_23679 .
+%mor:	co|so beg|beg pro:sub|he~aux|be&3S part|go&PRESP~inf|to v|fall .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP
+	8|5|PUNCT
+*INV:	mhm . 24816_25236
+%wor:	mhm 24816_25236 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and the &+g lady's &-uh dryin(g) the dishes . 27023_29793
+%wor:	and 27023_27443 the 27443_27523 &+g lady's 27643_28223 &-uh 28223_28233 dryin(g) 28233_28683 the 28683_28823 dishes 28823_29793 .
+%mor:	coord|and det:art|the n|lady~aux|be&3S part|dry-PRESP det:art|the
+	n|dish-PL .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ
+	8|5|PUNCT
+*PAR:	and her sink's &-uh runnin(g) over . 30894_32564
+%wor:	and 30894_31034 her 31034_31124 sink's 31124_31584 &-uh 31584_31664 runnin(g) 31664_32044 over 32044_32564 .
+%mor:	coord|and det:poss|her n|sink~aux|be&3S part|run-PRESP adv|over .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	(su)spect it's runnin(g) and she didn't turn it off . 33421_35821
+%wor:	(su)spect 33421_33801 it's 33801_34031 runnin(g) 34031_34501 and 34501_34881 she 34881_34941 didn't 34941_35311 turn 35311_35561 it 35561_35621 off 35621_35821 .
+%mor:	n|suspect pro:per|it~aux|be&3S part|run-PRESP coord|and pro:sub|she
+	mod|do&PAST~neg|not v|turn pro:per|it adv|off .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|9|LINK 6|9|SUBJ 7|9|AUX
+	8|7|NEG 9|4|CJCT 10|9|OBJ 11|9|JCT 12|4|PUNCT
+*PAR:	and it's runnin(g) over on the floor . [+ gram] 35896_37486
+%wor:	and 35896_35996 it's 35996_36246 runnin(g) 36246_36496 over 36496_36686 on 36686_36906 the 36906_36916 floor 36916_37486 . [+ gram]
+%mor:	coord|and pro:per|it~aux|be&3S part|run-PRESP adv|over prep|on
+	det:art|the n|floor .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*PAR:	&=laughs she's dryin(g) dishes (.) and watchin(g) out the window at
+	the same time . 41690_49850
+%wor:	&=laughs she's 41690_42040 dryin(g) 42040_42520 dishes 42520_43280 (.) and 47220_47460 watchin(g) 47460_47860 out 47860_48120 the 48120_48170 window 48170_48640 at 48640_48740  the 48740_48850 same 48850_49250 time 49250_49850 .
+%mor:	pro:sub|she~aux|be&3S part|dry-PRESP n|dish-PL coord|and
+	part|watch-PRESP prep|out det:art|the n|window prep|at det:art|the
+	adj|same n|time .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|CONJ 6|5|COORD 7|6|JCT
+	8|9|DET 9|7|POBJ 10|6|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|3|PUNCT
+*INV:	(.) okay . 60835_61235
+%wor:	(.) okay 60835_61235 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

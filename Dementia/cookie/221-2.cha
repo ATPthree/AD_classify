@@ -1,0 +1,103 @@
+@UTF8
+@PID:	11312/t-00002566-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|73;00.|male|MCI||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	221-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete
+	demographic data
+@G:	Cookie
+*PAR:	little girl is reaching up for some cookies . 370_3290
+%wor:	little 370_620 girl 620_1020 is 1020_1160 reaching 1160_1600 up 1600_1760 for 1760_2060 some 2060_2430 cookies 2660_3290 .
+%mor:	adj|little n|girl aux|be&3S part|reach-PRESP adv|up prep|for
+	qn|some n|cookie-PL .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|QUANT
+	8|6|POBJ 9|4|PUNCT
+*PAR:	and it appears that she may be telling her brother to be quiet . 3786_8996
+%wor:	and 3786_4716 it 5216_5336 appears 5336_5916 that 5916_6096 she 6096_6216 may 6216_6566 be 6566_6856 telling 6856_7506 her 7506_7606 brother 7606_8066 to 8066_8166 be 8166_8316 quiet 8316_8996 .
+%mor:	coord|and pro:per|it v|appear-3S comp|that pro:sub|she mod|may
+	aux|be part|tell-PRESP det:poss|her n|brother inf|to cop|be
+	adj|quiet .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|8|SUBJ 6|8|AUX 7|8|AUX
+	8|3|COMP 9|10|DET 10|8|OBJ 11|12|INF 12|8|COMP 13|12|PRED 14|3|PUNCT
+*PAR:	they may be &-uh taking them while the mother is abstracted
+	[: distracted] [* s:r] there at the window . 9204_15974
+%wor:	they 9204_9314 may 9314_9514 be 9514_9894 &-uh 10864_11354 taking 11354_11864 them 11864_12094 while 12094_12684 the 12844_12994 mother 12994_13374 is 13374_13924 abstracted  [: distracted] [* s:r] 13924_14684 there 14684_14954 at 14954_15184 the 15184_15214 window 15214_15974 .
+%mor:	pro:sub|they mod|may aux|be part|take-PRESP pro:obj|them conj|while
+	det:art|the n|mother aux|be&3S part|distract-PASTP adv|there prep|at
+	det:art|the n|window .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|OBJ 6|10|LINK 7|8|DET
+	8|10|SUBJ 9|10|AUX 10|4|CJCT 11|10|JCT 12|10|JCT 13|14|DET
+	14|12|POBJ 15|4|PUNCT
+*PAR:	yeah ‡ she is abstracted [: distracted] [* s:r] . 16167_17517
+%wor:	yeah 16167_16327 ‡ she 16327_16497 is 16497_16817 abstracted [: distracted] [* s:r] 16817_17517 .
+%mor:	co|yeah beg|beg pro:sub|she aux|be&3S part|distract-PASTP .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	she doesn't even know the sink &+s is overflowing . 17538_20528
+%wor:	she 17538_17668 doesn't 17668_18098 even 18098_18358 know 18358_18478 the 18478_18638 sink 18768_19248 &+s is 19338_19538 overflowing 19658_20528 .
+%mor:	pro:sub|she mod|do&3S~neg|not v|even v|know det:art|the n|sink
+	aux|be&3S over#part|flow-PRESP .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|COMP 6|7|DET 7|9|SUBJ 8|9|AUX
+	9|5|COMP 10|4|PUNCT
+*PAR:	the boy getting the cookies from the cookie jar in his haste has
+	(.) tipped over the lid of the cookie jar and also has caused the
+	stool to slip over backwards so that he will very shortly be <on the
+	ground> [//] on the floor rather . 21436_48446
+%wor:	the 21436_21726 boy 22166_22456 getting 22456_22886 the 22886_23216 cookies 23926_24606 from 24976_25186 the 25186_25346 cookie 25346_25676 jar 25676_26326 in 26326_26496 his 26496_26886 haste 26886_27396 has 27396_27976  (.) tipped 28986_29386 over 29556_30256 the 30886_31696 lid 32966_33576 of 33576_33956 the 33956_33966 cookie 33966_34296 jar 34296_34916 and 34916_35186 also 35186_35596 has 35596_36886 caused 38176_38656 the 38656_38746  stool 38746_39536 to 39536_40166 slip 42046_42546 over 42546_43016 backwards 43016_43806 so 43896_44036 that 44036_44266 he 44266_44376 will 44376_44576 very 44576_44876 shortly 44876_45346 be 45346_45586 <on 45586_45806 the 45806_45866  ground 45866_46716> [//] on the floor rather . 47336_48446
+%mor:	det:art|the n|boy part|get-PRESP det:art|the n|cookie-PL prep|from
+	det:art|the n|cookie n|jar prep|in det:poss|his n|haste aux|have&3S
+	part|tip-PASTP prep|over det:art|the n|lid prep|of det:art|the
+	n|cookie n|jar coord|and adv|also aux|have&3S part|cause-PASTP
+	det:art|the n|stool inf|to v|slip adv|over adv|backwards adv|so
+	comp|that pro:sub|he mod|will adv|very adv|short&dadj-LY cop|be
+	prep|on det:art|the n|floor adv|rather .
+%gra:	1|2|DET 2|14|SUBJ 3|2|XMOD 4|5|DET 5|3|OBJ 6|3|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|14|AUX 14|0|ROOT
+	15|14|JCT 16|17|DET 17|15|POBJ 18|17|NJCT 19|21|DET 20|21|MOD
+	21|18|POBJ 22|25|LINK 23|25|JCT 24|25|AUX 25|14|CJCT 26|27|DET
+	27|25|OBJ 28|29|INF 29|25|XJCT 30|29|JCT 31|29|JCT 32|38|JCT
+	33|38|LINK 34|37|SUBJ 35|37|AUX 36|37|JCT 37|38|JCT 38|29|COMP
+	39|38|JCT 40|41|DET 41|39|POBJ 42|38|JCT 43|14|PUNCT
+*PAR:	and &-uh the mother's still daydreaming . 49844_52674
+%wor:	and 49844_50944 &-uh 51034_51084 the 51084_51114 mother's 51114_51554 still 51554_51844 daydreaming 51844_52674 .
+%mor:	coord|and det:art|the n|mother~aux|be&3S adv|still
+	part|+n|day+n|dream-PRESP .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|PUNCT
+*PAR:	and the sink's still overflowing . 52696_54556
+%wor:	and 52696_53006 the 53006_53136 sink's 53136_53456 still 53456_53796 overflowing 53796_54556 .
+%mor:	coord|and det:art|the n|sink~aux|be&3S adv|still
+	over#part|flow-PRESP .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|INCROOT 7|6|PUNCT
+*PAR:	and she's looking out at the garden and a tree . 54579_58979
+%wor:	and 54579_54809 she's 54809_55149 looking 55149_55559 out 55559_55829 at 55829_56019 the 56019_56289 garden 56329_57019 and 57019_57349 a 58139_58229 tree 58229_58979 .
+%mor:	coord|and pro:sub|she~aux|be&3S part|look-PRESP adv|out prep|at
+	det:art|the n|garden coord|and det:art|a n|tree .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|CONJ 10|11|DET 11|9|COORD 12|4|PUNCT
+*PAR:	and she has a towel in her hand . 58999_62509
+%wor:	and 58999_59759 she 60759_60859 has 60859_61079 a 61079_61109 towel 61109_61659 in 61659_61799 her 61799_61939 hand 61939_62509 .
+%mor:	coord|and pro:sub|she v|have&3S det:art|a n|towel prep|in
+	det:poss|her n|hand .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	and <she still has a &+s no> [//] she's probably dried a few dishes
+	. 62528_69748
+%wor:	and 62528_63148 <she 65608_65938 still 65938_66218 has 66218_66418 a 66418_66618 &+s no 67248_67478> [//] she's probably dried a few dishes  . 67478_69748
+%mor:	coord|and pro:sub|she~aux|be&3S adv|probable&dadj-LY part|dry-PASTP
+	det:art|a n|few n|dish-PL .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|5|PUNCT
+*PAR:	well that's about it for me +/. [+ exc] 71504_72914
+%wor:	well 71504_71754 that's 71754_71914 about 71914_72224 it 72224_72434 for 72434_72614 me 72614_72914 +/. [+ exc]
+%mor:	co|well pro:dem|that~cop|be&3S adv|about pro:per|it prep|for
+	pro:obj|me +/.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|5|JCT 7|6|POBJ
+	8|3|PUNCT
+*INV:	+< okay good . 72756_73286
+%wor:	+< okay 72756_72916 good 72916_73286 .
+%mor:	co|okay adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

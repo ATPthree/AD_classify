@@ -1,0 +1,104 @@
+@UTF8
+@PID:	11312/t-00002219-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|55;|female|Control||Participant|29||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	054-0, audio
+@G:	Cookie
+*PAR:	&-uh a boy with a cookie in his one hand and his hand in the cookie
+	jar . [+ gram] 3770_8029
+%wor:	&-uh 3770_3780 a 3780_3810 boy 3810_3880 with 3880_3980 a 3980_4010 cookie 4010_4130 in 4960_5030 his 5030_5100 one 6280_6340 hand 6340_6510 and 6510_6610 his 6610_6680 hand 6680_6780 in 6780_7120 the 7240_7250 cookie 7250_7450  jar 7940_8030 . [+ gram]
+%mor:	det:art|a n|boy prep|with det:art|a n|cookie prep|in det:poss|his
+	det:num|one n|hand coord|and det:poss|his n|hand prep|in det:art|the
+	n|cookie n|jar .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|9|DET
+	8|9|QUANT 9|6|POBJ 10|2|CONJ 11|12|DET 12|10|COORD 13|12|NJCT
+	14|16|DET 15|16|MOD 16|13|POBJ 17|2|PUNCT
+*PAR:	standing on a stool which is tipping over . [+ gram] 9440_11710
+%wor:	standing 9440_9710 on 9710_9770 a 9770_9780 stool 9780_9900 which 10100_10250 is 10250_10310 tipping 11180_11570 over 11610_11710 . [+ gram]
+%mor:	part|stand-PRESP prep|on det:art|a n|stool pro:rel|which aux|be&3S
+	part|tip-PRESP adv|over .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|7|LINK 6|7|AUX 7|4|CMOD
+	8|7|JCT 9|1|PUNCT
+*PAR:	the little girl's got her hand up for one . 12188_15498
+%wor:	the 12188_12198 little 12198_12358 girl's 12488_12818 got 12958_13118 her 13118_13168 hand 14328_14538 up 14538_14678 for 14858_14918 one 15048_15498 .
+%mor:	det:art|the adj|little n|girl~aux|be&3S part|get&PASTP det:poss|her
+	n|hand adv|up prep|for pro:indef|one .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|5|JCT 10|9|POBJ 11|5|PUNCT
+*PAR:	and I don't know what the hand means to the mouth . [+ exc] 15705_17775
+%wor:	and 15705_15805 I 15935_15945 don't 15945_16125 know 16125_16165 what 16165_16365 the 16365_16375 hand 16695_16795 means 16795_17035 to 17535_17595 the 17665_17675 mouth 17675_17775 . [+ exc]
+%mor:	coord|and pro:sub|I mod|do~neg|not v|know pro:int|what det:art|the
+	n|hand v|mean-3S prep|to det:art|the n|mouth .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|9|LINK 7|8|DET
+	8|9|SUBJ 9|5|COMP 10|9|JCT 11|12|DET 12|10|POBJ 13|5|PUNCT
+*PAR:	does it mean she wants to eat ? [+ exc] 18935_19985
+%wor:	does 18935_19025 it 19145_19205 mean 19635_19735 she 19735_19745 wants 19745_19905 to 19905_19945 eat 19945_19985 ? [+ exc]
+%mor:	mod|do&3S pro:per|it adj|mean pro:sub|she v|want-3S inf|to v|eat ?
+%gra:	1|5|AUX 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP
+	8|5|PUNCT
+*PAR:	the kitchen sink is running over, the water running out on the
+	floor . 21384_26394
+%wor:	the 21384_21434 kitchen 21434_21584 sink 21584_21734 is 22044_22104 running 22504_22654 over, 22654_22744 the 23094_23104 water 23104_23224 running 23224_23434 out 24914_24984 on 25814_26034 the 26244_26254  floor 26254_26394 .
+%mor:	det:art|the n|kitchen n|sink aux|be&3S part|run-PRESP adv|over
+	cm|cm det:art|the n|water part|run-PRESP adv|out prep|on det:art|the
+	n|floor .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|LP 8|9|DET
+	9|5|OBJ 10|9|XMOD 11|10|JCT 12|10|JCT 13|14|DET 14|12|POBJ
+	15|5|PUNCT
+*PAR:	the mother's drying the dishes, frowning but not turning off the
+	faucet . 26442_31432
+%wor:	the 26442_26532 mother's 26832_27002 drying 27852_27982 the 27982_27992 dishes, 27992_28142 frowning 29212_29702 but 29732_29892 not 29892_30072 turning 30302_30732 off 30992_31262 the 31262_31282  faucet 31282_31432 .
+%mor:	det:art|the n|mother~aux|be&3S part|dry-PRESP det:art|the n|dish-PL
+	cm|cm part|frown-PRESP conj|but neg|not part|turn-PRESP prep|off
+	det:art|the n|faucet .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|LP 8|4|XJCT
+	9|8|CONJ 10|11|NEG 11|9|COORD 12|11|JCT 13|14|DET 14|12|POBJ
+	15|4|PUNCT
+*PAR:	&-uh (..) &-hm (...) two cups on the counter, (..) a plate .
+	[+ gram] 33080_49460
+%wor:	&-uh 33080_33090 (..) &-hm 33090_33160 (...) two 45060_45140 cups 45310_45540 on 45630_45830 the 46110_46120 counter, 46120_46240 (..) a 49280_49310 plate 49310_49460 . [+ gram]
+%mor:	det:num|two n|cup-PL prep|on det:art|the n|counter cm|cm det:art|a
+	n|plate .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|5|DET 5|3|POBJ 6|2|LP 7|8|DET
+	8|2|APP 9|2|PUNCT
+*PAR:	the mother's standing in the middle o(f) the water .
+%wor:	the mother's standing in the middle o(f) the water .
+%mor:	det:art|the n|mother~aux|be&3S part|stand-PRESP prep|in det:art|the
+	n|middle prep|of det:art|the n|water .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+*PAR:	curtains at the windows . [+ gram] 57207_58207
+%wor:	curtains 57207_57447 at 57897_57997 the windows 58007_58207 . [+ gram]
+%mor:	n|curtain-PL prep|at det:art|the n|window-PL .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	the lid's fallin(g) off the cookie jar . 61600_62250
+%wor:	the lid's 61600_61790 fallin(g) 61880_62010 off 62010_62070 the cookie 62080_62180 jar 62180_62250 .
+%mor:	det:art|the n|lid~aux|be&3S part|fall-PRESP prep|off det:art|the
+	n|cookie n|jar .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*PAR:	I don't know what else is +//. [+ exc] 63629_66079
+%wor:	I 63629_63639 don't 63639_63689 know 65859_65899 what 65899_65969 else 65969_66019 is 66019_66079 +//. [+ exc]
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|what post|else aux|be&3S
+	+//.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|SUBJ 6|5|PQ 7|4|COMP
+	8|4|PUNCT
+*PAR:	I could see their cupboard's half open . 66730_69840
+%wor:	I 66730_66740 could 66740_66830 see 68300_68360 their 68970_69050 cupboard's 69260_69440 half 69560_69630 open 69630_69840 .
+%mor:	pro:sub|I mod|could v|see det:poss|their adj|+n|cup+n|board&dn-POSS
+	n|half adj|open .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|POSTMOD
+	8|3|PUNCT
+*PAR:	that's it . [+ exc] 72118_72288
+%wor:	that's 72118_72228 it 72228_72288 . [+ exc]
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	okay . 72604_72654
+%wor:	okay 72604_72654 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

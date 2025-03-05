@@ -1,0 +1,81 @@
+@UTF8
+@PID:	11312/t-00002453-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|77;|male|Memory||Participant|28||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	039-0, audio
+@G:	Cookie
+*INV:	okay you can begin . 30_820
+%wor:	okay 30_320 you 320_480 can 480_610 begin 610_820 .
+%mor:	co|okay pro:per|you mod|can v|begin .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	okay we see &-um first of all &-uh the sink is overflowing . 2371_8351
+%wor:	okay 2371_2941 we 2941_3151 see 3151_3641 &-um 3641_4141 first 5331_5741 of 5741_5881 all 5881_6321 &-uh 6321_6491 the 6491_6921 sink 6961_7351 is 7351_7511 overflowing 7511_8351 .
+%mor:	adj|okay pro:sub|we v|see adv|first prep|of qn|all det:art|the
+	n|sink aux|be&3S over#part|flow-PRESP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|JCT 6|8|QUANT 7|8|DET
+	8|10|SUBJ 9|10|AUX 10|5|POBJ 11|3|PUNCT
+*PAR:	water cascading down the &-uh kitchen cabinet onto the floor .
+	[+ gram] 9604_15344
+%wor:	water 9604_10204 cascading 10844_11724 down 11724_12024 the 12024_12334 &-uh 12334_12604 kitchen 13324_13674 cabinet 13674_14284 onto 14284_14564 the 14564_14814 floor 14814_15344 .  [+ gram]
+%mor:	n|water part|cascade-PRESP prep|down det:art|the n|kitchen
+	n|cabinet prep|onto det:art|the n|floor .
+%gra:	1|0|INCROOT 2|1|XMOD 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|JCT
+	8|9|DET 9|7|POBJ 10|1|PUNCT
+*PAR:	&-uh the lady in the picture is drying a dish . 16471_21351
+%wor:	&-uh 16471_17001 the 17001_17121 lady 18781_19271 in 19271_19371 the 19371_19501 picture 19501_19921 is 19921_20171 drying 20171_20691 a 20691_20731 dish 20731_21351 .
+%mor:	det:art|the n|lady prep|in det:art|the n|picture aux|be&3S
+	part|dry-PRESP det:art|a n|dish .
+%gra:	1|2|DET 2|7|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|AUX 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|7|PUNCT
+*PAR:	&-uh there is a young man on a stool . 24669_30209
+%wor:	&-uh 24669_25209 there 26879_27089 is 27089_27289 a 27289_27729 young 28479_28819 man 28819_29079 on 29079_29339 a 29339_29359 stool 29359_30209 .
+%mor:	pro:exist|there cop|be&3S det:art|a adj|young n|man prep|on
+	det:art|a n|stool .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|8|DET
+	8|6|POBJ 9|2|PUNCT
+*PAR:	an(d) he's [//] the stool is being tipped over . 30892_33062
+%wor:	an(d) 30892_31052 he's [//] 31052_31402 the 31482_31542 stool 31542_31932 is 31932_31992 being 31992_32362 tipped 32362_32662 over 32662_33062 .
+%mor:	coord|and det:art|the n|stool aux|be&3S n|being part|tip-PASTP
+	adv|over .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|JCT
+	8|6|PUNCT
+*PAR:	he's reaching for a cookie jar . 33112_35242
+%wor:	he's 33112_33302 reaching 33302_33722 for 33722_34162 a 34162_34192 cookie 34192_34722 jar 34722_35242 .
+%mor:	pro:sub|he~aux|be&3S part|reach-PRESP prep|for det:art|a n|cookie
+	n|jar .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ
+	8|3|PUNCT
+*PAR:	&-uh the lid is off the jar an(d) it looks like he's going to try
+	to hand a cookie down to his little sister . 35936_43836
+%wor:	&-uh 35936_36116 the 36116_36186 lid 36186_36486 is 36486_36636 off 36636_36916 the 36916_36986 jar 36986_37396 an(d) 37396_37496 it 37496_37536 looks 37536_37726 like 37726_37986 he's 37986_38156 going 38156_38516 to 38516_38606 try 38606_38896 to 38896_38986  hand 40396_40876 a 40876_41066 cookie 41096_41406 down 41406_41776 to 41776_41926 his 41926_42336 little 43016_43246 sister 43246_43836 .
+%mor:	det:art|the n|lid cop|be&3S prep|off det:art|the n|jar coord|and
+	pro:per|it v|look-3S conj|like pro:sub|he~aux|be&3S part|go-PRESP
+	inf|to v|try inf|to v|hand det:art|a n|cookie adv|down prep|to
+	det:poss|his adj|little n|sister .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|9|LINK
+	8|9|SUBJ 9|3|CJCT 10|13|LINK 11|13|SUBJ 12|13|AUX 13|9|COMP
+	14|15|INF 15|13|COMP 16|17|INF 17|15|COMP 18|19|DET 19|17|OBJ
+	20|17|JCT 21|17|JCT 22|24|DET 23|24|MOD 24|21|POBJ 25|3|PUNCT
+*PAR:	and &-uh looks like he might make it before he hits the floor . 47632_52482
+%wor:	and 47632_48162 &-uh 48192_48332 looks 50292_50462 like 50462_50652 he 50652_50712 might 50712_50982 make 50982_51212 it 51212_51332 before 51332_51672 he 51672_51752 hits 51752_52002 the 52002_52062 floor 52062_52482 .
+%mor:	coord|and v|look-3S conj|like pro:sub|he mod|might v|make
+	pro:per|it prep|before pro:sub|he v|hit-3S det:art|the n|floor .
+%gra:	1|2|LINK 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|COMP 7|6|OBJ
+	8|10|JCT 9|10|SUBJ 10|6|CJCT 11|12|DET 12|10|OBJ 13|2|PUNCT
+*INV:	anything else ? 54222_54922
+%wor:	anything 54222_54662 else 54662_54922 ?
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	I don't think so . [+ exc] 64354_65254
+%wor:	I 64354_64504 don't 64504_64864 think 64864_65054 so 65054_65254 . [+ exc]
+%mor:	pro:sub|I mod|do~neg|not v|think co|so .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	okay good . 65872_66352
+%wor:	okay 65872_65942 good 65942_66352 .
+%mor:	co|okay adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

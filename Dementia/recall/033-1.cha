@@ -1,0 +1,200 @@
+@UTF8
+@PID:	11312/t-00016272-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|64;|male|MCI||Participant|27||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	033-1, audio
+@G:	George_Immediate
+*INV:	can you tell me what you can remember of the story ? 839000_840916
+%mor:	mod|can pro:per|you v|tell pro:obj|me pro:int|what pro:per|you
+	mod|can v|remember prep|of det:art|the n|story ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|8|LINK 6|8|SUBJ 7|8|AUX 8|3|COMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*PAR:	&=sighs . [+ exc] 840916_842946
+*INV:	(..) remember what the story was about ? 842946_852256
+%mor:	v|remember pro:int|what det:art|the n|story cop|be&PAST&13S
+	adv|about ?
+%gra:	1|0|ROOT 2|5|LINK 3|4|DET 4|5|SUBJ 5|1|COMP 6|5|JCT 7|1|PUNCT
+*PAR:	no . [+ exc] 852256_853099
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	not at all . [+ exc] 853099_853725
+%mor:	neg|not prep|at pro:indef|all .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*INV:	+< no ? 853725_854031
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	not yet . [+ exc] 854031_854568
+%mor:	neg|not adv:tem|yet .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PUNCT
+*PAR:	no . [+ exc] 854568_856100
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	try again . [+ exc] 856100_857875
+%mor:	v|try adv:tem|again .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	oh_my . [+ exc] 857875_859880
+%mor:	co|oh_my .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	remember any names ? 859880_864695
+%mor:	v|remember qn|any n|name-PL ?
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+*INV:	remember any names from the story ? 864695_867479
+%mor:	v|remember qn|any n|name-PL prep|from det:art|the n|story ?
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*INV:	or just the gist of it . 867479_871694
+%mor:	coord|or adv|just det:art|the n|gist prep|of pro:per|it .
+%gra:	1|4|LINK 2|4|JCT 3|4|DET 4|0|INCROOT 5|4|NJCT 6|5|POBJ 7|4|PUNCT
+*INV:	a word or a phrase . 871694_873992
+%mor:	det:art|a n|word coord|or det:art|a n|phrase .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|2|PUNCT
+*INV:	anything at all . 873992_874771
+%mor:	pro:indef|anything prep|at pro:indef|all .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*PAR:	(..) I xxx &+ute utensils, but I xxx +... [+ exc] 874771_883634
+%mor:	pro:sub|I n|utensil-PL cm|cm conj|but pro:sub|I +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|LP 4|2|CONJ 5|4|COORD 6|2|PUNCT
+*INV:	pardon ? 883634_884260
+%mor:	n|pardon ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	oh . 884260_885422
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	you_know the &-uh spoon and the comb . [+ exc] 885422_891029
+%mor:	co|you_know det:art|the n|spoon coord|and det:art|the n|comb .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|CONJ 5|6|DET 6|4|COORD 7|3|PUNCT
+*INV:	+< uhhuh . 891029_891399
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ you remember those but the story's gone . 891399_895192
+%mor:	co|okay beg|beg pro:per|you v|remember pro:dem|those conj|but
+	det:art|the n|story~aux|be&3S part|go&PASTP .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|10|LINK 7|8|DET 8|10|SUBJ
+	9|10|AUX 10|5|CJCT 11|4|PUNCT
+*PAR:	+< xxx . [+ exc] 891399_892957
+*PAR:	+< but I don't +... [+ exc] 892957_894170
+%mor:	conj|but pro:sub|I mod|do~neg|not +...
+%gra:	1|0|INCROOT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|1|PUNCT
+*PAR:	the story's gone „ yeah . [+ exc] 894170_896558
+%mor:	det:art|the n|story~aux|be&3S part|go&PASTP end|end co|yeah .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|ENDP 6|4|END 7|4|PUNCT
+*INV:	okay . 896558_898168
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	George_Delayed
+*INV:	now then ‡ can you remember any of that story ? 3830000_3835926
+%mor:	adv:tem|now adv:tem|then beg|beg mod|can pro:per|you v|remember
+	pro:indef|any prep|of det:dem|that n|story ?
+%gra:	1|6|JCT 2|1|BEG 3|2|BEGP 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|6|PUNCT
+*INV:	what was it about ? 3835926_3838454
+%mor:	pro:int|what cop|be&PAST&13S pro:per|it adv|about ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|3|JCT 5|2|PUNCT
+*PAR:	(..) xxx I don't know . [+ exc] 3838454_3844968
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*INV:	do you remember what the story was about ? 3844968_3847407
+%mor:	mod|do pro:per|you v|remember pro:int|what det:art|the n|story
+	cop|be&PAST&13S adv|about ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|6|DET 6|7|SUBJ 7|3|COMP 8|7|JCT
+	9|3|PUNCT
+*INV:	it was about a man . 3847407_3852068
+%mor:	pro:per|it cop|be&PAST&13S prep|about det:art|a n|man .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	about a man ? [+ exc] 3852068_3853422
+%mor:	prep|about det:art|a n|man ?
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*INV:	+< about a man . 3853422_3854175
+%mor:	prep|about det:art|a n|man .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+@G:	George_Questions
+*INV:	do you remember his name (..) the man ? 3854175_3856653
+%mor:	mod|do pro:per|you v|remember det:poss|his n|name det:art|the n|man
+	?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|DET 7|5|APP 8|3|PUNCT
+*INV:	no ? 3856653_3862528
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-uh about the president ? [+ exc] 3862528_3867049
+%mor:	prep|about det:art|the n|president ?
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*INV:	not the president . 3867049_3868211
+%mor:	neg|not det:art|the n|president .
+%gra:	1|3|NEG 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*INV:	that was something else we did before . 3868211_3869616
+%mor:	pro:dem|that cop|be&PAST&13S pro:indef|something post|else
+	pro:sub|we v|do&PAST adv|before .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|PQ 5|6|SUBJ 6|2|CJCT 7|6|JCT 8|2|PUNCT
+*PAR:	+< the [//] &+pre something else ? [+ exc] 3868211_3869718
+%mor:	pro:indef|something post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*INV:	mhm . 3869718_3870459
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	no ‡ this man's name was George Miller . 3870459_3873396
+%mor:	co|no beg|beg det:dem|this adj|man&dn-POSS n|name cop|be&PAST&13S
+	n:prop|George n:prop|Miller .
+%gra:	1|0|BEG 2|1|BEGP 3|5|DET 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|8|NAME 8|6|PRED
+	9|6|PUNCT
+*PAR:	George Miller . [+ exc] 3873396_3874763
+%mor:	n:prop|George n:prop|Miller .
+%gra:	1|2|NAME 2|0|INCROOT 3|2|PUNCT
+*INV:	mhm ‡ and his granddaughter Melanie . 3874763_3878428
+%mor:	co|mhm=yes beg|beg coord|and det:poss|his grand#n|daughter
+	n:prop|Melanie .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|DET 5|0|ROOT 6|5|APP 7|5|PUNCT
+*PAR:	oh . [+ exc] 3878428_3879731
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	do you remember the story about George Miller and his granddaughter
+	Melanie ? 3879731_3883166
+%mor:	mod|do pro:per|you v|remember det:art|the n|story prep|about
+	n:prop|George n:prop|Miller coord|and det:poss|his grand#n|daughter
+	n:prop|Melanie ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|NAME 8|6|POBJ
+	9|8|CONJ 10|11|DET 11|9|COORD 12|5|APP 13|3|PUNCT
+*PAR:	I don't think so . [+ exc] 3883166_3884047
+%mor:	pro:sub|I mod|do~neg|not v|think co|so .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	no ? 3884047_3884469
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I don't . [+ exc] 3884469_3886308
+%mor:	pro:sub|I mod|do~neg|not .
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+*INV:	do you know what George and Melanie did ? 3886308_3888887
+%mor:	mod|do pro:per|you v|know pro:int|what n:prop|George coord|and
+	n:prop|Melanie v|do&PAST ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|8|SUBJ 6|5|CONJ 7|6|COORD 8|3|COMP
+	9|3|PUNCT
+*PAR:	no . [+ exc] 3888887_3889705
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	no ? 3889705_3890433
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	George useta tell Melanie stories . 3890433_3897495
+%mor:	n:prop|George mod|used~inf|to v|tell n:prop|Melanie n|story-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+*INV:	do you know what they were about ? 3897495_3898619
+%mor:	mod|do pro:per|you v|know pro:int|what pro:sub|they cop|be&PAST
+	prep|about ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|6|JCT 8|3|PUNCT
+*INV:	what were George's stories about ? 3898619_3902629
+%mor:	pro:int|what cop|be&PAST adj|George&dn-POSS n|story-PL prep|about ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|JCT 6|2|PUNCT
+*INV:	where he lived as a child . 3902629_3906039
+%mor:	pro:int|where pro:sub|he v|live-PAST conj|as det:art|a n|child .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|COORD 5|6|DET 6|3|OBJ 7|3|PUNCT
+*INV:	the stories were about where he lived as a child . 3906039_3909334
+%mor:	det:art|the n|story-PL cop|be&PAST prep|about pro:int|where
+	pro:sub|he v|live-PAST conj|as det:art|a n|child .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|LINK 6|7|SUBJ 7|4|CPOBJ
+	8|10|COORD 9|10|DET 10|7|OBJ 11|3|PUNCT
+*PAR:	&-hm &-hm . [+ exc] 3909334_3910177
+*INV:	okay . 3910177_3910598
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

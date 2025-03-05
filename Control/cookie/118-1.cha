@@ -1,0 +1,91 @@
+@UTF8
+@PID:	11312/t-00002269-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|67;|female|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	118-1, audio
+@G:	Cookie
+*INV:	please speak up so we can hear you . 270_2480
+%wor:	please 270_980 speak 980_1220 up 1220_1260 so 1260_1310 we 1310_1320 can 1350_1830 hear 1830_2270 you 2270_2480 .
+%mor:	co|please v|speak adv|up conj|so pro:sub|we mod|can v|hear
+	pro:per|you .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|2|CJCT 8|7|OBJ
+	9|2|PUNCT
+*PAR:	there's &-um the two children are in the process o(f) stealing
+	cookies from the cookie jar . 5682_12422
+%wor:	there's 5682_6232 &-um 6662_6742 the 6742_6822 two 6822_7022 children 7022_7632 are 7632_7912 in 7912_7992 the 8022_9122 process 9572_10132 o(f) 10132_10192 stealing 10192_10772  cookies 10772_11322 from 11322_11572 the 11572_11632 cookie 11632_12022 jar 12022_12422 .
+%mor:	pro:exist|there~cop|be&3S det:art|the det:num|two n|child&PL
+	aux|be&PRES prep|in det:art|the n|process prep|of part|steal-PRESP
+	n|cookie-PL prep|from det:art|the n|cookie n|jar .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|PRED 6|5|XMOD 7|6|JCT
+	8|9|DET 9|7|POBJ 10|9|NJCT 11|10|POBJ 12|11|OBJ 13|12|NJCT 14|16|DET
+	15|16|MOD 16|13|POBJ 17|2|PUNCT
+*PAR:	and the little girl has her finger up to her mouth to be quiet . 13404_17404
+%wor:	and 13404_13534 the 13534_13544 little 13544_13904 girl 13984_14374 has 14374_14624 her 14624_14684 finger 14684_15144 up 15144_15304 to 15304_15464 her 15464_15604 mouth 15654_16274 to 16274_16424 be 16684_16774 quiet 16774_17404 .
+%mor:	coord|and det:art|the adj|little n|girl aux|have&3S det:poss|her
+	n|finger adv|up prep|to det:poss|her n|mouth inf|to cop|be adj|quiet
+	.
+%gra:	1|7|LINK 2|4|DET 3|4|MOD 4|7|SUBJ 5|7|AUX 6|7|DET 7|0|ROOT 8|7|JCT
+	9|7|NJCT 10|11|DET 11|9|POBJ 12|13|INF 13|7|XJCT 14|13|PRED
+	15|7|PUNCT
+*PAR:	and the stool on which the boy is standing is about to fall . 18034_23044
+%wor:	and 18034_18364 the 18364_18704 stool 19104_19674 on 19674_19884 which 19884_20274 the 20274_20494 boy 20494_20724 is 20724_21014 standing 21014_21684 is 21684_21914 about 21914_22344 to 22344_22474 fall 22474_23044 .
+%mor:	coord|and det:art|the n|stool prep|on pro:int|which det:art|the
+	n|boy aux|be&3S part|stand-PRESP cop|be&3S adv|about prep|to n|fall
+	.
+%gra:	1|10|LINK 2|3|DET 3|10|SUBJ 4|10|JCT 5|9|LINK 6|7|DET 7|9|SUBJ
+	8|9|AUX 9|10|SUBJ 10|0|ROOT 11|10|JCT 12|11|JCT 13|12|POBJ
+	14|10|PUNCT
+*PAR:	and the mother must be lookin(g) out the window because the sink is
+	spilling over with water, overflowing with water . 23098_33008
+%wor:	and 23098_23188 the 23188_24358 mother 24498_24838 must 24908_25218 be 25218_25298 lookin(g) 25298_25658 out 25658_25838 the 25838_25958 window 25958_26348 because 26418_26918 the 26918_27078 sink 27078_27818 is 28278_28828  spilling 29358_29988 over 29988_30388 with 30428_30658 water, 30658_31168 overflowing 31678_32398 with 32398_32628 water 32628_33008 .
+%mor:	coord|and det:art|the n|mother mod|must aux|be part|look-PRESP
+	prep|out det:art|the n|window conj|because det:art|the n|sink
+	aux|be&3S part|spill-PRESP adv|over prep|with n|water cm|cm
+	over#part|flow-PRESP prep|with n|water .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|14|LINK 11|12|DET 12|14|SUBJ 13|14|AUX 14|6|CJCT
+	15|14|JCT 16|14|JCT 17|16|POBJ 18|14|LP 19|14|ENUM 20|19|JCT
+	21|20|POBJ 22|6|PUNCT
+*PAR:	and the [//] meanwhile she's dryin(g) the dishes . 33767_36637
+%wor:	and 33767_34017 the [//] 34147_34477 meanwhile 34477_34997 she's 34997_35327 dryin(g) 35327_35727 the 35727_35947 dishes 35947_36637 .
+%mor:	coord|and adv:tem|meanwhile pro:sub|she~aux|be&3S part|dry-PRESP
+	det:art|the n|dish-PL .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|SUBJ 4|5|AUX 5|2|CMOD 6|7|DET 7|5|OBJ
+	8|1|PUNCT
+*PAR:	an(d) the water is fallin(g) down onto the floor . 37327_43307
+%wor:	an(d) 37327_37417 the 37417_38457 water 39297_39617 is 39617_39957 fallin(g) 41227_41887 down 41917_42237 onto 42237_42567 the 42567_42607 floor 42607_43307 .
+%mor:	coord|and det:art|the n|water aux|be&3S part|fall-PRESP adv|down
+	prep|onto det:art|the n|floor .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*PAR:	and it's a nice day . 45268_46508
+%wor:	and 45268_45398 it's 45528_45678 a 45678_45778 nice 45778_46178 day 46178_46508 .
+%mor:	coord|and pro:per|it~cop|be&3S det:art|a adj|nice n|day .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+*PAR:	the window's up it looks like . 46555_48435
+%wor:	the 46555_46705 window's 46745_47195 up 47195_47495 it 47495_47695 looks 47695_48045 like 48045_48435 .
+%mor:	det:art|the n|window~cop|be&3S adv|up pro:per|it v|look-3S
+	prep|like .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|SUBJ 6|3|CPRED 7|6|JCT
+	8|3|PUNCT
+*PAR:	and it's a nice day outside . 49591_51851
+%wor:	and 49591_49861 it's 49971_50271 a 50271_50341 nice 50341_50751 day 50751_51071 outside 51071_51851 .
+%mor:	coord|and pro:per|it~cop|be&3S det:art|a adj|nice n|day
+	adv|+prep|out+n|side .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT
+	8|3|PUNCT
+*PAR:	that's about all I can see on that . [+ exc] 53749_55739
+%wor:	that's 53749_53979 about 54039_54249 all 54249_54369 I 54369_54669 can 54709_54879 see 54879_55249 on 55249_55399 that 55469_55739 . [+ exc]
+%mor:	pro:dem|that~cop|be&3S adv|about adv|all pro:sub|I mod|can v|see
+	prep|on pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|JCT 4|7|JCT 5|7|SUBJ 6|7|AUX 7|2|CPRED
+	8|7|JCT 9|8|POBJ 10|2|PUNCT
+*INV:	okay . 57490_57910
+%wor:	okay 57490_57910 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

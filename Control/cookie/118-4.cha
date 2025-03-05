@@ -1,0 +1,89 @@
+@UTF8
+@PID:	11312/t-00002272-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|70;00.|female|Control||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	118-4, audio
+@Comment:	age is educated estimate, extrapolated from incomplete
+	demographic data
+@G:	Cookie
+*INV:	tell me everything that's going on in that picture . 470_2900
+%wor:	tell 470_800 me 800_990 everything 990_1360 that's 1360_1520 going 1520_1900 on 1900_2150 in 2150_2280 that 2280_2470 picture 2470_2900 .
+%mor:	v|tell pro:obj|me pro:indef|everything pro:rel|that~aux|be&3S
+	part|go-PRESP adv|on prep|in det:dem|that n|picture .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|6|LINK 5|6|AUX 6|3|CMOD 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|1|PUNCT
+*INV:	everything that's happening there . 3157_4617
+%wor:	everything 3157_3547 that's 3547_3747 happening 3747_4227 there 4227_4617 .
+%mor:	pro:indef|everything pro:rel|that~aux|be&3S part|happen-PRESP
+	n|there .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|AUX 4|1|CMOD 5|4|OBJ 6|1|PUNCT
+*PAR:	well the water's runnin(g) over outta [: out of] the sink . 6570_10160
+%wor:	well 6570_7050 the 7050_7100 water's 7100_7790 runnin(g) 7790_8170 over 8170_8960 outta [: out of] 8990_9480 the 9480_9490 sink 9490_10160 .
+%mor:	co|well det:art|the n|water~aux|be&3S part|run-PRESP adv|over
+	adv|out prep|of det:art|the n|sink .
+%gra:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*PAR:	and the little boy is stealin(g) a cookie . 10373_14903
+%wor:	and 10373_12693 the 12693_12713 little 12713_12963 boy 12963_13393 is 13393_13523 stealin(g) 13523_14283 a 14283_14293 cookie 14293_14903 .
+%mor:	coord|and det:art|the adj|little n|boy aux|be&3S part|steal-PRESP
+	det:art|a n|cookie .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*PAR:	and he's about to fall off the stool . 14994_18824
+%wor:	and 14994_15674 he's 15674_15884 about 15884_16354 to 16354_16554 fall 16664_16914 off 16914_17364 the 17364_18184 stool 18184_18824 .
+%mor:	coord|and pro:sub|he~cop|be&3S adv|about prep|to n|fall prep|off
+	det:art|the n|stool .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|6|NJCT
+	8|9|DET 9|7|POBJ 10|3|PUNCT
+*PAR:	and &-uh the girl has her hand up to her mouth so she didn't want
+	the mother to know what they were up to . 18984_28444
+%wor:	and 18984_20554 &-uh 20554_20854 the 22084_22174 girl 22174_22734 has 22734_22974 her 22974_23154 hand 23154_23494 up 23494_23694 to 23694_23754 her 23754_23964 mouth 23964_24464 so 24464_24634 she 24634_24804 didn't 24804_25184 want 25184_25494  the 25994_26054 mother 26054_26444 to 26444_26634 know 26634_26904 what 26904_27164 they 27164_27294 were 27294_27654 up 27684_27924 to 27924_28444 .
+%mor:	coord|and det:art|the n|girl aux|have&3S det:poss|her n|hand adv|up
+	prep|to det:poss|her n|mouth co|so pro:sub|she mod|do&PAST~neg|not
+	v|want det:art|the n|mother inf|to v|know pro:int|what pro:sub|they
+	cop|be&PAST adv|up prep|to .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|6|DET 6|15|JCT 7|6|NJCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|6|COM 12|15|SUBJ 13|15|AUX 14|13|NEG 15|0|ROOT
+	16|17|DET 17|15|OBJ 18|19|INF 19|17|XMOD 20|22|LINK 21|22|SUBJ
+	22|19|COMP 23|22|JCT 24|22|JCT 25|15|PUNCT
+*PAR:	and the window's open . 28667_30967
+%wor:	and 28667_29637 the 29637_29657 window's 29657_30217 open 30217_30967 .
+%mor:	coord|and det:art|the n|window~cop|be&3S adj|open .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	and it must be nice weather because the grass is pretty high and
+	needs cut . 31027_37777
+%wor:	and 31027_32347 it 32347_32417 must 32417_32807 be 32807_33367 nice 33957_34367 weather 34367_34967 because 35057_35297 the 35297_35397 grass 35397_35917 is 35917_35997 pretty 35997_36387 high 36387_36737 and 36737_36897  needs 36897_37207 cut 37207_37777 .
+%mor:	coord|and pro:per|it mod|must cop|be adj|nice n|weather
+	conj|because det:art|the n|grass cop|be&3S adv|pretty adj|high
+	coord|and v|need-3S n|cut .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|MOD 6|4|PRED 7|10|LINK
+	8|9|DET 9|10|SUBJ 10|4|CJCT 11|12|JCT 12|10|PRED 13|10|CONJ
+	14|13|COORD 15|14|OBJ 16|4|PUNCT
+*PAR:	and &=sighs (.) the mother is daydreamin(g) or she'd see that the
+	water was goin(g) on the floor and she's gonna get wet or is wet . 37795_52935
+%wor:	and 37795_39715 &=sighs (.) the 39715_39725 mother 39725_43265 is 43295_44115 daydreamin(g) 44115_44335 or 44335_45885 she'd 45885_46065 see 46065_46305 that 46305_46945 the 46945_46955  water 46955_47285 was 47285_47635 goin(g) 47635_47755 on 47755_48835 the 48835_48975 floor 48975_50135 and 50165_50365 she's 50365_50675 gonna 50675_50965 get 50965_51265 wet 51265_51545 or 51545_52385 is 52415_52565 wet 52565_52935 .
+%mor:	coord|and det:art|the n|mother aux|be&3S part|+n|day+n|dream-PRESP
+	coord|or pro:sub|she~mod|genmod v|see comp|that det:art|the n|water
+	aux|be&PAST&13S part|go-PRESP prep|on det:art|the n|floor coord|and
+	pro:sub|she~aux|be&3S part|go&PRESP~inf|to v|get adj|wet coord|or
+	cop|be&3S adj|wet .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|9|LINK 7|9|SUBJ
+	8|9|AUX 9|5|CJCT 10|14|LINK 11|12|DET 12|14|SUBJ 13|14|AUX 14|9|COMP
+	15|14|JCT 16|17|DET 17|15|POBJ 18|21|LINK 19|21|SUBJ 20|21|AUX
+	21|14|CJCT 22|23|INF 23|21|COMP 24|23|PRED 25|23|CONJ 26|25|COORD
+	27|26|PRED 28|5|PUNCT
+*PAR:	and the curtains seem to blowin(g) brisk in the breeze . 55609_59139
+%wor:	and 55609_56119 the 56119_56129 curtains 56129_56669 seem 56669_56899 to 56899_56989 blowin(g) 56989_57709 brisk 57709_58139 in 58309_58599 the 58599_58609 breeze 58609_59139 .
+%mor:	coord|and det:art|the n|curtain-PL cop|seem inf|to part|blow-PRESP
+	adj|brisk prep|in det:art|the n|breeze .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XJCT 7|6|PRED
+	8|7|JCT 9|10|DET 10|8|POBJ 11|4|PUNCT
+*INV:	okay fine thanks . 59240_60870
+%wor:	okay 59240_60110 fine 60140_60350 thanks 60350_60870 .
+%mor:	co|okay co|fine co|thanks .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+@End

@@ -1,0 +1,103 @@
+@UTF8
+@PID:	11312/t-00002462-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|65;|female|ProbableAD||Participant|26||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	051-0, audio
+@G:	Cookie
+*INV:	I want you to tell me all of the action that's going on in that
+	picture . 40_3710
+%wor:	I 40_350 want 880_1090 you 1090_1160 to 1160_1220 tell 1220_1350 me 1350_1560 all 1680_1910 of 1910_2050 the 2050_2200 action 2200_2660 that's 2660_2860 going 2860_3000 on 3170_3260 in 3260_3350 that 3350_3540  picture 3540_3710 .
+%mor:	pro:sub|I v|want pro:per|you inf|to v|tell pro:obj|me pro:indef|all
+	prep|of det:art|the n|action pro:rel|that~aux|be&3S part|go-PRESP
+	adv|on prep|in det:dem|that n|picture .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|INF 5|2|COMP 6|5|OBJ 7|5|OBJ
+	8|7|NJCT 9|10|DET 10|8|POBJ 11|13|LINK 12|13|AUX 13|10|CMOD
+	14|13|JCT 15|13|JCT 16|17|DET 17|15|POBJ 18|2|PUNCT
+*PAR:	first of all the little girl's saying +"/. 4523_5613
+%wor:	first 4523_4803 of 4803_4873 all 5073_5133 the 5133_5143 little 5143_5293 girl's 5293_5553 saying 5553_5613 +"/.
+%mor:	adv|first prep|of qn|all det:art|the adj|little n|girl~aux|be&3S
+	part|say-PRESP +"/.
+%gra:	1|8|JCT 2|8|JCT 3|6|QUANT 4|6|DET 5|6|MOD 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|8|PUNCT
+*PAR:	+" shh@o . 5804_6234
+%wor:	+" shh@o 5804_6234 .
+%mor:	on|shh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and [/] and he's climbing up to get a cookie . 7638_11468
+%wor:	and [/] 7638_7808 and 8588_8698 he's 8828_9218 climbing 9708_10258 up 10378_10548 to 10548_10618 get 10618_10938 a 10938_10968 cookie 10968_11468 .
+%mor:	coord|and pro:sub|he~aux|be&3S part|climb-PRESP adv|up inf|to v|get
+	det:art|a n|cookie .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|INF 7|4|XJCT 8|9|DET
+	9|7|OBJ 10|4|PUNCT
+*PAR:	and he's going to fall . 11640_13480
+%wor:	and 11640_11990 he's 12250_12430 going 12670_12830 to 12830_12900 fall 12900_13480 .
+%mor:	coord|and pro:sub|he~aux|be&3S part|go-PRESP prep|to n|fall .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	and the stool is on [//] tipping . 14222_16202
+%wor:	and 14222_14322 the 14322_14352 stool 14352_14892 is 14892_14992 on [//] 14992_15202 tipping 15792_16202 .
+%mor:	coord|and det:art|the n|stool aux|be&3S part|tip-PRESP .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	the water is running over in the sink . 17433_19463
+%wor:	the 17433_17443 water 17443_17743 is 17743_17933 running 17933_18263 over 18343_18623 in 18623_18743 the 19003_19173 sink 19173_19463 .
+%mor:	det:art|the n|water aux|be&3S part|run-PRESP adv|over prep|in
+	det:art|the n|sink .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*PAR:	&-uh (.) the towel seems to go in one side and out the other side
+	of the dish . 21032_29012
+%wor:	&-uh 21032_21042 (.) the 21042_21052 towel 21052_22302 seems 24402_24622 to 26162_26532 go 26622_26762 in 26952_27242 one 27242_27412 side 27412_27702 and 27702_27792 out 27792_27942 the 27942_28062 other 28062_28222 side 28222_28452 of 28452_28662  the 28662_28672 dish 28672_29012 .
+%mor:	det:art|the n|towel cop|seem-3S inf|to v|go prep|in det:num|one
+	n|side coord|and prep|out det:art|the qn|other n|side prep|of
+	det:art|the n|dish .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|QUANT
+	8|6|POBJ 9|5|CONJ 10|9|COORD 11|13|DET 12|13|QUANT 13|10|POBJ
+	14|13|NJCT 15|16|DET 16|14|POBJ 17|3|PUNCT
+*PAR:	oh that's part of the curtain I guess . 31443_32853
+%wor:	oh 31443_31563 that's 31563_31763 part 31763_31993 of 31993_32083 the 32083_32093 curtain 32093_32553 I 32613_32623 guess 32623_32853 .
+%mor:	co|oh pro:dem|that~cop|be&3S adj|part prep|of det:art|the n|curtain
+	pro:sub|I v|guess .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|7|DET 7|5|POBJ
+	8|9|SUBJ 9|3|CJCT 10|3|PUNCT
+*PAR:	that's what it is . 33022_33462
+%wor:	that's 33022_33242 what 33242_33342 it 33342_33402 is 33402_33462 .
+%mor:	pro:dem|that~cop|be&3S pro:int|what pro:per|it cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|PRED 6|2|PUNCT
+*PAR:	that's part of the curtain &=laughs . 33508_34478
+%wor:	that's 33508_33758 part 33758_33898 of 33898_33958 the 33958_34018 curtain 34018_34478 &=laughs .
+%mor:	pro:dem|that~cop|be&3S adj|part prep|of det:art|the n|curtain .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*PAR:	it looked like it &+c gone through here and come out here &=laughs .
+	34854_37524
+%wor:	it 34854_34924 looked 34924_35074 like 35074_35254 it 35254_35394 &+c gone 35874_36084 through 36084_36244 here 36244_36314 and 36444_36584 come 36584_36734 out 36734_36924 here 37224_37524 &=laughs .
+%mor:	pro:per|it cop|look-PAST v|like pro:per|it part|go&PASTP
+	prep|through n|here coord|and v|come prep|out n|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OBJ 5|4|XMOD 6|5|JCT 7|6|POBJ
+	8|5|CONJ 9|8|COORD 10|9|JCT 11|10|POBJ 12|2|PUNCT
+*PAR:	ah . [+ exc] 38425_38735
+%wor:	ah 38425_38735 . [+ exc]
+%mor:	co|ah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	www .
+%wor:	www .
+%exp:	bad audio screeching
+*PAR:	two cups and a dish . [+ gram] 46290_49060
+%wor:	two 46290_46350 cups 46350_46450 and 46450_46540 a 48130_48160 dish 48970_49060 . [+ gram]
+%mor:	det:num|two n|cup-PL coord|and det:art|a n|dish .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|2|PUNCT
+*INV:	anything else ? 50231_50821
+%wor:	anything 50231_50601 else 50601_50821 ?
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	I don't see anything unusual . [+ exc] 50855_52985
+%wor:	I 50855_51025 don't 51025_51255 see 51895_52035 anything 52035_52715 unusual 52755_52985 . [+ exc]
+%mor:	pro:sub|I mod|do~neg|not v|see pro:indef|anything un#adj|usual .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|5|POSTMOD 7|4|PUNCT
+*INV:	okay that's fine . 53366_54626
+%wor:	okay 53366_53776 that's 53776_53956 fine 54146_54626 .
+%mor:	co|okay pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

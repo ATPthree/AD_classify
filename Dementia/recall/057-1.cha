@@ -1,0 +1,166 @@
+@UTF8
+@PID:	11312/a-00034848-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|84;|female|ProbableAD||Participant|24||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	057-1, audio
+@G:	Bill_Immediate
+*INV:	okay ‡ can you tell me what you remember from the story ? 2000_5413
+%mor:	co|okay beg|beg mod|can pro:per|you v|tell pro:obj|me pro:int|what
+	pro:per|you v|remember prep|from det:art|the n|story ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|9|LINK 8|9|SUBJ
+	9|5|COMP 10|9|JCT 11|12|DET 12|10|POBJ 13|5|PUNCT
+*PAR:	(...) unhunh . [+ exc] 5413_13168
+%mor:	co|unhunh=no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	anything come to mind ? 13168_15548
+%mor:	pro:indef|anything v|come prep|to n|mind ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*PAR:	I can't put it <in a> [/] <in a> [/] in a  sentence . [+ exc] 15548_21875
+%mor:	pro:sub|I mod|can~neg|not v|put&ZERO pro:per|it prep|in det:art|a
+	n|sentence .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*INV:	you can [//] don't hafta put it in a sentence . 21875_24406
+%mor:	pro:per|you mod|do~neg|not mod|have~inf|to v|put&ZERO pro:per|it
+	prep|in det:art|a n|sentence .
+%gra:	1|6|SUBJ 2|6|AUX 3|2|NEG 4|6|AUX 5|6|INF 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|10|DET 10|8|POBJ 11|6|PUNCT
+*INV:	you can just tell me words . 24406_25985
+%mor:	pro:per|you mod|can adv|just v|tell pro:obj|me n|word-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|OBJ2 6|4|OBJ 7|4|PUNCT
+*PAR:	unhunh . [+ exc] 25985_29932
+%mor:	co|unhunh=no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	can you think of any words ? 29932_32823
+%mor:	mod|can pro:per|you v|think prep|of qn|any n|word-PL ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|QUANT 6|4|POBJ 7|3|PUNCT
+*INV:	do you have any idea of anything ? 32823_37804
+%mor:	mod|do pro:per|you v|have qn|any n|idea prep|of pro:indef|anything
+	?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+*PAR:	no [?] . [+ exc] 37804_40927
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 40927_42912
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Bill_Delayed
+*INV:	can you remember anything from the story ? 1327000_1329622
+%mor:	mod|can pro:per|you v|remember pro:indef|anything prep|from
+	det:art|the n|story ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*INV:	anything that's (.) in there ? 1329622_1332594
+%mor:	pro:indef|anything pro:rel|that~cop|be&3S prep|in n|there ?
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*PAR:	&=sighs (...) I knew it's xxx (a)bout the little boy . 1332594_1340941
+%mor:	pro:sub|I v|know&PAST pro:per|it~cop|be&3S prep|about det:art|the
+	adj|little n|boy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|2|PUNCT
+*INV:	mhm . 1340941_1342218
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and &-uh (..) I wanna say Tom but I [/] I don't think that's his
+	name . 1342218_1353758
+%mor:	coord|and pro:sub|I v|want~inf|to v|say n:prop|Tom conj|but
+	pro:sub|I mod|do~neg|not v|think comp|that~aux|be&3S det:poss|his
+	n|name .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|11|LINK 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|3|CJCT 12|15|SUBJ 13|15|AUX 14|15|DET 15|11|OBJ
+	16|3|PUNCT
+*PAR:	and &-um (..) oh_dear . [+ exc] 1353758_1362500
+%mor:	coord|and co|oh_dear .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	(...) he went to school . 1362500_1373472
+%mor:	pro:sub|he v|go&PAST prep|to n|school .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*PAR:	I'm not gonna do this . [+ exc] 1373472_1383024
+%mor:	pro:sub|I~aux|be&1S neg|not part|go&PRESP~inf|to v|do pro:dem|this
+	.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|4|PUNCT
+*INV:	okay ‡ I don't want you to get upset here . 1383024_1386310
+%mor:	co|okay beg|beg pro:sub|I mod|do~neg|not v|want pro:per|you inf|to
+	v|get adj|upset n|here .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|9|INF
+	9|6|COMP 10|11|MOD 11|9|PRED 12|6|PUNCT
+@G:	Bill_Questions
+*INV:	okay ‡ I have some questions that might help you . 1386310_1389921
+%mor:	co|okay beg|beg pro:sub|I v|have qn|some n|question-PL comp|that
+	mod|might v|help pro:per|you .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|9|SUBJ 8|9|AUX
+	9|4|COMP 10|9|OBJ 11|4|PUNCT
+*INV:	if you could just answer these . 1389921_1391697
+%mor:	conj|if pro:per|you mod|could adj|just n|answer pro:dem|these .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*INV:	can you tell me who the story was about ? 1391697_1393961
+%mor:	mod|can pro:per|you v|tell pro:obj|me pro:int|who det:art|the
+	n|story cop|be&PAST&13S adv|about ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|8|LINK 6|7|DET 7|8|SUBJ 8|3|COMP
+	9|8|JCT 10|3|PUNCT
+*PAR:	a little boy . 1393961_1396480
+%mor:	det:art|a adj|little n|boy .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*INV:	okay . 1396480_1397328
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(...) &-em what time of year was it when Bill returned to the states
+	? 1397328_1409437
+%mor:	det:int|what n|time prep|of n|year cop|be&PAST&13S pro:per|it
+	conj|when n:prop|Bill v|return-PAST prep|to det:art|the n|state-PL ?
+%gra:	1|2|DET 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|5|PRED 7|9|LINK 8|9|SUBJ
+	9|5|CJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|5|PUNCT
+*PAR:	(...) I don't know . [+ exc] 1409437_1419944
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*INV:	okay . 1419944_1420745
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	how long had Bill been away ? 1420745_1423938
+%mor:	pro:int|how adv|long v|have&PAST n:prop|Bill cop|be&PASTP adv|away
+	?
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|3|PUNCT
+*PAR:	(...) I don't know . [+ exc] 1423938_1432100
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*INV:	okay ‡ who was eagerly awaiting Bill's return ? 1432100_1435827
+%mor:	co|okay beg|beg pro:int|who aux|be&PAST&13S adv|eager&dadj-LY
+	part|await-PRESP adj|Bill&dn-POSS n|return ?
+%gra:	1|0|BEG 2|1|BEGP 3|6|LINK 4|6|AUX 5|6|JCT 6|0|ROOT 7|8|MOD 8|6|OBJ
+	9|6|PUNCT
+*PAR:	his son . 1435827_1436721
+%mor:	det:poss|his n|son .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	okay . 1436721_1437905
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(...) Johnny could remember one weekend he and Bill had spent
+	together . 1437905_1454740
+%mor:	n:prop|Johnny mod|could v|remember det:num|one n|+n|week+n|end
+	pro:sub|he coord|and n:prop|Bill aux|have&PAST part|spend&PASTP
+	adv|together .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|10|SUBJ 7|6|CONJ
+	8|7|COORD 9|10|AUX 10|5|CMOD 11|10|JCT 12|3|PUNCT
+*INV:	what did they do that weekend ? 1454740_1457701
+%mor:	pro:int|what mod|do&PAST pro:sub|they v|do det:dem|that
+	n|+n|week+n|end ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|JCT 7|4|PUNCT
+*PAR:	fishing . 1457701_1460197
+%mor:	part|fish-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 1460197_1460963
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	and what time of year was it ? 1460963_1466246
+%mor:	coord|and pro:int|what n|time prep|of n|year cop|be&PAST&13S
+	pro:per|it ?
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|6|PRED 8|6|PUNCT
+*PAR:	spring . 1466246_1467860
+%mor:	n|spring .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 1467860_1469323
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

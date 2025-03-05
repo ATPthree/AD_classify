@@ -1,0 +1,238 @@
+@UTF8
+@PID:	11312/t-00002466-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|59;|male|ProbableAD||Participant|8||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	053-1, audio
+@G:	Cookie
+*INV:	I'm going to show you a picture . 30_1460
+%wor:	I'm 30_110 going 110_250 to 250_340 show 340_600 you 600_800 a 800_870 picture 870_1460 .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|show pro:per|you
+	det:art|a n|picture .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ2 7|8|DET 8|5|OBJ
+	9|3|PUNCT
+*INV:	and I want you to look at the picture . 2108_3678
+%wor:	and 2108_2218 I 2218_2228 want 2228_2438 you 2438_2518 to 2518_2638 look 2638_2948 at 2948_3078 the 3078_3198 picture 3198_3678 .
+%mor:	coord|and pro:sub|I v|want pro:per|you inf|to v|look prep|at
+	det:art|the n|picture .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|INF 6|3|COMP 7|6|JCT
+	8|9|DET 9|7|POBJ 10|3|PUNCT
+*INV:	I want you to tell me everything that you see happening in the
+	picture . 4407_8026
+%wor:	I 4407_4437 want 4437_4597 you 4597_4657 to 4657_4827 tell 4827_5087 me 5087_5267 everything 5267_5987 that 5987_6127 you 6127_6257 see 6257_6647 happening 6647_7347 in 7347_7517 the 7517_7657  picture 7657_8027 .
+%mor:	pro:sub|I v|want pro:per|you inf|to v|tell pro:obj|me
+	pro:indef|everything pro:rel|that pro:per|you v|see
+	part|happen-PRESP prep|in det:art|the n|picture .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|INF 5|2|COMP 6|5|OBJ 7|5|OBJ
+	8|10|LINK 9|10|SUBJ 10|7|CMOD 11|10|COMP 12|11|JCT 13|14|DET
+	14|12|POBJ 15|2|PUNCT
+*PAR:	mhm . [+ exc] 8838_8958
+%wor:	mhm 8838_8958 . [+ exc]
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	just tell me everything that you see going on . 9159_11059
+%wor:	just 9159_9409 tell 9409_9579 me 9579_9739 everything 9739_10229 that 10229_10339 you 10339_10419 see 10419_10699 going 10699_10999 on 10999_11059 .
+%mor:	adv|just v|tell pro:obj|me pro:indef|everything pro:rel|that
+	pro:per|you v|see part|go-PRESP adv|on .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ2 4|2|OBJ 5|7|LINK 6|7|SUBJ 7|4|CMOD
+	8|7|COMP 9|8|JCT 10|2|PUNCT
+*INV:	now there's the picture . 12832_13842
+%wor:	now 12832_13062 there's 13092_13362 the 13362_13462 picture 13462_13842 .
+%mor:	adv:tem|now pro:exist|there~cop|be&3S det:art|the n|picture .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*INV:	look down here Mister_Lastname . 14282_15482
+%wor:	look 14282_14452 down 14452_14682 here 14682_14822 Mister_Lastname 14822_15482 .
+%mor:	v|look prep|down n|here n:prop|Mister_Lastname .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*PAR:	oh I see a part of the whole kitchen . 16454_18424
+%wor:	oh 16454_16484 I 16484_16524 see 16924_17194 a 17194_17254 part 17374_17564 of 17564_17674 the 17674_17684 whole 17684_17984 kitchen 17984_18424 .
+%mor:	co|oh pro:sub|I v|see det:art|a n|part prep|of det:art|the
+	adj|whole n|kitchen .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|3|PUNCT
+*PAR:	is that all the kitchen or isn't it ? [+ exc] 19285_20665
+%wor:	is 19285_19415 that 19415_19545 all 19545_19805 the 19865_19875 kitchen 19875_20345 or 20345_20425 isn't 20425_20605 it 20605_20665 ? [+ exc]
+%mor:	cop|be&3S comp|that qn|all det:art|the n|kitchen coord|or
+	cop|be&3S~neg|not pro:per|it ?
+%gra:	1|0|ROOT 2|5|LINK 3|5|QUANT 4|5|DET 5|1|PRED 6|5|CONJ 7|6|COORD
+	8|7|NEG 9|7|SUBJ 10|1|PUNCT
+*PAR:	&+s &-uh (..) oh I can't read +... [+ exc] 20716_29146
+%wor:	&+s &-uh 20716_20736 (..) oh 21376_21926 I 21956_21966 can't 21966_22166 read 28756_29146 +... [+ exc]
+%mor:	co|oh pro:sub|I mod|can~neg|not v|read&ZERO +...
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*PAR:	a lady a mother were in her kitchen . [+ gram] 30678_32607
+%wor:	a 30678_30778 lady 30778_31218 a 31218_31248 mother 31248_31758 were 31918_31978 in 31978_32098 her 32098_32138 kitchen 32138_32608 . [+ gram]
+%mor:	det:art|a n|lady det:art|a n|mother cop|be&PAST prep|in
+	det:poss|her n|kitchen .
+%gra:	1|2|DET 2|5|SUBJ 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	in her kɪtʃə˞@u [: kitchen] [* p:n-ret] [//] kitchen doing some
+	work I suppose . [+ gram] 33604_37744
+%wor:	in 33604_33704 her 33704_33894 kɪtʃə˞@u [: kitchen] [* p:n-ret] [//] 33894_34354 kitchen 34624_35034 doing 35934_36214 some 36214_36684  work 36954_37044 I 37044_37074 suppose 37074_37744 . [+ gram]
+%mor:	prep|in det:poss|her n|kitchen part|do-PRESP qn|some n|work
+	pro:sub|I v|suppose .
+%gra:	1|8|JCT 2|3|DET 3|1|POBJ 4|8|XJCT 5|6|QUANT 6|4|OBJ 7|8|SUBJ
+	8|0|ROOT 9|8|PUNCT
+*PAR:	and the [//] &-uh &+s there's another woman there sharing their
+	pleasures or whatever . 39009_45809
+%wor:	and 39009_39679 the [//] 39679_39689 &-uh 41829_41839 &+s there's 41839_41959 another 41959_42149 woman 42149_42359 there 42359_42789 sharing 42789_43279 their 43279_43379  pleasures 43379_45179 or 45179_45209 whatever 45209_45809 .
+%mor:	coord|and pro:exist|there~cop|be&3S qn|another n|woman adv|there
+	part|share-PRESP det:poss|their n|pleasure-PL coord|or
+	pro:indef|whatever .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|3|JCT 7|3|XJCT
+	8|9|DET 9|7|OBJ 10|9|CONJ 11|10|COORD 12|3|PUNCT
+*INV:	okay there it is . 47297_50017
+%wor:	okay 47297_47747 there 47747_48127 it 49467_49797 is 49797_50017 .
+%mor:	co|okay adv|there pro:per|it cop|be&3S .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	oh <have you> [/] have you checked [//] heard of that new game that
+	they started to play after christmas ? [+ exc] 51434_59344
+%wor:	oh 51434_51884 <have 52794_52954 you 52954_53084> [/] have you checked [//] 53204_53814 heard 56074_56304 of 56304_56364 that 56364_56594 new 56594_56844 game 57104_57374 that 57374_57554  they 57554_57754 started 57754_58174 to 58174_58234 play 58234_58574 after 58574_58834 christmas 58834_59344 ? [+ exc]
+%mor:	co|oh v|have pro:per|you v|hear&PAST prep|of det:dem|that adj|new
+	n|game pro:rel|that pro:sub|they v|start-PAST prep|to n|play
+	prep|after n|christmas ?
+%gra:	1|2|COM 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|11|JCT 13|12|POBJ 14|13|NJCT
+	15|14|POBJ 16|2|PUNCT
+*INV:	yes you were telling me about that Mister_Lastname . 59413_61463
+%wor:	yes 59413_59773 you 59773_59853 were 59853_59933 telling 59933_60303 me 60303_60423 about 60423_60703 that 60703_60923 Mister_Lastname 60923_61463 .
+%mor:	co|yes pro:per|you aux|be&PAST part|tell-PRESP pro:obj|me adv|about
+	pro:rel|that n:prop|Mister_Lastname .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|JCT 7|8|LINK 8|4|OBJ
+	9|4|PUNCT
+*PAR:	+< did you ? [+ exc] 60840_60950
+%wor:	+< did 60840_60910 you 60910_60950 ? [+ exc]
+%mor:	mod|do&PAST pro:per|you ?
+%gra:	1|2|AUX 2|0|INCROOT 3|2|PUNCT
+*INV:	Trivial_Pursuit mhm . 61548_63278
+%wor:	Trivial_Pursuit 61548_62818 mhm 62818_63278 .
+%mor:	n:prop|Trivial_Pursuit co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*PAR:	+< xxx is a +/. [+ exc] 63870_64290
+%wor:	+< xxx is 63870_64090 a 64090_64290 +/. [+ exc]
+%mor:	cop|be&3S det:art|a +/.
+%gra:	1|0|ROOT 2|3|DET 3|1|PUNCT
+*INV:	+< just tell me do you see anything else happening in this picture
+	here ? 64348_67408
+%wor:	+< just 64348_64558 tell 64558_64718 me 64718_64808 do 64808_64978 you 64978_65058 see 65058_65298 anything 65298_65658 else 65658_65968 happening 65968_66388 in 66388_66528 this 66528_66698 picture 66698_67108  here 67108_67408 ?
+%mor:	adv|just v|tell pro:obj|me mod|do pro:per|you v|see
+	pro:indef|anything post|else part|happen-PRESP prep|in det:dem|this
+	n|picture adv|here ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|6|AUX 5|6|SUBJ 6|2|SUBJ 7|2|OBJ 8|7|PQ
+	9|7|XMOD 10|9|JCT 11|12|DET 12|10|POBJ 13|9|JCT 14|2|PUNCT
+*INV:	what else do you see happening ? 68441_69461
+%wor:	what 68441_68601 else 68601_68901 do 68901_68961 you 68961_69041 see 69041_69261 happening 69261_69461 ?
+%mor:	pro:int|what post|else mod|do pro:per|you v|see part|happen-PRESP ?
+%gra:	1|5|LINK 2|1|PQ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|COMP 7|5|PUNCT
+*INV:	what's going on there ? 70289_71099
+%wor:	what's 70289_70479 going 70479_70759 on 70759_70979 there 70979_71099 ?
+%mor:	pro:int|what~aux|be&3S part|go-PRESP prep|on n|there ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	well it looks like +... 71305_72205
+%wor:	well 71305_71715 it 71715_71775 looks 71775_71985 like 71985_72205 +...
+%mor:	co|well pro:per|it v|look-3S prep|like +...
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	I'd say this is +... 75349_76529
+%wor:	I'd 75349_75639 say 75639_76009 this 76009_76259 is 76259_76529 +...
+%mor:	pro:sub|I~mod|genmod v|say det:dem|this cop|be&3S +...
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|COMP 6|3|PUNCT
+*PAR:	well let's see . [+ exc] 77770_78690
+%wor:	well 77770_77860 let's 77860_78020 see 78630_78690 . [+ exc]
+%mor:	co|well v|let~pro:obj|us v|see .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|COMP 5|2|PUNCT
+*PAR:	it looks like +... 80300_81090
+%wor:	it 80300_80510 looks 80510_80750 like 80790_81090 +...
+%mor:	pro:per|it v|look-3S conj|like +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OM 4|2|PUNCT
+*PAR:	oh +... [+ exc] 83490_84250
+%wor:	oh 83490_84250 +... [+ exc]
+%mor:	co|oh +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<bʌmbʌdɪ@u [: x@n] [* n:uk] bʌmbʌdɪ@u [: x@n] [* n:uk]> [=! sings]
+	&=sings . [+ exc] 86003_87063
+%wor:	<bʌmbʌdɪ@u [: x@n] [* n:uk] 86003_86263 bʌmbʌdɪ@u [: x@n] [* n:uk]> [=! sings]  &=sings . [+ exc] 86703_87063
+%mor:	neo|x neo|x .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	<my mother will beat me by> [//] my wife will beat me by a couple
+	rows of this . [+ exc] 89156_93896
+%wor:	<my 89156_89216 mother 89216_89396 will 89396_89556 beat 89556_89786 me 89786_89796 by 89796_89856> [//] my wife will beat me by a couple  rows of this . [+ exc] 89856_93896
+%mor:	det:poss|my n|wife mod|will v|beat&ZERO pro:obj|me prep|by
+	det:art|a qn|couple n|row-PL prep|of pro:dem|this .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|9|QUANT
+	9|6|POBJ 10|9|NJCT 11|10|POBJ 12|4|PUNCT
+*INV:	what's happening over here Mister_Lastname ? 93963_95423
+%wor:	what's 93963_94183 happening 94183_94523 over 94523_94693 here 94693_94953 Mister_Lastname 94953_95423 ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP prep|over n|here
+	n:prop|Mister_Lastname ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|PUNCT
+*PAR:	that's [/] that's like the <washing would say> [//] washing machine
+	? 96140_99050
+%wor:	that's [/] 96140_96460 that's 96460_96690 like 96690_96960 the 96960_97210 <washing 97610_97920 would 97920_98050 say 98050_98240> [//] washing machine  ? 98240_99050
+%mor:	pro:dem|that~cop|be&3S conj|like det:art|the part|wash-PRESP
+	n|machine ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
+*PAR:	or let me see . [+ exc] 99100_100340
+%wor:	or 99100_99130 let 99130_100000 me 100000_100020 see 100020_100340 . [+ exc]
+%mor:	coord|or v|let&ZERO pro:obj|me v|see .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|COMP 5|2|PUNCT
+*PAR:	I can't +... [+ exc] 100652_101022
+%wor:	I 100652_100682 can't 100682_101022 +... [+ exc]
+%mor:	pro:sub|I mod|can~neg|not +...
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+*PAR:	oh ‡ that's the son come out_of [//] from school maybe or something
+	. [+ gram] 101445_103825
+%wor:	oh 101445_101615 ‡ that's 101615_101895 the 101895_101955 son 101955_102245 come 102245_102335 out_of [//] 102335_102535 from 102535_102685 school 102685_102995 maybe 102995_103365 or 103365_103405 something 103405_103825  . [+ gram]
+%mor:	co|oh beg|beg pro:dem|that~cop|be&3S det:art|the n|son v|come
+	prep|from n|school adv|maybe coord|or pro:indef|something .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|7|SUBJ 7|4|CPRED
+	8|7|JCT 9|8|POBJ 10|7|JCT 11|10|CONJ 12|11|COORD 13|4|PUNCT
+*INV:	mhm . 104157_104477
+%wor:	mhm 104157_104477 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	that's a youngster there . 104695_105675
+%wor:	that's 104695_104925 a 104925_104975 youngster 104975_105435 there 105435_105675 .
+%mor:	pro:dem|that~cop|be&3S det:art|a n|youngster adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|2|PUNCT
+*INV:	what's going on here ? 106116_106956
+%wor:	what's 106116_106326 going 106326_106586 on 106586_106836 here 106836_106956 ?
+%mor:	pro:int|what~aux|be&3S part|go-PRESP prep|on n|here ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	well that's just as though they (.) getting ready to go to school
+	or they're just coming out from school . [+ gram] 107642_114252
+%wor:	well 107642_107872 that's 107872_108232 just 108232_108452 as 108452_108612 though 108612_108782 they 108782_109072 (.) getting 111312_111612 ready 111612_111832 to 111832_111902 go 111902_112102 to 112102_112172 school 112172_112482  or 112482_112672 they're 112672_112832 just 112832_113172 coming 113172_113442 out 113442_113672 from 113672_113832 school 113832_114252 . [+ gram]
+%mor:	co|well pro:dem|that~cop|be&3S adv|just conj|as adv|though
+	pro:sub|they part|get-PRESP adj|ready inf|to v|go prep|to n|school
+	coord|or pro:sub|they~aux|be&PRES adv|just part|come-PRESP adv|out
+	prep|from n|school .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PRED 6|5|NJCT 7|6|POBJ
+	8|7|XJCT 9|8|PRED 10|11|INF 11|9|XMOD 12|11|JCT 13|12|POBJ
+	14|18|LINK 15|18|SUBJ 16|18|AUX 17|18|JCT 18|8|CJCT 19|18|JCT
+	20|18|JCT 21|20|POBJ 22|3|PUNCT
+*INV:	okay and what's happening here ? 114304_116834
+%wor:	okay 114304_114394 and 114944_115794 what's 115794_116174 happening 116174_116664 here 116664_116834 ?
+%mor:	co|okay coord|and pro:int|what~aux|be&3S part|happen-PRESP n|here ?
+%gra:	1|5|COM 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	and right there he's &-uh same as back there except for down there
+	in the bottom I think it's +... 118026_123526
+%wor:	and 118026_118156 right 118156_118426 there 118426_118786 he's 118786_119066 &-uh 119066_119366 same 120366_120696 as 120696_120786 back 120786_121156 there 121156_121416 except 121416_121776 for 121776_121896 down 121896_122196 there 122196_122316  in 122316_122396 the 122396_122526 bottom 122526_122896 I 122896_122986 think 122986_123316 it's 123316_123526 +...
+%mor:	coord|and adv|right n|there pro:sub|he~cop|be&3S pro:indef|same
+	adv|as adv|back adv|there prep|except prep|for prep|down n|there
+	prep|in det:art|the n|bottom pro:sub|I v|think pro:per|it~cop|be&3S
+	+...
+%gra:	1|3|LINK 2|3|JCT 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|8|JCT
+	8|6|NJCT 9|6|JCT 10|6|NJCT 11|10|POBJ 12|11|POBJ 13|12|POBJ
+	14|13|NJCT 15|16|DET 16|14|POBJ 17|18|SUBJ 18|5|CJCT 19|18|OBJ
+	20|18|JCT 21|5|PUNCT
+*PAR:	&-uh that's a little xxx . [+ jar] 124197_127257
+%wor:	&-uh 124197_124797 that's 126397_126597 a 126597_126827 little 126857_127257 xxx . [+ jar]
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|little .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*INV:	okay . 129997_130467
+%wor:	okay 129997_130467 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,96 @@
+@UTF8
+@PID:	11312/t-00002637-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|58;|female|ProbableAD||Participant|18||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	356-1, audio
+@G:	Cookie
+*INV:	I want you to tell me everything that you see going on in that
+	picture . 30_3560
+%wor:	I 30_40 want 40_450 you 450_530 to 530_590 tell 590_840 me 840_970 everything 970_1570 that 1570_1790 you 1790_1880 see 1880_2100 going 2100_2450 on 2560_2740 in 2740_2940 that 2940_3380  picture 3380_3560 .
+%mor:	pro:sub|I v|want pro:per|you inf|to v|tell pro:obj|me
+	pro:indef|everything pro:rel|that pro:per|you v|see part|go-PRESP
+	adv|on prep|in det:dem|that n|picture .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|INF 5|2|COMP 6|5|OBJ 7|5|OBJ
+	8|10|LINK 9|10|SUBJ 10|7|CMOD 11|10|COMP 12|11|JCT 13|11|JCT
+	14|15|DET 15|13|POBJ 16|2|PUNCT
+*INV:	everything that you see happening there . 3940_5710
+%wor:	everything 3940_4430 that 4430_4530 you 4530_4660 see 4660_4890 happening 4890_5480 there 5480_5710 .
+%mor:	pro:indef|everything pro:rel|that pro:per|you v|see
+	part|happen-PRESP n|there .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CMOD 5|4|COMP 6|5|OBJ 7|1|PUNCT
+*PAR:	a cookie jar . [+ gram] 7627_8457
+%wor:	a 7627_7687 cookie 7777_8087 jar 8087_8457 . [+ gram]
+%mor:	det:art|a n|cookie n|jar .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	and <the kid's> [//] the boy's going to get from the cookie jar . 8640_12260
+%wor:	and 8640_8810 <the 10060_10070 kid's 10070_10320> [//] the boy's going to get from the cookie jar . 10320_12260
+%mor:	coord|and det:art|the n|boy~aux|be&3S part|go-PRESP inf|to v|get
+	prep|from det:art|the n|cookie n|jar .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|5|PUNCT
+*PAR:	and the mother's washin(g) [//] dryin(g) dishes . 12295_14905
+%wor:	and 12295_12525 the 12525_12535 mother's 12535_12865 washin(g) [//] 12865_13355 dryin(g) 13865_14385 dishes 14385_14905 .
+%mor:	coord|and det:art|the n|mother~aux|be&3S part|dry-PRESP n|dish-PL .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	oh_boy ! [+ exc] 15450_15960
+%wor:	oh_boy 15450_15960 ! [+ exc]
+%mor:	co|oh_boy !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and then in here what happens &=laughs ? [+ exc] 16000_17640
+%wor:	and 16000_16340 then 16340_16470 in 16470_16530 here 16530_16870 what 16870_17120 happens 17120_17640 &=laughs ? [+ exc]
+%mor:	coord|and adv:tem|then prep|in n|here pro:int|what v|happen-3S ?
+%gra:	1|6|LINK 2|6|JCT 3|6|JCT 4|3|POBJ 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*PAR:	where all that water's comin(g) out_o(f) there &=laughs . [+ gram]
+	18656_20426
+%wor:	where 18656_18746 all 18746_18906 that 18906_19096 water's 19096_19486 comin(g) 19596_19836 out_o(f) 19836_20166 there 20166_20426 &=laughs . [+ gram]
+%mor:	pro:int|where qn|all pro:dem|that n|water~aux|be&3S part|come-PRESP
+	prep|out_of n|there .
+%gra:	1|3|LINK 2|3|QUANT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT
+	8|7|POBJ 9|6|PUNCT
+*PAR:	oh_gosh . [+ exc] 21878_22818
+%wor:	oh_gosh 21878_22818 . [+ exc]
+%mor:	co|oh_gosh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and the little one <I don't know what he's [: she's] [* s:r-ret]>
+	[//] she's gonna get somethin(g) from him . [+ es] 23583_26793
+%wor:	and 23583_23693 the 23693_23703 little 23703_24113 one 24113_24343 <I 24343_24443 don't 24443_24553 know 24553_24693 what 24693_24853 he's [: she's] [* s:r-ret]>  [//] 24883_25213 she's 25253_25443 gonna 25443_25733 get 25733_26123 somethin(g) 26123_26373 from 26373_26663 him 26663_26793 . [+ es]
+%mor:	coord|and det:art|the adj|little pro:indef|one
+	pro:sub|she~aux|be&3S part|go&PRESP~inf|to v|get pro:indef|something
+	prep|from pro:obj|him .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|7|SUBJ 6|7|AUX 7|4|CMOD
+	8|9|INF 9|7|COMP 10|9|OBJ 11|9|JCT 12|11|POBJ 13|4|PUNCT
+*PAR:	oy oy . [+ exc] 28073_29153
+%wor:	oy 28073_29003 oy 29003_29153 . [+ exc]
+%mor:	co|oy co|oy .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	(.) &-hm that was it . [+ exc] 32302_33202
+%wor:	(.) &-hm 32302_32492 that 32712_33022 was 33022_33142 it 33142_33202 . [+ exc]
+%mor:	pro:dem|that cop|be&PAST&13S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	oh . [+ exc] 33859_34029
+%wor:	oh 33859_34029 . [+ exc]
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	okay ‡ what do I hafta do now ? [+ exc] 35890_37200
+%wor:	okay 35890_36120 ‡ what 36120_36270 do 36270_36390 I 36390_36510 hafta 36510_36720 do 36720_36920 now 36920_37200 ? [+ exc]
+%mor:	co|okay beg|beg pro:int|what mod|do pro:sub|I mod|have~inf|to v|do
+	adv:tem|now ?
+%gra:	1|0|BEG 2|1|BEGP 3|8|SUBJ 4|8|AUX 5|8|SUBJ 6|8|AUX 7|8|INF 8|0|ROOT
+	9|8|JCT 10|8|PUNCT
+*INV:	good . 37392_37702
+%wor:	good 37392_37702 .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	that [//] you done ? 37841_38251
+%wor:	that [//] 37841_37931 you 37931_38001 done 38001_38251 ?
+%mor:	pro:per|you part|do&PASTP ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*INV:	okay that's fine . 38398_39198
+%wor:	okay 38398_38708 that's 38708_38978 fine 39018_39198 .
+%mor:	co|okay pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

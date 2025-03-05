@@ -1,0 +1,171 @@
+@UTF8
+@PID:	11312/t-00002598-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|72;|female|ProbableAD||Participant|21||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	279-0, audio
+@G:	Cookie
+*INV:	and here's the picture . 420_1500
+%wor:	and 420_640 here's 640_940 the 940_1070 picture 1070_1500 .
+%mor:	coord|and pro:exist|here~cop|be&3S det:art|the n|picture .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	kid's stool turnin(g) over . [+ gram] 4953_7123
+%wor:	kid's 4953_5283 stool 5283_5803 turnin(g) 6353_6793 over 6793_7123 . [+ gram]
+%mor:	adj|kid&dn-POSS n|stool part|turn-PRESP adv|over .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|XMOD 4|3|JCT 5|2|PUNCT
+*PAR:	she [//] &-uh tryin(g) to steal cookies out_of the cookie jar .
+	[+ gram] 8400_10890
+%wor:	she [//] 8400_8480 &-uh 8630_8640 tryin(g) 8640_8840 to 8840_9160 steal 9160_9500 cookies 9500_9890 out_of 9890_10020 the 10020_10160 cookie 10160_10440 jar 10440_10890 .  [+ gram]
+%mor:	part|try-PRESP inf|to v|steal n|cookie-PL prep|out_of det:art|the
+	n|cookie n|jar .
+%gra:	1|0|INCROOT 2|3|INF 3|1|COMP 4|3|OBJ 5|3|JCT 6|8|DET 7|8|MOD
+	8|5|POBJ 9|1|PUNCT
+*PAR:	little girl is reachin(g) up to grab hers . [+ gram] 11461_13751
+%wor:	little 11461_11641 girl 11641_11991 is 11991_12131 reachin(g) 12421_12741 up 12741_12891 to 12891_12961 grab 12961_13311 hers 13311_13751 . [+ gram]
+%mor:	adj|little n|girl aux|be&3S part|reach-PRESP adv|up inf|to v|grab
+	pro:poss|hers .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|INF 7|4|XJCT 8|7|OBJ
+	9|4|PUNCT
+*PAR:	huh . [+ exc] 14960_15110
+%wor:	huh 14960_15110 . [+ exc]
+%mor:	co|huh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	mother's doin(g) the dishes but let the water run over all over the
+	floor . 15314_18964
+%wor:	mother's 15314_15774 doin(g) 16214_16434 the 16434_16554 dishes 16554_16824 but 16824_16944 let 16944_17154 the 17154_17164 water 17164_17524 run 17524_17754 over 17754_18054 all 18054_18234 over 18234_18394 the 18394_18504  floor 18504_18964 .
+%mor:	n|mother~aux|be&3S part|do-PRESP det:art|the n|dish-PL conj|but
+	v|let&ZERO det:art|the n|water n|run adv|over adv|all prep|over
+	det:art|the n|floor .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|6|COORD
+	8|10|DET 9|10|MOD 10|7|OBJ 11|7|JCT 12|13|JCT 13|7|JCT 14|15|DET
+	15|13|POBJ 16|3|PUNCT
+*PAR:	and she's standin(g) in a puddle . 20511_21861
+%wor:	and 20511_20641 she's 20641_20841 standin(g) 20841_21251 in 21251_21361 a 21361_21391 puddle 21391_21861 .
+%mor:	coord|and pro:sub|she~aux|be&3S part|stand-PRESP prep|in det:art|a
+	n|puddle .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	(..) action . [+ gram] [+ exc] 25976_26256
+%wor:	(..) action 25976_26256 . [+ gram] [+ exc]
+%mor:	n|action .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) dryin(g) the dishes . [+ gram] 30861_31771
+%wor:	(...) dryin(g) 30861_31191 the 31191_31301 dishes 31301_31771 . [+ gram]
+%mor:	part|dry-PRESP det:art|the n|dish-PL .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	(.) or did I say that before before ? [+ exc] 33147_34147
+%wor:	(.) or 33147_33177 did 33177_33317 I 33317_33397 say 33397_33577 that 33577_33667 before 33667_33827 before 33877_34147 ? [+ exc]
+%mor:	coord|or mod|do&PAST pro:sub|I v|say comp|that adv|before
+	adv|before ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|JCT 7|5|JCT
+	8|4|PUNCT
+*PAR:	yeah . [+ exc] 34951_35011
+%wor:	yeah 34951_35011 . [+ exc]
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	kid's laughin(g) . [+ gram] 37908_38748
+%wor:	kid's 37908_38228 laughin(g) 38228_38748 . [+ gram]
+%mor:	n|kid~aux|be&3S part|laugh-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	the other kid with the stool fallin(g) over &=laughs break his neck
+	. [+ gram] 40094_44244
+%wor:	the 40094_40214 other 40214_40434 kid 40484_40674 with 41334_41754 the 41754_41804 stool 41804_42154 fallin(g) 42394_42724 over 42724_43194 &=laughs break 43584_43844 his 43844_44044 neck 44044_44244  . [+ gram]
+%mor:	det:art|the qn|other n|kid prep|with det:art|the n|stool
+	part|fall-PRESP adv|over n|break det:poss|his n|neck .
+%gra:	1|3|DET 2|3|QUANT 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|6|XMOD
+	8|9|JCT 9|7|COMP 10|11|DET 11|9|OBJ 12|3|PUNCT
+*INV:	mhm . 44594_45354
+%wor:	mhm 44594_45354 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-hm there no action to the curtains . [+ gram] 47848_49648
+%wor:	&-hm 47848_47998 there 47998_48138 no 48138_48328 action 48328_48758 to 48758_48898 the 48898_49088 curtains 49088_49648 . [+ gram]
+%mor:	adv|there qn|no n|action prep|to det:art|the n|curtain-PL .
+%gra:	1|2|JCT 2|3|QUANT 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and grass is growing out there . 49664_51284
+%wor:	and 49664_49904 grass 50094_50444 is 50444_50514 growing 50514_50894 out 50894_51114 there 51114_51284 .
+%mor:	coord|and n|grass aux|be&3S part|grow-PRESP prep|out n|there .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	I guess you can call that action . [+ exc] 51300_53490
+%wor:	I 51300_51490 guess 51490_51780 you 51780_51840 can 51840_52010 call 52140_52400 that 52400_52710 action 53000_53490 . [+ exc]
+%mor:	pro:sub|I v|guess pro:per|you mod|can v|call det:dem|that n|action
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|7|DET 7|5|OBJ
+	8|2|PUNCT
+*PAR:	leaves are probably blowing . 55327_56647
+%wor:	leaves 55327_55637 are 55637_55697 probably 55697_56137 blowing 56137_56647 .
+%mor:	n|leaf-PL aux|be&PRES adv|probable&dadj-LY part|blow-PRESP .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*PAR:	(.) the mother's in her own little world . 61156_62636
+%wor:	(.) the 61156_61166 mother's 61166_61506 in 61506_61716 her 61716_61756 own 61756_61916 little 61946_62206 world 62206_62636 .
+%mor:	det:art|the n|mother~cop|be&3S prep|in det:poss|her adj|own
+	adj|little n|world .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|8|DET 6|8|MOD 7|8|MOD 8|4|POBJ
+	9|3|PUNCT
+*PAR:	the water's still runnin(g) . 63090_64069
+%wor:	the 63090_63100 water's 63100_63420 still 63420_63670 runnin(g) 63670_64070 .
+%mor:	det:art|the n|water~aux|be&3S adv|still part|run-PRESP .
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*INV:	okay . 65438_66398
+%wor:	okay 65438_66398 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cookie jar . [+ gram] 69398_69858
+%wor:	cookie 69398_69568 jar 69758_69858 . [+ gram]
+%mor:	n|cookie n|jar .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	he's handin(g) (th)em out (.) like he [/] he made them &=laughs . 70620_75310
+%wor:	he's 70620_70870 handin(g) 70870_71160 (th)em 71160_71280 out 71280_71470 (.) like 73570_73740 he [/] 74260_74270 he 74270_74370 made 74410_74820 them 75220_75310 &=laughs .
+%mor:	pro:sub|he~aux|be&3S part|hand-PRESP pro:obj|them adv|out conj|like
+	pro:sub|he v|make&PAST pro:obj|them .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|8|LINK 7|8|SUBJ
+	8|3|CJCT 9|8|OBJ 10|3|PUNCT
+*INV:	&=laughs .
+%wor:	&=laughs .
+*PAR:	the chair's [: stool's] [* s:r-ret] fallin(g) over or the stool .
+	[+ gram] 77612_79832
+%wor:	the 77612_78042 chair's [: stool's] [* s:r-ret] 78202_78562 fallin(g) 78562_78922 over 78922_79222 or 79222_79292 the 79292_79392 stool 79392_79832 .  [+ gram]
+%mor:	det:art|the n|stool~aux|be&3S part|fall-PRESP adv|over coord|or
+	det:art|the n|stool .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|CONJ 7|8|DET
+	8|6|COORD 9|4|PUNCT
+*INV:	okay . 80318_81178
+%wor:	okay 80318_81178 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+< I think . [+ exc] 80610_80700
+%wor:	+< I 80610_80620 think 80620_80700 . [+ exc]
+%mor:	pro:sub|I v|think .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*INV:	good . 82222_82572
+%wor:	good 82222_82572 .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and I think the little kid kicked it . 83258_84568
+%wor:	and 83258_83348 I 83348_83388 think 83388_83608 the 83608_83688 little 83688_83868 kid 83868_84198 kicked 84198_84488 it 84488_84568 .
+%mor:	coord|and pro:sub|I v|think det:art|the adj|little n|kid
+	v|kick-PAST pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|7|SUBJ 7|3|COMP
+	8|7|OBJ 9|3|PUNCT
+*PAR:	and it pushed him over &=laughs . 84704_86034
+%wor:	and 84704_84804 it 84834_84894 pushed 84894_85284 him 85284_85504 over 85544_86034 &=laughs .
+%mor:	coord|and pro:per|it v|push-PAST pro:obj|him adv|over .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*INV:	okay . 86562_87692
+%wor:	okay 86562_87692 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+< instead of holdin(g) him up she gave him a shove . 87330_89500
+%wor:	+< instead 87330_87640 of 87640_87750 holdin(g) 87750_88070 him 88070_88140 up 88140_88330 she 88330_88340 gave 88670_88850 him 88850_88910 a 88910_88970 shove 88970_89500 .
+%mor:	adv|instead prep|of part|hold-PRESP pro:obj|him adv|up pro:sub|she
+	v|give&PAST pro:obj|him det:art|a v|shove .
+%gra:	1|5|JCT 2|1|JCT 3|2|POBJ 4|3|OBJ 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|7|OBJ
+	9|10|DET 10|7|OBJ 11|7|PUNCT
+*INV:	okay good . 90700_91710
+%wor:	okay 90700_91190 good 91420_91710 .
+%mor:	co|okay adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

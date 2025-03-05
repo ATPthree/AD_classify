@@ -1,0 +1,90 @@
+@UTF8
+@PID:	11312/t-00002234-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|60;00.|male|Control||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	071-4, audio
+@Comment:	age is educated estimate, extrapolated from incomplete
+	demographic data
+@G:	Cookie
+*PAR:	&-uh badly damaged &=laughs sink . [+ gram] 90_2690
+%wor:	&-uh 90_660 badly 660_1060 damaged 1060_1540 &=laughs sink 2430_2690 . [+ gram]
+%mor:	adv|bad&dadj-LY v|damage-PAST n|sink .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*INV:	yep . 3045_3285
+%wor:	yep 3045_3285 .
+%mor:	co|yep .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	mother's drying dishes . 4275_5335
+%wor:	mother's 4275_4565 drying 4565_4915 dishes 4915_5335 .
+%mor:	n|mother~aux|be&3S part|dry-PRESP n|dish-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	&-uh is it action if she's standing in a puddle of water ? [+ exc]
+	5539_7849
+%wor:	&-uh 5539_5859 is 5859_6179 it 6179_6269 action 6269_6589 if 6589_6669 she's 6669_6809 standing 6809_7139 in 7139_7219 a 7219_7269 puddle 7269_7529 of 7529_7589 water 7589_7849 ? [+ exc]
+%mor:	aux|be&3S pro:per|it n|action conj|if pro:sub|she~aux|be&3S
+	part|stand-PRESP prep|in det:art|a n|puddle prep|of n|water ?
+%gra:	1|3|AUX 2|3|MOD 3|0|INCROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CJCT
+	8|7|JCT 9|10|DET 10|8|POBJ 11|10|NJCT 12|11|POBJ 13|3|PUNCT
+*PAR:	no, water <(i)s running over> [//] &+f is overflowing the sink . 8566_11076
+%wor:	no, 8566_8806 water 8836_9086 <(i)s 9086_9196 running 9196_9426 over 9426_9876> [//] &+f is overflowing the sink . 9876_11076
+%mor:	co|no cm|cm n|water aux|be&3S over#part|flow-PRESP det:art|the
+	n|sink .
+%gra:	1|5|COM 2|1|LP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	the window is open . 12399_13279
+%wor:	the 12399_12419 window 12419_12829 is 12829_12949 open 12949_13279 .
+%mor:	det:art|the n|window cop|be&3S adj|open .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	it's blowing the curtain . 13300_14390
+%wor:	it's 13300_13450 blowing 13450_13850 the 13850_13970 curtain 13970_14390 .
+%mor:	pro:per|it~aux|be&3S part|blow-PRESP det:art|the n|curtain .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	&-uh Billy's about to fall off the stool while handing cookies to
+	his sister . 15451_20411
+%wor:	&-uh 15451_15891 Billy's 15891_16361 about 16361_16651 to 16651_16711 fall 16711_17031 off 17031_17231 the 17231_17311 stool 17311_17791 while 18741_19091 handing 19091_19391 cookies 19391_19761 to 19761_19961  his 19961_20081 sister 20081_20411 .
+%mor:	n:prop|Billy~cop|be&3S adv|about prep|to n|fall prep|off
+	det:art|the n|stool conj|while part|hand-PRESP n|cookie-PL prep|to
+	det:poss|his n|sister .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|5|NJCT 7|8|DET
+	8|6|POBJ 9|2|JCT 10|9|CPOBJ 11|10|OBJ 12|11|NJCT 13|14|DET
+	14|12|POBJ 15|2|PUNCT
+*PAR:	that's another thing . [+ exc] 20429_21279
+%wor:	that's 20429_20709 another 20709_20979 thing 20979_21279 . [+ exc]
+%mor:	pro:dem|that~cop|be&3S qn|another n|thing .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+*PAR:	and &-uh (.) water's running on the floor as_well_as out_of the
+	sink &=laughs . 22917_28097
+%wor:	and 22917_23477 &-uh 23477_23827 (.) water's 25057_25427 running 25427_25687 on 25687_25897 the 25897_25927 floor 25927_26367 as_well_as 27027_27177 out_of 27177_27727 the 27727_27827 sink 27827_28097  &=laughs .
+%mor:	coord|and n|water~aux|be&3S part|run-PRESP prep|on det:art|the
+	n|floor prep|as_well_as prep|out_of det:art|the n|sink .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|JCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+*INV:	okay ? 29507_29767
+%wor:	okay 29507_29767 ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	water's running out_of the faucet . 29783_30863
+%wor:	water's 29783_30053 running 30053_30233 out_of 30233_30433 the 30433_30473 faucet 30473_30863 .
+%mor:	n|water~aux|be&3S part|run-PRESP prep|out_of det:art|the n|faucet .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	does that count too ? [+ exc] 31000_31750
+%wor:	does 31000_31110 that 31110_31270 count 31270_31550 too 31550_31750 ? [+ exc]
+%mor:	mod|do&3S pro:dem|that v|count adv|too ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*INV:	+< mhm . 31744_31924
+%wor:	+< mhm 31744_31924 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	okay . [+ exc] 32256_32607
+%wor:	okay 32257_32607 . [+ exc]
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I don't see anything else happening . [+ exc] 34023_35003
+%wor:	I 34023_34073 don't 34073_34213 see 34213_34363 anything 34363_34543 else 34543_34753 happening 34753_35003 . [+ exc]
+%mor:	pro:sub|I mod|do~neg|not v|see pro:indef|anything post|else
+	part|happen-PRESP .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|5|PQ 7|4|XJCT 8|4|PUNCT
+@End

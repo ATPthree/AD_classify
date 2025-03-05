@@ -1,0 +1,129 @@
+@UTF8
+@PID:	11312/t-00002483-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|74;|female|ProbableAD||Participant|15||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	067-2, audio
+@G:	Cookie
+*PAR:	the little boy is up on [/] &-uh on this thing here . [+ es] 0_5940
+%wor:	the 0_60 little 60_440 boy 440_820 is 820_970 up 970_1190 on [/] 1190_1370 &-uh 1370_1450 on 3160_3610 this 3610_4010 thing 5160_5580 here 5580_5940 . [+ es]
+%mor:	det:art|the adj|little n|boy cop|be&3S adv|up prep|on det:dem|this
+	n|thing adv|here .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|JCT 10|4|PUNCT
+*PAR:	and it's [//] he's up trying to get something out_of the garden
+	[* s:uk] selection „ I think it is . 6000_13160
+%wor:	and 6000_6440 it's [//] 6500_6860 he's 7200_7450 up 7450_7750 trying 8400_8710 to 8710_8780 get 8780_9080 something 9080_9480 out_of 9480_10110 the 10110_10120 garden  [* s:uk] 10980_11430 selection 11500_12350 „ I 12350_12410 think 12410_12800 it 12800_13000 is 13000_13160 .
+%mor:	coord|and pro:sub|he~aux|be&3S adv|up part|try-PRESP inf|to v|get
+	pro:indef|something prep|out_of det:art|the n|garden n|selection
+	end|end pro:sub|I v|think pro:per|it cop|be&3S .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|7|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|15|ENDP 14|15|SUBJ 15|5|END
+	16|17|SUBJ 17|5|CJCT 18|5|PUNCT
+*PAR:	(.) the little girl I think is mad because she didn't get some of
+	it &=laughs . 19745_23605
+%wor:	(.) the 19745_19765 little 19765_20125 girl 20125_20645 I 20645_20725 think 20725_21055 is 21055_21225 mad 21225_21585 because 21585_21945 she 21945_22035 didn't 22035_22385 get 22385_22665 some 22665_22895 of 22895_23505  it 23505_23605 &=laughs .
+%mor:	det:art|the adj|little n|girl pro:sub|I v|think aux|be&3S adj|mad
+	conj|because pro:sub|she mod|do&PAST~neg|not v|get pro:indef|some
+	prep|of pro:per|it .
+%gra:	1|3|DET 2|3|MOD 3|6|SUBJ 4|5|SUBJ 5|3|CMOD 6|0|ROOT 7|6|PRED
+	8|12|LINK 9|12|SUBJ 10|12|AUX 11|10|NEG 12|6|CJCT 13|12|OBJ
+	14|13|NJCT 15|14|POBJ 16|6|PUNCT
+*INV:	+< &=laughs .
+%wor:	+< &=laughs .
+*PAR:	and here's mama dryin(g) the dishes . 26370_28710
+%wor:	and 26370_26680 here's 26680_26950 mama 26950_27530 dryin(g) 27790_28340 the 28340_28350 dishes 28350_28710 .
+%mor:	coord|and pro:exist|here~cop|be&3S n|mama part|dry-PRESP
+	det:art|the n|dish-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|XMOD 6|7|DET 7|5|OBJ
+	8|3|PUNCT
+*INV:	okay . 31525_32244
+%wor:	okay 31525_32245 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	anything else going on ? 33641_34801
+%wor:	anything 33641_34031 else 34031_34231 going 34231_34551 on 34551_34801 ?
+%mor:	pro:indef|anything post|else part|go-PRESP adv|on ?
+%gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	no ‡ just the little girl and the boy was on here . 35497_38997
+%wor:	no 35497_35747 ‡ just 35797_36047 the 36047_36087 little 36087_36357 girl 36357_37037 and 37037_37167 the 37167_37177 boy 37177_37547 was 38387_38587 on 38587_38887 here 38887_38997 .
+%mor:	co|no beg|beg adv|just det:art|the adj|little n|girl coord|and
+	det:art|the n|boy cop|be&PAST&13S prep|on n|here .
+%gra:	1|0|BEG 2|1|BEGP 3|6|JCT 4|6|DET 5|6|MOD 6|10|SUBJ 7|6|CONJ 8|9|DET
+	9|7|COORD 10|0|ROOT 11|10|JCT 12|11|POBJ 13|10|PUNCT
+*INV:	<what's else is> [//] what's going on over here ? 39056_40986
+%wor:	<what's 39056_39186 else 39186_39416 is 39416_39596> [//] what's going on over here ? 39666_40986
+%mor:	pro:int|what~aux|be&3S part|go-PRESP adv|on prep|over n|here ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*PAR:	the little girl and the boy . [+ gram] 41396_42786
+%wor:	the 41396_41466 little 41466_41766 girl 41766_42196 and 42196_42496 the 42496_42516 boy 42516_42786 . [+ gram]
+%mor:	det:art|the adj|little n|girl coord|and det:art|the n|boy .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|CONJ 5|6|DET 6|4|COORD 7|3|PUNCT
+*INV:	anything else ? 43402_43962
+%wor:	anything 43402_43842 else 43842_43962 ?
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	+< she's reachin(g) up to the boy . 44146_45856
+%wor:	+< she's 44146_44196 reachin(g) 44196_44636 up 44636_44886 to 44886_45046 the 45046_45316 boy 45446_45856 .
+%mor:	pro:sub|she~aux|be&3S part|reach-PRESP adv|up prep|to det:art|the
+	n|boy .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ
+	8|3|PUNCT
+*PAR:	and the boy is [//] got his other hand down &=laughs &*INV:mhm . 45900_48740
+%wor:	and 45900_46180 the 46180_46190 boy 46190_46420 is [//] 46420_46840 got 47280_47490 his 47490_47650 other 47650_47880 hand 47880_48280 down 48280_48740 &=laughs &*INV:mhm .
+%mor:	coord|and det:art|the n|boy v|get&PAST det:poss|his qn|other n|hand
+	adv|down .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|QUANT 7|4|OBJ
+	8|4|JCT 9|4|PUNCT
+*PAR:	so ‡ &*INV:anything_else it looks color +/. 50292_52052
+%wor:	so 50292_50712 ‡ &*INV:anything_else it 51182_51302 looks 51302_51492 color 51722_52052 +/.
+%mor:	co|so beg|beg pro:per|it v|look-3S n|color +/.
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	no ‡ that's all . [+ exc] 52249_52969
+%wor:	no 52249_52509 ‡ that's 52509_52839 all 52839_52969 . [+ exc]
+%mor:	co|no beg|beg pro:dem|that~cop|be&3S pro:indef|all .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*INV:	what's going on over here ? 54326_55446
+%wor:	what's 54326_54536 going 54536_54816 on 54816_54996 over 54996_55216 here 55216_55446 ?
+%mor:	pro:int|what~aux|be&3S part|go-PRESP adv|on prep|over n|here ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*INV:	anything else ? 55773_56333
+%wor:	anything 55773_56093 else 56093_56333 ?
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	+< oh ‡ she spilled something „ I think . 57160_58550
+%wor:	+< oh 57160_57170 ‡ she 57170_57180 spilled 57180_57720 something 57720_58190 „ I 58190_58290 think 58290_58550 .
+%mor:	co|oh beg|beg pro:sub|she v|spill-PAST pro:indef|something end|end
+	pro:sub|I v|think .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|8|ENDP 7|8|SUBJ
+	8|4|END 9|4|PUNCT
+*PAR:	from the sink down . [+ gram] 59901_61331
+%wor:	from 59901_60341 the 60341_60431 sink 60431_60821 down 61021_61331 . [+ gram]
+%mor:	prep|from det:art|the n|sink adv|down .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|3|NJCT 5|1|PUNCT
+*PAR:	it came splashin(g) down . 61856_63406
+%wor:	it 61856_62056 came 62056_62376 splashin(g) 62376_63116 down 63116_63406 .
+%mor:	pro:per|it v|come&PAST part|splash-PRESP adv|down .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|XJCT 4|3|JCT 5|2|PUNCT
+*PAR:	&*INV:okay that's the first I noticed it &=laughs . [+ exc] 65586_67116
+%wor:	&*INV:okay that's 65586_65826 the 65826_65906 first 65906_66316 I 66316_66446 noticed 66446_67006 it 67006_67116 &=laughs . [+ exc]
+%mor:	pro:dem|that~cop|be&3S det:art|the adv|first pro:sub|I
+	v|notice-PAST pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|6|JCT 5|6|SUBJ 6|2|CPRED 7|6|OBJ
+	8|2|PUNCT
+*PAR:	I'm terrible anymore . [+ exc] 68797_70177
+%wor:	I'm 68797_68957 terrible 69297_69797 anymore 69797_70177 . [+ exc]
+%mor:	pro:sub|I~cop|be&1S adj|terrible adv|anymore .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|2|PUNCT
+*INV:	no . 70528_71518
+%wor:	no 70528_71518 .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay good . 73389_74219
+%wor:	okay 73389_73989 good 74079_74219 .
+%mor:	co|okay adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

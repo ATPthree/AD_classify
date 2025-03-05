@@ -1,0 +1,168 @@
+@UTF8
+@PID:	11312/t-00002280-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|71;|female|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	128-1, audio
+@G:	Cookie
+*INV:	and here's the picture . 460_2120
+%wor:	and 460_1090 here's 1120_1380 the 1380_1500 picture 1500_2120 .
+%mor:	coord|and pro:exist|here~cop|be&3S det:art|the n|picture .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	oh I remember this one . [+ exc] 3624_4594
+%wor:	oh 3624_3864 I 3864_3944 remember 3944_4334 this 4334_4514 one 4514_4594 . [+ exc]
+%mor:	co|oh pro:sub|I v|remember det:dem|this pro:indef|one .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	okay . [+ exc] 5004_5414
+%wor:	okay 5004_5414 . [+ exc]
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the mom's doing the dishes and looking out the window . 5853_8103
+%wor:	the 5853_5863 mom's 5863_6313 doing 6313_6513 the 6513_6573 dishes 6573_6903 and 6933_7043 looking 7043_7443 out 7443_7593 the 7593_7603 window 7603_8103 .
+%mor:	det:art|the n|mom~aux|be&3S part|do-PRESP det:art|the n|dish-PL
+	coord|and part|look-PRESP prep|out det:art|the n|window .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|CONJ
+	8|7|COORD 9|8|JCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+*PAR:	and she must be really interested in what she sees out there
+	because the sink is running over . 8842_13462
+%wor:	and 8842_9212 she 9212_9222 must 9482_9822 be 9822_10022 really 10022_10642 interested 10792_11062 in 11062_11192 what 11192_11342 she 11342_11352 sees 11352_11692 out 11692_11882 there 11882_11982  because 11982_12242 the 12302_12432 sink 12432_12632 is 12632_12782 running 12782_13072 over 13072_13462 .
+%mor:	coord|and pro:sub|she mod|must cop|be adv|real&dadj-LY
+	v|interest-PAST prep|in pro:int|what pro:sub|she v|see-3S prep|out
+	n|there conj|because det:art|the n|sink aux|be&3S part|run-PRESP
+	adv|over .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|JCT
+	8|10|LINK 9|10|SUBJ 10|7|CPOBJ 11|6|JCT 12|11|POBJ 13|17|LINK
+	14|15|DET 15|17|SUBJ 16|17|AUX 17|6|CJCT 18|17|JCT 19|6|PUNCT
+*PAR:	the water is splashing on the floor . 13482_15352
+%wor:	the 13482_13492 water 13492_13642 is 13642_13852 splashing 13852_14392 on 14392_14642 the 14742_14752 floor 14752_15352 .
+%mor:	det:art|the n|water aux|be&3S part|splash-PRESP prep|on det:art|the
+	n|floor .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	she's paying no attention to it . 15755_17325
+%wor:	she's 15755_15845 paying 15935_16225 no 16225_16355 attention 16355_16965 to 16965_17095 it 17095_17325 .
+%mor:	pro:sub|she~aux|be&3S part|pay-PRESP qn|no n|attention prep|to
+	pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|JCT 7|6|POBJ
+	8|3|PUNCT
+*PAR:	and meantime behind her the kids are getting up on the stool and
+	getting into the cookie jar <which is> [/] which is on the second
+	shelf of the cupboard . 18028_24548
+%wor:	and 18028_18158 meantime 18158_18578 behind 18578_19088 her 19088_19338 the 19338_19428 kids 19428_19748 are 19748_19788 getting 19788_20148 up 20148_20288 on 20288_20608 the 20608_20638 stool 20738_21258 and 21258_21518  getting 21518_21748 into 21748_21908 the 21908_22038 cookie 22038_22258 jar 22258_22558 <which 22558_22708 is 22708_22788> [/] which is on the second  shelf of the cupboard . 22978_24548
+%mor:	coord|and n|meantime prep|behind pro:obj|her det:art|the n|kid-PL
+	aux|be&PRES part|get-PRESP adv|up prep|on det:art|the n|stool
+	coord|and part|get-PRESP prep|into det:art|the n|cookie n|jar
+	pro:rel|which cop|be&3S prep|on det:art|the adj|second n|shelf
+	prep|of det:art|the n|+n|cup+n|board .
+%gra:	1|8|LINK 2|8|JCT 3|2|NJCT 4|3|POBJ 5|6|DET 6|8|SUBJ 7|8|AUX
+	8|0|ROOT 9|8|JCT 10|8|JCT 11|12|DET 12|10|POBJ 13|8|CONJ 14|13|COORD
+	15|14|JCT 16|18|DET 17|18|MOD 18|15|POBJ 19|20|LINK 20|18|CMOD
+	21|20|JCT 22|24|DET 23|24|MOD 24|21|POBJ 25|24|NJCT 26|27|DET
+	27|25|POBJ 28|8|PUNCT
+*PAR:	the left hand side of the cupboard door is open . 24595_26825
+%wor:	the 24595_24765 left 24765_25065 hand 25065_25305 side 25345_25545 of 25545_25695 the 25745_25755 cupboard 25755_26025 door 26025_26245 is 26245_26325 open 26465_26825 .
+%mor:	det:art|the adj|left n|hand n|side prep|of det:art|the
+	n|+n|cup+n|board n|door cop|be&3S adj|open .
+%gra:	1|4|DET 2|4|MOD 3|4|MOD 4|9|SUBJ 5|4|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|0|ROOT 10|9|PRED 11|9|PUNCT
+*PAR:	&-uh the little girl has her finger on her lips &-uh &+s telling him
+	to shush but he's losing his balance . 27877_34057
+%wor:	&-uh 27877_28127 the 28127_28137 little 28137_28387 girl 28387_29017 has 29057_29127 her 29127_29397 finger 30047_30367 on 30367_30577 her 30577_30677 lips 30677_31327 &-uh 31377_31417 &+s telling 31417_32117 him 32147_32387  to 32387_32507 shush 32537_32627 but 32627_32847 he's 32847_32957 losing 33027_33437 his 33467_33557 balance 33557_34057 .
+%mor:	det:art|the adj|little n|girl v|have&3S det:poss|her n|finger
+	prep|on det:poss|her n|lip-PL part|tell-PRESP pro:obj|him inf|to
+	v|shush conj|but pro:sub|he~aux|be&3S part|lose-PRESP det:poss|his
+	n|balance .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|XJCT 11|10|OBJ 12|13|INF 13|10|COMP 14|17|LINK
+	15|17|SUBJ 16|17|AUX 17|13|COMP 18|19|DET 19|17|OBJ 20|4|PUNCT
+*PAR:	and he's about to fall on the floor which will really cause a real
+	upset in there . 34553_39263
+%wor:	and 34553_34673 he's 34673_34753 about 34813_35083 to 35083_35173 fall 35173_35533 on 35533_35603 the 35603_35663 floor 35663_35933 which 35963_36073 will 36143_36273 really 36273_36563 cause 36633_36863 a 36863_37023 real 37143_37443 upset 38443_38903 in 38933_39063 there 39063_39263 .
+%mor:	coord|and pro:sub|he~cop|be&3S adv|about prep|to n|fall prep|on
+	det:art|the n|floor pro:rel|which mod|will adv|real&dadj-LY v|cause
+	det:art|a adj|real v|upset prep|in n|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|JCT 8|9|DET
+	9|7|POBJ 10|13|LINK 11|13|AUX 12|13|JCT 13|9|CMOD 14|15|DET
+	15|16|SUBJ 16|13|COMP 17|16|JCT 18|17|POBJ 19|3|PUNCT
+*PAR:	and &-uh action [/] action . [+ exc] 40142_42182
+%wor:	and 40142_40602 &-uh 40602_40812 action [/] 41122_41592 action 41862_42182 . [+ exc]
+%mor:	coord|and n|action .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	the water running . [+ gram] 42421_43101
+%wor:	the 42421_42431 water 42461_42711 running 42711_43101 . [+ gram]
+%mor:	det:art|the n|water part|run-PRESP .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|2|PUNCT
+*PAR:	the mama's drying a dish . 43152_44482
+%wor:	the 43152_43222 mama's 43222_43552 drying 43552_43882 a 43882_43892 dish 43892_44482 .
+%mor:	det:art|the n|mama~aux|be&3S part|dry-PRESP det:art|a n|dish .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	that's what she's doing and looking out the window . 44729_48779
+%wor:	that's 44729_44839 what 45699_45829 she's 45889_45979 doing 46099_46719 and 46809_47429 looking 47729_48229 out 48289_48349 the 48349_48359 window 48359_48779 .
+%mor:	pro:dem|that~cop|be&3S pro:int|what pro:sub|she~aux|be&3S
+	part|do-PRESP coord|and part|look-PRESP prep|out det:art|the
+	n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|CPRED 7|6|CONJ
+	8|7|COORD 9|8|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*PAR:	little boy has taken one cookie out_of the cookie jar and is about
+	to hand it to the little girl who is reaching up her hand for it . 52914_59724
+%wor:	little 52914_53224 boy 53224_53604 has 53634_53754 taken 53814_54144 one 54144_54294 cookie 54294_54554 out_of 54554_54964 the 54964_55024 cookie 55024_55274 jar 55304_55594 and 55594_55984 is 56014_56074 about 56694_56954  to 56954_57074 hand 57124_57284 it 57284_57464 to 57464_57524 the 57524_57534 little 57534_57754 girl 57754_58064 who 58064_58174 is 58174_58294 reaching 58294_58624 up 58624_58734 her 58734_58894 hand 58944_59294 for 59334_59534 it 59534_59724 .
+%mor:	adj|little n|boy aux|have&3S part|take&PASTP det:num|one n|cookie
+	prep|out_of det:art|the n|cookie n|jar coord|and cop|be&3S adv|about
+	prep|to n|hand pro:per|it prep|to det:art|the adj|little n|girl
+	pro:rel|who aux|be&3S part|reach-PRESP prep|up det:poss|her n|hand
+	prep|for pro:per|it .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|JCT
+	8|10|DET 9|10|MOD 10|7|POBJ 11|4|CONJ 12|11|COORD 13|14|JCT
+	14|12|JCT 15|14|POBJ 16|14|POBJ 17|16|NJCT 18|20|DET 19|20|MOD
+	20|17|POBJ 21|23|LINK 22|23|AUX 23|20|CMOD 24|23|JCT 25|26|DET
+	26|24|POBJ 27|23|JCT 28|27|POBJ 29|4|PUNCT
+*PAR:	and he is reaching into the cookie jar for another cookie . 60288_62878
+%wor:	and 60288_60468 he 60468_60608 is 60608_60708 reaching 60708_61178 into 61178_61338 the 61338_61388 cookie 61388_61658 jar 61688_61958 for 61988_62048 another 62048_62388 cookie 62388_62878 .
+%mor:	coord|and pro:sub|he aux|be&3S part|reach-PRESP prep|into
+	det:art|the n|cookie n|jar prep|for qn|another n|cookie .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|JCT 10|11|QUANT 11|9|POBJ 12|4|PUNCT
+*PAR:	and action [/] action . [+ exc] 64477_67578
+%wor:	and 64478_65138 action [/] 65138_65308 action 67228_67578 . [+ exc]
+%mor:	coord|and n|action .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	well ‡ the curtains are blowing in the breeze . 74646_76616
+%wor:	well 74646_75356 ‡ the 75396_75406 curtains 75406_75726 are 75726_75756 blowing 75756_76096 in 76096_76286 the 76286_76316 breeze 76316_76616 .
+%mor:	co|well beg|beg det:art|the n|curtain-PL aux|be&PRES
+	part|blow-PRESP prep|in det:art|the n|breeze .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|PUNCT
+*PAR:	I guess that's an action . [+ exc] 76728_77508
+%wor:	I 76728_76768 guess 76768_76858 that's 76858_76978 an 77028_77098 action 77098_77508 . [+ exc]
+%mor:	pro:sub|I n|guess pro:rel|that~cop|be&3S det:art|a n|action .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|LINK 4|2|CMOD 5|6|DET 6|4|PRED 7|2|PUNCT
+*PAR:	it looks as though they are . 77890_78810
+%wor:	it 77890_77990 looks 78080_78230 as 78230_78360 though 78410_78610 they 78690_78740 are 78740_78810 .
+%mor:	pro:per|it v|look-3S adv|as adv|though pro:sub|they cop|be&PRES .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|JCT 5|6|SUBJ 6|2|COMP 7|2|PUNCT
+*PAR:	&-um no action as far as I can see out the window . 82679_85169
+%wor:	&-um 82679_82749 no 82749_82999 action 83039_83509 as 83539_83599 far 83629_83719 as 83719_83839 I 83839_83849 can 83849_84189 see 84219_84389 out 84389_84599 the 84599_84699 window 84699_85169 .
+%mor:	qn|no n|action conj|as adv|far conj|as pro:sub|I mod|can v|see
+	adv|out det:art|the n|window .
+%gra:	1|2|QUANT 2|0|INCROOT 3|4|COORD 4|2|NJCT 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|4|CJCT 9|8|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*PAR:	the window's open (.) which implies an action earlier . 85222_90812
+%wor:	the 85222_85232 window's 85272_85592 open 85772_86212 (.) which 86272_88902 implies 89012_89172 an 89312_90022 action 90482_90622 earlier 90622_90812 .
+%mor:	det:art|the n|window~cop|be&3S adj|open pro:rel|which v|imply-3S
+	det:art|a n|action adv|early-CP .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|LINK 6|3|CPRED 7|8|DET
+	8|6|OBJ 9|6|JCT 10|3|PUNCT
+*PAR:	I can't see any more action in it . [+ exc] 92929_94329
+%wor:	I 92929_93259 can't 93289_93529 see 93529_93599 any 93599_93759 more 93759_93929 action 93929_94059 in 94059_94199 it 94229_94329 . [+ exc]
+%mor:	pro:sub|I mod|can~neg|not v|see qn|any qn|more n|action prep|in
+	pro:per|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|QUANT 6|7|QUANT 7|4|OBJ
+	8|4|JCT 9|8|POBJ 10|4|PUNCT
+*INV:	okay good . 94877_95957
+%wor:	okay 94877_95207 good 95637_95957 .
+%mor:	co|okay adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

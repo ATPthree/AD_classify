@@ -1,0 +1,170 @@
+@UTF8
+@PID:	11312/t-00002548-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|77;|male|ProbableAD||Participant|22||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	205-1, audio
+@G:	Cookie
+*INV:	have a look at that picture and tell me everything that you see
+	going on in that picture . 540_6040
+%wor:	have 540_670 a 670_720 look 720_930 at 930_1050 that 1050_1330 picture 1330_1820 and 2250_2460 tell 2460_2760 me 2760_3060 everything 3440_4000 that 4000_4100 you 4100_4310 see 4310_4650  going 4650_5020 on 5020_5190 in 5190_5320 that 5320_5560 picture 5560_6040 .
+%mor:	v|have det:art|a v|look prep|at det:dem|that n|picture coord|and
+	v|tell pro:obj|me pro:indef|everything pro:rel|that pro:per|you
+	v|see part|go-PRESP adv|on prep|in det:dem|that n|picture .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ
+	8|7|COORD 9|8|OBJ2 10|8|OBJ 11|13|LINK 12|13|SUBJ 13|10|CMOD
+	14|13|COMP 15|14|JCT 16|14|JCT 17|18|DET 18|16|POBJ 19|1|PUNCT
+*INV:	all the action . 6373_7423
+%wor:	all 6373_6663 the 6663_6793 action 6823_7423 .
+%mor:	qn|all det:art|the n|action .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*INV:	what's happening there ? 8496_9496
+%wor:	what's 8496_8726 happening 8726_9166 there 9166_9496 ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP n|there ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	boy xxx in the cookie jar . [+ jar] 10306_12686
+%wor:	boy 10306_10606 xxx in 10606_12326 the 12356_12366 cookie 12366_12506 jar 12506_12686 . [+ jar]
+%mor:	co|boy prep|in det:art|the n|cookie n|jar .
+%gra:	1|0|INCROOT 2|1|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|1|PUNCT
+*INV:	I'm sorry ? 13091_13541
+%wor:	I'm 13091_13221 sorry 13221_13541 ?
+%mor:	pro:sub|I~cop|be&1S adj|sorry ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	boy in a cookie jar . [+ gram] [+ exc] 14379_16343
+%wor:	boy 14379_14539 in 14539_14649 a 14649_14699 cookie 14699_15119 jar 16093_16343 . [+ gram] [+ exc]
+%mor:	co|boy prep|in det:art|a n|cookie n|jar .
+%gra:	1|0|INCROOT 2|1|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|1|PUNCT
+*INV:	boy in the cookie jar . 15333_32122
+%wor:	boy 15333_15543 in 15543_15743 the 15793_15803 cookie 15803_15933 jar 31933_32123 .
+%mor:	co|boy prep|in det:art|the n|cookie n|jar .
+%gra:	1|0|INCROOT 2|1|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|1|PUNCT
+*PAR:	&-um &-uh dryin(g) dishes . [+ gram] 18594_23084
+%wor:	&-um 18594_18654 &-uh 20704_20714 dryin(g) 20714_22364 dishes 22884_23084 . [+ gram]
+%mor:	part|dry-PRESP n|dish-PL .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	girl assisting boy with cookie jar . [+ gram] 25583_31933
+%wor:	girl 25583_26053 assisting 27963_28433 boy 29553_29913 with 31463_31813 cookie 31813_31933 jar . [+ gram]
+%mor:	n|girl part|assist-PRESP n|boy prep|with n|cookie n|jar .
+%gra:	1|0|INCROOT 2|1|XMOD 3|2|OBJ 4|2|JCT 5|6|MOD 6|4|POBJ 7|1|PUNCT
+*PAR:	xxx . [+ jar] [+ exc]
+%wor:	xxx . [+ jar] [+ exc]
+*INV:	pardon ? 38249_38619
+%wor:	pardon 38249_38619 ?
+%mor:	n|pardon ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx . [+ jar] [+ exc]
+%wor:	xxx . [+ jar] [+ exc]
+*INV:	mhm . 40000_40530
+%wor:	mhm 40000_40530 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx . [+ jar] [+ exc]
+%wor:	xxx . [+ jar] [+ exc]
+*PAR:	(...) towel . [+ gram] 60049_60459
+%wor:	(...) towel 60049_60459 . [+ gram]
+%mor:	n|towel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	pardon ? 61237_61477
+%wor:	pardon 61237_61477 ?
+%mor:	n|pardon ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	towel . [+ gram] [+ exc] 62107_62567
+%wor:	towel 62107_62567 . [+ gram] [+ exc]
+%mor:	n|towel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	towel ? 62749_63049
+%wor:	towel 62749_63049 ?
+%mor:	n|towel ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	mhm . [+ exc] 63070_63630
+%wor:	mhm 63070_63630 . [+ exc]
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) xxx . [+ jar] [+ exc]
+%wor:	(..) xxx . [+ jar] [+ exc]
+*INV:	pardon ? 70316_70706
+%wor:	pardon 70316_70706 ?
+%mor:	n|pardon ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx . [+ jar] [+ exc]
+%wor:	xxx . [+ jar] [+ exc]
+*INV:	+< uhhuh . 72524_72604
+%wor:	+< uhhuh 72524_72604 .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(.) what's happening here ? 73283_79383
+%wor:	(.) what's 73283_78933 happening 78933_79313 here 79313_79383 ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP n|here ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	boing@o [/] boing@o [/] boing@o . 79583_83573
+%wor:	boing@o [/] 79583_79723 boing@o [/] 82463_82883 boing@o 82913_83573  .
+%mor:	on|boing .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	chair [: stool] [* s:r] . [+ gram] 87229_87499
+%wor:	chair [: stool] [* s:r] 87229_87499 . [+ gram]
+%mor:	n|stool .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	boy . [+ gram] 91421_91541
+%wor:	boy 91421_91541 . [+ gram]
+%mor:	co|boy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	good . 95147_95427
+%wor:	good 95147_95427 .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	anything else ? 95940_96620
+%wor:	anything 95940_96340 else 96340_96620 ?
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	(.) garage . [+ gram] 105835_106215
+%wor:	(.) garage 105835_106215 . [+ gram]
+%mor:	n|garage .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	pardon ? 107059_107399
+%wor:	pardon 107059_107399 ?
+%mor:	n|pardon ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	garage . [+ gram] [+ exc] 107773_108103
+%wor:	garage 107773_108103 . [+ gram] [+ exc]
+%mor:	n|garage .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	I'm sorry ? 110060_110590
+%wor:	I'm 110060_110150 sorry 110150_110590 ?
+%mor:	pro:sub|I~cop|be&1S adj|sorry ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	garage . [+ gram] [+ exc] 111221_111611
+%wor:	garage 111221_111611 . [+ gram] [+ exc]
+%mor:	n|garage .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	garage, mhm . 112926_113776
+%wor:	garage, 112926_113536 mhm 113536_113776 .
+%mor:	n|garage cm|cm co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+*PAR:	+< yeah . [+ exc] 114020_114080
+%wor:	+< yeah 114020_114080 . [+ exc]
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	windows [/] windows &+win +... 114634_115514
+%wor:	windows [/] 114634_115084 windows 115264_115514 &+win +...
+%mor:	n|window-PL +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and the garage . [+ gram] 117178_117778
+%wor:	and 117178_117448 the 117448_117458 garage 117458_117778 . [+ gram]
+%mor:	coord|and det:art|the n|garage .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*INV:	okay good . 123135_124625
+%wor:	okay 123135_123735 good 124185_124625 .
+%mor:	co|okay adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	okay [/] okay [/] okay &=laughs . [+ exc] 125055_126585
+%wor:	okay [/] 125055_125665 okay [/] 125665_126105 okay 126105_126585  &=laughs . [+ exc]
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< good . 126230_126610
+%wor:	+< good 126230_126610 .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

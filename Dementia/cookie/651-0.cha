@@ -1,0 +1,64 @@
+@UTF8
+@PID:	11312/t-00002714-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|55;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	651-0, audio
+@G:	Cookie
+*INV:	I just want you to tell me everything that you see happening in
+	that picture . 150_4320
+%wor:	I 150_230 just 230_480 want 480_700 you 700_760 to 760_850 tell 850_1100 me 1100_1300 everything 1300_2130 that 2410_2570 you 2570_2680 see 2680_3010 happening 3010_3580 in 3580_3720  that 3720_3930 picture 3930_4320 .
+%mor:	pro:sub|I adv|just v|want pro:per|you inf|to v|tell pro:obj|me
+	pro:indef|everything pro:rel|that pro:per|you v|see
+	part|happen-PRESP prep|in det:dem|that n|picture .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|6|SUBJ 5|6|INF 6|3|COMP 7|6|OBJ 8|6|OBJ
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|11|COMP 13|12|JCT 14|15|DET
+	15|13|POBJ 16|3|PUNCT
+*INV:	everything that's going on there . 5140_6620
+%wor:	everything 5140_5530 that's 5530_5690 going 5690_6090 on 6090_6390 there 6390_6620 .
+%mor:	pro:indef|everything pro:rel|that~aux|be&3S part|go-PRESP prep|on
+	n|there .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|AUX 4|1|CMOD 5|4|JCT 6|5|POBJ 7|1|PUNCT
+*PAR:	&-hm (..) cookie jar . [+ gram] 11595_23855
+%wor:	&-hm 11595_12045 (..) cookie 23225_23405 jar 23405_23855 . [+ gram]
+%mor:	n|cookie n|jar .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*INV:	mhm . 24050_24570
+%wor:	mhm 24050_24570 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<and he's stepping on a> [//] &+s well he's on a stool but it's [//]
+	he's going overboard . 26131_36081
+%wor:	<and 26131_26551 he's 26551_27221 stepping 28701_29041 on 29041_29231 a 29231_29321> [//] &+s well he's on a stool but it's [//]  he's going overboard . 30451_36081
+%mor:	co|well pro:sub|he~cop|be&3S prep|on det:art|a n|stool conj|but
+	pro:sub|he~aux|be&3S part|go-PRESP adv|+prep|over+n|board .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|3|CJCT 11|10|JCT 12|3|PUNCT
+*PAR:	and the water's running out_of the sink . 38297_44447
+%wor:	and 38297_39247 the 39247_39797 water's 39867_40277 running 40277_40607 out_of 40607_41177 the 41207_43777 sink 43857_44447 .
+%mor:	coord|and det:art|the n|water~aux|be&3S part|run-PRESP prep|out_of
+	det:art|the n|sink .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	and &-uh let's see . [+ exc] 46351_50941
+%wor:	and 46351_47471 &-uh 50521_50531 let's 50531_50731 see 50731_50941 . [+ exc]
+%mor:	coord|and v|let~pro:obj|us v|see .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|COMP 5|2|PUNCT
+*INV:	okay is that everything that you see happening ? 91227_93127
+%wor:	okay 91227_91477 is 91827_91927 that 91927_92057 everything 92057_92527 that 92527_92667 you 92667_92727 see 92727_92767 happening 92767_93127 ?
+%mor:	co|okay cop|be&3S comp|that pro:indef|everything pro:rel|that
+	pro:per|you v|see part|happen-PRESP ?
+%gra:	1|2|COM 2|0|ROOT 3|2|PRED 4|3|OM 5|7|LINK 6|7|SUBJ 7|4|CMOD
+	8|7|COMP 9|2|PUNCT
+*PAR:	yes . [+ exc] 93750_94270
+%wor:	yes 93750_94270 . [+ exc]
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay fine . 94300_95250
+%wor:	okay 94300_94440 fine 94890_95250 .
+%mor:	co|okay adv|fine .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

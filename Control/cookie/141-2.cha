@@ -1,0 +1,84 @@
+@UTF8
+@PID:	11312/t-00002302-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|56;|female|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	141-2, audio
+@G:	Cookie
+*PAR:	oh goodness sakes . [+ exc] 1750_3530
+%mor:	co|oh co|goodness n|sake-PL .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+%wor:	oh 1750_1830 goodness 3070_3260 sakes 3390_3530 . [+ exc]
+*PAR:	the little girl is saying +"/. 5490_6600
+%mor:	det:art|the adj|little n|girl aux|be&3S part|say-PRESP +"/.
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+%wor:	the 5490_5510 little 5510_5750 girl 5750_6090 is 6090_6290 saying 6290_6600 +"/.
+*PAR:	+" be quiet (be)cause we don't want mother to know we're in the
+	cookie jar . 6936_10126
+%mor:	cop|be adj|quiet conj|because pro:sub|we mod|do~neg|not v|want
+	n|mother inf|to v|know pro:sub|we~cop|be&PRES prep|in det:art|the
+	n|cookie n|jar .
+%gra:	1|0|ROOT 2|1|PRED 3|7|LINK 4|7|SUBJ 5|7|AUX 6|5|NEG 7|1|CJCT 8|7|OBJ
+	9|10|INF 10|8|XMOD 11|12|SUBJ 12|10|COMP 13|12|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|1|PUNCT
+%wor:	+" be 6936_7096 quiet 7096_7836 (be)cause 8016_8176 we 8176_8276 don't 8276_8446 want 8446_8596 mother 8596_8856 to 8856_9016 know 9016_9166 we're 9166_9306 in 9306_9476 the 9516_9526  cookie 9526_9826 jar 9826_10126 .
+*PAR:	the boy is getting cookies and he's going to have an accident
+	because the stool is going to go &=laughs quite off . 10175_15685
+%mor:	det:art|the n|boy aux|be&3S part|get-PRESP n|cookie-PL coord|and
+	pro:sub|he~aux|be&3S part|go-PRESP inf|to v|have det:art|a
+	n|accident conj|because det:art|the n|stool aux|be&3S part|go-PRESP
+	inf|to v|go adv|quite adv|off .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|4|COMP 10|11|INF 11|9|COMP 12|13|DET 13|11|OBJ 14|18|LINK 15|16|DET
+	16|18|SUBJ 17|18|AUX 18|4|CJCT 19|20|INF 20|18|COMP 21|20|JCT 22|20|JCT
+	23|4|PUNCT
+%wor:	the 10175_10375 boy 10375_10545 is 10545_10655 getting 10655_10935 cookies 10935_11315 and 11315_11465 he's 11465_11765 going 11795_12095 to 12095_12175 have 12175_12425 an 12425_12515 accident 12515_13075  because 13075_13385 the 13505_13565 stool 13565_13895 is 13895_14055 going 14085_14365 to 14615_14855 go 14985_15205 &=laughs quite 15255_15485 off 15485_15685 .
+*PAR:	the mother is in dream world somewhere because &=laughs she's
+	drying dishes and the water's coming out over the floor . 15800_22240
+%mor:	det:art|the n|mother cop|be&3S prep|in n|dream n|world
+	adv|somewhere conj|because pro:sub|she~aux|be&3S part|dry-PRESP
+	n|dish-PL coord|and det:art|the n|water~aux|be&3S part|come-PRESP
+	adv|out prep|over det:art|the n|floor .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|JCT 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|3|CJCT 12|11|OBJ 13|17|LINK 14|15|DET 15|17|SUBJ
+	16|17|AUX 17|11|CJCT 18|17|JCT 19|17|JCT 20|21|DET 21|19|POBJ 22|3|PUNCT
+%wor:	the 15800_15870 mother 15870_16240 is 16240_16470 in 16820_16990 dream 16990_17380 world 17380_17680 somewhere 17680_18030 because 18030_18600 &=laughs she's 18670_18920  drying 18920_19270 dishes 19270_19620 and 19620_19730 the 19730_19740 water's 19740_20190 coming 20190_20470 out 20470_20750 over 20860_21310 the 21470_21550 floor 21720_22240 .
+*PAR:	&-um she's standing in the water even . 23184_25904
+%mor:	pro:sub|she~aux|be&3S part|stand-PRESP prep|in det:art|the n|water
+	adv|even .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|3|PUNCT
+%wor:	&-um 23184_23634 she's 24574_24774 standing 24774_25204 in 25204_25364 the 25454_25464 water 25464_25684 even 25684_25904 .
+*PAR:	my goodness sakes . [+ exc] 26361_27781
+%mor:	det:poss|my co|goodness n|sake-PL .
+%gra:	1|3|DET 2|3|COM 3|0|INCROOT 4|3|PUNCT
+%wor:	my 26361_26421 goodness 26731_27071 sakes 27351_27781 . [+ exc]
+*PAR:	the (.) &-hm +... 28987_39937
+%mor:	det:art|the +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	the 28987_29257 (.) &-hm 30137_39937 +...
+*PAR:	there's nothin(g) the matter with those dishes . 40250_42220
+%mor:	pro:exist|there~cop|be&3S pro:indef|nothing det:art|the n|matter
+	prep|with det:dem|those n|dish-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+%wor:	there's 40250_40350 nothin(g) 40350_41010 the 41350_41440 matter 41480_41580 with 41580_41670 those 41670_41860 dishes 41890_42220 .
+*PAR:	I guess you could look out the window and see that . [+ exc] 45665_49665
+%mor:	pro:sub|I n|guess pro:per|you mod|could v|look adv|out det:art|the
+	n|window coord|and v|see comp|that .
+%gra:	1|2|SUBJ 2|5|SUBJ 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|5|OBJ
+	9|5|CONJ 10|9|COORD 11|10|OBJ 12|5|PUNCT
+%wor:	I 45665_45755 guess 46775_46905 you 47445_47525 could 47565_47835 look 47935_48025 out 48365_48555 the 48555_48575 window 48575_48885 and 48885_49145 see 49145_49235 that 49265_49665 . [+ exc]
+*PAR:	&-hm, I don't know Karen that's +/. [+ exc] 50193_52913
+%mor:	cm|cm pro:sub|I mod|do~neg|not v|know n:prop|Karen
+	pro:rel|that~cop|be&3S +/.
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|8|LINK 8|6|CMOD
+	9|5|PUNCT
+%wor:	&-hm, 50193_51863 I 51863_51873 don't 51873_52313 know 52343_52383 Karen 52383_52793 that's 52823_52913 +/. [+ exc]
+*INV:	okay that's fine . 52932_53652
+%mor:	co|okay pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%wor:	okay 52932_53092 that's 53322_53432 fine 53432_53652 .
+@End

@@ -1,0 +1,78 @@
+@UTF8
+@PID:	11312/t-00002202-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|83;00.|female|Control||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	022-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete
+	demographic data
+@G:	Cookie
+*INV:	mention that you see going on in the picture . 500_2610
+%wor:	mention 500_750 that 750_920 you 920_1090 see 1090_1390 going 1390_1770 on 1770_1960 in 1960_2020 the 2020_2420 picture 2420_2610 .
+%mor:	n|mention pro:rel|that pro:per|you v|see part|go-PRESP adv|on
+	prep|in det:art|the n|picture .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CMOD 5|4|COMP 6|5|JCT 7|5|JCT
+	8|9|DET 9|7|POBJ 10|1|PUNCT
+*INV:	okay ? 3541_4101
+%wor:	okay 3541_4101 ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh goody . [+ exc] 4290_5150
+%wor:	oh 4290_4610 goody 4610_5150 . [+ exc]
+%mor:	co|oh co|goody .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	that boy's climbed on a stool that's falling over to get a cookie .
+	5954_12474
+%wor:	that 5954_6374 boy's 6374_6884 climbed 6914_7484 on 7484_7804 a 8164_8354 stool 8354_9374 that's 9374_9714 falling 9714_10234 over 10234_10944 to 11324_11404 get 11494_11644 a 11644_11684 cookie 11684_12474 .
+%mor:	comp|that co|boy~cop|be&3S v|climb-PAST prep|on det:art|a n|stool
+	pro:rel|that~aux|be&3S part|fall-PRESP adv|over inf|to v|get
+	det:art|a n|cookie .
+%gra:	1|3|LINK 2|3|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|10|LINK 9|10|AUX 10|7|CMOD 11|10|JCT 12|13|INF 13|10|XJCT
+	14|15|DET 15|13|OBJ 16|4|PUNCT
+*PAR:	and the little girl is standin(g) below him tryin(g) to get the
+	cookie from his hand . 13149_19169
+%wor:	and 13149_13269 the 13269_13329 little 13329_13549 girl 13549_13939 is 13939_14069 standin(g) 14069_14579 below 14579_15109 him 15109_15649 tryin(g) 16229_16779 to 16779_16839 get 17479_17819 the 17819_17829  cookie 17829_18219 from 18249_18419 his 18419_18659 hand 18699_19169 .
+%mor:	coord|and det:art|the adj|little n|girl aux|be&3S part|stand-PRESP
+	prep|below pro:obj|him part|try-PRESP inf|to v|get det:art|the
+	n|cookie prep|from det:poss|his n|hand .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|XJCT 10|11|INF 11|9|COMP 12|13|DET 13|11|OBJ 14|11|JCT 15|16|DET
+	16|14|POBJ 17|6|PUNCT
+*PAR:	and the mother is washing dishes while the water's runnin(g) over
+	in the sink on the floor . 20401_28561
+%wor:	and 20401_20921 the 21261_21321 mother 21321_21841 is 21841_22241 washing 24041_24541 dishes 24541_25071 while 25071_25391 the 25391_25541 water's 25541_26081 runnin(g) 26081_26541 over 26541_26991  in 26991_27151 the 27151_27291 sink 27291_27631 on 27631_27841 the 27841_28001 floor 28001_28561 .
+%mor:	coord|and det:art|the n|mother aux|be&3S part|wash-PRESP n|dish-PL
+	conj|while det:art|the n|water~aux|be&3S part|run-PRESP prep|over
+	prep|in det:art|the n|sink prep|on det:art|the n|floor .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|11|LINK
+	8|9|DET 9|11|SUBJ 10|11|AUX 11|5|CJCT 12|11|JCT 13|11|JCT 14|15|DET
+	15|13|POBJ 16|11|JCT 17|18|DET 18|16|POBJ 19|5|PUNCT
+*PAR:	and <the window is> [//] the sun's shining &=laughs . 29198_32818
+%wor:	and 29198_29358 <the 29358_29558 window 29558_30308 is 30338_30608> [//] the sun's shining &=laughs . 31808_32818
+%mor:	coord|and det:art|the n|sun~aux|be&3S part|shine-PRESP .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	there's two cups and this plate on the counter . 39151_43471
+%wor:	there's 39151_39411 two 39441_39621 cups 39621_40281 and 40791_40981 this 41041_41331 plate 41491_42161 on 42571_42951 the 42981_43071 counter 43071_43471 .
+%mor:	pro:exist|there~cop|be&3S det:num|two n|cup-PL coord|and
+	det:dem|this n|plate prep|on det:art|the n|counter .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|CONJ 6|7|DET 7|5|COORD
+	8|7|NJCT 9|10|DET 10|8|POBJ 11|2|PUNCT
+*PAR:	and maybe the mother is drying a plate . 44257_47107
+%wor:	and 44257_44397 maybe 44397_44747 the 45347_45477 mother 45477_45817 is 45817_45977 drying 45977_46517 a 46517_46567 plate 46567_47107 .
+%mor:	coord|and adv|maybe det:art|the n|mother aux|be&3S part|dry-PRESP
+	det:art|a n|plate .
+%gra:	1|6|LINK 2|6|JCT 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*PAR:	that's all I see . [+ exc] 49707_50427
+%wor:	that's 49707_49857 all 49857_50027 I 50027_50147 see 50147_50427 . [+ exc]
+%mor:	pro:dem|that~cop|be&3S pro:indef|all pro:sub|I v|see .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|SUBJ 5|3|CMOD 6|2|PUNCT
+*INV:	okay good . 50450_51960
+%wor:	okay 50450_51310 good 51540_51960 .
+%mor:	co|okay adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

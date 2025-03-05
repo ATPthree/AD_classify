@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/t-00002283-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|78;|male|Control||Participant|29||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	129-1, audio
+@G:	Cookie
+*PAR:	<one of the> [//] the boy is on the stool getting cookies from the
+	cookie jar and giving them to the girl but the stool is about ready
+	to tip over . 42546_50966
+%wor:	one 42546_42776 of 42776_42906 the 42906_42996 the 44046_44056 boy 44056_44316 is 44396_44536 on 44536_44766 the 44766_44866 stool 44866_45356 getting 45486_45706 cookies 45706_46066 from 46066_46266 the 46266_46286 cookie 46286_46586 jar 46586_46916 and 46916_47126 giving 47836_48096 them 48096_48226 to 48226_48306 the 48306_48466 girl 48466_48896 but 48896_49126 the 49126_49236 stool 49236_49686 is 49686_49756 about 49756_50086 ready 50086_50246 to 50246_50306 tip 50426_50636 over 50636_50966 .
+%mor:	det:art|the n|boy aux|be&3S prep|on det:art|the n|stool
+	part|get-PRESP n|cookie-PL prep|from det:art|the n|cookie n|jar
+	coord|and part|give-PRESP pro:obj|them prep|to det:art|the n|girl
+	conj|but det:art|the n|stool cop|be&3S adv|about adj|ready inf|to
+	v|tip adv|over .
+%gra:	1|2|DET 2|7|SUBJ 3|7|AUX 4|3|JCT 5|6|DET 6|4|POBJ 7|0|ROOT 8|7|OBJ
+	9|7|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|7|CONJ 14|13|COORD
+	15|14|OBJ 16|14|JCT 17|18|DET 18|16|POBJ 19|22|LINK 20|21|DET
+	21|22|SUBJ 22|7|CJCT 23|24|JCT 24|22|PRED 25|26|INF 26|24|XMOD
+	27|26|JCT 28|7|PUNCT
+*PAR:	&-uh the mother is drying the dishes as the sink faucet has filled
+	the sink bowl and is running over onto the floor . 51681_58771
+%wor:	&-uh 51681_51731 the 51731_51841 mother 51841_52301 is 52301_52451 drying 52451_53011 the 53011_53041 dishes 53041_53431 as 53431_53581 the 53661_53901 sink 53901_54271 faucet 54361_54721 has 55281_55471 filled 55471_55901 the 55901_55991 sink 55991_56271 bowl 56271_56671 and 57051_57271 is 57271_57351 running 57351_57661 over 57661_57871 onto 57871_58071 the 58071_58221 floor 58361_58771 .
+%mor:	det:art|the n|mother aux|be&3S part|dry-PRESP det:art|the n|dish-PL
+	prep|as det:art|the n|sink n|faucet aux|have&3S part|fill-PASTP
+	det:art|the n|sink n|bowl coord|and aux|be&3S part|run-PRESP
+	adv|over prep|onto det:art|the n|floor .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|12|SUBJ 5|6|DET 6|4|OBJ 7|4|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|12|AUX 12|0|ROOT 13|15|DET 14|15|MOD 15|12|OBJ
+	16|12|CONJ 17|18|AUX 18|16|COORD 19|18|JCT 20|18|JCT 21|22|DET
+	22|20|POBJ 23|12|PUNCT
+*PAR:	&-uh that's all the action . [+ exc] 60376_63576
+%wor:	&-uh 60376_60726 that's 62376_62606 all 62606_62876 the 62876_63056 action 63056_63576 .
+%mor:	pro:dem|that~cop|be&3S adv|all det:art|the n|action .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|JCT 4|5|DET 5|2|PRED 6|2|PUNCT
+*PAR:	let's see . [+ exc] 64970_65200
+%wor:	let's 64970_65120 see 65120_65200 .
+%mor:	v|let~pro:obj|us v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+*INV:	+< okay . 65640_65730
+%wor:	okay 65640_65730 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(..) okay good . 73047_73797
+%wor:	okay 73047_73227 good 73427_73797 .
+%mor:	co|okay adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

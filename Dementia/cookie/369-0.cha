@@ -1,0 +1,92 @@
+@UTF8
+@PID:	11312/t-00002646-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|73;|female|ProbableAD||Participant|22||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	369-0, audio
+@G:	Cookie
+*INV:	on in the picture . 790_1390
+%wor:	on 790_940 in 940_1170 the 1170_1190 picture 1190_1390 .
+%mor:	adv|on prep|in det:art|the n|picture .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	mhm . [+ exc] 2373_2573
+%wor:	mhm 2373_2573 . [+ exc]
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-hm well ‡ &+sh (..) she's &-um spillin(g) the water from [/] from
+	washin(g) &-uh her dishes . 5416_22536
+%wor:	&-hm 5416_6626 well 13956_14086 ‡ &+sh (..) she's 15716_15806 &-um 15806_16206 spillin(g) 16816_17556 the 17556_17576 water 17576_18276 from [/] 18446_18836 from 19996_20296  washin(g) 20296_21326 &-uh 21686_21696 her 21696_21796 dishes 21796_22536 .
+%mor:	co|well beg|beg pro:sub|she~aux|be&3S part|spill-PRESP det:art|the
+	n|water prep|from part|wash-PRESP det:poss|her n|dish-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|8|POBJ 10|11|DET 11|9|OBJ 12|5|PUNCT
+*PAR:	it's [/] it's runnin(g) over rather . 24221_26471
+%wor:	it's [/] 24221_24581 it's 24691_24951 runnin(g) 24951_25471 over 25471_25871 rather 25871_26471 .
+%mor:	pro:per|it~aux|be&3S part|run-PRESP adv|over adv|rather .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|PUNCT
+*PAR:	in the (.) the youngsters are [/] are &-uh getting the jam [* s:uk]
+	. 30661_44091
+%wor:	in 30661_31621 the 34861_35031 (.) the 35031_35051 youngsters 35051_36091 are [/] 36251_36691 are 38261_38901 &-uh 38901_38911 getting 42281_43081 the 43471_43581 jam [* s:uk]  . 43581_44091
+%mor:	prep|in det:art|the det:art|the n|youngster-PL aux|be&PRES
+	part|get-PRESP det:art|the n|jam .
+%gra:	1|6|JCT 2|4|DET 3|4|DET 4|1|POBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*PAR:	and in the meantime he's tiltin(g) his chair [: stool] [* s:r]
+	&=laughs . 44108_50298
+%wor:	and 44108_44258 in 44578_45038 the 45038_45128 meantime 45128_46368 he's 46368_46478 tiltin(g) 48308_49118 his 49118_49488 chair [: stool] [* s:r]  &=laughs . 49588_50298
+%mor:	coord|and prep|in det:art|the n|meantime pro:sub|he~aux|be&3S
+	part|tilt-PRESP det:poss|his n|stool .
+%gra:	1|7|LINK 2|7|JCT 3|4|DET 4|2|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|7|PUNCT
+*INV:	anything else ? 67133_67913
+%wor:	anything 67133_67523 else 67523_67913 ?
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	hm ? [+ exc] 70097_70307
+%wor:	hm 70097_70307 ? [+ exc]
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	that you see going on in the picture . 70581_72091
+%wor:	that 70581_70681 you 70681_70741 see 70771_71001 going 71001_71361 on 71391_71541 in 71541_71841 the 71931_71941 picture 71941_72091 .
+%mor:	comp|that pro:per|you v|see part|go-PRESP adv|on prep|in
+	det:art|the n|picture .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|JCT 6|4|JCT 7|8|DET
+	8|6|POBJ 9|3|PUNCT
+*PAR:	<he is> [//] he's [/] he's trying to get the cake [* s:uk] down
+	where &+sh &+sh I suppose she can share with him . 74949_84379
+%wor:	<he 74949_75309 is 75309_75559> [//] he's [/] 75669_75949 he's 77539_77839 trying 77869_78329 to 78329_78449 get 78499_78729 the 78799_78919 cake [* s:uk] 79079_79299 down 79439_80009  where 80009_80359 &+sh &+sh I 81699_81849 suppose 81849_82639 she 82639_82649 can 82649_83029 share 83029_83499 with 83499_83759 him 83939_84379 .
+%mor:	pro:sub|he~aux|be&3S part|try-PRESP inf|to v|get det:art|the n|cake
+	prep|down pro:int|where pro:sub|I v|suppose pro:sub|she mod|can
+	v|share prep|with pro:obj|him .
+%gra:	1|3|SUBJ 2|3|AUX 3|11|XJCT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|5|JCT
+	9|8|POBJ 10|11|SUBJ 11|0|ROOT 12|14|SUBJ 13|14|AUX 14|11|COMP
+	15|14|JCT 16|15|POBJ 17|11|PUNCT
+*PAR:	<and then> [//] <and the mother is> [//] &-uh &+lis the water is
+	runnin(g) over &=laughs which she doesn't seem to be aware of it too
+	much . [+ gram] 85990_103480
+%wor:	<and 85990_86940 then 94330_95480> [//] <and the mother is> [//] 95870_98150 &-uh 98150_98160 &+lis the 98160_98180 water 98180_98470 is 98470_98730  runnin(g) 98820_99390 over 99390_99870 &=laughs which 99870_100430 she 100430_100500 doesn't 100500_101250 seem 101250_101620 to 101620_101780 be 101780_102010 aware 102010_102650 of 102650_102720 it 102720_102850 too 103000_103130  much 103130_103480 . [+ gram]
+%mor:	det:art|the n|water aux|be&3S part|run-PRESP adv|over pro:int|which
+	pro:sub|she mod|do&3S~neg|not cop|seem inf|to cop|be adj|aware
+	prep|of pro:per|it adv|too adv|much .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|10|LINK 7|10|SUBJ
+	8|10|AUX 9|8|NEG 10|4|COMP 11|12|INF 12|10|COMP 13|12|PRED 14|13|JCT
+	15|14|POBJ 16|17|JCT 17|12|JCT 18|4|PUNCT
+*PAR:	and <his chair [: stool] [* s:r-ret] is slippin(g) out from> [//]
+	&-uh the stool is slippin(g) out from under him &=laughs . 111679_117979
+%wor:	and 111679_112019 <his 112019_112359 chair [: stool] [* s:r-ret] 112389_112739 is 112739_113079 slippin(g) 113229_113699 out 113729_113869 from 114009_114769> [//]  &-uh the stool is slippin(g) out from under him &=laughs . 114819_117979
+%mor:	coord|and det:art|the n|stool aux|be&3S part|slip-PRESP adv|out
+	prep|from adv|under pro:obj|him .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|7|JCT
+	9|8|POBJ 10|5|PUNCT
+*INV:	okay . 134097_134297
+%wor:	okay 134097_134297 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	that's fine . 135195_135855
+%wor:	that's 135195_135315 fine 135485_135855 .
+%mor:	pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

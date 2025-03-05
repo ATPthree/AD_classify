@@ -1,0 +1,64 @@
+@UTF8
+@PID:	11312/t-00002727-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|65;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	702-0, audio
+@G:	Cookie
+*INV:	okay ? 400_500
+%wor:	okay 400_500 ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	the picture . 633_1643
+%wor:	the 633_1203 picture 1203_1643 .
+%mor:	det:art|the n|picture .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	tell me everything +/. 5209_6039
+%wor:	tell 5209_5319 me 5319_5559 everything 5559_6039 +/.
+%mor:	v|tell pro:obj|me pro:indef|everything +/.
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|1|PUNCT
+*PAR:	you want me to tell you ? [+ exc] 5361_6241
+%wor:	you 5361_5621 want 5621_5791 me 5791_5861 to 5861_5951 tell 5951_6071 you 6071_6241 ? [+ exc]
+%mor:	pro:per|you v|want pro:obj|me inf|to v|tell pro:per|you ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|2|COMP 6|5|OBJ 7|2|PUNCT
+*PAR:	okay &-uh the boy's getting in the cookie jar . 6498_9378
+%wor:	okay 6498_6978 &-uh 7338_7698 the 7698_7748 boy's 7748_8018 getting 8018_8408 in 8408_8478 the 8478_8498 cookie 8498_8758 jar 8758_9378 .
+%mor:	co|okay det:art|the n|boy~aux|be&3S part|get-PRESP prep|in
+	det:art|the n|cookie n|jar .
+%gra:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|5|PUNCT
+*PAR:	his sister's waiting for cookies . 9808_12088
+%wor:	his 9808_10168 sister's 10168_11028 waiting 11028_11428 for 11428_11598 cookies 11598_12088 .
+%mor:	det:poss|his n|sister~aux|be&3S part|wait-PRESP prep|for
+	n|cookie-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	the mother's washing dishes and water's spilling over . 12111_14811
+%wor:	the 12111_12201 mother's 12201_12611 washing 12611_12971 dishes 12971_13451 and 13451_13611 water's 13611_13991 spilling 13991_14491 over 14491_14811 .
+%mor:	det:art|the n|mother~aux|be&3S part|wash-PRESP n|dish-PL coord|and
+	n|water~aux|be&3S part|spill-PRESP adv|over .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|4|CJCT 10|9|JCT 11|4|PUNCT
+*PAR:	&-uh can see the walk and the grass outside in the window .
+	[+ gram] 16222_21783
+%wor:	&-uh 16223_16233 can 16233_17053 see 18473_18743 the 18743_18803 walk 18953_19543 and 19543_19663 the 19663_19723 grass 19723_20243 outside 20243_20923 in 20923_21133 the 21133_21143 window 21143_21783 . [+ gram]
+%mor:	mod|can v|see det:art|the n|walk coord|and det:art|the n|grass
+	adv|+prep|out+n|side prep|in det:art|the n|window .
+%gra:	1|2|AUX 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|CONJ 6|7|DET 7|5|COORD
+	8|7|NJCT 9|8|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*PAR:	the &-uh stool's about ready to fall . 22978_25508
+%wor:	the 22978_23338 &-uh 23568_23578 stool's 23798_24328 about 24328_24638 ready 24638_24848 to 24848_24948 fall 24948_25508 .
+%mor:	det:art|the n|stool~cop|be&3S adv|about adj|ready prep|to n|fall .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|JCT 7|6|POBJ
+	8|3|PUNCT
+*PAR:	the cupboard door's open . 28922_30212
+%wor:	the 28922_28982 cupboard 28982_29372 door's 29372_29722 open 29722_30212 .
+%mor:	det:art|the n|+n|cup+n|board n|door~cop|be&3S adj|open .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*INV:	okay . 37483_37593
+%wor:	okay 37483_37593 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

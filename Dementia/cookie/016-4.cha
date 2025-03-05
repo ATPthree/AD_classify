@@ -1,0 +1,107 @@
+@UTF8
+@PID:	11312/t-00002436-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|70;00.|male|MCI||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	016-4, audio
+@Comment:	age is educated estimate, extrapolated from incomplete
+	demographic data
+@G:	Cookie
+*INV:	is take a look at this picture and tell me everything that you see
+	going on . 30_3830
+%wor:	is 30_90 take 470_710 a 710_760 look 760_1020 at 1020_1130 this 1130_1280 picture 1280_1680 and 1680_1800 tell 1800_1990 me 1990_2140 everything 2140_2800 that 2800_3050 you 3050_3110 see 3110_3170  going 3170_3580 on 3580_3830 .
+%mor:	aux|be&3S v|take det:art|a v|look prep|at det:dem|this n|picture
+	coord|and v|tell pro:obj|me pro:indef|everything pro:rel|that
+	pro:per|you v|see part|go-PRESP adv|on .
+%gra:	1|2|AUX 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|4|CONJ
+	9|8|COORD 10|9|OBJ2 11|9|OBJ 12|14|LINK 13|14|SUBJ 14|11|CMOD
+	15|14|COMP 16|15|JCT 17|2|PUNCT
+*INV:	everything that you see happening in this picture . 4456_6726
+%wor:	everything 4456_5086 that 5086_5246 you 5246_5356 see 5356_5406 happening 5406_5896 in 5896_6006 this 6006_6166 picture 6166_6726 .
+%mor:	pro:indef|everything pro:rel|that pro:per|you v|see
+	part|happen-PRESP prep|in det:dem|this n|picture .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CMOD 5|4|COMP 6|5|JCT 7|8|DET
+	8|6|POBJ 9|1|PUNCT
+*PAR:	well the little girl wants the cookie that the <guy's steal> [//]
+	&+k kid is stealing from the cookie jar with the lid off . 7852_14202
+%wor:	well 7852_8172 the 8172_8182 little 8182_8452 girl 8452_8842 wants 8842_9182 the 9182_9392 cookie 9392_9822 that 9822_10212 the 10212_10222 <guy's 10222_10662 steal 10692_11012> [//]  &+k kid is stealing from the cookie jar with the lid off . 11012_14202
+%mor:	co|well det:art|the adj|little n|girl v|want-3S det:art|the
+	n|cookie pro:rel|that det:art|the n|kid aux|be&3S part|steal-PRESP
+	prep|from det:art|the n|cookie n|jar prep|with det:art|the n|lid
+	adv|off .
+%gra:	1|5|COM 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|12|LINK
+	9|10|DET 10|12|SUBJ 11|12|AUX 12|7|CMOD 13|12|JCT 14|16|DET
+	15|16|MOD 16|13|POBJ 17|12|JCT 18|19|DET 19|17|POBJ 20|19|NJCT
+	21|5|PUNCT
+*PAR:	and he's tripping [: tipping] [* p:w] off the stool . 14300_17240
+%wor:	and 14300_14460 he's 14460_14640 tripping [: tipping] [* p:w] 15630_16060 off 16060_16380 the 16430_16730 stool 16730_17240 .
+%mor:	coord|and pro:sub|he~aux|be&3S part|tip-PRESP prep|off det:art|the
+	n|stool .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	the water's overflowing in the sink . 17262_19512
+%wor:	the 17262_17272 water's 17272_17972 overflowing 17972_19032 in 19032_19122 the 19122_19292 sink 19292_19512 .
+%mor:	det:art|the n|water~aux|be&3S over#part|flow-PRESP prep|in
+	det:art|the n|sink .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	&+w woman is drying dishes . [+ gram] 20644_23424
+%wor:	&+w woman 20644_21144 is 21144_21284 drying 21334_21984 dishes 22654_23424 . [+ gram]
+%mor:	n|woman aux|be&3S part|dry-PRESP n|dish-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	&-uh there's a hedge outside and all the letters are upside down .
+	24009_30909
+%wor:	&-uh 24009_24479 there's 24549_25029 a 25029_25579 hedge 26189_26589 outside 26589_27449 and 27449_28059 all 28059_28159 the 28159_28279 letters 28279_28949 are 28949_29229 upside 29399_30369 down 30369_30909 .
+%mor:	pro:exist|there~cop|be&3S det:art|a n|hedge adv|+prep|out+n|side
+	coord|and qn|all det:art|the n|letter-PL cop|be&PRES adv|upside
+	adv|down .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|10|JCT 6|5|CONJ 7|9|QUANT
+	8|9|DET 9|6|COORD 10|4|CMOD 11|10|JCT 12|10|JCT 13|2|PUNCT
+*PAR:	and &-uh there's a plate and a (.) cup on the kitchen cabinet . 31576_40956
+%wor:	and 31576_32026 &-uh 32026_32386 there's 33506_33796 a 33796_33886 plate 34186_34696 and 35246_35976 a 36056_36646 (.) cup 37946_38456 on 38936_39316 the 39316_39506 kitchen 39756_40216 cabinet 40216_40956 .
+%mor:	coord|and pro:exist|there~cop|be&3S det:art|a n|plate coord|and
+	det:art|a n|cup prep|on det:art|the n|kitchen n|cabinet .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|CONJ 7|8|DET
+	8|6|COORD 9|8|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|3|PUNCT
+*PAR:	and a &-uh +... 41798_43268
+%wor:	and 41798_42078 a 42078_42728 &-uh 43258_43268 +...
+%mor:	coord|and det:art|a +...
+%gra:	1|0|INCROOT 2|3|DET 3|1|PUNCT
+*PAR:	oh whatcha [: what do you] call that ? [+ exc] 43590_44700
+%wor:	oh 43590_43620 whatcha [: what do you] 43620_44040 call 44040_44530 that 44530_44700 ? [+ exc]
+%mor:	co|oh pro:int|what mod|do pro:per|you v|call pro:dem|that ?
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	and &-uh the drapes &+a and a sash window . [+ gram] 45610_51360
+%wor:	and 45610_46120 &-uh 46120_46510 the 46510_46630 drapes 46630_47370 &+a and 47370_48080 a sash 49090_49490 window 50440_51360 . [+ gram]
+%mor:	coord|and det:art|the v|drape-3S coord|and det:art|a n|sash
+	n|window .
+%gra:	1|3|LINK 2|3|DET 3|0|ROOT 4|3|CONJ 5|7|DET 6|7|MOD 7|4|COORD
+	8|3|PUNCT
+*PAR:	and a window on the adjacent &-uh part of the building . [+ gram] 51409_57139
+%wor:	and 51409_51819 a window 53559_54119 on 54119_54369 the 54369_54459 adjacent 54459_55449 &-uh 55449_55459 part 55459_55669 of 55749_56209 the 56209_56359 building 56359_57139 . [+ gram]
+%mor:	coord|and det:art|a n|window prep|on det:art|the adj|adjacent
+	n|part prep|of det:art|the n|building .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|NJCT 5|7|DET 6|7|MOD 7|4|POBJ
+	8|7|NJCT 9|10|DET 10|8|POBJ 11|3|PUNCT
+*PAR:	&-uh there's a path through the lawn . 57880_61720
+%wor:	&-uh 57880_58360 there's 58830_59050 a path 59100_59740 through 59740_60110 the 60110_60440 lawn 61040_61720 .
+%mor:	pro:exist|there~cop|be&3S det:art|a n|path prep|through det:art|the
+	n|lawn .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|2|PUNCT
+*PAR:	&-uh <she's stepping> [//] the woman is stepping in the water with
+	slippers or &+sh &+sh sandals or somethin(g) . 64153_71993
+%wor:	&-uh 64153_64423 <she's 65073_65363 stepping 65363_65983> [//] the woman is stepping in the water with  slippers or &+sh &+sh sandals or somethin(g) . 65983_71993
+%mor:	det:art|the n|woman cop|be&3S n:gerund|step-GERUND prep|in
+	det:art|the n|water prep|with n|slipper-PL coord|or n|sandal-PL
+	coord|or pro:indef|something .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|7|DET 7|5|POBJ 8|4|JCT
+	9|8|POBJ 10|9|CONJ 11|10|COORD 12|11|CONJ 13|12|COORD 14|3|PUNCT
+*PAR:	&-uh (.) that [//] that's about it . [+ exc] 75299_79229
+%wor:	&-uh 75299_75549 (.) that [//] 75549_75639 that's 78409_78659 about 78659_79019 it 79019_79229 . [+ exc]
+%mor:	pro:dem|that~cop|be&3S adv|about pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+@End

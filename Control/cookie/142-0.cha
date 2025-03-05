@@ -1,0 +1,98 @@
+@UTF8
+@PID:	11312/t-00002304-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|58;|female|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	142-0, audio
+@G:	Cookie
+*INV:	here's the picture . 1190_1490
+%mor:	pro:exist|here~cop|be&3S det:art|the n|picture .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%wor:	here's 1190_1290 the 1290_1300 picture 1300_1490 .
+*INV:	tell me all of the action . 3366_3826
+%mor:	v|tell pro:obj|me pro:indef|all prep|of det:art|the n|action .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+%wor:	tell 3366_3466 me 3466_3536 all 3536_3596 of 3596_3656 the 3656_3666 action 3666_3826 .
+*PAR:	&-uh there's a boy reaching &=clears:throat on [/] he's on a stool
+	reaching for cookies . 4713_12343
+%mor:	pro:exist|there~cop|be&3S det:art|a n|boy part|reach-PRESP
+	pro:sub|he~aux|be&3S prep|on det:art|a n|stool part|reach-PRESP
+	prep|for n|cookie-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|XMOD 6|11|SUBJ 7|11|AUX 8|11|JCT
+	9|10|DET 10|8|POBJ 11|5|COMP 12|11|JCT 13|12|POBJ 14|2|PUNCT
+%wor:	&-uh 4713_4723 there's 5123_5503 a 7683_8053 boy 8913_9093 reaching 9093_9673 on 9783_10063 he's 10063_10133 on 10373_11063 a 11163_11193 stool 11193_11443 reaching 11503_11653 for 11923_12043 cookies 12153_12343 .
+*PAR:	and the stool is ready to fall over . 13433_15123
+%mor:	coord|and det:art|the n|stool cop|be&3S adj|ready inf|to v|fall
+	adv|over .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|7|INF 7|5|XMOD 8|7|JCT
+	9|4|PUNCT
+%wor:	and 13433_13523 the 13523_13533 stool 13743_14063 is 14133_14193 ready 14193_14383 to 14383_14453 fall 14683_14983 over 14983_15123 .
+*PAR:	&-uh he's got one hand in the cookie jar . 16356_18646
+%mor:	pro:sub|he~aux|be&3S part|get&PASTP det:num|one n|hand prep|in
+	det:art|the n|cookie n|jar .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|3|PUNCT
+%wor:	&-uh 16356_16536 he's 16536_16626 got 16706_16926 one 16926_17536 hand 17826_17946 in 17946_18006 the 18006_18076 cookie 18076_18406 jar 18446_18646 .
+*PAR:	and he's got a cookie in the left hand . 19162_21132
+%mor:	coord|and pro:sub|he~aux|be&3S part|get&PASTP det:art|a n|cookie
+	prep|in det:art|the adj|left n|hand .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|4|PUNCT
+%wor:	and 19162_19272 he's 19332_19422 got 19562_19762 a 19762_19812 cookie 19812_20062 in 20132_20672 the 20902_20912 left 20912_21032 hand 21032_21132 .
+*PAR:	and his girl's standing beside him . 22645_24315
+%mor:	coord|and det:poss|his n|girl~aux|be&3S part|stand-PRESP
+	prep|beside pro:obj|him .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+%wor:	and 22645_22735 his 22735_22805 girl's 22985_23175 standing 23335_23835 beside 23835_24135 him 24135_24315 .
+*INV:	&*PAR:am_I_going_too_fast go ahead . 26776_27036
+%mor:	v|go adv|ahead .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%wor:	&*PAR:am_I_going_too_fast go 26776_26836 ahead 26836_27036 .
+*PAR:	and &-uh she's reaching for the cookie that he has in his hand . 27484_30744
+%mor:	coord|and pro:sub|she~aux|be&3S part|reach-PRESP prep|for
+	det:art|the n|cookie pro:rel|that pro:sub|he aux|have&3S prep|in
+	det:poss|his n|hand .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|10|JCT 12|13|DET 13|11|POBJ 14|4|PUNCT
+%wor:	and 27484_27754 &-uh 27754_27994 she's 27994_28084 reaching 28644_28804 for 28804_28864 the 28864_28904 cookie 28904_29024 that 29684_29774 he 29774_29784 has 29784_29854 in 29974_30234 his 30464_30554 hand 30554_30744 .
+*PAR:	and she has her right finger up to her lips . 32761_36111
+%mor:	coord|and pro:sub|she v|have&3S det:poss|her n|right v|finger
+	adv|up prep|to det:poss|her n|lip-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|COMP 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+%wor:	and 32761_33111 she 33651_33681 has 33681_33751 her 33751_33801 right 33801_33891 finger 34261_34621 up 34691_34821 to 35191_35301 her 35851_35891 lips 35891_36111 .
+*PAR:	&-uh there's a woman presumably the mother standing at the sink
+	drying dishes . 37150_43560
+%mor:	pro:exist|there~cop|be&3S det:art|a n|woman
+	adv|presume&dadj-ABLE-LY det:art|the n|mother part|stand-PRESP
+	prep|at det:art|the n|sink part|dry-PRESP n|dish-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|4|XMOD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|4|XMOD 13|12|OBJ 14|2|PUNCT
+%wor:	&-uh 37150_37160 there's 37160_37280 a 37370_37710 woman 38360_38510 presumably 38510_39050 the 39960_39970 mother 39970_40240 standing 40390_40760 at 40760_40850 the 40850_40860 sink 41170_41300 drying 42670_43260 dishes 43380_43560 .
+*PAR:	and the sink is overflowing with water onto the floor . 44680_48120
+%mor:	coord|and det:art|the n|sink aux|be&3S over#part|flow-PRESP
+	prep|with n|water prep|onto det:art|the n|floor .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+%wor:	and 44680_45070 the 45180_45190 sink 45190_45370 is 45370_45620 overflowing 46070_46500 with 46500_46740 water 46810_46930 onto 46930_47110 the 47690_47700 floor 47700_48120 .
+*PAR:	&-um you just want the action &*INV:mhm ? [+ exc] 50835_54435
+%mor:	pro:per|you adv|just v|want det:art|the n|action ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	&-um 50835_51165 you 52735_52795 just 52795_52945 want 52945_53635 the 53635_53655 action 53855_54435 &*INV:mhm ?
+*PAR:	you just want the action . [+ exc] 54582_58372
+%mor:	pro:per|you adv|just v|want det:art|the n|action .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	you 54582_54642 just 57682_57802 want 57802_58212 the 58212_58222 action 58222_58372 .
+*PAR:	<the faucet> [//] the water's coming out_of the faucet . 59013_61473
+%mor:	det:art|the n|water~aux|be&3S part|come-PRESP prep|out_of
+	det:art|the n|faucet .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%wor:	the 59013_59023 faucet 59023_59273 the 60393_60403 water's 60403_60713 coming 61073_61243 out_of 61243_61273 the 61273_61303 faucet 61303_61473 .
+*INV:	okay good thank_you . 63140_65940
+%mor:	co|okay adj|good co|thank_you .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%wor:	okay 63140_63370 good 65280_65580 thank_you . 65770_65940
+@End

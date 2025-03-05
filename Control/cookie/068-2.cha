@@ -1,0 +1,75 @@
+@UTF8
+@PID:	11312/t-00002228-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@Options:	multi
+@ID:	eng|Pitt|PAR|61;00.|female|Control||Participant|||
+@Media:	068-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete
+	demographic data
+@G:	Cookie
+*PAR:	oh yes . [+ exc] 570_1320
+%wor:	oh 570_870 yes 1290_1320 . [+ exc]
+%mor:	co|oh co|yes .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	(.) well &=sighs &-uh the mother is washing the dishes . 6464_10764
+%wor:	(.) well 6464_6934 &=sighs &-uh 9294_9304 the 9304_9314 mother 9314_9464 is 9464_9684 washing 9714_10214 the 10244_10334 dishes 10334_10764 .
+%mor:	co|well det:art|the n|mother aux|be&3S part|wash-PRESP det:art|the
+	n|dish-PL .
+%gra:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and the water is running over in the sink . 12610_14670
+%wor:	and 12610_12730 the 12730_12740 water 12740_12980 is 12980_13190 running 13230_13540 over 13590_13690 in 13690_13750 the 14140_14300 sink 14300_14670 .
+%mor:	coord|and det:art|the n|water aux|be&3S part|run-PRESP adv|over
+	prep|in det:art|the n|sink .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*PAR:	and the kid's [//] little boy's &+goi getting in the cookie jar . 16682_20052
+%wor:	and 16682_17022 the 17452_17462 kid's [//] 17462_17742 little 18262_18372 boy's 18372_18702 &+goi getting 18702_19172 in 19172_19232 the 19442_19452 cookie 19452_19722 jar 19752_20052 .
+%mor:	coord|and det:art|the adj|little n|boy~aux|be&3S part|get-PRESP
+	prep|in det:art|the n|cookie n|jar .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|6|PUNCT
+*PAR:	and he's about to trip over the chair [: stool] [* s:r] . 20100_21850
+%wor:	and 20100_20190 he's 20270_20360 about 20440_20610 to 20610_20650 trip 20800_21030 over 21030_21160 the 21460_21470 chair [: stool] [* s:r] 21470_21850 .
+%mor:	coord|and pro:sub|he~cop|be&3S adv|about prep|to n|trip adv|over
+	det:art|the n|stool .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|5|POBJ 7|6|NJCT
+	8|9|DET 9|7|POBJ 10|3|PUNCT
+*PAR:	and she seems to be oblivious to everything . 21900_24260
+%wor:	and 21900_22050 she 22050_22060 seems 22120_22420 to 22810_22870 be 22870_22930 oblivious 22930_23440 to 23440_23550 everything 23580_24260 .
+%mor:	coord|and pro:sub|she cop|seem-3S inf|to cop|be adj|oblivious
+	prep|to pro:indef|everything .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|PRED 7|6|JCT
+	8|7|POBJ 9|3|PUNCT
+*PAR:	guess in some kind of daze . [+ gram] 25949_27149
+%wor:	guess 25949_26039 in 26109_26169 some 26169_26379 kind 26449_26569 of 26819_26879 daze 26879_27149 . [+ gram]
+%mor:	n|guess prep|in qn|some n|kind prep|of v|daze .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|QUANT 4|2|POBJ 5|4|NJCT 6|5|POBJ 7|1|PUNCT
+*PAR:	and the little girl has her finger on her lips and +"/. 28655_30385
+%wor:	and 28655_28745 the 28745_28755 little 28755_28955 girl 29005_29095 has 29095_29165 her 29165_29205 finger 29375_29525 on 30015_30075 her 30075_30115 lips 30115_30215 and 30295_30385 +"/.
+%mor:	coord|and det:art|the adj|little n|girl v|have&3S det:poss|her
+	n|finger prep|on det:poss|her n|lip-PL coord|and +"/.
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|DET 10|8|POBJ 11|5|CONJ 12|11|COORD
+*PAR:	+" sh@o don't tell mom . 31381_31931
+%wor:	+" sh@o 31381_31391 don't 31391_31551 tell 31551_31641 mom 31641_31931 .
+%mor:	on|sh mod|do~neg|not v|tell n|mom .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	&-um (.) this looks [/] looks like the mother is really kinda
+	[: kind_of] (.) burned out . 31984_42984
+%wor:	&-um 31984_32054 (.) this 37504_37584 looks [/] 37864_38024 looks 38424_38634 like 38634_38724 the 38724_38744 mother 39004_39124 is 39124_39184 really 39454_39574 kinda  [: kind_of] 39574_39604 (.) burned 42334_42614 out 42614_42984 .
+%mor:	pro:dem|this v|look-3S prep|like det:art|the n|mother aux|be&3S
+	adv|real&dadj-LY adv|kind_of part|burn-PASTP adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|9|AUX 7|9|JCT 8|9|JCT
+	9|2|XJCT 10|9|JCT 11|2|PUNCT
+*PAR:	or in some kind of a depression (be)cause she doesn't seem to know
+	what's going on . [+ gram] 45004_51024
+%wor:	or 45004_45384 in 45424_45484 some 45614_45744 kind 45844_46004 of 46004_46114 a 46114_46274 depression 48804_49224 (be)cause 49374_49524 she 49524_49534 doesn't 49534_49934 seem 49934_50044 to 50324_50384 know 50384_50424  what's 50424_50564 going 50824_50944 on 50944_51024 . [+ gram]
+%mor:	coord|or prep|in qn|some n|kind prep|of det:art|a n|depression
+	conj|because pro:sub|she mod|do&3S~neg|not cop|seem inf|to v|know
+	pro:int|what~aux|be&3S part|go-PRESP adv|on .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|QUANT 4|2|POBJ 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|12|LINK 9|12|SUBJ 10|12|AUX 11|10|NEG 12|1|CJCT 13|14|INF
+	14|12|COMP 15|17|SUBJ 16|17|AUX 17|14|COMP 18|17|JCT 19|1|PUNCT
+@End

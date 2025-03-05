@@ -1,0 +1,91 @@
+@UTF8
+@PID:	11312/t-00002467-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|83;|female|ProbableAD||Participant|27||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	057-0, audio
+@G:	Cookie
+*INV:	just tell me what you see going on . 340_1500
+%wor:	just 340_490 tell 490_620 me 620_680 what 680_810 you 810_920 see 980_1070 going 1070_1410 on 1410_1500 .
+%mor:	adv|just v|tell pro:obj|me pro:int|what pro:per|you v|see
+	part|go-PRESP adv|on .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|6|LINK 5|6|SUBJ 6|2|COMP 7|6|COMP
+	8|7|JCT 9|2|PUNCT
+*PAR:	okay . [+ exc] 2195_2755
+%wor:	okay 2195_2755 . [+ exc]
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-uh I see a &-uh boy on &-uh a stool . 5289_9509
+%wor:	&-uh 5289_5299 I 5299_5439 see 5519_6299 a 6299_6449 &-uh 6589_6599 boy 6599_6949 on 6979_7119 &-uh 8249_8259 a 8259_8659 stool 8879_9509 .
+%mor:	pro:sub|I v|see det:art|a n|boy prep|on det:art|a n|stool .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|7|DET 7|5|POBJ
+	8|2|PUNCT
+*PAR:	and the stool is falling over while he is reaching for the cookie
+	jar . 9560_15850
+%wor:	and 9560_9650 the 9650_9940 stool 9940_10200 is 10200_10760 falling 10760_11140 over 11330_11700 while 12150_12350 he 12430_12640 is 13220_13360 reaching 13360_13670 for 13670_14270 the 14300_15060 cookie 15100_15250  jar 15330_15850 .
+%mor:	coord|and det:art|the n|stool aux|be&3S part|fall-PRESP adv|over
+	conj|while pro:sub|he aux|be&3S part|reach-PRESP prep|for
+	det:art|the n|cookie n|jar .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|5|CJCT 11|10|JCT 12|14|DET 13|14|MOD
+	14|11|POBJ 15|5|PUNCT
+*PAR:	and &-uh his sister is reaching . 17171_19921
+%wor:	and 17171_17261 &-uh 17261_17271 his 17271_18321 sister 18321_19041 is 19281_19431 reaching 19431_19921 .
+%mor:	coord|and det:poss|his n|sister aux|be&3S part|reach-PRESP .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	&-uh he has two cookies in his left hand . 21218_24198
+%wor:	&-uh 21218_21278 he 21278_21778 has 21778_21978 two 22038_22178 cookies 22178_22668 in 22668_22768 his 22768_23038 left 23038_23858 hand 23858_24198 .
+%mor:	pro:sub|he v|have&3S det:num|two n|cookie-PL prep|in det:poss|his
+	adj|left n|hand .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|JCT 6|8|DET 7|8|MOD
+	8|5|POBJ 9|2|PUNCT
+*PAR:	and &-uh his sister is reaching hoping to get the [/] the cookies
+	in his hand . 25463_31763
+%wor:	and 25463_25743 &-uh 25833_25863 his 25863_26503 sister 26503_26893 is 26893_27143 reaching 27143_27643 hoping 28663_29103 to 29203_29303 get 29393_29573 the [/] 30463_30663 the 30663_30673 cookies 30673_31043 in 31043_31163  his 31163_31373 hand 31373_31763 .
+%mor:	coord|and det:poss|his n|sister aux|be&3S part|reach-PRESP
+	part|hope-PRESP inf|to v|get det:art|the n|cookie-PL prep|in
+	det:poss|his n|hand .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|XJCT 7|8|INF
+	8|6|COMP 9|10|DET 10|8|OBJ 11|8|JCT 12|13|DET 13|11|POBJ 14|5|PUNCT
+*PAR:	and the mother is &-uh drying the dishes <while the> [/] &-uh &+wat
+	while the water's filling up and overflowing onto the [/] the
+	kitchen (.) floor . 33022_49772
+%wor:	and 33022_33282 the 33282_33412 mother 33412_33712 is 33712_34042 &-uh 34912_35242 drying 35972_36482 the 36482_36902 dishes 36932_37432 <while 38912_39152 the 39152_39652> [/] &-uh &+wat  while the water's filling up and overflowing onto the [/] 39682_45542 the 45542_46022  kitchen 47372_47852 (.) floor 48662_49772 .
+%mor:	coord|and det:art|the n|mother aux|be&3S part|dry-PRESP det:art|the
+	n|dish-PL conj|while det:art|the n|water~aux|be&3S part|fill-PRESP
+	adv|up coord|and over#part|flow-PRESP prep|onto det:art|the
+	n|kitchen n|floor .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ
+	8|12|LINK 9|10|DET 10|12|SUBJ 11|12|AUX 12|5|CJCT 13|12|JCT
+	14|12|CONJ 15|14|COORD 16|15|JCT 17|19|DET 18|19|MOD 19|16|POBJ
+	20|5|PUNCT
+*PAR:	and &-uh the window's &+op open . 51597_55807
+%wor:	and 51597_52047 &-uh 52077_52427 the 52567_53487 window's 53527_53887 &+op open 55357_55807 .
+%mor:	coord|and det:art|the n|window~cop|be&3S adj|open .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	let me see what else . [+ exc] 58146_59186
+%wor:	let 58146_58326 me 58506_58516 see 58516_58596 what 58596_58836 else 58836_59186 . [+ exc]
+%mor:	v|let&ZERO pro:obj|me v|see pro:int|what post|else .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|OBJ 5|4|PQ 6|1|PUNCT
+*PAR:	I can't see anything else going on . [+ exc] 59347_64947
+%wor:	I 59347_59357 can't 62847_62967 see 63027_63087 anything 63127_64487 else 64487_64577 going 64767_64887 on 64887_64947 . [+ exc]
+%mor:	pro:sub|I mod|can~neg|not v|see pro:indef|anything post|else
+	part|go-PRESP adv|on .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|5|PQ 7|5|XMOD 8|7|JCT
+	9|4|PUNCT
+*PAR:	the [/] the curtains are &+flu [//] blowin(g) . 64998_67958
+%wor:	the [/] 64998_65008 the 65008_66918 curtains 66948_67108 are 67108_67398 &+flu [//] blowin(g) . 67558_67958
+%mor:	det:art|the n|curtain-PL aux|be&PRES part|blow-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	(.) I can't see anything else . [+ exc] 68469_76879
+%wor:	(.) I 68469_68479 can't 75479_75609 see 75859_75919 anything 75919_76809 else 76809_76879 . [+ exc]
+%mor:	pro:sub|I mod|can~neg|not v|see pro:indef|anything post|else .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|5|PQ 7|4|PUNCT
+*INV:	okay that's fine . 77302_78332
+%wor:	okay 77302_77392 that's 77632_77892 fine 77892_78332 .
+%mor:	co|okay pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

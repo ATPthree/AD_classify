@@ -1,0 +1,98 @@
+@UTF8
+@PID:	11312/t-00002692-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|75;|female|ProbableAD||Participant|17||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	581-0, audio
+@G:	Cookie
+*INV:	what's going on in the picture ? 930_2160
+%wor:	what's 930_1170 going 1170_1470 on 1470_1540 in 1540_1810 the 1810_1820 picture 1820_2160 ?
+%mor:	pro:int|what~aux|be&3S part|go-PRESP adv|on prep|in det:art|the
+	n|picture ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ
+	8|3|PUNCT
+*PAR:	well ‡ the water is &-uh runnin(g) out over the &+s sink and over
+	the [//] (.) this . [+ es] 3073_9943
+%wor:	well 3073_3163 ‡ the 4023_4103 water 4103_4873 is 4873_5033 &-uh 5183_5213 runnin(g) 5213_6713 out 6923_6963 over 7053_7123 the 7123_7773 &+s sink 7933_8443 and 8443_8813 over 8813_9083 the  [//] 9433_9503 (.) this 9503_9943 . [+ es]
+%mor:	co|well beg|beg det:art|the n|water aux|be&3S part|run-PRESP
+	adv|out prep|over det:art|the n|sink coord|and prep|over
+	pro:dem|this .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|10|CONJ 12|11|COORD 13|12|POBJ 14|6|PUNCT
+*PAR:	the little boy is goin(g) up into the cookie jar but the [//] he's
+	on the top of the &=sighs chair [: stool] [* s:r] that he's gonna
+	fall off since it's tipping over . 10610_21720
+%wor:	the 10610_10810 little 10810_10990 boy 10990_11230 is 11230_11400 goin(g) 11430_11680 up 11680_11880 into 11880_12080 the 12080_12260 cookie 12260_12530 jar 12530_12860 but 12860_13080 the [//] 13080_13380 he's 13410_13550  on 13550_13820 the 13820_13910 top 13910_14300 of 14300_14400 the 14400_14500 &=sighs chair [: stool] [* s:r] 17670_18140 that 18140_18280 he's 18280_18490 gonna 18490_18710  fall 18710_19340 off 19370_19440 since 20180_20490 it's 20490_20670 tipping 20670_21610 over 21650_21720 .
+%mor:	det:art|the adj|little n|boy aux|be&3S part|go-PRESP adv|up
+	prep|into det:art|the n|cookie n|jar conj|but pro:sub|he~cop|be&3S
+	prep|on det:art|the n|top prep|of det:art|the n|stool pro:rel|that
+	pro:sub|he~aux|be&3S part|go&PRESP~inf|to v|fall prep|off prep|since
+	pro:per|it~aux|be&3S part|tip-PRESP adv|over .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|13|LINK 12|13|SUBJ 13|5|CJCT 14|13|JCT
+	15|16|DET 16|14|POBJ 17|16|NJCT 18|19|DET 19|17|POBJ 20|23|LINK
+	21|23|SUBJ 22|23|AUX 23|19|CMOD 24|25|INF 25|23|COMP 26|25|JCT
+	27|25|JCT 28|27|POBJ 29|30|AUX 30|25|XJCT 31|30|JCT 32|5|PUNCT
+*PAR:	&-uh the water that's: <on the> [//] &+s also on the floor that's
+	comin(g) out_of the sink . [+ gram] 21822_28002
+%wor:	&-uh 21822_21832 the 23212_23542 water 23542_24072 that's: 24112_24892 <on 24922_25302 the 25332_25482> [//] &+s also on the floor that's  comin(g) out_of the sink . [+ gram] 25482_28002
+%mor:	det:art|the n|water pro:rel|that~cop|be&3S adv|also prep|on
+	det:art|the n|floor pro:rel|that~aux|be&3S part|come-PRESP
+	prep|out_of det:art|the n|sink .
+%gra:	1|2|DET 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|4|JCT 6|4|JCT 7|8|DET
+	8|6|POBJ 9|11|LINK 10|11|AUX 11|8|CMOD 12|11|JCT 13|14|DET
+	14|12|POBJ 15|2|PUNCT
+*PAR:	and &-uh (.) let's see here [/] here +... [+ exc] 30040_46340
+%wor:	and 30040_30870 &-uh 33910_33920 (.) let's 33990_34110 see 45430_45550 here [/] 45950_46000 here 46260_46340 +... [+ exc]
+%mor:	coord|and v|let~pro:obj|us v|see adv|here +...
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|COMP 5|4|JCT 6|2|PUNCT
+*INV:	okay ? 47390_47620
+%wor:	okay 47390_47620 ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no ‡ I don't think I see &+a the [/] the water in here and that .
+	[+ es] 48206_51916
+%wor:	no 48206_48296 ‡ I 48296_48306 don't 48306_48866 think 48896_49166 I 49166_49236 see 49236_49496 &+a the [/] 49496_49506 the 49506_49956 water 49956_50466 in 50466_50586 here 50586_51006 and 51006_51826 that 51826_51916 .  [+ es]
+%mor:	co|no beg|beg pro:sub|I mod|do~neg|not v|think pro:sub|I v|see
+	det:art|the n|water prep|in n|here coord|and pro:dem|that .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|8|SUBJ
+	8|6|COMP 9|10|DET 10|8|OBJ 11|8|JCT 12|11|POBJ 13|8|CONJ 14|13|COORD
+	15|6|PUNCT
+*PAR:	yeah ‡ it goes all the way down into this kitchen floor . 53929_57849
+%wor:	yeah 53929_54069 ‡ it 54069_54139 goes 54319_54569 all 54599_54749 the 54749_54759 way 54759_54879 down 54879_55339 into 55389_55489 this 55519_55829 kitchen 56659_57189 floor 57189_57849 .
+%mor:	co|yeah beg|beg pro:per|it v|go-3S adv|all det:art|the n|way
+	adv|down prep|into det:dem|this n|kitchen n|floor .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|7|NJCT 9|7|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|4|PUNCT
+*INV:	okay . 58909_59069
+%wor:	okay 58909_59069 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	here he is the boy who's taking the cookie out_of the cookie jar
+	but &+st steps back on the chair [: stool] [* s:r-ret] <or whatever
+	you call this the &-uh table not a table> [//] to get to the top <of
+	the> [/] &+s <of the> [/] &-uh &+cook &-uh of the drawer [* s:uk] .
+	[+ cir] 59706_77446
+%wor:	here 59706_59756 he 59806_59816 is 59816_59856 the 60046_60056 boy 60056_60416 who's 60416_60636 taking 60696_61426 the 61656_62076 cookie 62076_62426 out_of 62426_62746 the 62746_62816 cookie 62816_63066 jar 63066_63276  but 63276_63936 &+st steps 64106_64826 back 65356_65636 on 65636_65936 the 65936_66086 chair [: stool] [* s:r-ret] 67296_67476 <or 67476_67776 whatever 67776_68056  you 68056_68206 call 68276_68486 this 68486_68726 the 68726_69326 &-uh 69476_69486 table 69516_69986 not 70406_70616 a table 70646_71156> [//] to get to the top <of  the> [/] 72406_74366 &+s <of 74506_74656 the 74786_74856> [/] &-uh &+cook &-uh of the drawer [* s:uk] 74856_77446 .  [+ cir]
+%mor:	adv|here pro:sub|he cop|be&3S det:art|the n|boy
+	pro:rel|who~aux|be&3S part|take-PRESP det:art|the n|cookie
+	prep|out_of det:art|the n|cookie n|jar conj|but n|step-PL n|back
+	prep|on det:art|the n|stool inf|to v|get prep|to det:art|the n|top
+	prep|of det:art|the n|drawer .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|8|LINK 7|8|AUX
+	8|5|CMOD 9|10|DET 10|8|OBJ 11|8|JCT 12|14|DET 13|14|MOD 14|11|POBJ
+	15|8|CONJ 16|17|MOD 17|15|COORD 18|8|JCT 19|20|DET 20|18|POBJ
+	21|22|INF 22|8|XJCT 23|22|JCT 24|25|DET 25|23|POBJ 26|25|NJCT
+	27|28|DET 28|26|POBJ 29|3|PUNCT
+*PAR:	that's about all . [+ exc] 79204_80214
+%wor:	that's 79204_79424 about 79424_79524 all 79574_80214 . [+ exc]
+%mor:	pro:dem|that~cop|be&3S adv|about adv|all .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*INV:	okay that's fine . 80304_81244
+%wor:	okay 80304_80644 that's 80644_80974 fine 81004_81244 .
+%mor:	co|okay pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

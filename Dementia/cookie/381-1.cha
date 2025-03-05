@@ -1,0 +1,82 @@
+@UTF8
+@PID:	11312/t-00002648-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|76;|female|ProbableAD||Participant|14||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	381-1, audio
+@G:	Cookie
+*INV:	tell me what you see going on in the picture . 1310_3140
+%wor:	tell 1310_1480 me 1480_1600 what 1600_1750 you 1750_1860 see 1860_2140 going 2140_2440 on 2440_2640 in 2640_2740 the 2740_2750 picture 2750_3140 .
+%mor:	v|tell pro:obj|me pro:int|what pro:per|you v|see part|go-PRESP
+	adv|on prep|in det:art|the n|picture .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|LINK 4|5|SUBJ 5|1|COMP 6|5|COMP 7|6|JCT
+	8|6|JCT 9|10|DET 10|8|POBJ 11|1|PUNCT
+*PAR:	well ‡ the boy is in the cookie jar . 3667_5407
+%wor:	well 3667_4007 ‡ the 4007_4167 boy 4167_4357 is 4357_4497 in 4497_4627 the 4627_4727 cookie 4727_4967 jar 4967_5407 .
+%mor:	co|well beg|beg det:art|the n|boy cop|be&3S prep|in det:art|the
+	n|cookie n|jar .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|5|PUNCT
+*PAR:	<and the> [//] &+da and his sister is trying to &-uh take it from
+	him . 6341_10201
+%wor:	<and 6341_6661 the 6661_6681> [//] &+da and his sister is trying to &-uh take it from him  . 6681_10201
+%mor:	coord|and det:poss|his n|sister aux|be&3S part|try-PRESP inf|to
+	v|take pro:per|it prep|from pro:obj|him .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|7|JCT 10|9|POBJ 11|5|PUNCT
+*PAR:	and he's &-uh on a stool going like this . 10636_13406
+%wor:	and 10636_10806 he's 10806_11116 &-uh 11116_11526 on 11526_11656 a 11806_11836 stool 11836_12406 going 12406_12726 like 12726_12996 this 12996_13406 .
+%mor:	coord|and pro:sub|he~aux|be&3S prep|on det:art|a n|stool
+	part|go-PRESP prep|like pro:dem|this .
+%gra:	1|7|LINK 2|7|SUBJ 3|7|AUX 4|7|JCT 5|6|DET 6|4|POBJ 7|0|ROOT 8|7|JCT
+	9|8|POBJ 10|7|PUNCT
+*PAR:	and &-uh then there's &-uh &+l &-uh &+s a female over here with a
+	plate in her hand that &=clears:throat she's dryin(g) dishes .
+	[+ gram] 16620_24250
+%wor:	and 16620_17050 &-uh 17050_17220 then 17220_17440 there's 17440_17690 &-uh 17690_17700 &+l &-uh 17700_17710 &+s a 17740_19380 female 19410_19820 over 19820_20050 here 20050_20460 with 20460_20680 a 20680_21000 plate 21470_21760  in 21760_21880 her 21880_21980 hand 21980_23160 that 23160_23270 &=clears:throat she's 23270_23460 dryin(g) 23460_23850 dishes 23850_24250 . [+ gram]
+%mor:	coord|and adv:tem|then pro:exist|there~cop|be&3S det:art|a n|female
+	prep|over n|here prep|with det:art|a n|plate prep|in det:poss|her
+	n|hand comp|that pro:sub|she~aux|be&3S part|dry-PRESP n|dish-PL .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|6|NJCT
+	8|7|POBJ 9|6|NJCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|14|DET
+	14|12|POBJ 15|18|LINK 16|18|SUBJ 17|18|AUX 18|6|CMOD 19|18|OBJ
+	20|4|PUNCT
+*PAR:	<water or> [//] the [/] &-uh &+s: the [/] &+s: (.) the water went &+ov
+	overboard on this one <on the> [//] &+m on this &+s &+si sink . 25884_38954
+%wor:	<water 25884_27184 or 27984_28014> [//] the [/] 28014_29024 &-uh 29144_29224 &+s: the [/] 29224_29724 &+s: (.) the 29984_30754 water 33954_34344 went 34344_34564 &+ov  overboard 34564_35794 on 35794_36034 this 36034_36324 one 36324_36584 <on 36584_37484 the 37514_37734> [//] &+m on this &+s &+si sink . 37734_38954
+%mor:	det:art|the n|water v|go&PAST adv|+prep|over+n|board prep|on
+	det:dem|this pro:indef|one prep|on det:dem|this n|sink .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*PAR:	it's on the floor . 39300_39980
+%wor:	it's 39300_39390 on 39390_39620 the 39620_39670 floor 39670_39980 .
+%mor:	pro:per|it~cop|be&3S adv|on det:art|the n|floor .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	and the boy's &-uh cookin(g) [//] &-uh gettin(g) cookies . 43717_46327
+%wor:	and 43717_43927 the 43927_43937 boy's 43937_44267 &-uh 44267_44487 cookin(g) [//] 44487_45367 &-uh 45397_45677 gettin(g) 45677_45967 cookies 45967_46327 .
+%mor:	coord|and det:art|the n|boy~aux|be&3S part|get-PRESP n|cookie-PL .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	and his chair [: stool] [* s:r] (i)s wobblin(g) . 46399_48689
+%wor:	and 46399_46619 his 46619_46859 chair [: stool] [* s:r] 47059_47239 (i)s 47239_47629 wobblin(g) 48019_48689 .
+%mor:	coord|and det:poss|his n|stool aux|be&3S part|wobble-PRESP .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*INV:	okay . 50322_50602
+%wor:	okay 50322_50602 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ? 53020_53510
+%wor:	okay 53020_53510 ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	right here „ see . [+ exc] 54028_55168
+%wor:	right 54028_54238 here 54238_54988 „ see 55088_55168 . [+ exc]
+%mor:	adv|right n|here end|end co|see .
+%gra:	1|2|JCT 2|0|INCROOT 3|4|ENDP 4|2|END 5|2|PUNCT
+*INV:	okay good thank_you . 55252_56562
+%wor:	okay 55252_55322 good 55322_55632 thank_you 56012_56562 .
+%mor:	co|okay adj|good co|thank_you .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+@End

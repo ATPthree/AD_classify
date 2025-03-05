@@ -1,0 +1,104 @@
+@UTF8
+@PID:	11312/t-00002188-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|67;00.|female|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	013-4, audio
+@G:	Cookie
+*INV:	okay take a look at this picture here . 600_2780
+%wor:	okay 600_960 take 1010_1260 a 1260_1330 look 1330_1590 at 1590_1760 this 1760_1910 picture 1910_2300 here 2300_2780 .
+%mor:	co|okay v|take det:art|a v|look prep|at det:dem|this n|picture
+	adv|here .
+%gra:	1|2|COM 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|4|JCT
+	9|2|PUNCT
+*INV:	tell me everything that you see going on . 2885_4905
+%wor:	tell 2885_3245 me 3245_3375 everything 3375_3805 that 3805_3895 you 3895_3995 see 3995_4235 going 4235_4595 on 4595_4905 .
+%mor:	v|tell pro:obj|me pro:indef|everything pro:rel|that pro:per|you
+	v|see part|go-PRESP adv|on .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|6|COMP
+	8|7|JCT 9|1|PUNCT
+*INV:	everything that you see happening in that picture . 4921_7621
+%wor:	everything 4921_5791 that 5791_5881 you 5881_5971 see 5971_6231 happening 6231_6711 in 6711_6781 that 6781_6981 picture 6981_7621 .
+%mor:	pro:indef|everything pro:rel|that pro:per|you v|see
+	part|happen-PRESP prep|in det:dem|that n|picture .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CMOD 5|4|COMP 6|5|JCT 7|8|DET
+	8|6|POBJ 9|1|PUNCT
+*PAR:	the little girl's sayin(g) +"/. 8747_9727
+%wor:	the 8747_8917 little 8917_9137 girl's 9137_9477 sayin(g) 9477_9727 +"/.
+%mor:	det:art|the adj|little n|girl~aux|be&3S part|say-PRESP +"/.
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	+" don't tell my mother . 9870_10770
+%wor:	+" don't 9870_10080 tell 10080_10290 my 10290_10420 mother 10420_10770 .
+%mor:	mod|do~neg|not v|tell det:poss|my n|mother .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	she's reaching for a cookie . 11037_12397
+%wor:	she's 11037_11287 reaching 11287_11657 for 11657_11827 a 11827_11877 cookie 11877_12397 .
+%mor:	pro:sub|she~aux|be&3S part|reach-PRESP prep|for det:art|a n|cookie
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	the boy's getting cookies out o(f) the cookie jar . 12593_14943
+%wor:	the 12593_12713 boy's 12713_13063 getting 13063_13493 cookies 13493_13903 out 13903_14113 o(f) 14113_14223 the 14223_14293 cookie 14293_14473 jar 14473_14943 .
+%mor:	det:art|the n|boy~aux|be&3S part|get-PRESP n|cookie-PL adv|out
+	prep|of det:art|the n|cookie n|jar .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|4|PUNCT
+*PAR:	the lid fell off the cookie jar . 15431_17261
+%wor:	the 15431_15491 lid 15491_15751 fell 15751_16071 off 16071_16341 the 16341_16461 cookie 16461_16711 jar 16711_17261 .
+%mor:	det:art|the n|lid v|fall&PAST prep|off det:art|the n|cookie n|jar .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ
+	8|3|PUNCT
+*PAR:	the stool's ready to fall . 17734_19504
+%wor:	the 17734_17804 stool's 17804_18264 ready 18264_18504 to 18504_18794 fall 18954_19504 .
+%mor:	det:art|the n|stool~cop|be&3S adj|ready prep|to n|fall .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*PAR:	it's slanted . 20540_21290
+%wor:	it's 20540_20640 slanted 20640_21290 .
+%mor:	pro:per|it~aux|be&3S part|slant-PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	the lady's drying dishes . 22661_24351
+%wor:	the 22661_22831 lady's 22831_23281 drying 23281_23641 dishes 23641_24351 .
+%mor:	det:art|the n|lady~aux|be&3S part|dry-PRESP n|dish-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	water's running out_of the sink . 24446_25886
+%wor:	water's 24446_24916 running 24916_25196 out_of 25196_25536 the 25536_25566 sink 25566_25886 .
+%mor:	n|water~aux|be&3S part|run-PRESP prep|out_of det:art|the n|sink .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	faucets are running . 26103_27323
+%wor:	faucets 26103_26723 are 26723_26793 running 26793_27323 .
+%mor:	n|faucet-PL aux|be&PRES part|run-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	&-um dishes are sitting on the counter . 28306_30666
+%wor:	&-um 28306_28796 dishes 28876_29246 are 29246_29336 sitting 29336_29696 on 29696_30066 the 30066_30076 counter 30076_30666 .
+%mor:	n|dish-PL aux|be&PRES part|sit-PRESP prep|on det:art|the n|counter
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	the window's open . 31708_32868
+%wor:	the 31708_31728 window's 31728_32368 open 32368_32868 .
+%mor:	det:art|the n|window~cop|be&3S adj|open .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	water's goin(g) on the floor . 34812_36212
+%wor:	water's 34812_35192 goin(g) 35192_35482 on 35482_35692 the 35692_35722 floor 35722_36212 .
+%mor:	n|water~aux|be&3S part|go-PRESP prep|on det:art|the n|floor .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	the lady has her back to the kids . 39490_41240
+%wor:	the 39490_39560 lady 39560_39940 has 39940_40140 her 40140_40210 back 40210_40520 to 40520_40620 the 40620_40760 kids 40760_41240 .
+%mor:	det:art|the n|lady v|have&3S det:poss|her n|back prep|to
+	det:art|the n|kid-PL .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	looks like the drapes are blowin(g) in the wind . 44692_46492
+%wor:	looks 44692_44932 like 44932_45232 the 45232_45242 drapes 45242_45562 are 45562_45602 blowin(g) 45602_45942 in 45942_46082 the 46082_46102 wind 46102_46492 .
+%mor:	v|look-3S prep|like det:art|the v|drape-3S aux|be&PRES
+	part|blow-PRESP prep|in det:art|the n|wind .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|6|AUX 6|4|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+*PAR:	that's about all there is isn't it ? 46537_52597
+%wor:	that's 46537_46687 about 46787_46917 all 46917_46957 there 47637_51137 is 51447_52097 isn't 52097_52427 it 52427_52597 ?
+%mor:	pro:dem|that~cop|be&3S adv|about adv|all pro:exist|there cop|be&3S
+	cop|be&3S~neg|not pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|6|JCT 5|6|SUBJ 6|2|PRED 7|6|PRED
+	8|7|NEG 9|7|SUBJ 10|2|PUNCT
+@End

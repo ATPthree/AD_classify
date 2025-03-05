@@ -1,0 +1,90 @@
+@UTF8
+@PID:	11312/t-00002451-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|62;|female|ProbableAD||Participant|23||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	035-0, audio
+@G:	Cookie
+*INV:	that's the picture . 0_650
+%wor:	that's 0_220 the 220_340 picture 340_650 .
+%mor:	pro:dem|that~cop|be&3S det:art|the n|picture .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	+< oh . [+ exc] 650_680
+%wor:	+< oh 650_680 . [+ exc]
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&=laughs oh great &=laughs . [+ exc] 2303_3693
+%wor:	&=laughs oh 2303_2403 great 2603_3693 &=laughs . [+ exc]
+%mor:	co|oh adj|great .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	oh the boy is taking cookies . 6472_9882
+%wor:	oh 6472_6762 the 7222_7232 boy 7232_7392 is 7392_7712 taking 7712_8282 cookies 9272_9882 .
+%mor:	co|oh det:art|the n|boy aux|be&3S part|take-PRESP n|cookie-PL .
+%gra:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	&-uh and he's also going to fall off his stepstool . 11841_15841
+%wor:	&-uh 11841_11871 and 11871_12301 he's 12341_12541 also 12541_12881 going 12951_13161 to 13161_13221 fall 13221_13561 off 13591_13811 his 13811_14241 stepstool 15311_15841 .
+%mor:	coord|and pro:sub|he~aux|be&3S adv|also part|go-PRESP prep|to
+	n|fall prep|off det:poss|his n|+v|step+n|stool .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|6|POBJ
+	8|7|NJCT 9|10|DET 10|8|POBJ 11|5|PUNCT
+*PAR:	&-uh his [//] &+sis I gather it's his sister is reaching for the
+	cookies . 17398_23738
+%wor:	&-uh 17398_17628 his [//] 18268_18658 &+sis I 18778_18978 gather 19068_19288 it's 19388_19648 his 19648_19848 sister 19848_20218 is 20888_21488 reaching 22268_22668 for 23228_23318 the 23318_23428  cookies 23428_23738 .
+%mor:	pro:sub|I v|gather pro:per|it~cop|be&3S det:poss|his n|sister
+	aux|be&3S part|reach-PRESP prep|for det:art|the n|cookie-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|DET 6|8|SUBJ 7|8|AUX
+	8|4|PRED 9|8|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*PAR:	the mother is &-uh drying the dishes and obviously &-uh has her
+	mind on somewhere [: something] [* s:r-ret] [//] &+el something else
+	because the water's coming down off [//] out_of the sink onto the
+	floor . 24953_41273
+%wor:	the 24953_25133 mother 25133_25373 is 25373_26413 &-uh 26443_26743 drying 29263_29833 the 29893_30013 dishes 30013_30893 and 31383_31783 obviously 31783_32643 &-uh 32853_32913 has 32913_33403 her 33403_33463 mind 33613_33943  on 33943_34093 somewhere [: something] [* s:r-ret] [//] 34093_34793 &+el something 34893_35463 else 35493_35613  because 35613_36213 the 36213_36503 water's 36503_37113 coming 37433_37833 down 37833_38163 off [//] 38563_38803 out_of 38963_39273 the 39273_39453 sink 39453_39883 onto 40353_40693 the 40693_40843  floor 40843_41273 .
+%mor:	det:art|the n|mother aux|be&3S part|dry-PRESP det:art|the n|dish-PL
+	coord|and adv|obvious&dadj-LY aux|have&3S det:poss|her n|mind
+	prep|on pro:indef|something post|else conj|because det:art|the
+	n|water~aux|be&3S part|come-PRESP adv|down prep|out_of det:art|the
+	n|sink prep|onto det:art|the n|floor .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|CONJ 8|11|JCT
+	9|11|AUX 10|11|DET 11|7|COORD 12|11|NJCT 13|12|POBJ 14|11|PQ
+	15|19|LINK 16|17|DET 17|19|SUBJ 18|19|AUX 19|4|CJCT 20|19|JCT
+	21|19|JCT 22|23|DET 23|21|POBJ 24|19|JCT 25|26|DET 26|24|POBJ
+	27|4|PUNCT
+*PAR:	and she is also standing <in some> [//] in water . 41907_44747
+%wor:	and 41907_42027 she 42027_42147 is 42147_42397 also 42397_42777 standing 42777_43377 <in 43407_43477 some 43477_43667> [//] in water . 44217_44747
+%mor:	coord|and pro:sub|she aux|be&3S adv|also part|stand-PRESP prep|in
+	n|water .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|6|POBJ
+	8|5|PUNCT
+*PAR:	&-uh (..) I don't know . [+ exc] 45724_47924
+%wor:	&-uh 45724_45734 (..) I 45734_45764 don't 46104_46214 know 47884_47924 . [+ exc]
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	that's [/] that's it . [+ exc] 54292_55412
+%wor:	that's [/] 54292_54662 that's 55162_55302 it 55302_55412 . [+ exc]
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	I didn't hear what he said then because <it's too> [//] it's +...
+	[+ exc] 57264_63014
+%wor:	I 57264_57274 didn't 57274_57394 hear 57634_57724 what 57724_57844 he 57844_57884 said 57884_58054 then 59224_59984 because 62034_62224 <it's 62304_62394 too 62394_62454> [//] it's +...  [+ exc] 62754_63014
+%mor:	pro:sub|I mod|do&PAST~neg|not v|hear pro:int|what pro:sub|he
+	v|say&PAST adv:tem|then conj|because pro:per|it~cop|be&3S +...
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP
+	8|7|JCT 9|11|LINK 10|11|SUBJ 11|4|CJCT 12|4|PUNCT
+*PAR:	(..) that is all that I can see here . [+ exc] 69836_71856
+%wor:	(..) that 69836_70406 is 70716_70826 all 70826_70886 that 70996_71286 I 71496_71506 can 71506_71606 see 71606_71786 here 71786_71856 . [+ exc]
+%mor:	pro:dem|that cop|be&3S adv|all comp|that pro:sub|I mod|can v|see
+	adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|JCT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|2|CPRED
+	8|7|JCT 9|2|PUNCT
+*INV:	okay . 72557_73057
+%wor:	okay 72557_73057 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	thank_you . 73103_73833
+%wor:	thank_you 73103_73833 .
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

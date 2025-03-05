@@ -1,0 +1,86 @@
+@UTF8
+@PID:	11312/t-00002626-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|77;|male|ProbableAD||Participant|23||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	344-0, audio
+@G:	Cookie
+*INV:	going on in the picture ? 1210_2290
+%wor:	going 1210_1540 on 1540_1790 in 1790_1910 the 1910_2050 picture 2050_2290 ?
+%mor:	part|go-PRESP adv|on prep|in det:art|the n|picture ?
+%gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*PAR:	well ‡ <the guy's gettin(g) in the> [//] &+coo the boy's gettin(g)
+	in the cookie jar . 3485_6445
+%wor:	well 3485_3845 ‡ <the 3845_3865 guy's 3865_4145 gettin(g) 4145_4345 in 4345_4475 the 4475_4915> [//] &+coo the boy's gettin(g) in  the cookie jar . 4915_6445
+%mor:	co|well beg|beg det:art|the n|boy~aux|be&3S part|get-PRESP prep|in
+	det:art|the n|cookie n|jar .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|6|PUNCT
+*PAR:	and he's &+har standing on a stool that is falling over . 6830_12080
+%wor:	and 6830_7100 he's 7100_7170 &+har standing 7900_8300 on 8300_8360 a 8360_8500 stool 8500_9120 that 9820_10020 is 10020_10240 falling 11390_11740 over 11740_12080 .
+%mor:	coord|and pro:sub|he~aux|be&3S part|stand-PRESP prep|on det:art|a
+	n|stool pro:rel|that aux|be&3S part|fall-PRESP adv|over .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|10|LINK 9|10|AUX 10|7|CMOD 11|10|JCT 12|4|PUNCT
+*PAR:	and his &-uh sister maybe is &-uh telling him to be quiet so his
+	mother won't see him . 12100_21020
+%wor:	and 12100_12610 his 12610_12880 &-uh 14900_14910 sister 15130_15540 maybe 15540_15790 is 15790_15850 &-uh 15850_15860 telling 15860_16230 him 16230_16630 to 17770_17990 be 17990_18490 quiet 18490_19080 so 19430_19580 his 19580_19710  mother 19710_20020 won't 20020_20380 see 20670_20760 him 20760_21020 .
+%mor:	coord|and det:poss|his n|sister adv|maybe cop|be&3S part|tell-PRESP
+	pro:obj|him inf|to cop|be adj|quiet co|so det:poss|his n|mother
+	mod|will~neg|not v|see pro:obj|him .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PRED 7|6|OBJ 8|9|INF
+	9|7|COMP 10|9|PRED 11|16|COM 12|13|DET 13|16|SUBJ 14|16|AUX
+	15|14|NEG 16|9|CJCT 17|16|OBJ 18|5|PUNCT
+*PAR:	&-uh in the meantime &-uh the &-uh sink is running over onto the
+	floor . 22341_28191
+%wor:	&-uh 22341_22581 in 22581_22971 the 22971_22981 meantime 22981_25041 &-uh 25201_25211 the 25211_25221 &-uh 25221_25231 sink 25781_26151 is 26151_26331 running 26331_26671 over 26671_27111 onto 27111_27351 the 27351_27551  floor 27551_28191 .
+%mor:	prep|in det:art|the n|meantime det:art|the n|sink aux|be&3S
+	part|run-PRESP adv|over prep|onto det:art|the n|floor .
+%gra:	1|7|JCT 2|3|DET 3|1|POBJ 4|5|DET 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|7|JCT 10|11|DET 11|9|POBJ 12|7|PUNCT
+*PAR:	and she's dryin(g) dishes . 28240_29540
+%wor:	and 28240_28310 she's 28310_28660 dryin(g) 28660_29070 dishes 29070_29540 .
+%mor:	coord|and pro:sub|she~aux|be&3S part|dry-PRESP n|dish-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and &-um (..) <I don't> [//] there's somethin(g) going on outside
+	the window . 30729_38779
+%wor:	and 30729_31099 &-um 31099_31209 (..) <I 31209_31219 don't 31219_31859> [//] there's somethin(g) going on outside  the window . 36299_38779
+%mor:	coord|and pro:exist|there~cop|be&3S pro:indef|something
+	part|go-PRESP adv|on adj|outside det:art|the n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|XMOD 6|7|JCT 7|9|MOD
+	8|9|DET 9|5|OBJ 10|3|PUNCT
+*PAR:	I don't know just what it is . [+ exc] 38800_39860
+%wor:	I 38800_38830 don't 38830_39210 know 39210_39250 just 39250_39450 what 39450_39550 it 39680_39740 is 39740_39860 . [+ exc]
+%mor:	pro:sub|I mod|do~neg|not v|know adv|just pro:int|what pro:per|it
+	cop|be&3S .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|JCT 6|8|LINK 7|8|SUBJ
+	8|4|COMP 9|4|PUNCT
+*PAR:	(.) she's dryin(g) dishes but &-uh I don't get the connection
+	between the picture outside . 42984_49614
+%wor:	(.) she's 42984_43184 dryin(g) 43184_43594 dishes 43594_44004 but 44004_44194 &-uh 44194_44204 I 44204_44244 don't 44344_44724 get 46534_47034 the 47034_47044 connection 47044_47684  between 47724_48014 the 48724_48734 picture 48734_49084 outside 49084_49614 .
+%mor:	pro:sub|she~aux|be&3S part|dry-PRESP n|dish-PL conj|but pro:sub|I
+	mod|do~neg|not v|get det:art|the n|connection prep|between
+	det:art|the n|picture adv|+prep|out+n|side .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|9|LINK 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|3|CJCT 10|11|DET 11|9|OBJ 12|9|JCT 13|14|DET 14|12|POBJ 15|9|JCT
+	16|3|PUNCT
+*PAR:	I guess she's havin(g) her [/] her problems and they're havin(g)
+	theirs . 50870_54050
+%wor:	I 50870_50950 guess 50950_51130 she's 51130_51410 havin(g) 51410_51720 her [/] 51720_51980 her 52350_52500 problems 52500_53100 and 53100_53230 they're 53230_53400 havin(g) 53400_53760  theirs 53760_54050 .
+%mor:	pro:sub|I v|guess pro:sub|she~aux|be&3S part|have-PRESP
+	det:poss|her n|problem-PL coord|and pro:sub|they~aux|be&PRES
+	part|have-PRESP pro:poss|theirs .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|7|DET 7|5|OBJ
+	8|11|LINK 9|11|SUBJ 10|11|AUX 11|2|CJCT 12|11|OBJ 13|2|PUNCT
+*INV:	(..) okay ? 57784_58154
+%wor:	(..) okay 57784_58154 ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(..) okay good . 61356_62166
+%wor:	(..) okay 61356_61656 good 61916_62166 .
+%mor:	co|okay adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

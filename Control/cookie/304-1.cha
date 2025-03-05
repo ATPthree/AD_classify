@@ -1,0 +1,44 @@
+@UTF8
+@PID:	11312/a-00015270-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|66;00.|male|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	304-1, audio
+@G:	Cookie
+*PAR:	the boy is about to fall off a stool while he's grabbing for a
+	cookie jar . 360_4059
+%wor:	the 360_430 boy 430_720 is 720_810 about 810_1080 to 1080_1120 fall 1120_1430 off 1430_1650 a 1650_1690 stool 1690_2230 while 2230_2640 he's 2640_2800 grabbing 2800_3200 for 3200_3380 a 3380_3420  cookie 3420_3750 jar 3750_4060 .
+%mor:	det:art|the n|boy cop|be&3S adv|about prep|to n|fall prep|off
+	det:art|a n|stool conj|while pro:sub|he~aux|be&3S part|grab-PRESP
+	prep|for det:art|a n|cookie n|jar .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|JCT 8|9|DET
+	9|7|POBJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|3|CJCT 14|13|JCT
+	15|17|DET 16|17|MOD 17|14|POBJ 18|3|PUNCT
+*PAR:	the water is &-uh running over the sink . 4077_6837
+%wor:	the 4077_4097 water 4097_4477 is 4477_4727 &-uh 5217_5297 running 5297_5947 over 5947_6167 the 6167_6277 sink 6277_6837 .
+%mor:	det:art|the n|water aux|be&3S part|run-PRESP prep|over det:art|the
+	n|sink .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	the mother's drying dishes . 7780_8910
+%wor:	the 7780_7830 mother's 7830_8180 drying 8180_8500 dishes 8500_8910 .
+%mor:	det:art|the n|mother~aux|be&3S part|dry-PRESP n|dish-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	little girl is reaching up for a cookie . 10650_12780
+%wor:	little 10650_10860 girl 10860_11240 is 11240_11400 reaching 11400_11840 up 11840_12030 for 12030_12310 a 12310_12340 cookie 12340_12780 .
+%mor:	adj|little n|girl aux|be&3S part|reach-PRESP adv|up prep|for
+	det:art|a n|cookie .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*PAR:	that's all that I see . [+ exc] 14553_15573
+%wor:	that's 14553_14753 all 14753_15003 that 15003_15153 I 15153_15273 see 15273_15573 . [+ exc]
+%mor:	pro:rel|that~cop|be&3S adv|all comp|that pro:sub|I v|see .
+%gra:	1|2|LINK 2|0|ROOT 3|6|JCT 4|6|LINK 5|6|SUBJ 6|2|CPRED 7|2|PUNCT
+*INV:	okay . 15913_16222
+%wor:	okay 15913_16223 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

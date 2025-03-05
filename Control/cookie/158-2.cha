@@ -1,0 +1,82 @@
+@UTF8
+@PID:	11312/t-00002319-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@Options:	multi
+@ID:	eng|Pitt|PAR|80;|female|Control||Participant|30||
+@Media:	158-2, audio
+@G:	Cookie
+*PAR:	washing dishes . [+ gram] 2550_3390
+%wor:	washing 2550_3210 dishes 3240_3390 . [+ gram]
+%mor:	part|wash-PRESP n|dish-PL .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	climbing stool . [+ gram] 4390_5350
+%wor:	climbing 4390_4880 stool 5060_5350 . [+ gram]
+%mor:	part|climb-PRESP n|stool .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	falling off the stool . [+ gram] 5463_6643
+%wor:	falling 5463_6073 off 6153_6193 the 6193_6203 stool 6353_6643 . [+ gram]
+%mor:	part|fall-PRESP prep|off det:art|the n|stool .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	getting into the cookie jar . [+ gram] 6693_8163
+%wor:	getting 6693_7413 into 7513_7633 the 7633_7653 cookie 7653_7783 jar 7853_8163 . [+ gram]
+%mor:	part|get-PRESP prep|into det:art|the n|cookie n|jar .
+%gra:	1|0|ROOT 2|1|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|1|PUNCT
+*PAR:	and the little girl &+o on a thing . [+ gram] 8208_10498
+%wor:	and 8208_8508 the 8988_8998 little 8998_9208 girl 9208_9308 &+o on 9308_9788 a 9908_9938 thing 10278_10498 . [+ gram]
+%mor:	coord|and det:art|the adj|little n|girl prep|on det:art|a n|thing .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	yeah putting her &-uh finger up there . 10552_13092
+%wor:	yeah 10552_10612 putting 10612_11652 her 12452_12492 &-uh 12492_12502 finger 12502_12732 up 12732_12842 there 13012_13092 .
+%mor:	co|yeah part|put-PRESP det:poss|her n|finger prep|up n|there .
+%gra:	1|2|COM 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|5|POBJ 7|2|PUNCT
+*PAR:	I don't know . [+ exc] 13180_13600
+%wor:	I 13180_13210 don't 13290_13520 know 13560_13600 . [+ exc]
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	she won't tell . 13650_14320
+%wor:	she 13650_13660 won't 13780_14150 tell 14150_14320 .
+%mor:	pro:sub|she mod|will~neg|not v|tell .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	I don't know . [+ exc] 14374_15064
+%wor:	I 14374_14384 don't 14384_14984 know 15024_15064 . [+ exc]
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	outside &-uh there's &-uh grass growing . 15454_19464
+%wor:	outside 15454_16214 &-uh 16244_16254 there's 16254_16524 &-uh 18344_18354 grass 18354_18674 growing 18884_19464 .
+%mor:	prep|outside pro:exist|there~cop|be&3S n|grass part|grow-PRESP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|XMOD 6|3|PUNCT
+*PAR:	<you will> [//] &-uh <dish water's washing or is > [//] &-uh the
+	sink is overflowing . 20158_25738
+%wor:	<you 20158_20218 will 20218_20678> [//] &-uh <dish water's washing or is> [//] 21298_22968 &-uh 23138_23148 the 23148_23308 sink 24548_24758  is 24758_24878 overflowing 25008_25738 .
+%mor:	det:art|the n|sink aux|be&3S over#part|flow-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	and &-uh the dishes aren't all together done . 27335_29765
+%wor:	and 27335_27585 &-uh 27805_27815 the 27815_28025 dishes 28025_28265 aren't 28265_28665 all 28665_28865 together 28895_29125 done 29125_29765 .
+%mor:	coord|and det:art|the n|dish-PL aux|be&PRES~neg|not post|all
+	adv|together part|do&PASTP .
+%gra:	1|8|LINK 2|3|DET 3|8|SUBJ 4|8|AUX 5|4|NEG 6|8|JCT 7|8|JCT 8|0|ROOT
+	9|8|PUNCT
+*PAR:	the floor is getting wet . 30802_31712
+%wor:	the 30802_30812 floor 30812_31032 is 31032_31102 getting 31102_31622 wet 31622_31712 .
+%mor:	det:art|the n|floor aux|be&3S part|get-PRESP adj|wet .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	I can't see +//. [+ exc] 34896_36516
+%wor:	I 34896_34906 can't 34906_35006 see 36456_36516 +//. [+ exc]
+%mor:	pro:sub|I mod|can~neg|not v|see +//.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	a cookie jar is open and the &-uh cupboard door is open . 36697_41047
+%wor:	a 36697_36727 cookie 36727_36877 jar 37117_37187 is 37187_37247 open 38067_39577 and 39667_39757 the 39957_39967 &-uh 39967_39977 cupboard 39977_40197 door 40197_40367 is 40367_40487 open 40487_41047 .
+%mor:	det:art|a n|cookie n|jar cop|be&3S adj|open coord|and det:art|the
+	n|+n|cup+n|board n|door cop|be&3S adj|open .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|10|LINK 7|9|DET
+	8|9|MOD 9|10|SUBJ 10|4|CJCT 11|10|PRED 12|4|PUNCT
+*PAR:	there's no handle on the &-uh cupboard doors down here . 42077_45617
+%wor:	there's 42077_42187 no 42187_42387 handle 42387_42747 on 42747_43417 the 44187_44197 &-uh 44197_44207 cupboard 44207_44437 doors 44437_44677 down 44677_45347 here 45567_45617 .
+%mor:	pro:exist|there~cop|be&3S qn|no n|handle prep|on det:art|the
+	n|+n|cup+n|board n|door-PL prep|down n|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|NJCT 6|8|DET 7|8|MOD
+	8|5|POBJ 9|8|NJCT 10|9|POBJ 11|2|PUNCT
+@End

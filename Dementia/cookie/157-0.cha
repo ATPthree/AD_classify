@@ -1,0 +1,123 @@
+@UTF8
+@PID:	11312/t-00002519-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|83;|male|ProbableAD||Participant|19||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	157-0, audio
+@G:	Cookie
+*INV:	okay now here's the picture . 180_1100
+%mor:	co|okay adv:tem|now pro:exist|here~cop|be&3S det:art|the n|picture
+	.
+%gra:	1|2|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+%wor:	okay 180_310 now 310_370 here's 370_620 the 620_730 picture 730_1100 .
+*INV:	you tell me all of the actions . 1147_2787
+%mor:	pro:per|you v|tell pro:obj|me pro:indef|all prep|of det:art|the
+	n|action-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ2 4|2|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+%wor:	you 1147_1247 tell 1247_1487 me 1487_1607 all 1607_1757 of 1757_1877 the 1877_2017 actions 2087_2787 .
+*PAR:	actions going on . [+ exc] [+ gram] 3160_4190
+%mor:	n|action-PL part|go-PRESP adv|on .
+%gra:	1|0|INCROOT 2|1|XMOD 3|2|JCT 4|1|PUNCT
+%wor:	actions 3160_3570 going 3810_3930 on 4120_4190 . [+ exc] [+ gram]
+*INV:	right . 4403_4723
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	right 4403_4723 .
+*PAR:	(..) this one's a little boy falling off a stool . 14429_16409
+%mor:	pro:dem|this pro:indef|one~cop|be&3S det:art|a adj|little n|boy
+	part|fall-PRESP prep|off det:art|a n|stool .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|XMOD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+%wor:	(..) this 14429_14519 one's 14699_15209 a 15209_15239 little 15239_15399 boy 15399_15459 falling 15459_16089 off 16139_16199 a 16199_16229 stool 16229_16409 .
+*PAR:	little girl's holding her hand up telling him one time . 16721_18841
+%mor:	adj|little n|girl~aux|be&3S part|hold-PRESP det:poss|her n|hand
+	adv|up part|tell-PRESP pro:obj|him det:num|one n|time .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|XJCT
+	9|11|MOD 10|11|QUANT 11|8|OBJ 12|4|PUNCT
+%wor:	little 16721_16871 girl's 16871_17221 holding 17221_17521 her 17551_17591 hand 17591_17911 up 17951_18001 telling 18001_18151 him 18151_18611 one 18641_18701 time 18701_18841 .
+*PAR:	this girl's washing the dishes . 18887_20007
+%mor:	pro:dem|this n|girl~aux|be&3S part|wash-PRESP det:art|the n|dish-PL
+	.
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	this 18887_18987 girl's 19057_19237 washing 19237_19707 the 19737_19747 dishes 19747_20007 .
+*PAR:	I don't seem to know where she got the dish . 21728_22848
+%mor:	pro:sub|I mod|do~neg|not cop|seem inf|to v|know pro:int|where
+	pro:sub|she v|get&PAST det:art|the n|dish .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|COMP 7|9|LINK 8|9|SUBJ
+	9|6|COMP 10|11|DET 11|9|OBJ 12|4|PUNCT
+%wor:	I 21728_21758 don't 21758_21968 seem 22138_22228 to 22228_22298 know 22298_22338 where 22338_22428 she 22428_22438 got 22648_22748 the 22748_22758 dish 22758_22848 .
+*PAR:	+" I just picked it up . 23000_23760
+%mor:	pro:sub|I adv|just v|pick-PAST pro:per|it adv|up .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%wor:	+" I 23000_23010 just 23010_23160 picked 23160_23340 it 23340_23400 up 23690_23760 .
+*PAR:	said she +". 24144_24244
+%mor:	v|say&PAST pro:sub|she +".
+%gra:	1|0|ROOT 2|1|SUBJ 3|1|PUNCT
+%wor:	said 24144_24234 she 24234_24244 +".
+*PAR:	oh she's broken a dish back there . 24896_26496
+%mor:	co|oh pro:sub|she~aux|be&3S part|break&PASTP det:art|a n|dish
+	adv|back adv|there .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|JCT
+	9|4|PUNCT
+%wor:	oh 24896_25076 she's 25156_25246 broken 25246_25696 a 25726_25756 dish 25966_26056 back 26056_26176 there 26406_26496 .
+*PAR:	this thing fell down off of there . 26687_28587
+%mor:	det:dem|this n|thing v|fall&PAST adv|down adv|off prep|of n|there .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|JCT 7|6|POBJ 8|3|PUNCT
+%wor:	this 26687_26747 thing 27187_27267 fell 27637_27727 down 28047_28117 off 28147_28207 of 28377_28467 there 28467_28587 .
+*INV:	(..) something else ? 38355_39195
+%mor:	pro:indef|something post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+%wor:	(..) something 38355_38945 else 38975_39195 ?
+*PAR:	(..) well I_mean the wash [* s:r] is running . 45208_46448
+%mor:	co|well co|I_mean det:art|the n|wash aux|be&3S part|run-PRESP .
+%gra:	1|6|COM 2|6|COM 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+%wor:	(..) well 45208_45348 I_mean 45688_45738 the 45738_45768 wash [* s:r] 45768_45958 is 45958_46018 running 46018_46448 .
+*PAR:	it's running over on the floor . 46500_47730
+%mor:	pro:per|it~aux|be&3S part|run-PRESP adv|over prep|on det:art|the
+	n|floor .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+%wor:	it's 46500_46630 running 46630_46960 over 47490_47580 on 47580_47640 the 47640_47650 floor 47650_47730 .
+*PAR:	she's got a couple plates waiting here for her . 48922_54952
+%mor:	pro:sub|she~aux|be&3S part|get&PASTP det:art|a qn|couple n|plate-PL
+	part|wait-PRESP adv|here prep|for pro:obj|her .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|QUANT 6|3|OBJ 7|6|XMOD 8|7|JCT
+	9|7|JCT 10|9|POBJ 11|3|PUNCT
+%wor:	she's 48922_48992 got 50772_50862 a 52902_52932 couple 52932_53152 plates 53262_53482 waiting 54352_54662 here 54752_54822 for 54822_54902 her 54902_54952 .
+*PAR:	and the &-uh window shows the scene outside that you can't see from
+	here at all . 58765_63665
+%mor:	coord|and det:art|the n|window v|show-3S det:art|the n|scene
+	adv|+prep|out+n|side pro:rel|that pro:per|you mod|can~neg|not v|see
+	prep|from n|here prep|at pro:indef|all .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|12|LINK
+	9|12|SUBJ 10|12|AUX 11|10|NEG 12|7|CMOD 13|12|JCT 14|13|POBJ 15|12|JCT
+	16|15|POBJ 17|4|PUNCT
+%wor:	and 58765_59015 the 59945_59955 &-uh 59955_59965 window 59965_60275 shows 60495_60585 the 60585_60745 scene 61035_61475 outside 61505_61985 that 62245_62335 you 62335_62395 can't 62395_62575 see 62575_62615 from 62615_62735  here 62735_62805 at 62875_62935 all 63505_63665 .
+*INV:	mhm . 64641_64840
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	mhm 64641_64841 .
+*INV:	okay . 68157_68747
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	okay 68157_68747 .
+*PAR:	and there's a little boy and a little girl here just a little xxx .
+	68864_71204
+%mor:	coord|and pro:exist|there~cop|be&3S det:art|a adj|little n|boy
+	coord|and det:art|a adj|little n|girl adv|here adv|just det:art|a
+	adj|little .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|CONJ 8|10|DET
+	9|10|MOD 10|7|COORD 11|12|JCT 12|14|JCT 13|14|DET 14|10|POSTMOD
+	15|3|PUNCT
+%wor:	and 68864_69264 there's 69264_69374 a 69374_69504 little 69544_69694 boy 69694_69754 and 69754_70134 a 70164_70194 little 70194_70394 girl 70674_70724 here 70724_70794 just 70844_70964 a 70964_70994 little 70994_71204 xxx .
+*INV:	okay . 75855_76225
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	okay 75855_76225 .
+*INV:	that's fine, thank_you . 80828_82128
+%mor:	pro:dem|that~cop|be&3S adj|fine cm|cm co|thank_you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|LP 5|2|COM 6|2|PUNCT
+%wor:	that's 80828_81048 fine, 81048_81508 thank_you 81598_82128 .
+@End

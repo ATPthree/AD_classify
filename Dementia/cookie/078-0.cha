@@ -1,0 +1,127 @@
+@UTF8
+@PID:	11312/t-00002489-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|64;|female|ProbableAD||Participant|17||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	078-0, audio
+@G:	Cookie
+*INV:	just tell me everything that you see happening in the picture . 240_2810
+%wor:	just 240_440 tell 440_640 me 640_780 everything 780_1190 that 1190_1300 you 1300_1430 see 1430_1700 happening 1700_2110 in 2110_2250 the 2250_2320 picture 2320_2810 .
+%mor:	adv|just v|tell pro:obj|me pro:indef|everything pro:rel|that
+	pro:per|you v|see part|happen-PRESP prep|in det:art|the n|picture .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ2 4|2|OBJ 5|7|LINK 6|7|SUBJ 7|4|CMOD
+	8|7|COMP 9|8|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*PAR:	oh yes . [+ exc] 4888_5328
+%wor:	oh 4888_4918 yes 4918_5328 . [+ exc]
+%mor:	co|oh co|yes .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	a little girl &+a and the little boy is getting cookies out_of the
+	jar . 7387_13397
+%wor:	a 7387_7497 little 7497_7827 girl 7827_8377 &+a and 8917_9647 the 9647_10067 little 10067_10307 boy 10307_10687 is 10717_11257 getting 11287_11817 cookies 11957_12287 out_of 12287_12797 the 12797_12857  jar 12857_13397 .
+%mor:	det:art|a adj|little n|girl coord|and det:art|the adj|little n|boy
+	aux|be&3S part|get-PRESP n|cookie-PL prep|out_of det:art|the n|jar .
+%gra:	1|3|DET 2|3|MOD 3|9|SUBJ 4|3|CONJ 5|7|DET 6|7|MOD 7|4|COORD 8|9|AUX
+	9|0|ROOT 10|9|OBJ 11|9|JCT 12|13|DET 13|11|POBJ 14|9|PUNCT
+*PAR:	oh and the stool is upsetting &=laughs . 14277_18447
+%wor:	oh 14277_14817 and 14997_15187 the 15187_15287 stool 15287_16227 is 16297_16967 upsetting 17017_18447 &=laughs .
+%mor:	co|oh coord|and det:art|the n|stool aux|be&3S part|upset-PRESP .
+%gra:	1|6|COM 2|1|CONJ 3|4|DET 4|2|COORD 5|6|AUX 6|0|ROOT 7|6|PUNCT
+*PAR:	and the [//] I guess it's the mother is drying dishes . 20703_25853
+%wor:	and 20703_21973 the [//] 22993_23013 I 23013_23153 guess 23153_23483 it's 23483_23593 the 23593_23813 mother 23813_24293 is 24293_24503 drying 24503_25223 dishes 25263_25853 .
+%mor:	coord|and pro:sub|I v|guess pro:per|it~cop|be&3S det:art|the
+	n|mother aux|be&3S part|dry-PRESP n|dish-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|DET 7|9|SUBJ
+	8|9|AUX 9|5|PRED 10|9|OBJ 11|3|PUNCT
+*PAR:	water's spilling down all over the sink . 26313_28763
+%wor:	water's 26313_26773 spilling 26773_27233 down 27233_27493 all 27493_27753 over 27753_28103 the 28103_28263 sink 28263_28763 .
+%mor:	n|water~aux|be&3S part|spill-PRESP adv|down adv|all prep|over
+	det:art|the n|sink .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|JCT 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	water on the floor . [+ gram] 30008_31478
+%wor:	water 30008_30418 on 30418_30698 the 30698_30888 floor 30888_31478 . [+ gram]
+%mor:	n|water prep|on det:art|the n|floor .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	little boy's gonna fall and that [/] &+steps &-uh that there stool .
+	[+ gram] 32738_39628
+%wor:	little 32738_32938 boy's 32938_33268 gonna 33268_33628 fall 33628_34268 and 34268_34558 that [/] 34558_35198 &+steps &-uh 35198_35208 that 35208_35858 there 36358_37038 stool 38938_39628 .  [+ gram]
+%mor:	adj|little n|boy~aux|be&3S part|go&PRESP~inf|to v|fall coord|and
+	comp|that adv|there n|stool .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|CONJ
+	8|10|LINK 9|10|SUBJ 10|7|COORD 11|4|PUNCT
+*PAR:	&-uh I think the cookie jar is gonna fall &=laughs . 42203_46653
+%wor:	&-uh 42203_42253 I 42253_42683 think 45123_45503 the 45503_45513 cookie 45513_45733 jar 45733_45973 is 45973_46073 gonna 46073_46253 fall 46253_46653 &=laughs .
+%mor:	pro:sub|I v|think det:art|the n|cookie n|jar aux|be&3S
+	part|go&PRESP~inf|to v|fall .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|7|SUBJ 6|7|AUX 7|2|COMP 8|9|INF
+	9|7|COMP 10|2|PUNCT
+*PAR:	and the [//] guess dryin(g) dishes and water [//] the faucet's on
+	and water's runnin(g) all over the floor . [+ gram] 49526_55976
+%wor:	and 49526_50016 the [//] 50016_50136 guess 50136_50476 dryin(g) 50506_50966 dishes 50966_51596 and 51666_52036 water [//] 52036_52736 the 53106_53236 faucet's 53236_53746 on 53746_54026  and 54026_54156 water's 54156_54576 runnin(g) 54576_54886 all 54886_55156 over 55156_55516 the 55516_55576 floor 55576_55976 . [+ gram]
+%mor:	coord|and n|guess part|dry-PRESP n|dish-PL coord|and det:art|the
+	n|faucet~cop|be&3S adv|on coord|and n|water~aux|be&3S part|run-PRESP
+	adv|all prep|over det:art|the n|floor .
+%gra:	1|4|LINK 2|4|MOD 3|4|MOD 4|8|SUBJ 5|4|CONJ 6|7|DET 7|5|COORD
+	8|0|ROOT 9|8|JCT 10|13|LINK 11|13|SUBJ 12|13|AUX 13|8|CJCT 14|15|JCT
+	15|13|JCT 16|17|DET 17|15|POBJ 18|8|PUNCT
+*PAR:	(..) &+wh <what else am I [/] &+sup I_mean what> [//] what +..?
+	[+ exc] 65600_67910
+%wor:	(..) &+wh <what 65600_66080 else 66080_66350 am 66350_66420 I [/] 66420_66520 &+sup I_mean 66520_67150 what 67150_67460> [//] what +..?  [+ exc] 67670_67910
+%mor:	pro:int|what +..?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	anything else ? 69943_70613
+%wor:	anything 69943_70323 else 70323_70613 ?
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*INV:	just the things that you see happening . 71540_72960
+%wor:	just 71540_71800 the 71800_71810 things 71810_72050 that 72050_72130 you 72130_72210 see 72210_72450 happening 72450_72960 .
+%mor:	adv|just det:art|the n|thing-PL pro:rel|that pro:per|you v|see
+	part|happen-PRESP .
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|6|COMP
+	8|3|PUNCT
+*PAR:	yeah . [+ exc] 73254_73564
+%wor:	yeah 73254_73564 . [+ exc]
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the cookie jar . [+ gram] 73850_74750
+%wor:	the 73850_73910 cookie 73910_74220 jar 74220_74750 . [+ gram]
+%mor:	det:art|the n|cookie n|jar .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*INV:	yeah . 74861_75111
+%wor:	yeah 74861_75111 .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the stool . [+ gram] 75690_76450
+%wor:	the 75690_75770 stool 75770_76450 . [+ gram]
+%mor:	det:art|the n|stool .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	mhm . 76783_77033
+%wor:	mhm 76783_77033 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	her doin(g) the dishes . [+ gram] 77193_78183
+%wor:	her 77193_77293 doin(g) 77293_77583 the 77583_77723 dishes 77723_78183 . [+ gram]
+%mor:	det:poss|her part|do-PRESP det:art|the n|dish-PL .
+%gra:	1|2|DET 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	the water spilling . 78522_79512
+%wor:	the 78522_78542 water 78542_78982 spilling 78982_79512 .
+%mor:	det:art|the n|water part|spill-PRESP .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|2|PUNCT
+*INV:	okay ? 84381_84831
+%wor:	okay 84381_84831 ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<far as> [//] yeah that's as far as I could see . [+ exc] 85017_86727
+%wor:	<far 85017_85167 as 85167_85267> [//] yeah that's as far as I could see . [+ exc] 85267_86727
+%mor:	co|yeah pro:dem|that~cop|be&3S adv|as adv|far conj|as pro:sub|I
+	mod|could v|see .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|COORD 5|3|PRED 6|9|LINK 7|9|SUBJ
+	8|9|AUX 9|3|CJCT 10|3|PUNCT
+*INV:	+< well +/.
+%wor:	+< well +/.
+%mor:	co|well +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

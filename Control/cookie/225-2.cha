@@ -1,0 +1,122 @@
+@UTF8
+@PID:	11312/t-00002350-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|69;00.|female|Control||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	225-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete
+	demographic data
+@G:	Cookie
+*INV:	oh yeah . 1350_1800
+%wor:	oh 1350_1440 yeah 1440_1800 .
+%mor:	co|oh co|yeah .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	okay . [+ exc] 3463_4183
+%wor:	okay 3463_4183 . [+ exc]
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the mother is washing or drying the dishes . 4389_8229
+%wor:	the 4389_4729 mother 4729_5069 is 5069_5389 washing 6299_6909 or 6909_7009 drying 7009_7519 the 7519_7619 dishes 7619_8229 .
+%mor:	det:art|the n|mother aux|be&3S part|wash-PRESP coord|or
+	part|dry-PRESP det:art|the n|dish-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|CONJ 6|5|COORD 7|8|DET
+	8|6|OBJ 9|4|PUNCT
+*PAR:	the water is overflowing onto the floor . 8281_12351
+%wor:	the 8281_8441 water 8441_8941 is 8941_9211 overflowing 9361_10181 onto 10181_10881 the 11471_11671 floor 11891_12351 .
+%mor:	det:art|the n|water aux|be&3S over#part|flow-PRESP prep|onto
+	det:art|the n|floor .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	the little boy is almost falling off of the stool and is getting a
+	cookie . 14266_18456
+%wor:	the 14266_14326 little 14326_14726 boy 14726_15196 is 15196_15366 almost 15366_15786 falling 15786_16216 off 16216_16436 of 16436_16566 the 16566_16656 stool 16656_17196 and 17196_17326 is 17326_17436 getting 17436_17826 a 17826_17886  cookie 17886_18456 .
+%mor:	det:art|the adj|little n|boy aux|be&3S adv|almost part|fall-PRESP
+	adv|off prep|of det:art|the n|stool coord|and aux|be&3S
+	part|get-PRESP det:art|a n|cookie .
+%gra:	1|3|DET 2|3|MOD 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|6|CONJ 12|13|AUX 13|11|COORD 14|15|DET
+	15|13|OBJ 16|6|PUNCT
+*PAR:	and &-uh he's giving it to his little sister . 19344_23134
+%wor:	and 19344_20114 &-uh 20144_20624 he's 20824_21054 giving 21054_21414 it 21414_21574 to 21574_21744 his 21744_22104 little 22174_22464 sister 22464_23134 .
+%mor:	coord|and pro:sub|he~aux|be&3S part|give-PRESP pro:per|it prep|to
+	det:poss|his adj|little n|sister .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|4|PUNCT
+*PAR:	and &-uh (.) you can see the &-uh walk out the window . 25080_36880
+%wor:	and 25080_25750 &-uh 25750_25760 (.) you 25760_25820 can 26610_27420 see 31620_31720 the 31970_32970 &-uh 33840_34290 walk 34380_34940 out 35300_35620 the 36130_36150 window 36150_36880 .
+%mor:	coord|and pro:per|you mod|can v|see det:art|the n|walk adv|out
+	det:art|the n|window .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*PAR:	the [/] the curtains are [//] seem to be &-uh shaking in the wind .
+	36900_44200
+%wor:	the [/] 36900_37140 the 37410_37630 curtains 37980_38520 are [//] 38520_38790 seem 39780_40180 to 40180_40400 be 40400_41070 &-uh 41070_41190 shaking 42680_43290 in 43290_43800 the 43800_43820 wind 43820_44200 .
+%mor:	det:art|the n|curtain-PL cop|seem inf|to aux|be part|shake-PRESP
+	prep|in det:art|the n|wind .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|INF 5|6|AUX 6|3|XJCT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*PAR:	the window is open . 44640_45790
+%wor:	the 44640_44710 window 44710_45090 is 45090_45270 open 45270_45790 .
+%mor:	det:art|the n|window cop|be&3S adj|open .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	and &-um (..) a_lot_of water splashing on the floor . [+ gram] 48103_60783
+%wor:	and 48103_48673 &-um 48673_48783 (..) a_lot_of 48783_49743 water 58803_59123 splashing 59123_59823 on 59823_60073 the 60073_60223 floor 60223_60783 . [+ gram]
+%mor:	coord|and qn|a_lot_of n|water part|splash-PRESP prep|on det:art|the
+	n|floor .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|XMOD 5|4|JCT 6|7|DET 7|5|POBJ
+	8|3|PUNCT
+%com:	overlapping recording can be heard
+*PAR:	(...) a &-uh woman is standing in the water . 62675_70565
+%wor:	(...) a 62675_64155 &-uh 65395_65545 woman 66975_67205 is 67205_69035 standing 69075_69795 in 69795_69945 the 69945_69965 water 69965_70565 .
+%mor:	det:art|a n|woman aux|be&3S part|stand-PRESP prep|in det:art|the
+	n|water .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	a wet floor . [+ gram] 71362_74342
+%wor:	a 71362_72232 wet 72882_73232 floor 73232_74342 . [+ gram]
+%mor:	det:art|a adj|wet n|floor .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	(.) the &-uh little girl is sort of motioning (.) &-uh her brother
+	to be quiet so the mother won't know he's getting a cookie out_of
+	the jar . 74516_97456
+%wor:	(.) the 74516_74626 &-uh 74626_75186 little 75216_75646 girl 75846_76006 is 76006_76576 sort 76576_76806 of 76806_77296 motioning 77586_77826 (.) &-uh 77936_78226 her 78226_78266 brother 78486_78746 to 78746_78876  be 78876_79426 quiet 79486_79696 so 80306_80956 the 80986_81466 mother 81636_81986 won't 82036_82376 know 82376_82826 he's 82826_83096 getting 83746_83946 a 83976_85506 cookie 85676_85796 out_of 85796_97266 the 97266_97306  jar 97306_97456 .
+%mor:	det:art|the adj|little n|girl cop|be&3S v|sort prep|of
+	part|motion-PRESP det:poss|her n|brother inf|to cop|be adj|quiet
+	conj|so det:art|the n|mother mod|will~neg|not v|know
+	pro:sub|he~aux|be&3S part|get-PRESP det:art|a n|cookie prep|out_of
+	det:art|the n|jar .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|JCT 7|6|POBJ 8|9|DET
+	9|11|SUBJ 10|11|INF 11|7|COMP 12|11|PRED 13|18|LINK 14|15|DET
+	15|18|SUBJ 16|18|AUX 17|16|NEG 18|21|CJCT 19|21|SUBJ 20|21|AUX
+	21|4|XJCT 22|23|DET 23|21|OBJ 24|21|JCT 25|26|DET 26|24|POBJ
+	27|4|PUNCT
+*PAR:	and she's reaching up to &-uh get the cookie that he's handing her
+	. 99174_106684
+%wor:	and 99174_99514 she's 100944_101444 reaching 101444_101884 up 101884_102184 to 102184_102394 &-uh 102754_102904 get 102904_103084 the 103084_103194 cookie 104074_104304 that 104304_105874 he's 105874_106094 handing 106094_106534 her 106534_106684 .
+%mor:	coord|and pro:sub|she~aux|be&3S part|reach-PRESP adv|up inf|to
+	v|get det:art|the n|cookie comp|that pro:sub|he~aux|be&3S
+	part|hand-PRESP pro:obj|her .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|INF 7|4|XJCT 8|9|DET
+	9|7|OBJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|7|COMP 14|13|OBJ
+	15|4|PUNCT
+*PAR:	(..) the woman has a dish cloth in her hand wiping <the dishes>
+	[//] the one dish . 109563_122603
+%wor:	(..) the 109563_110253 woman 110253_110413 has 111153_111343 a 111343_113913 dish 114723_115213 cloth 115453_115573 in 116443_116763 her 116763_116933 hand 117543_118653 wiping 119663_119973 <the 119973_120003 dishes 120093_120563>  [//] the one dish . 120563_122603
+%mor:	det:art|the n|woman v|have&3S det:art|a n|dish n|cloth prep|in
+	det:poss|her n|hand part|wipe-PRESP det:art|the det:num|one n|dish .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|JCT 8|9|DET
+	9|7|POBJ 10|3|XJCT 11|13|DET 12|13|QUANT 13|10|OBJ 14|3|PUNCT
+*PAR:	(.) that's about as much as I see . [+ exc] 124882_130582
+%wor:	(.) that's 124882_125122 about 125122_125242 as 125242_125362 much 128512_128692 as 129632_130072 I 130072_130322 see 130322_130582 . [+ exc]
+%mor:	pro:dem|that~cop|be&3S adv|about adv|as adv|much prep|as pro:sub|I
+	v|see .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|5|COORD 5|2|JCT 6|8|COORD 7|8|SUBJ
+	8|5|ENUM 9|2|PUNCT
+*INV:	okay that's fine . 131481_131851
+%wor:	okay 131481_131681 that's 131681_131801 fine 131801_131851 .
+%mor:	co|okay pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

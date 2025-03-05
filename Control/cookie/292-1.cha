@@ -1,0 +1,85 @@
+@UTF8
+@PID:	11312/t-00002386-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|57;|female|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	292-1, audio
+@G:	Cookie
+*INV:	on in the picture . 220_940
+%wor:	on 220_480 in 480_570 the 570_620 picture 620_940 .
+%mor:	adv|on prep|in det:art|the n|picture .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	girl is reaching up . [+ gram] 3433_4553
+%wor:	girl 3433_3703 is 3703_3823 reaching 3823_4253 up 4253_4553 . [+ gram]
+%mor:	n|girl aux|be&3S part|reach-PRESP adv|up .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	the boy is [/] is &-uh taking cookies out_of the cookie jar . 4568_9718
+%wor:	the 4568_4678 boy 4678_5008 is [/] 5008_5458 is 7078_7448 &-uh 7478_7678 taking 7828_8178 cookies 8178_8548 out_of 8548_8798 the 8798_8968 cookie 8968_9218 jar 9218_9718 .
+%mor:	det:art|the n|boy aux|be&3S part|take-PRESP n|cookie-PL prep|out_of
+	det:art|the n|cookie n|jar .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|4|PUNCT
+*PAR:	&-uh the &-uh stool is tilting . 9931_12681
+%wor:	&-uh 9931_9941 the 10151_10511 &-uh 10511_10921 stool 11581_12061 is 12061_12221 tilting 12251_12681 .
+%mor:	det:art|the n|stool aux|be&3S part|tilt-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	mother is washing the dishes . 12697_14107
+%wor:	mother 12697_13017 is 13017_13187 washing 13187_13607 the 13607_13737 dishes 13737_14107 .
+%mor:	n|mother aux|be&3S part|wash-PRESP det:art|the n|dish-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	the water's running over . 14123_15473
+%wor:	the 14123_14173 water's 14173_14713 running 14713_15103 over 15103_15473 .
+%mor:	det:art|the n|water~aux|be&3S part|run-PRESP adv|over .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	the wind is blowing the &-uh curtains . 18180_22000
+%wor:	the 18180_18200 wind 18200_18520 is 18520_18660 blowing 18660_19590 the 19590_19600 &-uh 19600_19810 curtains 21410_22000 .
+%mor:	det:art|the n|wind aux|be&3S part|blow-PRESP det:art|the
+	n|curtain-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	(.) the mother is drying the dishes . 27800_29370
+%wor:	(.) the 27800_27810 mother 27810_28150 is 28150_28280 drying 28280_28710 the 28710_28840 dishes 28840_29370 .
+%mor:	det:art|the n|mother aux|be&3S part|dry-PRESP det:art|the n|dish-PL
+	.
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	the boy is reaching down to I guess his sister . 32820_35680
+%wor:	the 32820_32840 boy 32840_33210 is 33210_33610 reaching 33640_34040 down 34040_34340 to 34340_34660 I 34740_34830 guess 34830_35090 his 35090_35240 sister 35240_35680 .
+%mor:	det:art|the n|boy aux|be&3S part|reach-PRESP adv|down prep|to
+	pro:sub|I v|guess det:poss|his n|sister .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|JCT 7|8|SUBJ 8|4|CJCT
+	9|10|DET 10|8|OBJ 11|4|PUNCT
+*PAR:	the boy is climbing but he's gonna fall . 39238_41168
+%wor:	the 39238_39358 boy 39358_39548 is 39548_39658 climbing 39658_40258 but 40258_40378 he's 40378_40488 gonna 40488_40678 fall 40678_41168 .
+%mor:	det:art|the n|boy aux|be&3S part|climb-PRESP conj|but
+	pro:sub|he~aux|be&3S part|go&PRESP~inf|to v|fall .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|4|CJCT 9|10|INF 10|8|COMP 11|4|PUNCT
+*PAR:	(.) and the mother's drying the dishes . 47933_49223
+%wor:	(.) and 47933_48083 the 48083_48093 mother's 48093_48423 drying 48423_48743 the 48743_48853 dishes 48853_49223 .
+%mor:	coord|and det:art|the n|mother~aux|be&3S part|dry-PRESP det:art|the
+	n|dish-PL .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ
+	8|5|PUNCT
+*PAR:	I think I said that . [+ exc] 49288_50068
+%wor:	I 49288_49298 think 49298_49558 I 49558_49648 said 49648_49938 that 49938_50068 . [+ exc]
+%mor:	pro:sub|I v|think pro:sub|I v|say&PAST comp|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|2|PUNCT
+*PAR:	the water's running and running down . 50089_52039
+%wor:	the 50089_50159 water's 50159_50649 running 50649_50999 and 50999_51329 running 51329_51619 down 51619_52039 .
+%mor:	det:art|the n|water~aux|be&3S part|run-PRESP coord|and
+	part|run-PRESP adv|down .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|CONJ 6|5|COORD 7|6|JCT
+	8|4|PUNCT
+*PAR:	and that's all I see on that . [+ exc] 53252_54502
+%wor:	and 53252_53382 that's 53382_53502 all 53502_53752 I 53752_53782 see 53782_54042 on 54042_54252 that 54252_54502 . [+ exc]
+%mor:	coord|and pro:dem|that~cop|be&3S pro:indef|all pro:sub|I v|see
+	prep|on pro:dem|that .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|JCT 5|6|SUBJ 6|3|CPRED 7|6|JCT
+	8|7|POBJ 9|3|PUNCT
+*INV:	okay (.) xxx . 57310_57410
+%wor:	okay 57310_57410 (.) xxx .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

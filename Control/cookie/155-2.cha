@@ -1,0 +1,121 @@
+@UTF8
+@PID:	11312/t-00002315-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|61;00.|female|Control||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	155-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete
+	demographic data
+@G:	Cookie
+*INV:	okay now +//. 400_920
+%wor:	okay 400_490 now 710_920 +//.
+%mor:	co|okay adv:tem|now +//.
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*INV:	going on in the picture . 1490_2320
+%wor:	going 1490_1610 on 1610_1910 in 2060_2120 the 2120_2170 picture 2170_2320 .
+%mor:	part|go-PRESP adv|on prep|in det:art|the n|picture .
+%gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*PAR:	okay . [+ exc] 4846_5156
+%wor:	okay 4846_5156 . [+ exc]
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the boy is falling off the stool . 7706_10136
+%wor:	the 7706_7766 boy 7766_8116 is 8116_8456 falling 8546_8996 off 8996_9186 the 9356_9616 stool 9646_10136 .
+%mor:	det:art|the n|boy aux|be&3S part|fall-PRESP prep|off det:art|the
+	n|stool .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	he's taking cookies out_of the cookie jar . 12160_14500
+%wor:	he's 12160_12300 taking 12340_12900 cookies 12900_13340 out_of 13340_13610 the 13610_13670 cookie 13670_14010 jar 14060_14500 .
+%mor:	pro:sub|he~aux|be&3S part|take-PRESP n|cookie-PL prep|out_of
+	det:art|the n|cookie n|jar .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|3|PUNCT
+*PAR:	and the girl is reaching up for a cookie . 15940_19710
+%wor:	and 15940_16150 the 16150_16160 girl 16160_16470 is 16470_16630 reaching 16630_17180 up 17180_17350 for 18920_19030 a 19030_19080 cookie 19080_19710 .
+%mor:	coord|and det:art|the n|girl aux|be&3S part|reach-PRESP adv|up
+	prep|for det:art|a n|cookie .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*PAR:	the mother is drying dishes . 21326_23296
+%wor:	the 21326_21336 mother 21336_21786 is 21786_21946 drying 21946_22426 dishes 22426_23296 .
+%mor:	det:art|the n|mother aux|be&3S part|dry-PRESP n|dish-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	the [//] &+s water is running out_of <the sink> [//] the overflowing
+	sink . 24511_28661
+%wor:	the [//] 24511_24731 &+s water 25291_25721 is 25721_25881 running 25881_26211 out_of 26211_26571 <the 26571_26611 sink 26611_27121> [//] the overflowing  sink . 27121_28661
+%mor:	n|water aux|be&3S part|run-PRESP prep|out_of det:art|the
+	over#part|flow-PRESP n|sink .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ
+	8|3|PUNCT
+*PAR:	the mother's standing in the water . 29714_31334
+%wor:	the 29714_29734 mother's 29734_30104 standing 30104_30674 in 30674_30784 the 30784_30804 water 30804_31334 .
+%mor:	det:art|the n|mother~aux|be&3S part|stand-PRESP prep|in det:art|the
+	n|water .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	(...) &-um (..) the window is open . 45238_47088
+%wor:	(...) &-um 45238_46088 (..) the 46128_46198 window 46198_46588 is 46588_46778 open 46778_47088 .
+%mor:	det:art|the n|window cop|be&3S adj|open .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	looks like the window's open . [+ gram] 47105_48575
+%wor:	looks 47105_47365 like 47365_47545 the 47545_47555 window's 47555_48085 open 48085_48575 . [+ gram]
+%mor:	v|look-3S prep|like det:art|the n|window~cop|be&3S adj|open .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|COMP 6|5|PRED 7|1|PUNCT
+*PAR:	(..) the water is running . 52267_53557
+%wor:	(..) the 52267_52317 water 52317_52737 is 52737_52897 running 52897_53557 .
+%mor:	det:art|the n|water aux|be&3S part|run-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	(...) I don't know whether you'd consider her looking the other way
+	or whether that would be an activity or not . [+ exc] 53758_68288
+%wor:	(...) I 53758_53768 don't 61098_62218 know 62258_62298 whether 62298_62448 you'd 62448_62538 consider 62538_63048 her 65078_65138 looking 65138_65718 the 65718_65738 other 65738_65948 way 65948_66118  or 66118_66558 whether 66558_66908 that 66908_67088 would 67088_67258 be 67258_67268 an 67268_67618 activity 67708_67978 or 68108_68138 not 68138_68288 . [+ exc]
+%mor:	pro:sub|I mod|do~neg|not v|know comp|whether pro:per|you~mod|genmod
+	v|consider pro:obj|her part|look-PRESP det:art|the qn|other n|way
+	coord|or conj|whether pro:dem|that mod|will&COND cop|be det:art|a
+	n|active&dadj-ITY coord|or neg|not .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|4|COMP 9|8|OBJ 10|4|XJCT 11|13|DET 12|13|QUANT 13|10|OBJ
+	14|13|CONJ 15|18|LINK 16|18|SUBJ 17|18|AUX 18|14|COORD 19|20|DET
+	20|18|PRED 21|20|CONJ 22|21|COORD 23|4|PUNCT
+*PAR:	<she's> [/] she's not looking at the children . 69978_71458
+%wor:	<she's 69978_70068> [/] she's not looking at the children . 70098_71458
+%mor:	pro:sub|she~aux|be&3S neg|not part|look-PRESP prep|at det:art|the
+	n|child&PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	she's looking the other way . 71547_72967
+%wor:	she's 71547_71647 looking 71647_72557 the 72587_72597 other 72597_72877 way 72907_72967 .
+%mor:	pro:sub|she~aux|be&3S part|look-PRESP det:art|the qn|other n|way .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|QUANT 6|3|OBJ 7|3|PUNCT
+*PAR:	the girl is shushing him so he won't make a noise . 76862_80982
+%wor:	the 76862_76922 girl 76922_77442 is 77442_78112 shushing 78292_78712 him 78712_79432 so 79432_79492 he 79492_79502 won't 79502_79982 make 80242_80432 a 80432_80502 noise 80502_80982 .
+%mor:	det:art|the n|girl aux|be&3S part|shush-PRESP pro:obj|him conj|so
+	pro:sub|he mod|will~neg|not v|make det:art|a n|noise .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|10|LINK 7|10|SUBJ
+	8|10|AUX 9|8|NEG 10|4|CJCT 11|12|DET 12|10|OBJ 13|4|PUNCT
+*PAR:	the door is open on the cupboards . 83294_84894
+%wor:	the 83294_83454 door 83454_83734 is 83734_83904 open 83904_84264 on 84264_84514 the 84514_84524 cupboards 84524_84894 .
+%mor:	det:art|the n|door cop|be&3S adj|open prep|on det:art|the
+	n|+n|cup+n|board-PL .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|JCT 6|7|DET 7|5|POBJ
+	8|3|PUNCT
+*PAR:	that's all I can see . [+ exc] 85381_86671
+%wor:	that's 85381_85611 all 85611_85781 I 85781_85901 can 85901_86131 see 86131_86671 . [+ exc]
+%mor:	pro:dem|that~cop|be&3S pro:indef|all pro:sub|I mod|can v|see .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|2|PUNCT
+*INV:	okay . 87054_87204
+%wor:	okay 87054_87204 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx yeah . [+ exc] 90411_90511
+%wor:	xxx yeah 90411_90511 . [+ exc]
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 91395_91485
+%wor:	okay 91395_91485 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,112 @@
+@UTF8
+@PID:	11312/t-00002481-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|79;|female|ProbableAD||Participant|26||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	066-0, audio
+@G:	Cookie
+*INV:	(.) what do you see going on ? 230_1200
+%wor:	(.) what 230_340 do 340_400 you 400_530 see 530_680 going 680_960 on 960_1200 ?
+%mor:	pro:int|what mod|do pro:per|you v|see part|go-PRESP adv|on ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|5|JCT 7|4|PUNCT
+*PAR:	well the boy's on the ladder [: stool] [* s:r] . 2836_3616
+%wor:	well 2836_3076 the 3076_3126 boy's 3126_3216 on 3216_3346 the 3346_3356 ladder [: stool] [* s:r] 3356_3616 .
+%mor:	co|well det:art|the n|boy~cop|be&3S prep|on det:art|the n|stool .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	and the ladder's [: stool's] [* s:r] tipped over . 4620_5430
+%wor:	and 4620_4820 the 4820_4830 ladder's [: stool's] [* s:r] 4830_5000 tipped 5000_5290 over 5290_5430 .
+%mor:	coord|and det:art|the n|stool~aux|be&3S part|tip-PASTP adv|over .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	an(d) it's &-uh not a ladder it's a stepstool . 5747_7727
+%wor:	an(d) 5747_5957 it's 6557_6647 &-uh 6737_6747 not 6747_6817 a 6817_6827 ladder it's 6967_7057 a 7057_7417 stepstool 7497_7727 .
+%mor:	coord|and pro:per|it~cop|be&3S neg|not det:art|a n|ladder
+	pro:per|it~cop|be&3S det:art|a n|+v|step+n|stool .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|6|DET 6|3|PRED 7|8|SUBJ
+	8|6|CMOD 9|10|DET 10|8|PRED 11|3|PUNCT
+*PAR:	and &-uh she's xxx . [+ jar] 10049_10359
+%wor:	and 10049_10279 &-uh 10279_10289 she's 10289_10359 xxx . [+ jar]
+%mor:	coord|and pro:sub|she~cop|be&3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	from what I can see he's gonna [: going to ] upset the cookies
+	&=laughs . 12811_15551
+%wor:	from 12811_13141 what 13141_13331 I 13331_13541 can 13541_13781 see 13781_14221 he's 14221_14351 gonna [: going to ] 14351_14641 upset 14641_15261 the 15261_15271 cookies 15271_15551  &=laughs .
+%mor:	prep|from pro:int|what pro:sub|I mod|can v|see pro:sub|he~aux|be&3S
+	part|go-PRESP inf|to v|upset det:art|the n|cookie-PL .
+%gra:	1|0|INCROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CPOBJ 6|8|SUBJ 7|8|AUX
+	8|5|COMP 9|10|INF 10|8|COMP 11|12|DET 12|10|OBJ 13|1|PUNCT
+*INV:	&=laughs .
+%wor:	&=laughs .
+*PAR:	and &-uh the sink is flowin(g) over on the floor while the mother I
+	guess is dryin(g) the dishes . 19083_25573
+%wor:	and 19083_20263 &-uh 20913_20923 the 20923_20953 sink 20953_21323 is 21323_21453 flowin(g) 21453_22113 over 22113_22233 on 22233_22313 the 22313_22533 floor 22533_22933 while 23093_23883 the 24443_24453 mother 24453_24573 I 24573_24583  guess 24583_24673 is 24673_24743 dryin(g) 24743_25103 the 25433_25443 dishes 25443_25573 .
+%mor:	coord|and det:art|the n|sink aux|be&3S part|flow-PRESP adv|over
+	prep|on det:art|the n|floor conj|while det:art|the n|mother
+	pro:sub|I n|guess aux|be&3S part|dry-PRESP det:art|the n|dish-PL .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|JCT 11|12|DET 12|10|POBJ 13|16|LINK 14|16|SUBJ
+	15|16|AUX 16|12|CMOD 17|18|DET 18|16|OBJ 19|5|PUNCT
+*PAR:	boy ‡ I'll tell you I wouldn't wanna be on that stepstool there .
+	[+ exc] 26343_32302
+%wor:	boy 26343_26403 ‡ I'll 28143_28153 tell 28153_28243 you 28243_28563 I 28663_28673 wouldn't 28673_28973 wanna 28973_29093 be 29093_29163 on 29163_29923 that 29983_30313 stepstool 30543_30783 there 31813_32303 .  [+ exc]
+%mor:	co|boy beg|beg pro:sub|I~mod|will v|tell pro:per|you pro:sub|I
+	mod|will&COND~neg|not v|want~inf|to cop|be prep|on det:dem|that
+	n|+v|step+n|stool n|there .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|10|SUBJ
+	8|10|AUX 9|8|NEG 10|5|COMP 11|12|INF 12|10|COMP 13|12|JCT 14|16|DET
+	15|16|MOD 16|13|POBJ 17|5|PUNCT
+*INV:	&=laughs .
+%wor:	&=laughs .
+*PAR:	it's not even a stepstool . 33303_34043
+%wor:	it's 33303_33413 not 33413_33493 even 33573_33743 a 33743_33773 stepstool 33773_34043 .
+%mor:	pro:per|it~cop|be&3S neg|not adv|even det:art|a n|+v|step+n|stool .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|6|JCT 5|6|DET 6|2|PRED 7|2|PUNCT
+*PAR:	it's just a stool &=laughs . 34871_35671
+%wor:	it's 34871_34981 just 34981_35081 a 35081_35201 stool 35521_35671 &=laughs .
+%mor:	pro:per|it~cop|be&3S adj|just det:art|a n|stool .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|DET 5|2|PRED 6|2|PUNCT
+*INV:	anything else going on ? 41431_43721
+%wor:	anything 41431_41841 else 41841_41971 going 42061_42241 on 43471_43721 ?
+%mor:	pro:indef|anything post|else part|go-PRESP adv|on ?
+%gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	the water's overflowing (.) on the floor . 43462_44132
+%wor:	the 43462_43482 water's 43482_43652 overflowing 43652_43892 (.) on 43892_43952 the 43952_43972 floor 43972_44132 .
+%mor:	det:art|the n|water~cop|be&3S over#n:gerund|flow-GERUND prep|on
+	det:art|the n|floor .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|7|DET 7|5|POBJ
+	8|3|PUNCT
+*INV:	okay . 50224_50664
+%wor:	okay 50224_50664 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	there's probably some more water back this way but I [//] I'm not
+	&+t too sure at all &*INV:mhm except that the water's pourin(g) down
+	. 52458_60638
+%wor:	there's 52458_52578 probably 52698_53028 some 53028_53318 more 53318_53408 water 53408_53548 back 53548_53898 this 53898_53978 way 53978_54038 but 54168_54258 I [//] 54258_54268 I'm 54268_54398 not 55408_55478  &+t 55478_55488 too 55488_55548 sure 55688_55788 at 57058_57168 all 57588_57648 &*INV:mhm except 57648_57828 that 57828_57928 the 57928_57938 water's 57938_58088 pourin(g) 58658_59168 down 60378_60638  .
+%mor:	pro:exist|there~cop|be&3S adv|probable&dadj-LY qn|some qn|more
+	n|water adv|back pro:dem|this adv|way conj|but pro:sub|I~cop|be&1S
+	neg|not adv|too adv|sure prep|at pro:indef|all prep|except comp|that
+	det:art|the n|water~aux|be&3S part|pour-PRESP adv|down .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|QUANT 5|6|QUANT 6|2|PRED 7|6|NJCT
+	8|6|NJCT 9|10|JCT 10|12|LINK 11|12|SUBJ 12|8|CJCT 13|12|NEG
+	14|15|JCT 15|12|JCT 16|15|JCT 17|16|POBJ 18|15|JCT 19|23|LINK
+	20|21|DET 21|23|SUBJ 22|23|AUX 23|18|CPOBJ 24|23|JCT 25|2|PUNCT
+*INV:	do you see anything else ? 63720_64480
+%wor:	do 63720_63810 you 63810_63920 see 63950_64020 anything 64020_64350 else 64350_64480 ?
+%mor:	mod|do pro:per|you v|see pro:indef|anything post|else ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|PQ 6|3|PUNCT
+*PAR:	I'm trying to figure out what this is out here &=laughs . [+ exc] 70027_72957
+%wor:	I'm 70027_70047 trying 70047_70217 to 70217_70297 figure 70387_70687 out 70687_70847 what 70847_71117 this 71117_71327 is 71637_71967 out 71967_72047 here 72497_72957 &=laughs . [+ exc]
+%mor:	pro:sub|I~aux|be&1S part|try-PRESP inf|to v|figure adv|out
+	pro:int|what det:dem|this aux|be&3S prep|out n|here .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|9|DET 8|9|DET
+	9|5|COMP 10|9|JCT 11|10|POBJ 12|3|PUNCT
+*INV:	okay ‡ well ‡ <that's fine> [/] that's fine . 78511_80351
+%wor:	okay 78511_78741 ‡ well 78741_78901 ‡ <that's 78901_79141 fine 79141_80021> [/] that's fine . 80051_80351
+%mor:	co|okay beg|beg co|well beg|beg pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|6|SUBJ 6|0|ROOT 7|6|PRED
+	8|6|PUNCT
+@End

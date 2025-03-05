@@ -1,0 +1,183 @@
+@UTF8
+@PID:	11312/t-00002612-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|73;|male|ProbableAD||Participant|13||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	319-0, audio
+@G:	Cookie
+*INV:	tell me what you see going on in this picture . 0_2320
+%wor:	tell 0_340 me 340_440 what 440_620 you 620_730 see 730_990 going 990_1170 on 1170_1560 in 1590_1690 this 1690_1780 picture 1910_2320 .
+%mor:	v|tell pro:obj|me pro:int|what pro:per|you v|see part|go-PRESP
+	adv|on prep|in det:dem|this n|picture .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|LINK 4|5|SUBJ 5|1|COMP 6|5|COMP 7|6|JCT
+	8|6|JCT 9|10|DET 10|8|POBJ 11|1|PUNCT
+*PAR:	(.) I don't see xxx . [+ exc] 5297_6407
+%wor:	(.) I 5297_5327 don't 5327_6317 see 6347_6407 xxx . [+ exc]
+%mor:	pro:sub|I mod|do~neg|not v|see .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	(loo)ks like somebody took some pencils or somethin(g) and went up
+	and down those xxx them things . [+ exc] 6970_11660
+%wor:	(loo)ks 6970_7080 like 7080_7180 somebody 7230_7520 took 7570_7670 some 7760_7900 pencils 8030_8240 or 8300_8440 somethin(g) 8480_9010 and 9040_9130 went 9130_9250 up 9250_9380  and 9380_9530 down 9530_9870 those 10090_10170 xxx them 11020_11210 things 11300_11660 . [+ exc]
+%mor:	v|look-3S prep|like pro:indef|somebody v|take&PAST qn|some
+	n|pencil-PL coord|or pro:indef|something coord|and v|go&PAST adv|up
+	coord|and prep|down det:dem|those pro:obj|them n|thing-PL .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|ENUM 5|6|QUANT 6|4|OBJ 7|6|CONJ
+	8|7|COORD 9|1|CONJ 10|9|COORD 11|10|JCT 12|11|CONJ 13|12|COORD
+	14|16|DET 15|16|MOD 16|13|POBJ 17|1|PUNCT
+*INV:	can you see what's going on in that picture ? 12311_14541
+%wor:	can 12311_12471 you 12471_12561 see 12721_12921 what's 12951_13071 going 13221_13481 on 13481_13681 in 13681_13811 that 13811_14081 picture 14081_14541 ?
+%mor:	mod|can pro:per|you v|see pro:int|what~aux|be&3S part|go-PRESP
+	adv|on prep|in det:dem|that n|picture ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*PAR:	<all I see> [//] I see a girl standin(g) there or somethin(g) or
+	other . 15480_17880
+%wor:	<all 15480_15590 I 15790_15800 see 15800_15860> [//] I see a girl standin(g) there or somethin(g) or  other . 15990_17880
+%mor:	pro:sub|I v|see det:art|a n|girl part|stand-PRESP adv|there
+	coord|or pro:indef|something coord|or qn|other .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|XMOD 6|5|JCT 7|5|CONJ
+	8|7|COORD 9|8|CONJ 10|9|COORD 11|2|PUNCT
+*INV:	okay tell me what else you see . 20725_22085
+%wor:	okay 20725_20975 tell 21035_21245 me 21245_21315 what 21315_21445 else 21445_21615 you 21705_21795 see 21995_22085 .
+%mor:	co|okay v|tell pro:obj|me pro:int|what post|else pro:per|you v|see
+	.
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|7|LINK 5|4|PQ 6|7|SUBJ 7|2|COMP
+	8|2|PUNCT
+*PAR:	(.) some little knots [* s:uk] or somethin(g) . [+ gram] [+ jar] 25828_26958
+%wor:	(.) some 25828_26218 little 26218_26348 knots [* s:uk] 26348_26578 or 26608_26638 somethin(g) 26778_26958 . [+ gram] [+ jar]
+%mor:	qn|some adj|little n|knot-PL coord|or pro:indef|something .
+%gra:	1|3|QUANT 2|3|MOD 3|0|INCROOT 4|3|CONJ 5|4|COORD 6|3|PUNCT
+*PAR:	I don't know . [+ exc] 27011_27631
+%wor:	I 27011_27021 don't 27021_27471 know 27591_27631 . [+ exc]
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	(.) xxx . [+ exc] [+ jar]
+%wor:	(.) xxx . [+ exc] [+ jar]
+*PAR:	(.) some kind of a xxx pan or somethin(g) . [+ gram] [+ jar] 35468_37938
+%wor:	(.) some 35468_35618 kind 35618_35978 of 35978_36038 a 36038_36098 xxx pan 36218_36308 or 36308_36748 somethin(g) 37658_37938 . [+ gram] [+ jar]
+%mor:	qn|some n|kind prep|of det:art|a n|pan coord|or pro:indef|something
+	.
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|6|COORD
+	8|2|PUNCT
+*PAR:	(.) and that girl is there . 39878_40998
+%wor:	(.) and 39878_39988 that 39988_40118 girl 40118_40458 is 40458_40598 there 40598_40998 .
+%mor:	coord|and comp|that n|girl cop|be&3S adv|there .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	(.) and there's somethin(g) else over there . [+ es] 43331_44601
+%wor:	(.) and 43331_43441 there's 43441_43551 somethin(g) 43911_44071 else 44071_44161 over 44261_44351 there 44521_44601 . [+ es]
+%mor:	coord|and pro:exist|there~cop|be&3S pro:indef|something post|else
+	prep|over n|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|PQ 6|4|NJCT 7|6|POBJ
+	8|3|PUNCT
+*PAR:	(.) there's another girl (.) look like . [+ gram] 45984_49994
+%wor:	(.) there's 45984_46074 another 47814_48094 girl 48094_48594 (.) look 48594_48684 like 49894_49994 . [+ gram]
+%mor:	pro:exist|there~cop|be&3S qn|another n|girl v|look conj|like .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|5|SUBJ 5|2|CPRED 6|5|OBJ 7|2|PUNCT
+*INV:	(..) what else do you see going on in the picture ? 51328_59528
+%wor:	(..) what 51328_58048 else 58048_58308 do 58308_58388 you 58388_58518 see 58548_58628 going 58628_58958 on 58958_59068 in 59068_59208 the 59208_59258 picture 59258_59528 ?
+%mor:	pro:int|what post|else mod|do pro:per|you v|see part|go-PRESP
+	adv|on prep|in det:art|the n|picture ?
+%gra:	1|5|LINK 2|1|PQ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|COMP 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*INV:	what's going on right here in this picture ? 59550_61630
+%wor:	what's 59550_59870 going 59900_60190 on 60190_60430 right 60430_60630 here 60660_60870 in 60870_61010 this 61010_61200 picture 61260_61630 ?
+%mor:	pro:int|what~aux|be&3S part|go-PRESP adv|on adv|right n|here
+	prep|in det:dem|this n|picture ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|JCT 6|3|JCT 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*PAR:	looks +/. [+ exc] 62253_62553
+%wor:	looks 62253_62553 +/. [+ exc]
+%mor:	v|look-3S +/.
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	+< what's happening there ? 62260_63110
+%wor:	+< what's 62260_62550 happening 62550_63050 there 63050_63110 ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP n|there ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	look like some [//] a little girl is in there . [+ gram] 63125_65345
+%wor:	look 63125_63225 like 63435_63645 some [//] 63645_64035 a 64075_64115 little 64115_64265 girl 64265_64795 is 64795_64865 in 64865_65225 there 65255_65345 . [+ gram]
+%mor:	v|look conj|like det:art|a adj|little n|girl cop|be&3S prep|in
+	n|there .
+%gra:	1|0|ROOT 2|6|LINK 3|5|DET 4|5|MOD 5|6|SUBJ 6|1|COMP 7|6|JCT
+	8|7|POBJ 9|1|PUNCT
+*INV:	mhm . 65618_66178
+%wor:	mhm 65618_66178 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	what else is going on ? 66708_68328
+%wor:	what 66708_67268 else 67268_67518 is 67518_67618 going 67618_68038 on 68038_68328 ?
+%mor:	pro:int|what post|else aux|be&3S part|go-PRESP adv|on ?
+%gra:	1|4|LINK 2|1|PQ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	I don't see nothin(g) else . [+ exc] 70240_71150
+%wor:	I 70240_70250 don't 70250_70320 see 70320_70380 nothin(g) 70450_70860 else 71080_71150 . [+ exc]
+%mor:	pro:sub|I mod|do~neg|not v|see pro:indef|nothing post|else .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|5|PQ 7|4|PUNCT
+*PAR:	some of xxx and things . [+ exc] [+ jar] [+ gram] 72150_73510
+%wor:	some 72150_72340 of 72920_73030 xxx and 73190_73340 things 73340_73510 . [+ exc] [+ jar] [+ gram]
+%mor:	pro:indef|some prep|of coord|and n|thing-PL .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*INV:	uhhuh . 74717_74777
+%wor:	uhhuh 74717_74777 .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	can you tell me what's going on on this side of the picture ? 75827_78057
+%wor:	can 75827_75947 you 75947_76037 tell 76037_76167 me 76167_76287 what's 76287_76497 going 76537_76777 on 76777_76887 on 76887_77027 this 77057_77207 side 77267_77527 of 77557_77627 the 77627_77687 picture 77687_78057 ?
+%mor:	mod|can pro:per|you v|tell pro:obj|me pro:int|what~aux|be&3S
+	part|go-PRESP adv|on prep|on det:dem|this n|side prep|of det:art|the
+	n|picture ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|AUX 7|3|COMP 8|7|JCT
+	9|7|JCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|14|DET 14|12|POBJ
+	15|3|PUNCT
+*PAR:	look to me like the same except them things up there . [+ gram] 79404_82724
+%wor:	look 79404_79624 to 79624_79684 me 79684_79944 like 80184_80274 the 80274_80354 same 80384_80684 except 81504_81844 them 81844_82014 things 82094_82384 up 82384_82534 there 82644_82724 . [+ gram]
+%mor:	v|look prep|to pro:obj|me prep|like det:art|the adj|same
+	prep|except pro:obj|them n|thing-PL prep|up n|there .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|JCT 5|6|DET 6|4|POBJ 7|1|JCT 8|9|SUBJ
+	9|7|POBJ 10|9|NJCT 11|10|POBJ 12|1|PUNCT
+*INV:	what [/] what are you talking about ? 82938_85228
+%wor:	what [/] 82938_83578 what 83608_84248 are 84248_84308 you 84308_84428 talking 84428_84848 about 84848_85228 ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|talk-PRESP adv|about ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	(..) I see this they all look [//] looked about the same to me
+	except this thing here . [+ es] 87698_91498
+%wor:	(..) I 87698_87708 see 87888_87948 this 87948_88168 they 88168_88348 all 88398_88748 look [//] 88778_88958 looked 88958_89148 about 89148_89318 the 89318_89528 same 89528_90248 to 90388_90538 me 90688_90728  except 90728_90968 this 90968_91028 thing 91028_91418 here 91448_91498 . [+ es]
+%mor:	pro:sub|I v|see det:dem|this pro:sub|they post|all v|look-PAST
+	prep|about det:art|the adj|same prep|to pro:obj|me prep|except
+	det:dem|this n|thing adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|SUBJ 5|4|PQ 6|2|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|JCT 11|10|POBJ 12|9|JCT 13|14|DET 14|12|POBJ 15|9|JCT
+	16|2|PUNCT
+*PAR:	look like a little kid the same . [+ gram] 91776_92816
+%wor:	look 91776_91896 like 91896_91966 a 91966_91976 little 91976_92256 kid 92516_92716 the 92716_92726 same 92726_92816 . [+ gram]
+%mor:	v|look conj|like det:art|a adj|little n|kid det:art|the adj|same .
+%gra:	1|0|ROOT 2|1|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|7|DET 7|5|POSTMOD
+	8|1|PUNCT
+*INV:	uhhuh . 93430_93950
+%wor:	uhhuh 93430_93950 .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	can you see anything else in that picture ? 94180_95720
+%wor:	can 94180_94390 you 94490_94570 see 94570_94630 anything 94630_94880 else 94880_95070 in 95100_95200 that 95200_95390 picture 95390_95720 ?
+%mor:	mod|can pro:per|you v|see pro:indef|anything post|else prep|in
+	det:dem|that n|picture ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|PQ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	(.) I'm sorry I didn't bring my glasses . [+ exc] 98185_99775
+%wor:	(.) I'm 98185_98325 sorry 98425_98715 I 98715_98725 didn't 98725_98935 bring 98935_99175 my 99175_99235 glasses 99235_99775 . [+ exc]
+%mor:	pro:sub|I~cop|be&1S adj|sorry pro:sub|I mod|do&PAST~neg|not v|bring
+	det:poss|my n|glass-PL .
+%gra:	1|2|SUBJ 2|7|CJCT 3|2|PRED 4|7|SUBJ 5|7|AUX 6|5|NEG 7|0|ROOT
+	8|9|DET 9|7|OBJ 10|7|PUNCT
+*INV:	(.) maybe we can try another time when you have your glasses . 102254_104924
+%wor:	(.) maybe 102254_102564 we 102564_102714 can 102714_102984 try 103174_103264 another 103264_103624 time 103724_103904 when 103904_104094 you 104094_104154 have 104154_104334 your 104334_104434 glasses 104434_104924 .
+%mor:	adv|maybe pro:sub|we mod|can v|try qn|another n|time conj|when
+	pro:per|you v|have det:poss|your n|glass-PL .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|9|LINK
+	8|9|SUBJ 9|4|CJCT 10|11|DET 11|9|OBJ 12|4|PUNCT
+*INV:	it does help to have +/. 105530_106540
+%wor:	it 105530_105740 does 105740_106000 help 106060_106300 to 106300_106420 have 106450_106540 +/.
+%mor:	pro:per|it mod|do&3S v|help inf|to v|have +/.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|3|PUNCT
+@End

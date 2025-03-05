@@ -1,0 +1,105 @@
+@UTF8
+@PID:	11312/t-00002492-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|77;|female|ProbableAD||Participant|3||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	087-1, audio
+@G:	Cookie
+*INV:	what's going on in the picture ? 1120_2560
+%wor:	what's 1120_1340 going 1340_1650 on 1650_1960 in 1960_2040 the 2040_2050 picture 2050_2560 ?
+%mor:	pro:int|what~aux|be&3S part|go-PRESP adv|on prep|in det:art|the
+	n|picture ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ
+	8|3|PUNCT
+*PAR:	<in here> [//] look this [/] this &-uh way ? [+ exc] 3780_5490
+%wor:	<in 3780_3870 here 3870_4160> [//] look this [/] 4160_4770 this 4770_5260 &-uh 5260_5290 way 5290_5490 ? [+ exc]
+%mor:	v|look pro:dem|this adv|way ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*INV:	+< mhm, mhm . 5380_6150
+%wor:	+< mhm, 5380_5610 mhm 5810_6150 .
+%mor:	co|mhm=yes cm|cm co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+*PAR:	well I really don't know (be)cause they haven't gotten things
+	turned up (.) right . [+ jar] [+ exc] 7925_12105
+%wor:	well 7925_8065 I 8065_8075 really 8075_8325 don't 8325_8645 know 8645_8955 (be)cause 8985_9195 they 9195_9355 haven't 9355_9615 gotten 9615_9895 things 9895_10285  turned 10285_10665 up 10665_10815 (.) right 11915_12105 . [+ jar] [+ exc]
+%mor:	co|well pro:sub|I adv|real&dadj-LY mod|do~neg|not v|know
+	conj|because pro:sub|they aux|have~neg|not part|get&PASTP n|thing-PL
+	v|turn-PAST adv|up co|right .
+%gra:	1|6|COM 2|6|SUBJ 3|6|JCT 4|6|AUX 5|4|NEG 6|0|ROOT 7|11|LINK
+	8|11|SUBJ 9|11|AUX 10|9|NEG 11|13|CJCT 12|13|SUBJ 13|6|COMP
+	14|13|JCT 15|14|INCROOT 16|15|PUNCT
+*INV:	have a look at the picture see if you can tell me what's going on .
+	16167_18887
+%wor:	have 16167_16257 a 16257_16307 look 16307_16517 at 16517_16597 the 16597_16667 picture 16667_17097 see 17097_17307 if 17307_17397 you 17397_17477 can 17477_17647 tell 17647_17917 me 17917_18017 what's 18017_18307 going 18307_18627 on 18627_18887 .
+%mor:	v|have det:art|a v|look prep|at det:art|the n|picture v|see conj|if
+	pro:per|you mod|can v|tell pro:obj|me pro:int|what~aux|be&3S
+	part|go-PRESP adv|on .
+%gra:	1|0|ROOT 2|3|DET 3|1|COMP 4|3|JCT 5|6|DET 6|4|POBJ 7|3|XJCT
+	8|11|LINK 9|11|SUBJ 10|11|AUX 11|7|CJCT 12|11|OBJ 13|15|LINK
+	14|15|AUX 15|11|COMP 16|15|JCT 17|1|PUNCT
+*PAR:	not in this one . [+ exc] [+ es] 20821_25221
+%wor:	not 20821_24521 in 24551_24701 this 24701_24951 one 24981_25221 . [+ exc] [+ es]
+%mor:	neg|not prep|in det:dem|this pro:indef|one .
+%gra:	1|2|NEG 2|0|INCROOT 3|4|DET 4|2|POBJ 5|2|PUNCT
+*PAR:	maybe under this right here . [+ exc] [+ es] 25239_28269
+%wor:	maybe 25239_25389 under 25389_25609 this 25639_25789 right 25789_25879 here 25879_28269 . [+ exc] [+ es]
+%mor:	adv|maybe prep|under det:dem|this adv|right n|here .
+%gra:	1|0|INCROOT 2|1|JCT 3|5|DET 4|5|JCT 5|2|POBJ 6|1|PUNCT
+*INV:	what is it ? 28763_29453
+%wor:	what 28763_28963 is 28963_29143 it 29143_29453 ?
+%mor:	pro:int|what cop|be&3S pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	it's like a +... 29580_33500
+%wor:	it's 29580_29670 like 29720_29810 a 29810_33500 +...
+%mor:	pro:per|it~cop|be&3S conj|like det:art|a +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OM 5|2|PUNCT
+*PAR:	no it isn't . [+ exc] 33555_34985
+%wor:	no 33555_34145 it 34175_34235 isn't 34235_34985 . [+ exc]
+%mor:	co|no pro:per|it cop|be&3S~neg|not .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PUNCT
+*PAR:	(..) (loo)ks like &+s this is a kind of thing that who [//] whoever
+	xxx . [+ jar] 35035_49115
+%wor:	(..) (loo)ks 35035_36075 like 36075_42205 &+s this 42205_42325 is 42325_42525 a 42525_43095 kind 43135_43465 of 43465_43525 thing 43525_44665 that 44695_44835 who [//] 46445_46525 whoever 46525_49115  xxx . [+ jar]
+%mor:	v|look-3S prep|like pro:dem|this cop|be&3S det:art|a n|kind prep|of
+	n|thing comp|that pro:indef|whoever .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|COMP 5|6|DET 6|4|PRED 7|6|NJCT
+	8|7|POBJ 9|10|LINK 10|8|CMOD 11|1|PUNCT
+*INV:	what is it that's happening here ? 53078_54758
+%wor:	what 53078_53268 is 53268_53438 it 53438_53588 that's 53588_53818 happening 53818_54268 here 54268_54758 ?
+%mor:	pro:int|what cop|be&3S pro:per|it pro:rel|that~aux|be&3S
+	part|happen-PRESP n|here ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|6|LINK 5|6|AUX 6|3|CMOD 7|6|OBJ
+	8|2|PUNCT
+*PAR:	she's cleaning . 56077_56637
+%wor:	she's 56077_56247 cleaning 56277_56637 .
+%mor:	pro:sub|she~aux|be&3S part|clean-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*INV:	(.) and what are they doing ? 63992_65141
+%wor:	(.) and 63992_64152 what 64152_64372 are 64372_64412 they 64412_64682 doing 64682_65142 ?
+%mor:	coord|and pro:int|what cop|be&PRES pro:sub|they part|do-PRESP ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|PRED 6|3|PUNCT
+*PAR:	looking to see what they have so they can get it ready for bed I
+	guess . [+ gram] 67720_71840
+%wor:	looking 67720_68010 to 68060_68150 see 68150_68360 what 68360_68590 they 68590_68740 have 68830_69100 so 69100_69260 they 69260_69440 can 69510_69700 get 70410_70560 it 70560_70760 ready 70760_71000 for 71070_71140 bed 71140_71450 I 71450_71600  guess 71600_71840 . [+ gram]
+%mor:	part|look-PRESP inf|to v|see pro:int|what pro:sub|they v|have
+	conj|so pro:sub|they mod|can v|get pro:per|it v|ready prep|for n|bed
+	pro:sub|I v|guess .
+%gra:	1|12|XJCT 2|3|INF 3|1|COMP 4|6|LINK 5|6|SUBJ 6|3|COMP 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|12|CJCT 11|12|SUBJ 12|0|ROOT 13|12|JCT
+	14|13|POBJ 15|16|SUBJ 16|12|CJCT 17|12|PUNCT
+*PAR:	I don't know . [+ exc] 71970_72480
+%wor:	I 71970_71980 don't 71980_72320 know 72320_72480 . [+ exc]
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	his hair [* s:uk] is down . [+ jar] 74034_74774
+%wor:	his 74034_74164 hair [* s:uk] 74164_74294 is 74294_74504 down 74504_74774 . [+ jar]
+%mor:	det:poss|his n|hair cop|be&3S adv|down .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	it's fallen down a_lot . 74946_76146
+%wor:	it's 74946_75106 fallen 75196_75556 down 75556_75846 a_lot 75996_76146 .
+%mor:	pro:per|it~aux|be&3S part|fall&PASTP n|down adv|a_lot .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+@End

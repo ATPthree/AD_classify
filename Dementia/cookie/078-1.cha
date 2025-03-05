@@ -1,0 +1,132 @@
+@UTF8
+@PID:	11312/t-00002490-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|65;|female|ProbableAD||Participant|16||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	078-1, audio
+@G:	Cookie
+*INV:	what's goin(g) on in this picture ? 0_1460
+%wor:	what's 0_250 goin(g) 250_540 on 540_810 in 810_900 this 900_1090 picture 1090_1460 ?
+%mor:	pro:int|what~aux|be&3S part|go-PRESP adv|on prep|in det:dem|this
+	n|picture ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ
+	8|3|PUNCT
+*INV:	all of the action okay ? 1679_3489
+%wor:	all 1679_1929 of 1929_2059 the 2059_2209 action 2209_2689 okay 3109_3489 ?
+%mor:	pro:indef|all prep|of det:art|the n|action adj|okay ?
+%gra:	1|5|SUBJ 2|1|NJCT 3|4|DET 4|2|POBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	oh gee . [+ exc] 3629_4949
+%wor:	oh 3629_3659 gee 4859_4949 . [+ exc]
+%mor:	co|oh co|gee .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	the little girl is reachin(g) up to the &+g cookie jar . 8180_11850
+%wor:	the 8180_8190 little 8190_8480 girl 8480_8870 is 8870_9140 reachin(g) 9290_9720 up 9720_9960 to 9960_10690 the 10810_10820 &+g cookie 10820_11190 jar 11240_11850 .
+%mor:	det:art|the adj|little n|girl aux|be&3S part|reach-PRESP adv|up
+	prep|to det:art|the n|cookie n|jar .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|5|PUNCT
+*PAR:	<and the [/] the boy is> [//] oh he's on the [/] &-uh &-uh &-uh the
+	stool . 11900_18550
+%wor:	<and 11900_12780 the [/] 13110_13210 the 13210_13270 boy 13270_13580 is 13610_13690> [//] oh he's on the [/] 13760_15010 &-uh 15010_15100 &-uh 15100_15300 &-uh 15670_16010  the 17560_17980  stool 17980_18550 .
+%mor:	co|oh pro:sub|he~cop|be&3S prep|on det:art|the n|stool .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	he's gonna be trouble fallin(g) off &=laughs . [+ gram] 18858_20628
+%wor:	he's 18858_18958 gonna 18958_19138 be 19138_19228 trouble 19228_19588 fallin(g) 19588_20128 off 20128_20628 &=laughs . [+ gram]
+%mor:	pro:sub|he~aux|be&3S part|go&PRESP~inf|to cop|be n|trouble
+	part|fall-PRESP adv|off .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|PRED 7|6|XMOD
+	8|7|JCT 9|3|PUNCT
+*INV:	+< yep . 21675_21985
+%wor:	+< yep 21675_21985 .
+%mor:	co|yep .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&=laughs and the <woman is> [//] lady is dryin(g) the dishes . 22006_26356
+%wor:	&=laughs and 22006_23626 the 23626_23646 <woman 23796_23946 is 23946_24526> [//] lady is dryin(g) the dishes . 24526_26356
+%mor:	coord|and det:art|the n|lady aux|be&3S part|dry-PRESP det:art|the
+	n|dish-PL .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ
+	8|5|PUNCT
+*PAR:	and the &-um sink overroll [: overflowed] [* n:k-ret] [//]
+	overfilled . 26600_31330
+%wor:	and 26600_28410 the 28410_28420 &-um 28420_28490 sink 28490_28960 overroll [: overflowed] [* n:k-ret] [//]  overfilled . 28990_31330
+%mor:	coord|and det:art|the n|sink over#part|fill-PASTP .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	I_mean it's all down on the floor . 31394_33234
+%wor:	I_mean 31394_31774 it's 31774_31954 all 31954_32144 down 32144_32564 on 32564_32664 the 32664_32704 floor 32704_33234 .
+%mor:	co|I_mean pro:per|it~cop|be&3S post|all adv|down prep|on
+	det:art|the n|floor .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	and I can see cups and &+coff +//. 34846_37726
+%wor:	and 34846_35096 I 35096_35286 can 35286_35566 see 35566_36376 cups 36526_37146 and 37476_37726 &+coff +//.
+%mor:	coord|and pro:sub|I mod|can v|see n|cup-PL coord|and +//.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|5|CONJ 7|4|PUNCT
+*PAR:	there [//] I s(ee) that little boy with the cookie jar . 37789_40239
+%wor:	there [//] 37789_38249 I 38249_38389 s(ee) 38389_38439 that 38439_38609 little 38609_38799 boy 38799_39129 with 39129_39409 the 39439_39449 cookie 39449_39709 jar 39769_40239 .
+%mor:	pro:sub|I v|see det:dem|that adj|little n|boy prep|with det:art|the
+	n|cookie n|jar .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|5|NJCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|2|PUNCT
+*PAR:	and that little girl wants one . 41066_42696
+%wor:	and 41066_41296 that 41296_41466 little 41466_41636 girl 41636_41976 wants 41976_42266 one 42266_42696 .
+%mor:	coord|and det:dem|that adj|little n|girl v|want-3S pro:indef|one .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	and <the water's runnin(g)> [//] as I said the water's running all
+	over the floor . 43455_47465
+%wor:	and 43455_43595 <the 43895_44165 water's 44835_45275 runnin(g) 45275_45445> [//] as I said the water's running all  over the floor . 45445_47465
+%mor:	coord|and conj|as pro:sub|I v|say&PAST det:art|the
+	n|water~aux|be&3S part|run-PRESP adv|all prep|over det:art|the
+	n|floor .
+%gra:	1|8|LINK 2|4|LINK 3|4|SUBJ 4|8|CJCT 5|6|DET 6|8|SUBJ 7|8|AUX
+	8|0|ROOT 9|10|JCT 10|8|JCT 11|12|DET 12|10|POBJ 13|8|PUNCT
+*PAR:	(..) and the girl's dryin(g) the dishes . 58638_59988
+%wor:	(..) and 58638_58828 the 58828_58888 girl's 58888_59178 dryin(g) 59178_59598 the 59598_59608 dishes 59608_59988 .
+%mor:	coord|and det:art|the n|girl~aux|be&3S part|dry-PRESP det:art|the
+	n|dish-PL .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ
+	8|5|PUNCT
+*PAR:	and the little boy's fallin(g) off that there stool because he's up
+	for the cookie jar . 61016_65126
+%wor:	and 61016_61226 the 61226_61236 little 61236_61386 boy's 61386_61736 fallin(g) 61736_62196 off 62196_62436 that 62436_62666 there 62666_62846 stool 62846_63326 because 63326_63766 he's 63766_63866 up 63866_64016  for 64016_64346 the 64346_64396 cookie 64396_64666 jar 64666_65126 .
+%mor:	coord|and det:art|the adj|little n|boy~aux|be&3S part|fall-PRESP
+	adv|off comp|that adv|there n|stool conj|because
+	pro:sub|he~cop|be&3S adv|up prep|for det:art|the n|cookie n|jar .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT
+	8|10|LINK 9|10|SUBJ 10|6|COMP 11|13|LINK 12|13|SUBJ 13|10|CMOD
+	14|13|JCT 15|13|JCT 16|18|DET 17|18|MOD 18|15|POBJ 19|6|PUNCT
+*INV:	okay ? 68186_68846
+%wor:	okay 68186_68846 ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tryin(g) to get one for his sister . [+ gram] 68900_70330
+%wor:	tryin(g) 68900_69110 to 69110_69170 get 69170_69300 one 69300_69470 for 69470_69620 his 69620_69820 sister 69820_70330 . [+ gram]
+%mor:	part|try-PRESP inf|to v|get pro:indef|one prep|for det:poss|his
+	n|sister .
+%gra:	1|0|INCROOT 2|3|INF 3|1|COMP 4|3|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|1|PUNCT
+*PAR:	and the water on the faucet is all over the floor &=laughs . 70691_73711
+%wor:	and 70691_71111 the 71111_71131 water 71131_71621 on 71621_71911 the 71911_71971 faucet 71971_72451 is 72451_72671 all 72671_72901 over 72901_73221 the 73221_73261 floor 73261_73711 &=laughs .
+%mor:	coord|and det:art|the n|water prep|on det:art|the n|faucet
+	cop|be&3S adv|all prep|over det:art|the n|floor .
+%gra:	1|7|LINK 2|3|DET 3|7|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|0|ROOT
+	8|9|JCT 9|7|JCT 10|11|DET 11|9|POBJ 12|7|PUNCT
+*INV:	okay . 75072_75862
+%wor:	okay 75072_75862 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh man ! [+ exc] 77681_78471
+%wor:	oh 77681_78101 man 78101_78471 ! [+ exc]
+%mor:	co|oh n|man !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	this is awful . [+ exc] 78884_79644
+%wor:	this 78884_79094 is 79094_79224 awful 79224_79644 . [+ exc]
+%mor:	pro:dem|this cop|be&3S adj|awful .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	okay good . 80510_81890
+%wor:	okay 80510_81280 good 81440_81890 .
+%mor:	co|okay adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

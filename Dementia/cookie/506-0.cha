@@ -1,0 +1,89 @@
+@UTF8
+@PID:	11312/t-00002670-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|69;|female|ProbableAD||Participant|25||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	506-0, audio
+@G:	Cookie
+*INV:	going on in this picture . 60_900
+%wor:	going 60_220 on 320_410 in 440_510 this 630_710 picture 710_900 .
+%mor:	part|go-PRESP adv|on prep|in det:dem|this n|picture .
+%gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*PAR:	well ‡ the boy is in the cookie jar &=laughs . 3663_7033
+%wor:	well 3663_3843 ‡ the 3843_3853 boy 3853_3893 is 3893_3953 in 3953_4013 the 4363_4513 cookie 6113_6403 jar 6943_7033 &=laughs .
+%mor:	co|well beg|beg det:art|the n|boy cop|be&3S prep|in det:art|the
+	n|cookie n|jar .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|5|PUNCT
+*PAR:	he has a cookie in his hand . 7486_9856
+%wor:	he 7486_7496 has 8446_8516 a 8516_8546 cookie 8586_8706 in 9076_9136 his 9236_9326 hand 9756_9856 .
+%mor:	pro:sub|he v|have&3S det:art|a n|cookie prep|in det:poss|his n|hand
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|7|DET 7|5|POBJ
+	8|2|PUNCT
+*PAR:	and &-uh he's gonna fall &=laughs . 13280_14070
+%wor:	and 13280_13370 &-uh 13400_13510 he's 13510_13600 gonna 13800_13930 fall 13930_14070 &=laughs .
+%mor:	coord|and pro:sub|he~aux|be&3S part|go&PRESP~inf|to v|fall .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+*PAR:	his sister is looking for a cookie . 15016_20526
+%wor:	his 15016_15246 sister 17656_17866 is 17866_17926 looking 18066_18216 for 19806_19876 a 20256_20286 cookie 20406_20526 .
+%mor:	det:poss|his n|sister aux|be&3S part|look-PRESP prep|for det:art|a
+	n|cookie .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	and the mother is dryin(g) a dish . 23820_27390
+%wor:	and 23820_23910 the 24250_24350 mother 26370_26470 is 26960_27020 dryin(g) 27020_27150 a 27310_27320 dish 27320_27390 .
+%mor:	coord|and det:art|the n|mother aux|be&3S part|dry-PRESP det:art|a
+	n|dish .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ
+	8|5|PUNCT
+*PAR:	and the water is coming out &=laughs . 29022_30922
+%wor:	and 29022_29112 the 29112_29122 water 29122_29222 is 29332_29392 coming 30632_30772 out 30882_30922 &=laughs .
+%mor:	coord|and det:art|the n|water aux|be&3S part|come-PRESP adv|out .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*INV:	anything else you see going on in the picture ? 43399_45489
+%wor:	anything 43399_43769 else 43799_43889 you 43939_43999 see 44169_44349 going 44489_44719 on 44769_44839 in 44839_45049 the 45109_45119 picture 45119_45489 ?
+%mor:	pro:indef|anything post|else pro:per|you v|see part|go-PRESP adv|on
+	prep|in det:art|the n|picture ?
+%gra:	1|0|INCROOT 2|1|PQ 3|4|SUBJ 4|1|CMOD 5|4|COMP 6|5|JCT 7|5|JCT
+	8|9|DET 9|7|POBJ 10|1|PUNCT
+*PAR:	well ‡ the mother's flue [* s:uk] is gonna beep . 47637_49897
+%wor:	well 47637_47727 ‡ the 47727_48147 mother's 48257_48587 flue [* s:uk] 49347_49447 is 49447_49507 gonna 49627_49747 beep 49787_49897 .
+%mor:	co|well beg|beg det:art|the adj|mother&dn-POSS n|flue aux|be&3S
+	part|go&PRESP~prep|to n|beep .
+%gra:	1|0|BEG 2|1|BEGP 3|5|DET 4|5|MOD 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|8|POBJ 10|7|PUNCT
+*INV:	(..) okay anything else ? 62518_62938
+%wor:	(..) okay 62518_62628 anything 62688_62848 else 62848_62938 ?
+%mor:	co|okay pro:indef|anything post|else ?
+%gra:	1|2|COM 2|0|ROOT 3|2|PQ 4|2|PUNCT
+*INV:	just tell me when you think you're through . 65375_66555
+%wor:	just 65375_65555 tell 65555_65725 me 65725_65735 when 65735_65915 you 65915_65985 think 65985_66215 you're 66215_66305 through 66465_66555 .
+%mor:	adv|just v|tell pro:obj|me conj|when pro:per|you v|think
+	pro:per|you~cop|be&PRES adv|through .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|6|LINK 5|6|SUBJ 6|2|CJCT 7|8|SUBJ
+	8|6|COMP 9|8|JCT 10|2|PUNCT
+*PAR:	mhm . [+ exc] 67140_67240
+%wor:	mhm 67140_67240 . [+ exc]
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) xxx . [+ exc]
+%wor:	(..) xxx . [+ exc]
+*INV:	(..) tell me if you think you're through . 85341_86421
+%wor:	(..) tell 85341_85461 me 85461_85581 if 85581_85691 you 85691_85811 think 85871_86091 you're 86091_86191 through 86331_86421 .
+%mor:	v|tell pro:obj|me conj|if pro:per|you v|think
+	pro:per|you~cop|be&PRES adv|through .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|LINK 4|5|SUBJ 5|1|CJCT 6|7|SUBJ 7|5|COMP
+	8|7|JCT 9|1|PUNCT
+*PAR:	I think I'm through . [+ exc] 86564_87694
+%wor:	I 86564_86574 think 86804_86924 I'm 87034_87074 through 87604_87694 . [+ exc]
+%mor:	pro:sub|I v|think pro:sub|I~cop|be&1S prep|through .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|JCT 6|2|PUNCT
+*INV:	+< okay good . 87820_88180
+%wor:	+< okay 87820_87910 good 88080_88180 .
+%mor:	co|okay adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

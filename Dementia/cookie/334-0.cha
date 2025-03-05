@@ -1,0 +1,211 @@
+@UTF8
+@PID:	11312/t-00002617-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|83;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	334-0, audio
+@G:	Cookie
+*INV:	in the picture . 590_1300
+%wor:	in 590_780 the 780_820 picture 820_1300 .
+%mor:	prep|in det:art|the n|picture .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*PAR:	stool <is being> [//] &-uh is &+k falling over . [+ gram] 2544_5944
+%wor:	stool 2544_2994 <is 2994_3104 being 3104_3554> [//] &-uh is &+k falling over . [+ gram] 3724_5944
+%mor:	n|stool aux|be&3S part|fall-PRESP adv|over .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	the little girl is &-uh criticizing her brother if it's her brother
+	. 5963_10883
+%wor:	the 5963_5973 little 5973_6183 girl 6183_6533 is 6533_6843 &-uh 6843_7023 criticizing 8473_9203 her 9203_9503 brother 9913_10293 if 10293_10403 it's 10403_10603 her 10603_10643 brother 10643_10883  .
+%mor:	det:art|the adj|little n|girl cop|be&3S n:gerund|critic-IZE-GERUND
+	det:poss|her n|brother conj|if pro:per|it~cop|be&3S pro:obj|her
+	n|brother .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|7|DET 7|5|OBJ
+	8|10|LINK 9|10|SUBJ 10|4|CJCT 11|12|MOD 12|10|PRED 13|4|PUNCT
+*PAR:	her brother's getting in the cookie jar . 10900_12620
+%wor:	her 10900_11030 brother's 11030_11360 getting 11360_11590 in 11590_11690 the 11690_11760 cookie 11760_12120 jar 12120_12620 .
+%mor:	det:poss|her n|brother~aux|be&3S part|get-PRESP prep|in det:art|the
+	n|cookie n|jar .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*PAR:	and the stool's gonna fall over with him . 13380_15120
+%wor:	and 13380_13630 the 13630_13650 stool's 13650_13990 gonna 13990_14200 fall 14200_14480 over 14480_14640 with 14640_14900 him 14900_15120 .
+%mor:	coord|and det:art|the n|stool~aux|be&3S part|go&PRESP~inf|to v|fall
+	adv|over prep|with pro:obj|him .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|7|JCT 10|9|POBJ 11|5|PUNCT
+*PAR:	the mother's drying dishes . 15142_16472
+%wor:	the 15142_15152 mother's 15152_15622 drying 15622_16012 dishes 16012_16472 .
+%mor:	det:art|the n|mother~aux|be&3S part|dry-PRESP n|dish-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	there's water . 16490_17070
+%wor:	there's 16490_16660 water 16660_17070 .
+%mor:	pro:exist|there~cop|be&3S n|water .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	sink's overflowing . [+ gram] 17361_18571
+%wor:	sink's 17361_17751 overflowing 17751_18571 . [+ gram]
+%mor:	n|sink~aux|be&3S over#part|flow-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	there's dirty dishes on the sink . 19161_20811
+%wor:	there's 19161_19301 dirty 19301_19651 dishes 19651_19981 on 19981_20121 the 20121_20251 sink 20251_20811 .
+%mor:	pro:exist|there~cop|be&3S v|dirty n|dish-PL prep|on det:art|the
+	n|sink .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ
+	8|3|PUNCT
+*PAR:	there's curtains at the window . 21292_22432
+%wor:	there's 21292_21472 curtains 21472_21892 at 21892_22052 the 22052_22072 window 22072_22432 .
+%mor:	pro:exist|there~cop|be&3S n|curtain-PL prep|at det:art|the n|window
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*PAR:	there's shrubbery, a tree outside . 22484_25544
+%wor:	there's 22484_22924 shrubbery, 23704_24224 a 24224_24264 tree 24264_24624 outside 24624_25544 .
+%mor:	pro:exist|there~cop|be&3S n|shrubbery cm|cm det:art|a n|tree
+	adv|+prep|out+n|side .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|LP 5|6|DET 6|2|PRED 7|6|NJCT
+	8|2|PUNCT
+*PAR:	there's &-uh (..) oh landscaping . 26579_33429
+%wor:	there's 26579_26909 &-uh 26909_27139 (..) oh 32209_32489 landscaping 32489_33429 .
+%mor:	pro:exist|there~aux|be&3S co|oh part|+n|land+n|scape-PRESP .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|COM 4|0|ROOT 5|4|PUNCT
+*PAR:	you can see the window to the neighborhood [//] neighbor yard I
+	guess your [//] her house . [+ gram] 33453_38413
+%wor:	you 33453_33553 can 33553_33783 see 33783_34153 the 34153_34353 window 34593_34933 to 34933_35103 the 35103_35123 neighborhood [//] 35123_35693 neighbor 35693_36303 yard 36863_37223 I 37223_37253  guess 37253_37643 your [//] 37643_37733 her 37733_37993 house 37993_38413 . [+ gram]
+%mor:	pro:per|you mod|can v|see det:art|the n|window prep|to det:art|the
+	n|neighbor n|yard pro:sub|I v|guess det:poss|her n|house .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|11|SUBJ 11|3|CJCT 12|13|DET 13|11|OBJ 14|3|PUNCT
+*PAR:	what else . [+ exc] 39576_40096
+%wor:	what 39576_39706 else 39706_40096 . [+ exc]
+%mor:	pro:int|what post|else .
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	anything else ? [+ exc] 40249_40839
+%wor:	anything 40249_40579 else 40579_40839 ? [+ exc]
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*INV:	you tell me . 41978_42618
+%wor:	you 41978_42178 tell 42178_42398 me 42398_42618 .
+%mor:	pro:per|you v|tell pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	I did say that the water's running in the sink and overflowing and
+	it's getting on the mother's shoe . 43541_48701
+%wor:	I 43541_43621 did 43621_43851 say 43851_44041 that 44041_44211 the 44211_44231 water's 44231_44671 running 44671_44931 in 44931_45151 the 45151_45191 sink 45191_45441 and 45441_45561 overflowing 45561_46241 and 46241_46421  it's 46971_47221 getting 47221_47551 on 47551_47711 the 47711_47791 mother's 47791_48161 shoe 48161_48701 .
+%mor:	pro:sub|I mod|do&PAST v|say comp|that det:art|the n|water~aux|be&3S
+	part|run-PRESP prep|in det:art|the n|sink coord|and
+	over#n:gerund|flow-GERUND coord|and pro:per|it~aux|be&3S
+	part|get-PRESP prep|on det:art|the adj|mother&dn-POSS n|shoe .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|8|LINK 5|6|DET 6|8|SUBJ 7|8|AUX
+	8|3|COMP 9|8|JCT 10|11|DET 11|9|POBJ 12|8|CONJ 13|12|COORD
+	14|17|LINK 15|17|SUBJ 16|17|AUX 17|8|CJCT 18|17|JCT 19|21|DET
+	20|21|MOD 21|18|POBJ 22|3|PUNCT
+*PAR:	she's standing in the water . 49819_51259
+%wor:	she's 49819_49969 standing 50079_50499 in 50499_50609 the 50609_50669 water 50669_51259 .
+%mor:	pro:sub|she~aux|be&3S part|stand-PRESP prep|in det:art|the n|water
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	she's drying a dish . 51846_53106
+%wor:	she's 51846_51946 drying 51946_52476 a 52476_52506 dish 52506_53106 .
+%mor:	pro:sub|she~aux|be&3S part|dry-PRESP det:art|a n|dish .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	she has an apron on . 53262_54482
+%wor:	she 53262_53382 has 53382_53532 an 53532_53682 apron 53682_54102 on 54102_54482 .
+%mor:	pro:sub|she v|have&3S det:art|a n|apron adv|on .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*INV:	okay . 55172_55732
+%wor:	okay 55172_55732 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I told you the boy's falling <off the> [/] &-uh off the stool . 56661_60901
+%wor:	I 56661_56691 told 56691_56951 you 56951_57061 the 57061_57151 boy's 57151_57411 falling 57411_57831 <off 57831_59031 the 59031_59851> [/] &-uh off the stool . 59951_60901
+%mor:	pro:sub|I v|tell&PAST pro:per|you det:art|the n|boy~aux|be&3S
+	part|fall-PRESP prep|off det:art|the n|stool .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ2 4|5|DET 5|7|SUBJ 6|7|AUX 7|2|COMP
+	8|7|JCT 9|10|DET 10|8|POBJ 11|2|PUNCT
+*PAR:	and the girl's trying to +... 61817_62897
+%wor:	and 61817_61907 the 61907_61997 girl's 61997_62347 trying 62347_62747 to 62747_62897 +...
+%mor:	coord|and det:art|the n|girl~aux|be&3S part|try-PRESP prep|to +...
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	cupboard door is open . [+ gram] 63671_64551
+%wor:	cupboard 63671_63961 door 63961_64141 is 64141_64281 open 64281_64551 . [+ gram]
+%mor:	n|+n|cup+n|board n|door cop|be&3S adj|open .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	the cookie jar is open . 64566_65767
+%wor:	the 64567_64747 cookie 64747_65007 jar 65007_65267 is 65267_65397 open 65397_65767 .
+%mor:	det:art|the n|cookie n|jar cop|be&3S adj|open .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	he's got a cookie in his hand he's handing to his sister „ I guess
+	. 65788_69318
+%wor:	he's 65788_66008 got 66008_66168 a 66168_66198 cookie 66198_66568 in 66568_66608 his 66608_66748 hand 66748_66948 he's 66948_67078 handing 67078_67378 to 67378_67538 his 67538_67808 sister 68258_68778 „ I 68778_68868 guess 68868_69318 .
+%mor:	pro:sub|he~aux|be&3S part|get&PASTP det:art|a n|cookie prep|in
+	det:poss|his n|hand pro:sub|he~aux|be&3S part|hand-PRESP prep|to
+	det:poss|his n|sister end|end pro:sub|I v|guess .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|11|SUBJ 10|11|AUX 11|3|XJCT 12|11|JCT 13|14|DET 14|12|POBJ
+	15|17|ENDP 16|17|SUBJ 17|3|END 18|3|PUNCT
+*PAR:	(.) &+w you want any more things ? [+ exc] 72049_73149
+%wor:	(.) &+w you 72049_72109 want 72109_72239 any 72239_72519 more 72519_72779 things 72779_73149 ? [+ exc]
+%mor:	pro:per|you v|want qn|any qn|more n|thing-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|QUANT 5|2|OBJ 6|2|PUNCT
+*INV:	you tell me . 73172_73752
+%wor:	you 73172_73472 tell 73472_73662 me 73662_73752 .
+%mor:	pro:per|you v|tell pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*INV:	you think that's all ? 73767_74467
+%wor:	you 73767_73857 think 73857_74047 that's 74047_74217 all 74217_74467 ?
+%mor:	pro:per|you v|think comp|that~aux|be&3S adv|all ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT 4|3|INCROOT 5|4|PRED 6|4|PUNCT
+*PAR:	tie-back curtains . [+ gram] 74491_75551
+%wor:	tie-74491_74781 back 74781_75051 curtains 75051_75551 . [+ gram]
+%mor:	n|tie–back n|curtain-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*INV:	okay . 77849_78339
+%wor:	okay 77849_78339 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I said some dishes on the counter . 80304_81994
+%wor:	I 80304_80334 said 80334_80644 some 80644_80824 dishes 80824_81174 on 81174_81464 the 81464_81474 counter 81474_81994 .
+%mor:	pro:sub|I v|say&PAST qn|some n|dish-PL prep|on det:art|the
+	n|counter .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|JCT 6|7|DET 7|5|POBJ
+	8|2|PUNCT
+*PAR:	<the sink's> [//] (.) the water's running in the sink . 82016_85036
+%wor:	<the 82016_82036 sink's 82036_82326> [//] (.) the water's running in the sink . 82326_85036
+%mor:	det:art|the n|water~aux|be&3S part|run-PRESP prep|in det:art|the
+	n|sink .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	it's overflowing . 85086_85916
+%wor:	it's 85086_85206 overflowing 85206_85916 .
+%mor:	pro:per|it~aux|be&3S over#part|flow-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	and shows a garden in the neighbor's house . [+ gram] 86966_89306
+%wor:	and 86966_87336 shows 87336_87676 a 87676_87726 garden 87726_88206 in 88206_88446 the 88446_88456 neighbor's 88456_88886 house 88886_89306 . [+ gram]
+%mor:	coord|and v|show-3S det:art|a n|garden prep|in det:art|the
+	adj|neighbor&dn-POSS n|house .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|2|PUNCT
+*PAR:	tree growing in the neighbor's yard . [+ gram] 91935_93535
+%wor:	tree 91935_92155 growing 92155_92575 in 92575_92835 the 92835_92845 neighbor's 92845_93255 yard 93255_93535 . [+ gram]
+%mor:	n|tree part|grow-PRESP prep|in det:art|the adj|neighbor&dn-POSS
+	n|yard .
+%gra:	1|0|INCROOT 2|1|XMOD 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|1|PUNCT
+*PAR:	they have some shrubbery in their yard . 95123_96863
+%wor:	they 95123_95223 have 95223_95423 some 95423_95663 shrubbery 95663_96133 in 96133_96223 their 96223_96413 yard 96413_96863 .
+%mor:	pro:sub|they v|have qn|some n|shrubbery prep|in det:poss|their
+	n|yard .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|2|PUNCT
+*PAR:	I don't know . [+ exc] 97214_97554
+%wor:	I 97214_97274 don't 97274_97394 know 97394_97554 . [+ exc]
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*INV:	okay that's xxx . 97790_98700
+%wor:	okay 97790_98320 that's 98320_98700 xxx .
+%mor:	co|okay pro:dem|that~cop|be&3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	okay ? 98837_99407
+%wor:	okay 98837_99407 ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

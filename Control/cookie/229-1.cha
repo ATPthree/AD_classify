@@ -1,0 +1,60 @@
+@UTF8
+@PID:	11312/t-00002353-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@Options:	multi
+@ID:	eng|Pitt|PAR|64;|male|Control||Participant|28||
+@Media:	229-1, audio
+@G:	Cookie
+*PAR:	okay . [+ exc] 1420_1690
+%wor:	okay 1420_1690 . [+ exc]
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	there's a child reaching for a cookie . 3077_4427
+%wor:	there's 3077_3167 a 3167_3177 child 3177_3387 reaching 3387_3627 for 4087_4147 a 4147_4177 cookie 4177_4427 .
+%mor:	pro:exist|there~cop|be&3S det:art|a n|child part|reach-PRESP
+	prep|for det:art|a n|cookie .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|XMOD 6|5|JCT 7|8|DET
+	8|6|POBJ 9|2|PUNCT
+*PAR:	the chair [: stool] [* s:r] is tilted . 5616_6506
+%wor:	the 5616_5626 chair [: stool] [* s:r] 5626_5766 is 5766_5966 tilted 6066_6506 .
+%mor:	det:art|the n|stool aux|be&3S part|tilt-PASTP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	the girl is possibly moving her finger towards her mouth and
+	reachin(g) for a cookie . 8121_12821
+%wor:	the 8121_8201 girl 8201_8411 is 8411_8471 possibly 9261_9461 moving 9611_10401 her 10741_10781 finger 10781_10941 towards 10981_11201 her 11201_11271 mouth 11381_11631 and 11831_11941  reachin(g) 11941_12161 for 12251_12311 a 12311_12391 cookie 12471_12821 .
+%mor:	det:art|the n|girl aux|be&3S adv|possible&dadj-LY part|move-PRESP
+	det:poss|her n|finger prep|towards det:poss|her n|mouth coord|and
+	part|reach-PRESP prep|for det:art|a n|cookie .
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|DET 10|8|POBJ 11|5|CONJ 12|11|COORD 13|12|JCT 14|15|DET
+	15|13|POBJ 16|5|PUNCT
+*PAR:	water's running out_of the sink . 13772_15342
+%wor:	water's 13772_14292 running 14292_14542 out_of 14542_14812 the 14812_14972 sink 15092_15342 .
+%mor:	n|water~aux|be&3S part|run-PRESP prep|out_of det:art|the n|sink .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	the mother's drying dishes . 17213_18413
+%wor:	the 17213_17223 mother's 17223_17573 drying 17603_17983 dishes 18013_18413 .
+%mor:	det:art|the n|mother~aux|be&3S part|dry-PRESP n|dish-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	somebody's gonna be screamin(g) when the kid falls . 21529_23489
+%wor:	somebody's 21529_21789 gonna 21869_21969 be 22019_22029 screamin(g) 22029_22209 when 22309_22519 the 22919_22929 kid 22929_23089 falls 23369_23489 .
+%mor:	pro:indef|somebody~aux|be&3S part|go&PRESP~inf|to aux|be
+	part|scream-PRESP conj|when det:art|the n|kid n|fall-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|INF 5|6|AUX 6|3|COMP 7|6|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|3|PUNCT
+*PAR:	&-uh I don't know if it's action but mom was standin(g) in water .
+	24615_30815
+%wor:	&-uh 24615_24625 I 24625_24655 don't 24655_24785 know 28875_28935 if 28935_28995 it's 28995_29115 action 29145_29305 but 29365_29455 mom 29545_29635 was 29755_29845 standin(g) 29935_30445 in 30475_30535 water 30535_30815 .
+%mor:	pro:sub|I mod|do~neg|not v|know comp|if pro:per|it~cop|be&3S
+	n|action conj|but n|mom aux|be&PAST&13S part|stand-PRESP prep|in
+	n|water .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP
+	8|7|PRED 9|12|LINK 10|12|SUBJ 11|12|AUX 12|4|CJCT 13|12|JCT
+	14|13|POBJ 15|4|PUNCT
+*PAR:	that's about all I see . [+ exc] 34723_35453
+%wor:	that's 34723_34833 about 34933_35053 all 35053_35203 I 35383_35393 see 35393_35453 . [+ exc]
+%mor:	pro:dem|that~cop|be&3S adv|about adv|all pro:sub|I v|see .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|6|JCT 5|6|SUBJ 6|2|CPRED 7|2|PUNCT
+@End

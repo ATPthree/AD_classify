@@ -1,0 +1,73 @@
+@UTF8
+@PID:	11312/t-00002682-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|70;|male|ProbableAD||Participant|25||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	544-0, audio
+@G:	Cookie
+*INV:	and here's your picture . 70_1240
+%wor:	and 70_160 here's 800_920 your 920_1060 picture 1060_1240 .
+%mor:	coord|and pro:exist|here~cop|be&3S det:poss|your n|picture .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	oh ‡ Johnny is sneaking cookies out_o(f) the cookie jar for his
+	sister Sue . 2840_7120
+%wor:	oh 2840_3400 ‡ Johnny 3550_4050 is 4050_4280 sneaking 4280_4750 cookies 4750_5160 out_o(f) 5160_5410 the 5410_5490 cookie 5490_5770 jar 5770_6030 for 6030_6190 his 6190_6290  sister 6290_6700 Sue 6700_7120 .
+%mor:	co|oh beg|beg n:prop|Johnny aux|be&3S part|sneak-PRESP n|cookie-PL
+	prep|out_of det:art|the n|cookie n|jar prep|for det:poss|his
+	n|sister n:prop|Sue .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|5|JCT 12|13|DET 13|11|POBJ 14|13|APP
+	15|5|PUNCT
+*PAR:	mother is washing the dishes . 7570_8940
+%wor:	mother 7570_7880 is 7880_7990 washing 7990_8570 the 8600_8610 dishes 8610_8940 .
+%mor:	n|mother aux|be&3S part|wash-PRESP det:art|the n|dish-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and the sink is overflowing with the water on the floor . 9011_11681
+%wor:	and 9011_9151 the 9151_9221 sink 9221_9561 is 9561_9711 overflowing 9711_10471 with 10471_10621 the 10621_10641 water 10641_11071 on 11071_11281 the 11281_11291 floor 11291_11681 .
+%mor:	coord|and det:art|the n|sink aux|be&3S over#part|flow-PRESP
+	prep|with det:art|the n|water prep|on det:art|the n|floor .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|5|PUNCT
+*PAR:	the curtains are spread aside to let the light in . 12500_14690
+%wor:	the 12500_12600 curtains 12600_13040 are 13040_13090 spread 13090_13370 aside 13370_13820 to 13820_13880 let 13910_14100 the 14100_14120 light 14120_14460 in 14460_14690 .
+%mor:	det:art|the n|curtain-PL cop|be&PRES n|spread adv|aside inf|to
+	v|let&ZERO det:art|the n|light adv|in .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|NJCT 6|7|INF 7|5|COMP
+	8|9|DET 9|7|OBJ 10|7|JCT 11|3|PUNCT
+*PAR:	there's plates and saucers on the table here . 15219_18139
+%wor:	there's 15219_15449 plates 15599_16069 and 16069_16209 saucers 16209_16929 on 17019_17149 the 17149_17299 table 17299_17669 here 17759_18139 .
+%mor:	pro:exist|there~cop|be&3S n|plate-PL coord|and n|saucer-PL prep|on
+	det:art|the n|table adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|CONJ 5|4|COORD 6|2|JCT 7|8|DET
+	8|6|POBJ 9|2|JCT 10|2|PUNCT
+*PAR:	and the +... 18943_19243
+%wor:	and 18943_19223 the 19223_19243 +...
+%mor:	coord|and det:art|the +...
+%gra:	1|0|INCROOT 2|3|DET 3|1|PUNCT
+*PAR:	shall I tell you some more ? [+ exc] 20107_20837
+%wor:	shall 20107_20307 I 20307_20317 tell 20317_20487 you 20487_20547 some 20547_20697 more 20697_20837 ? [+ exc]
+%mor:	mod|shall pro:sub|I v|tell pro:per|you qn|some adv|more ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ2 5|6|QUANT 6|3|JCT 7|3|PUNCT
+*INV:	just tell me everything you see going on in the picture and tell me
+	when you think you're through . 21760_24770
+%wor:	just 21760_21900 tell 21900_22040 me 22040_22180 everything 22180_22520 you 22520_22600 see 22600_22820 going 22820_23140 on 23140_23220 in 23220_23390 the 23390_23430 picture 23430_23700 and 23700_23840 tell 23870_23960 me 23960_23970  when 23970_24180 you 24180_24250 think 24250_24530 you're 24530_24620 through 24660_24770 .
+%mor:	adv|just v|tell pro:obj|me pro:indef|everything pro:per|you v|see
+	part|go-PRESP adv|on prep|in det:art|the n|picture coord|and v|tell
+	pro:obj|me conj|when pro:per|you v|think pro:per|you~cop|be&PRES
+	adv|through .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|OBJ 5|6|SUBJ 6|2|CJCT 7|6|COMP 8|7|JCT
+	9|7|JCT 10|11|DET 11|9|POBJ 12|7|CONJ 13|12|COORD 14|13|OBJ
+	15|17|LINK 16|17|SUBJ 17|7|CJCT 18|19|SUBJ 19|17|COMP 20|19|JCT
+	21|2|PUNCT
+*PAR:	no I'm through . [+ exc] 28218_28728
+%wor:	no 28218_28378 I'm 28378_28498 through 28498_28728 . [+ exc]
+%mor:	co|no pro:sub|I~cop|be&1S prep|through .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*INV:	okay good . 29067_29687
+%wor:	okay 29067_29157 good 29597_29687 .
+%mor:	co|okay adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

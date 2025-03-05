@@ -1,0 +1,126 @@
+@UTF8
+@PID:	11312/t-00002687-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|83;|female|ProbableAD||Participant|15||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	563-0, audio
+@G:	Cookie
+*INV:	one more thing and then we're done with this testing . 1350_3980
+%wor:	one 1350_1660 more 1660_1790 thing 1790_1880 and 1880_2270 then 2270_2490 we're 2490_2650 done 2650_3040 with 3040_3230 this 3230_3370 testing 3490_3980 .
+%mor:	det:num|one qn|more n|thing coord|and adv:tem|then
+	pro:sub|we~aux|be&PRES part|do&PASTP prep|with det:dem|this
+	part|test-PRESP .
+%gra:	1|3|QUANT 2|3|QUANT 3|8|JCT 4|3|CONJ 5|4|COORD 6|8|SUBJ 7|8|AUX
+	8|0|ROOT 9|8|JCT 10|11|DET 11|9|POBJ 12|8|PUNCT
+*INV:	and I'm sure you're glad to hear that . 4100_6080
+%wor:	and 4100_4190 I'm 4190_4450 sure 4550_4870 you're 4870_4970 glad 4970_5390 to 5390_5490 hear 5490_5770 that 5770_6080 .
+%mor:	coord|and pro:sub|I~cop|be&1S adj|sure pro:per|you~cop|be&PRES
+	adj|glad inf|to v|hear pro:dem|that .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|SUBJ 6|4|CMOD 7|6|PRED
+	8|9|INF 9|7|XMOD 10|9|OBJ 11|3|PUNCT
+*PAR:	oh ‡ I don't mind it . [+ exc] 6459_7259
+%wor:	oh 6459_6609 ‡ I 6609_6639 don't 6639_6869 mind 6869_7129 it 7129_7259 . [+ exc]
+%mor:	co|oh beg|beg pro:sub|I mod|do~neg|not v|mind pro:per|it .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ
+	8|6|PUNCT
+*INV:	what I want you to do is take a look at this picture . 7501_10291
+%wor:	what 7501_7981 I 7981_8091 want 8091_8391 you 8391_8451 to 8451_8511 do 8511_8811 is 8841_8901 take 8901_9101 a 9101_9191 look 9191_9411 at 9411_9581 this 9581_9751 picture 9861_10291 .
+%mor:	pro:int|what pro:sub|I v|want pro:per|you inf|to v|do cop|be&3S
+	v|take det:art|a v|look prep|at det:dem|this n|picture .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|COMP 7|6|OBJ
+	8|7|CPRED 9|10|DET 10|8|OBJ 11|10|JCT 12|13|DET 13|11|POBJ
+	14|3|PUNCT
+*INV:	I want you to tell me everything that you see happening in that
+	picture . 11204_15134
+%wor:	I 11204_11284 want 11284_11624 you 11624_11814 to 11814_11874 tell 11874_12134 me 12134_12374 everything 12404_12854 that 12854_12944 you 12944_13064 see 13064_13714 happening 13744_14324 in 14324_14484 that 14484_14744  picture 14744_15134 .
+%mor:	pro:sub|I v|want pro:per|you inf|to v|tell pro:obj|me
+	pro:indef|everything pro:rel|that pro:per|you v|see
+	part|happen-PRESP prep|in det:dem|that n|picture .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|INF 5|2|COMP 6|5|OBJ 7|5|OBJ
+	8|10|LINK 9|10|SUBJ 10|7|CMOD 11|10|COMP 12|11|JCT 13|14|DET
+	14|12|POBJ 15|2|PUNCT
+*INV:	I want you to tell me everything that's going on in there . 15917_18307
+%wor:	I 15917_16007 want 16007_16247 you 16247_16337 to 16337_16407 tell 16407_16547 me 16547_16667 everything 16667_17117 that's 17117_17227 going 17257_17577 on 17577_17987 in 18017_18077 there 18077_18307 .
+%mor:	pro:sub|I v|want pro:per|you inf|to v|tell pro:obj|me
+	pro:indef|everything pro:rel|that~aux|be&3S part|go-PRESP adv|on
+	prep|in n|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|INF 5|2|COMP 6|5|OBJ 7|5|OBJ
+	8|10|LINK 9|10|AUX 10|7|CMOD 11|10|JCT 12|10|JCT 13|12|POBJ
+	14|2|PUNCT
+*PAR:	the lady's a lousy dishwasher (be)cause her xxx is all over the
+	floor &=laughs . 18850_22650
+%wor:	the 18850_18860 lady's 18860_19380 a 19430_19460 lousy 19460_19970 dishwasher 19970_21020 (be)cause 21060_21500 her 21500_21540 xxx is 21540_21600 all 21600_21670 over 21670_22110 the 22110_22150  floor 22270_22650 &=laughs .
+%mor:	det:art|the n|lady~cop|be&3S det:art|a adj|louse&dn-Y
+	n|+n|dish+n|washer conj|because det:poss|her cop|be&3S adv|all
+	prep|over det:art|the n|floor .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|9|LINK 8|9|DET
+	9|3|CJCT 10|11|JCT 11|9|JCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+*PAR:	I never do that do you ? [+ exc] 25226_26556
+%wor:	I 25226_25346 never 25346_25666 do 25666_25906 that 25906_26216 do 26216_26286 you 26286_26556 ? [+ exc]
+%mor:	pro:sub|I adv:tem|never v|do pro:dem|that mod|do pro:per|you ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|OBJ 7|3|PUNCT
+*INV:	no . 26750_27060
+%wor:	no 26750_27060 .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&=laughs and the boy is falling off of a stool stealing a cookie
+	from the cookie jar . 28482_34982
+%wor:	&=laughs and 28482_29202 the 29202_29212 boy 29212_29562 is 29562_29672 falling 29912_30272 off 30272_30522 of 30572_30722 a 30722_30912 stool 31112_31762 stealing 32532_32942 a 32942_33022 cookie 33022_33542  from 33802_34142 the 34232_34242 cookie 34242_34592 jar 34592_34982 .
+%mor:	coord|and det:art|the n|boy aux|be&3S part|fall-PRESP adv|off
+	prep|of det:art|a n|stool part|steal-PRESP det:art|a n|cookie
+	prep|from det:art|the n|cookie n|jar .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|XJCT 11|12|DET 12|10|OBJ 13|10|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|5|PUNCT
+*PAR:	and what else ? [+ exc] 36240_37090
+%wor:	and 36240_36680 what 36680_36880 else 36880_37090 ? [+ exc]
+%mor:	coord|and pro:int|what post|else ?
+%gra:	1|0|INCROOT 2|1|COORD 3|2|PQ 4|1|PUNCT
+*PAR:	and he's going to get hurt when the chair [: stool] [* s:r] &+fa
+	&-uh tips over . 41380_46580
+%wor:	and 41380_41590 he's 41590_41740 going 41840_42340 to 42400_42460 get 42460_42840 hurt 42840_43230 when 43670_43970 the 43970_44040 chair [: stool] [* s:r] 44040_44500 &+fa  &-uh 44860_45220 tips 45810_46030 over 46120_46580 .
+%mor:	coord|and pro:sub|he~aux|be&3S part|go-PRESP inf|to v|get
+	part|hurt&PASTP conj|when det:art|the n|stool v|tip-3S adv|over .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|PRED
+	8|11|LINK 9|10|DET 10|11|SUBJ 11|7|CJCT 12|11|JCT 13|4|PUNCT
+*PAR:	and what else ? [+ exc] 49471_50391
+%wor:	and 49471_49991 what 49991_50301 else 50301_50391 ? [+ exc]
+%mor:	coord|and pro:int|what post|else ?
+%gra:	1|0|INCROOT 2|1|COORD 3|2|PQ 4|1|PUNCT
+*PAR:	(.) the little girl is asking for a cookie . 57053_60603
+%wor:	(.) the 57053_57113 little 57113_57463 girl 57463_57933 is 58833_58943 asking 59033_59633 for 59723_59903 a 59903_59953 cookie 59953_60603 .
+%mor:	det:art|the adj|little n|girl aux|be&3S part|ask-PRESP prep|for
+	det:art|a n|cookie .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	the &+ma mother is doin(g) dishes . 63633_65803
+%wor:	the 63633_63643 &+ma mother 63643_64683 is 64683_64803 doin(g) 64933_65273 dishes 65273_65803 .
+%mor:	det:art|the n|mother aux|be&3S part|do-PRESP n|dish-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and the water's runnin(g) out_o(f) the sink all over the floor
+	&=laughs . 66267_69347
+%wor:	and 66267_66397 the 66397_66417 water's 66417_67017 runnin(g) 67017_67317 out_o(f) 67317_67867 the 67967_67977 sink 67977_68287 all 68287_68487 over 68487_68697 the 68697_68737 floor 69017_69347  &=laughs .
+%mor:	coord|and det:art|the n|water~aux|be&3S part|run-PRESP prep|out_of
+	det:art|the n|sink adv|all prep|over det:art|the n|floor .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|10|JCT 10|8|NJCT 11|12|DET 12|10|POBJ 13|5|PUNCT
+*PAR:	some dishwasher &=laughs . [+ exc] 71170_72660
+%wor:	some 71170_71610 dishwasher 71640_72660 &=laughs . [+ exc]
+%mor:	qn|some n|+n|dish+n|washer .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*INV:	good . 74446_74686
+%wor:	good 74446_74686 .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	that's good . [+ exc] 74992_75432
+%wor:	that's 74992_75222 good 75272_75432 . [+ exc]
+%mor:	pro:dem|that~cop|be&3S adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	alrightie we're all done . 76369_77699
+%wor:	alrightie 76369_76769 we're 76769_76959 all 76959_77239 done 77239_77699 .
+%mor:	co|alrightie pro:sub|we~aux|be&PRES post|all part|do&PASTP .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|PUNCT
+@End

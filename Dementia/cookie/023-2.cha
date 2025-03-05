@@ -1,0 +1,129 @@
+@UTF8
+@PID:	11312/t-00002439-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|80;|male|ProbableAD||Participant|3||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	023-2, audio
+@G:	Cookie
+*INV:	what do you see going on here ? 0_1210
+%wor:	what 0_70 do 70_110 you 110_170 see 170_480 going 480_800 on 800_1070 here 1070_1210 ?
+%mor:	pro:int|what mod|do pro:per|you v|see part|go-PRESP prep|on n|here
+	?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|5|JCT 7|6|POBJ
+	8|4|PUNCT
+*INV:	just look at this picture and tell me what you see going on . 1481_4321
+%wor:	just 1481_1731 look 1731_1911 at 1911_2051 this 2051_2241 picture 2241_2621 and 2621_2761 tell 2761_2921 me 2921_3061 what 3061_3271 you 3271_3381 see 3381_3661 going 3661_4031 on 4031_4321 .
+%mor:	adv|just v|look prep|at det:dem|this n|picture coord|and v|tell
+	pro:obj|me pro:int|what pro:per|you v|see part|go-PRESP adv|on .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|6|COORD
+	8|7|OBJ 9|11|LINK 10|11|SUBJ 11|7|COMP 12|11|COMP 13|12|JCT
+	14|2|PUNCT
+*PAR:	well you see <the little> [/] the little boy stealing cookies . 4469_8719
+%wor:	well 4469_4939 you 4939_5099 see 5099_5329 <the 5329_5399 little 5399_5989> [/] the little boy stealing cookies . 5989_8719
+%mor:	co|well pro:per|you v|see det:art|the adj|little n|boy
+	part|steal-PRESP n|cookie-PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|XMOD 8|7|OBJ
+	9|3|PUNCT
+*INV:	uhhuh . 9360_9470
+%wor:	uhhuh 9360_9470 .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and &-uh the under [* s:uk] girl is going to pick (th)em up . 10270_16630
+%wor:	and 10270_10690 &-uh 10690_10760 the 10760_11460 under [* s:uk] 11460_12010 girl 12820_13280 is 14390_14680 going 14680_14970 to 14970_15120 pick 16120_16300 (th)em 16300_16460 up 16460_16630 .
+%mor:	coord|and det:art|the adv|under n|girl aux|be&3S part|go-PRESP
+	inf|to v|pick pro:obj|them adv|up .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|OBJ 10|8|JCT 11|6|PUNCT
+*PAR:	I think she is . [+ exc] 16650_17730
+%wor:	I 16650_16660 think 16660_17050 she 17050_17250 is 17250_17730 . [+ exc]
+%mor:	pro:sub|I v|think pro:sub|she cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|2|PUNCT
+*PAR:	because he is gonna take a whole damn fall . 18569_24329
+%wor:	because 18569_19019 he 19019_19239 is 19239_19579 gonna 21879_22109 take 22109_22299 a 22299_22329 whole 22329_22399 damn 22399_23439 fall 23439_24329 .
+%mor:	conj|because pro:sub|he aux|be&3S part|go&PRESP~inf|to v|take
+	det:art|a n|whole n|damn n|fall .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|10|DET
+	8|10|MOD 9|10|MOD 10|6|OBJ 11|4|PUNCT
+*PAR:	and this girl +... 27070_34080
+%wor:	and 27070_27750 this 27750_28130 girl 33610_34080 +...
+%mor:	coord|and det:dem|this n|girl +...
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	you gotta find something here . [+ exc] 36600_38520
+%wor:	you 36600_36660 gotta 36800_36900 find 36900_37930 something 37930_38320 here 38320_38520 . [+ exc]
+%mor:	pro:per|you mod|got~inf|to v|find pro:indef|something n|here .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+*INV:	yeah what else do you see ? 39350_40440
+%wor:	yeah 39350_39540 what 39540_39670 else 39670_39860 do 39860_39980 you 39980_40020 see 40020_40440 ?
+%mor:	co|yeah pro:int|what post|else mod|do pro:per|you v|see ?
+%gra:	1|6|COM 2|6|LINK 3|6|SUBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*PAR:	well the cookie jar is gonna get smashed . 49430_53250
+%wor:	well 49430_49720 the 49720_50650 cookie 50650_51110 jar 51110_51460 is 51460_51600 gonna 51600_51940 get 51940_52210 smashed 52210_53250 .
+%mor:	co|well det:art|the n|cookie n|jar aux|be&3S part|go&PRESP~inf|to
+	aux|get part|smash-PASTP .
+%gra:	1|4|COM 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|9|INF 8|9|AUX
+	9|6|COMP 10|6|PUNCT
+*PAR:	if that little girl don't xxx . [+ jar] 53413_56553
+%wor:	if 53413_54273 that 54273_54483 little 54483_55183 girl 55913_56033 don't 56413_56553 xxx . [+ jar]
+%mor:	conj|if det:dem|that adj|little n|girl mod|do~neg|not .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|PUNCT 5|4|INCROOT 6|5|NEG 7|5|PUNCT
+*PAR:	and the woman is already gettin(g) it (.) from somethin(g) . [+ es]
+	58300_68070
+%wor:	and 58300_59230 the 59230_59240 woman 59240_59740 is 61780_61920 already 61920_62460 gettin(g) 62490_62760 it 62760_62850 (.) from 64760_64940 somethin(g) 67500_68070 . [+ es]
+%mor:	coord|and det:art|the n|woman aux|be&3S adv|already part|get-PRESP
+	pro:per|it prep|from pro:indef|something .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|8|POBJ 10|6|PUNCT
+*INV:	anything else ? 69780_70720
+%wor:	anything 69780_70160 else 70160_70720 ?
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*INV:	whats going on right here ? 71390_72690
+%wor:	whats 71390_71580 going 71580_71880 on 71880_72110 right 72110_72380 here 72380_72690 ?
+%mor:	n:pt|whats part|go-PRESP adv|on adv|right n|here ?
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|5|JCT 5|2|JCT 6|2|PUNCT
+*PAR:	what ? [+ exc] 73130_73430
+%wor:	what 73130_73430 ? [+ exc]
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	what do you see going on over here ? 73650_75180
+%wor:	what 73650_73740 do 73740_73800 you 73800_73900 see 73900_74150 going 74150_74450 on 74450_74660 over 74660_74890 here 74890_75180 ?
+%mor:	pro:int|what mod|do pro:per|you v|see part|go-PRESP adv|on
+	prep|over n|here ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|5|JCT 7|5|JCT 8|7|POBJ
+	9|4|PUNCT
+*INV:	anything ? 75300_76190
+%wor:	anything 75300_76190 ?
+%mor:	pro:indef|anything ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	yeah she's [/] (.) she's in an [//] warm water . 77410_85450
+%wor:	yeah 77410_77890 she's [/] 77890_78160 (.) she's 82800_83050 in 83050_83460 an [//] 83620_83990 warm 84580_84970 water 84970_85450 .
+%mor:	co|yeah pro:sub|she~cop|be&3S prep|in adj|warm n|water .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|PUNCT
+*PAR:	and it's on [/] on [/] on also . 87940_91070
+%wor:	and 87940_88110 it's 88110_88390 on [/] 88390_88500 on [/] 88500_89390 on 89390_89840  also 89840_91070 .
+%mor:	coord|and pro:per|it~cop|be&3S adv|on adv|also .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|PUNCT
+*PAR:	and over there is cookies off the right xxx . 93670_97790
+%wor:	and 93670_93790 over 93790_94040 there 94040_94420 is 94420_94480 cookies 94640_94880 off 94880_96220 the 97290_97300 right 97300_97790 xxx .
+%mor:	coord|and prep|over n|there cop|be&3S n|cookie-PL prep|off
+	det:art|the adj|right .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|NJCT 7|8|DET
+	8|6|POBJ 9|4|PUNCT
+*INV:	is that all ? 104810_105340
+%wor:	is 104810_104910 that 104910_105060 all 105060_105340 ?
+%mor:	cop|be&3S comp|that adv|all ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|JCT 4|1|PUNCT
+*PAR:	yeah that's about all I can see . [+ exc] 110400_112300
+%wor:	yeah 110400_110570 that's 110830_111030 about 111030_111490 all 111490_111540 I 111540_111690 can 111690_111830 see 112210_112300 . [+ exc]
+%mor:	co|yeah pro:dem|that~cop|be&3S adv|about adv|all pro:sub|I mod|can
+	v|see .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|8|JCT 5|8|JCT 6|8|SUBJ 7|8|AUX
+	8|3|CPRED 9|3|PUNCT
+*INV:	okay . 112923_113403
+%wor:	okay 112923_113403 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,108 @@
+@UTF8
+@PID:	11312/t-00002507-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|71;|female|ProbableAD||Participant|17||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	122-1, audio
+@G:	Cookie
+*INV:	tell me all the action goin(g) on in that picture . 30_4460
+%mor:	v|tell pro:obj|me adv|all det:art|the n|action part|go-PRESP adv|on
+	prep|in det:dem|that n|picture .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|JCT 4|5|DET 5|1|OBJ 6|5|XMOD 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|1|PUNCT
+%wor:	tell 30_100 me 100_110 all 110_170 the 170_180 action 180_2120 goin(g) 2150_2360 on 2360_2600 in 2600_3050 that 3050_3820 picture 3820_4460 .
+*INV:	(...) can you tell me the action that you see going on in that
+	picture ? 4514_22784
+%mor:	mod|can pro:per|you v|tell pro:obj|me det:art|the n|action
+	pro:rel|that pro:per|you v|see part|go-PRESP adv|on prep|in
+	det:dem|that n|picture ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ2 5|6|DET 6|3|OBJ 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|9|COMP 11|10|JCT 12|10|JCT 13|14|DET 14|12|POBJ 15|3|PUNCT
+%wor:	(...) can 4514_19394 you 19424_19674 tell 19674_19904 me 19904_20124 the 20124_20194 action 20194_20694 that 20694_20844 you 20844_20974 see 20974_21224 going 21224_21524 on 21524_21724 in 21724_21814 that 21814_22484  picture 22484_22784 ?
+*PAR:	I see a tad bit . [+ exc] 22835_24925
+%mor:	pro:sub|I v|see det:art|a n|tad v|bite&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|2|PUNCT
+%wor:	I 22835_22915 see 23005_23065 a 23065_23095 tad 23095_24605 bit 24605_24925 . [+ exc]
+*PAR:	and somebody is doin(g) [//] dryin(g) dishes . 24948_28838
+%mor:	coord|and pro:indef|somebody aux|be&3S part|dry-PRESP n|dish-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	and 24948_27158 somebody 27158_27518 is 27518_27588 doin(g) [//] 27618_27988 dryin(g) 27988_28428 dishes 28428_28838 .
+*INV:	okay good . 29327_30287
+%mor:	co|okay adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%wor:	okay 29327_29787 good 29787_30287 .
+*PAR:	<no I can't> [/] no I can't get this very well, clear . [+ exc] 30306_40176
+%mor:	co|no pro:sub|I mod|can~neg|not v|get det:dem|this adv|very
+	adv|well cm|cm adv|clear .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|DET 7|8|JCT 8|5|JCT
+	9|5|LP 10|5|JCT 11|5|PUNCT
+%wor:	<no 30306_30416 I 30416_30426 can't 30426_37626> [/] no I can't get this very well, clear . [+ exc] 37626_40176
+*INV:	what else can you see going on in that picture ? 40422_44212
+%mor:	pro:int|what post|else mod|can pro:per|you v|see part|go-PRESP
+	adv|on prep|in det:dem|that n|picture ?
+%gra:	1|5|LINK 2|1|PQ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|COMP 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+%wor:	what 40422_40492 else 40492_40592 can 40592_42122 you 42562_42662 see 42662_42912 going 42912_43252 on 43252_43472 in 43472_43562 that 43562_43782 picture 43782_44212 ?
+*PAR:	(...) well someone's standing on a stool and the stool is gettin(g)
+	ready to fall over . 44263_55183
+%mor:	co|well pro:indef|someone~aux|be&3S part|stand-PRESP prep|on
+	det:art|a n|stool coord|and det:art|the n|stool aux|be&3S
+	part|get-PRESP adj|ready inf|to v|fall adv|over .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|12|LINK
+	9|10|DET 10|12|SUBJ 11|12|AUX 12|4|CJCT 13|12|PRED 14|15|INF 15|13|XMOD
+	16|15|JCT 17|4|PUNCT
+%wor:	(...) well 44263_44353 someone's 44353_47483 standing 47483_47653 on 47653_50923 a 50953_51773 stool 51813_52253 and 52253_52653 the 52653_52663 stool 52663_53033 is 53033_53093 gettin(g) 53093_53453  ready 53453_53743 to 53773_54063 fall 54323_54623 over 54623_55183 .
+*INV:	okay . 55757_56677
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	okay 55757_56677 .
+*PAR:	(...) it's [//] &-mm &=sniff well somebody's dryin(g) dishes . 56745_80075
+%mor:	co|well pro:indef|somebody~aux|be&3S part|dry-PRESP n|dish-PL .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	(...) it's [//] 56745_56815 &-mm &=sniff well 56815_56905 somebody's 56905_57325 dryin(g) 57355_79735 dishes 79775_80075 .
+*INV:	(..) can you see anything else goin(g) on over here ? 80231_101241
+%mor:	mod|can pro:per|you v|see pro:indef|anything post|else
+	part|go-PRESP adv|on prep|over n|here ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|PQ 6|3|XJCT 7|6|JCT 8|6|JCT
+	9|8|POBJ 10|3|PUNCT
+%wor:	(..) can 80231_98721 you 98751_98821 see 98821_99031 anything 99031_99411 else 99411_99701 goin(g) 99701_99991 on 99991_100281 over 100281_100631 here 100631_101241 ?
+*PAR:	no I don't see anything else goin(g) on over here . [+ exc] 101287_105587
+%mor:	co|no pro:sub|I mod|do~neg|not v|see pro:indef|anything post|else
+	part|go-PRESP adv|on prep|over n|here .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|6|PQ 8|5|XJCT
+	9|8|JCT 10|8|JCT 11|10|POBJ 12|5|PUNCT
+%wor:	no 101287_101347 I 101347_101357 don't 101357_103387 see 103417_103477 anything 103477_103657 else 103657_103747 goin(g) 103747_104017 on 104017_105417 over 105447_105537 here 105537_105587 . [+ exc]
+*PAR:	I'm [/] I'm thinkin(g) now maybe the water's &+r overrunning . 105610_112490
+%mor:	pro:sub|I~aux|be&1S part|think-PRESP adv:tem|now adv|maybe
+	det:art|the n|water~aux|be&3S over#part|run-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|9|JCT 6|7|DET 7|9|SUBJ 8|9|AUX
+	9|3|CJCT 10|3|PUNCT
+%wor:	I'm [/] 105610_107280 I'm 107310_110160 thinkin(g) 110190_110530 now 110530_110590 maybe 110590_110990 the 110990_111080 water's 111080_111650 &+r overrunning 111650_112490 .
+*PAR:	I'm not too sure . [+ exc] 112509_113639
+%mor:	pro:sub|I~cop|be&1S neg|not adv|too adj|sure .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|JCT 5|2|PRED 6|2|PUNCT
+%wor:	I'm 112509_112739 not 112739_113019 too 113019_113179 sure 113349_113639 . [+ exc]
+*INV:	okay . 113659_114949
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	okay 113659_114949 .
+*PAR:	there's some water on the floor here . 115056_120636
+%mor:	pro:exist|there~cop|be&3S qn|some n|water prep|on det:art|the
+	n|floor adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|4|NJCT
+	9|2|PUNCT
+%wor:	there's 115056_115156 some 115156_115326 water 115326_115446 on 115446_120426 the 120456_120466 floor 120466_120566 here 120566_120636 .
+*PAR:	and there's some in the sink that's overrunnin(g) . 121158_123318
+%mor:	coord|and pro:exist|there~cop|be&3S pro:indef|some prep|in
+	det:art|the n|sink pro:rel|that~aux|be&3S over#part|run-PRESP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|10|LINK
+	9|10|AUX 10|7|CMOD 11|3|PUNCT
+%wor:	and 121158_121508 there's 121508_121638 some 121638_121888 in 121888_122098 the 122098_122258 sink 122258_122598 that's 122598_122708 overrunnin(g) 122708_123318 .
+*INV:	okay good . 133675_138585
+%mor:	co|okay adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%wor:	okay 133675_133765 good 133765_138585 .
+@End

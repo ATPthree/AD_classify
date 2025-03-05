@@ -1,0 +1,94 @@
+@UTF8
+@PID:	11312/t-00002448-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|65;|male|MCI||Participant|25||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	033-2, audio
+@G:	Cookie
+*INV:	okay all the action . 300_1450
+%wor:	okay 300_640 all 820_1020 the 1020_1170 action 1170_1450 .
+%mor:	co|okay qn|all det:art|the n|action .
+%gra:	1|4|COM 2|4|QUANT 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*PAR:	falling +//. 1913_3483
+%wor:	falling 1913_3483 +//.
+%mor:	part|fall-PRESP +//.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-uh in a sentence or +/? [+ exc] 3822_4962
+%wor:	&-uh 3822_3832 in 3832_4132 a 4132_4282 sentence 4282_4812 or 4812_4962 +/? [+ exc]
+%mor:	prep|in det:art|a n|sentence coord|or +/?
+%gra:	1|4|JCT 2|3|DET 3|1|POBJ 4|0|ROOT 5|4|PUNCT
+*INV:	however you wanna say it . 5100_6370
+%wor:	however 5100_5400 you 5400_5540 wanna 5540_5830 say 5830_6310 it 6310_6370 .
+%mor:	adv|however pro:per|you v|want~inf|to co|say pro:per|it .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|3|PUNCT
+*PAR:	+< okay . [+ exc] 6379_6469
+%wor:	+< okay 6379_6469 . [+ exc]
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-uh falling off the stool . [+ gram] 7340_9500
+%wor:	&-uh 7340_7870 falling 7870_8390 off 8390_8750 the 8750_8820 stool 8820_9500 . [+ gram]
+%mor:	part|fall-PRESP prep|off det:art|the n|stool .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	&+st taking cookies out_of the jar . [+ gram] 10700_13670
+%wor:	&+st taking 10700_11110 cookies 11110_11820 out_of 11890_12280 the 12280_12900 jar 13040_13670 . [+ gram]
+%mor:	part|take-PRESP n|cookie-PL prep|out_of det:art|the n|jar .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*PAR:	reaching up for a cookie . [+ gram] 14510_17300
+%wor:	reaching 14510_15340 up 15370_16370 for 16370_16640 a 16640_16670 cookie 16670_17300 . [+ gram]
+%mor:	part|reach-PRESP adv|up prep|for det:art|a n|cookie .
+%gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*PAR:	&-uh holding her lips to designate that they better not make noise
+	. [+ gram] 18235_25985
+%wor:	&-uh 18235_18695 holding 18695_19845 her 19845_20355 lips 20385_21315 to 21585_22115 designate 23065_23765 that 23765_23965 they 23965_24075 better 24075_24405 not 24405_24695 make 25095_25375 noise 25375_25985  . [+ gram]
+%mor:	part|hold-PRESP det:poss|her n|lip-PL prep|to n|designate
+	pro:rel|that pro:sub|they adv|good&CP neg|not v|make n|noise .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|3|NJCT 5|4|POBJ 6|10|LINK 7|10|SUBJ
+	8|10|JCT 9|8|NEG 10|5|CMOD 11|10|OBJ 12|1|PUNCT
+*PAR:	the stool is upsetting . 26645_28605
+%wor:	the 26645_26725 stool 26725_27355 is 27385_27795 upsetting 27795_28605 .
+%mor:	det:art|the n|stool aux|be&3S part|upset-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	the water is cascading out_o(f) the sink . 29000_31740
+%wor:	the 29000_29330 water 29330_29770 is 29770_29900 cascading 29900_30640 out_o(f) 30640_31020 the 31020_31050 sink 31050_31740 .
+%mor:	det:art|the n|water aux|be&3S part|cascade-PRESP prep|out_of
+	det:art|the n|sink .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	her feet are getting wet . 32706_34176
+%wor:	her 32706_32826 feet 32826_33136 are 33136_33216 getting 33216_33666 wet 33666_34176 .
+%mor:	det:poss|her n|foot&PL aux|be&PRES part|get-PRESP adj|wet .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	the curtains: look as if they're blowing . 36554_40584
+%wor:	the 36554_36724 curtains: 36954_38454 look 38484_38744 as 38914_39154 if 39154_39414 they're 39414_39724 blowing 39724_40584 .
+%mor:	det:art|the n|curtain-PL v|look adv|as conj|if
+	pro:sub|they~aux|be&PRES part|blow-PRESP .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|3|CJCT 9|3|PUNCT
+*PAR:	the tea cloth is drying the dishes . 43112_47362
+%wor:	the 43112_43832 tea 44322_44522 cloth 44522_45192 is 45192_45932 drying 46192_46592 the 46592_46722 dishes 46722_47362 .
+%mor:	det:art|the n|tea n|cloth aux|be&3S part|dry-PRESP det:art|the
+	n|dish-PL .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	of_course the woman is drying the dishes . 48302_50032
+%wor:	of_course 48302_48672 the 48672_48682 woman 48682_49192 is 49222_49282 drying 49282_49552 the 49552_49852 dishes 49852_50032 .
+%mor:	co|of_course det:art|the n|woman aux|be&3S part|dry-PRESP
+	det:art|the n|dish-PL .
+%gra:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	that's about all the action I see . [+ exc] 52905_54285
+%wor:	that's 52905_53025 about 53025_53245 all 53245_53495 the 53525_53635 action 53635_53975 I 54175_54185 see 54185_54285 . [+ exc]
+%mor:	pro:dem|that~cop|be&3S prep|about qn|all det:art|the n|action
+	pro:sub|I v|see .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|QUANT 5|6|DET 6|3|POBJ 7|8|SUBJ
+	8|6|CMOD 9|2|PUNCT
+*INV:	okay . 54779_55019
+%wor:	okay 54779_55019 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	good . 58828_58998
+%wor:	good 58828_58998 .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,65 @@
+@UTF8
+@PID:	11312/t-00002268-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|66;|female|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	118-0, audio
+@G:	Cookie
+*INV:	okay . 110_190
+%wor:	okay 110_190 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	there's the picture . 450_1180
+%wor:	there's 450_700 the 700_730 picture 730_1180 .
+%mor:	pro:exist|there~cop|be&3S det:art|the n|picture .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	the boy is givin(g) his sister a cookie . 3646_7526
+%wor:	the 3646_3856 boy 4856_5066 is 5066_5356 givin(g) 5676_5876 his 5936_6036 sister 6036_6696 a 6976_7056 cookie 7206_7526 .
+%mor:	det:art|the n|boy aux|be&3S part|give-PRESP det:poss|his n|sister
+	det:art|a n|cookie .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*PAR:	and the &+s stool is about to fall . 9059_12889
+%wor:	and 9059_9159 the 10379_10389 &+s stool 10389_10819 is 10959_11239 about 11809_12199 to 12199_12329 fall 12449_12889 .
+%mor:	coord|and det:art|the n|stool cop|be&3S adv|about inf|to v|fall .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|JCT 6|7|INF 7|4|CPRED
+	8|4|PUNCT
+*PAR:	and the mother's dryin(g) dishes . 14102_15732
+%wor:	and 14102_14192 the 14372_14382 mother's 14382_14772 dryin(g) 14772_15022 dishes 15582_15732 .
+%mor:	coord|and det:art|the n|mother~aux|be&3S part|dry-PRESP n|dish-PL .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	and the water's comin(g) out_of the faucet . 16158_19068
+%wor:	and 16158_16258 the 16258_16268 water's 17448_17878 comin(g) 18018_18198 out_of 18428_18458 the 18458_18468 faucet 18468_19068 .
+%mor:	coord|and det:art|the n|water~aux|be&3S part|come-PRESP prep|out_of
+	det:art|the n|faucet .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	and the water's overflowin(g) out_of the sink onto the floor . 19883_23823
+%wor:	and 19883_20013 the 20013_20033 water's 20033_20453 overflowin(g) 20453_21053 out_of 21963_22003 the 22003_22493 sink 22693_22813 onto 22813_22933 the 23373_23393 floor 23393_23823 .
+%mor:	coord|and det:art|the n|water~aux|be&3S over#part|flow-PRESP
+	prep|out_of det:art|the n|sink prep|onto det:art|the n|floor .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|JCT 10|11|DET 11|9|POBJ 12|5|PUNCT
+*PAR:	and the little girl is puttin(g) her hand up to her mouth to &+s
+	signal not to say anything so the mother won't know about it . 25121_36841
+%wor:	and 25121_25211 the 25401_25411 little 25411_25561 girl 25691_25941 is 25971_26031 puttin(g) 26121_26271 her 27541_27581 hand 27581_27831 up 27831_27951 to 28131_28191 her 28191_28531 mouth 30171_30281 to 33171_33241 &+s  signal 33341_33701 not 33741_33801 to 33801_33891 say 34141_34331 anything 34361_34721 so 34861_35001 the 35001_35231 mother 35231_35511 won't 36441_36611 know 36611_36651 about 36651_36781 it 36781_36841 .
+%mor:	coord|and det:art|the adj|little n|girl aux|be&3S part|put-PRESP
+	det:poss|her n|hand adv|up prep|to det:poss|her n|mouth prep|to
+	n|signal neg|not inf|to v|say pro:indef|anything conj|so det:art|the
+	n|mother mod|will~neg|not v|know prep|about pro:per|it .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|JCT 10|6|JCT 11|12|DET 12|10|POBJ 13|6|JCT 14|13|POBJ 15|16|NEG
+	16|17|INF 17|6|XJCT 18|17|OBJ 19|24|LINK 20|21|DET 21|24|SUBJ
+	22|24|AUX 23|22|NEG 24|17|CJCT 25|24|JCT 26|25|POBJ 27|6|PUNCT
+*PAR:	that's all . [+ exc] 36993_39433
+%wor:	that's 36993_37103 all 39373_39433 . [+ exc]
+%mor:	pro:dem|that~cop|be&3S pro:indef|all .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	okay . 41119_41279
+%wor:	okay 41119_41279 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

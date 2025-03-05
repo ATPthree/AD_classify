@@ -1,0 +1,71 @@
+@UTF8
+@PID:	11312/t-00002721-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|72;|male|ProbableAD||Participant|24||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	676-0, audio
+@G:	Cookie
+*INV:	everything that you see happening in that picture, everything
+	that's going on there . 140_3790
+%wor:	everything 140_560 that 560_750 you 750_840 see 840_1090 happening 1090_1630 in 1630_1710 that 1710_1950 picture, 1950_2330 everything 2330_2740  that's 2740_2890 going 2890_3280 on 3280_3540 there 3570_3790 .
+%mor:	pro:indef|everything pro:rel|that pro:per|you v|see
+	part|happen-PRESP prep|in det:dem|that n|picture cm|cm
+	pro:indef|everything pro:rel|that~aux|be&3S part|go-PRESP prep|on
+	n|there .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CMOD 5|4|COMP 6|5|JCT 7|8|DET
+	8|6|POBJ 9|5|LP 10|5|ENUM 11|13|LINK 12|13|AUX 13|10|CMOD 14|13|JCT
+	15|14|POBJ 16|1|PUNCT
+*PAR:	the boy and the girl are playing . 4597_7247
+%wor:	the 4597_5727 boy 5757_5977 and 5977_6327 the 6327_6337 girl 6337_6707 are 6707_6757 playing 6757_7247 .
+%mor:	det:art|the n|boy coord|and det:art|the n|girl aux|be&PRES
+	part|play-PRESP .
+%gra:	1|2|DET 2|7|SUBJ 3|2|CONJ 4|5|DET 5|3|COORD 6|7|AUX 7|0|ROOT
+	8|7|PUNCT
+*PAR:	and he's gonna fall down off the ladder [: stool] [* s:r] . 7263_9933
+%wor:	and 7263_7373 he's 7373_7513 gonna 7543_7753 fall 7753_8033 down 8033_8463 off 9253_9463 the 9463_9473 ladder [: stool] [* s:r] 9473_9933 .
+%mor:	coord|and pro:sub|he~aux|be&3S part|go&PRESP~inf|to v|fall adv|down
+	prep|off det:art|the n|stool .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+*PAR:	and the mother's washing the dishes . 12027_14707
+%wor:	and 12027_12867 the 12867_12957 mother's 12957_13507 washing 13767_14187 the 14187_14317 dishes 14317_14707 .
+%mor:	coord|and det:art|the n|mother~aux|be&3S part|wash-PRESP
+	det:art|the n|dish-PL .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ
+	8|5|PUNCT
+*PAR:	and it's flying out over the sink down to the floor . 14768_19778
+%wor:	and 14768_14908 it's 14908_15068 flying 15108_17158 out 17158_17458 over 17458_18108 the 18368_18618 sink 18618_18898 down 18898_19128 to 19128_19368 the 19368_19448 floor 19448_19778 .
+%mor:	coord|and pro:per|it~aux|be&3S part|fly-PRESP adv|out prep|over
+	det:art|the n|sink adv|down prep|to det:art|the n|floor .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|JCT 10|4|JCT 11|12|DET 12|10|POBJ 13|4|PUNCT
+*PAR:	what else do you want me to tell you ? [+ exc] 22012_23132
+%wor:	what 22012_22182 else 22182_22352 do 22352_22452 you 22452_22512 want 22512_22632 me 22632_22642 to 22642_22702 tell 22702_22942 you 22942_23132 ? [+ exc]
+%mor:	pro:int|what post|else mod|do pro:per|you v|want pro:obj|me inf|to
+	v|tell pro:per|you ?
+%gra:	1|5|LINK 2|1|PQ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|8|INF 8|5|COMP
+	9|8|OBJ 10|5|PUNCT
+*INV:	that's all . 24012_24372
+%wor:	that's 24012_24252 all 24252_24372 .
+%mor:	pro:dem|that~cop|be&3S pro:indef|all .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	whatever you see happening . [+ exc] 24419_25679
+%wor:	whatever 24419_24919 you 24919_25029 see 25029_25269 happening 25269_25679 . [+ exc]
+%mor:	pro:rel|whatever pro:per|you v|see part|happen-PRESP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|3|PUNCT
+*INV:	is that it ? 26000_26510
+%wor:	is 26000_26140 that 26140_26340 it 26340_26510 ?
+%mor:	cop|be&3S comp|that pro:per|it ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OBJ 4|1|PUNCT
+*PAR:	yeah that's it . [+ exc] 26732_27202
+%wor:	yeah 26732_26802 that's 26802_27092 it 27092_27202 . [+ exc]
+%mor:	co|yeah pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*INV:	okay fine . 27330_27910
+%wor:	okay 27330_27420 fine 27660_27910 .
+%mor:	co|okay adv|fine .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

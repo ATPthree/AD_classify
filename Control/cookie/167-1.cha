@@ -1,0 +1,82 @@
+@UTF8
+@PID:	11312/t-00002324-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|64;|female|Control||Participant|27||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	167-1, audio
+@G:	Cookie
+*PAR:	oh ‡ the boy is going to fall off the stool because he is stealing
+	cookies from the cookie jar . 1450_6750
+%wor:	oh 1450_1950 ‡ the 2090_2180 boy 2180_2520 is 2520_2690 going 2690_2930 to 2930_3030 fall 3100_3310 off 3310_3570 the 3570_3790 stool 3790_4230 because 4230_4620 he 4670_4750 is 4750_4860 stealing 4860_5240  cookies 5240_5630 from 5630_5860 the 5860_5960 cookie 5960_6260 jar 6260_6750 .
+%mor:	co|oh beg|beg det:art|the n|boy aux|be&3S part|go-PRESP prep|to
+	n|fall prep|off det:art|the n|stool conj|because pro:sub|he
+	aux|be&3S part|steal-PRESP n|cookie-PL prep|from det:art|the
+	n|cookie n|jar .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|15|LINK 13|15|SUBJ 14|15|AUX
+	15|6|CJCT 16|15|OBJ 17|15|JCT 18|20|DET 19|20|MOD 20|17|POBJ
+	21|6|PUNCT
+*PAR:	<and his sister is reaching> [//] I assume it's his sister reaching
+	up for him to hand her a cookie . 6767_12107
+%wor:	<and 6767_6837 his 6837_6987 sister 6987_7377 is 7377_7627 reaching 7627_8097> [//] I assume it's his sister reaching up for him to hand her a cookie . 8097_12107
+%mor:	pro:sub|I v|assume pro:per|it~cop|be&3S det:poss|his n|sister
+	part|reach-PRESP adv|up prep|for pro:obj|him inf|to v|hand
+	pro:obj|her det:art|a n|cookie .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|DET 6|4|PRED 7|6|XMOD
+	8|7|JCT 9|7|JCT 10|9|POBJ 11|12|INF 12|7|XJCT 13|12|OBJ2 14|15|DET
+	15|12|OBJ 16|2|PUNCT
+*PAR:	mother is drying dishes but she's very inattentive here because the
+	water is pouring all over the sink . 12614_20104
+%wor:	mother 12614_12924 is 12924_13174 drying 13174_14014 dishes 14014_14534 but 14534_14774 she's 14824_15144 very 15204_15604 inattentive 15634_16284 here 16314_16514 because 16514_16944 the 16944_17094  water 17694_17964 is 17964_18164 pouring 18164_18584 all 18584_19274 over 19344_19594 the 19594_19794 sink 19794_20104 .
+%mor:	n|mother aux|be&3S part|dry-PRESP n|dish-PL conj|but
+	pro:sub|she~cop|be&3S adv|very in#adj|attentive n|here conj|because
+	det:art|the n|water aux|be&3S part|pour-PRESP adv|all prep|over
+	det:art|the n|sink .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|3|CJCT
+	8|9|JCT 9|10|MOD 10|7|PRED 11|15|LINK 12|13|DET 13|15|SUBJ 14|15|AUX
+	15|3|CJCT 16|17|JCT 17|15|JCT 18|19|DET 19|17|POBJ 20|3|PUNCT
+*PAR:	the faucet is running . 20339_22359
+%wor:	the 20339_20399 faucet 20489_20959 is 20959_21169 running 21989_22359 .
+%mor:	det:art|the n|faucet aux|be&3S part|run-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	and the water is pouring down over . 22409_24419
+%wor:	and 22409_22669 the 22669_22689 water 22689_22909 is 22909_23119 pouring 23179_23629 down 23659_23959 over 23959_24419 .
+%mor:	coord|and det:art|the n|water aux|be&3S part|pour-PRESP n|down
+	adv|over .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|JCT
+	8|5|PUNCT
+*PAR:	&-uh the floor is all wet . 25391_26681
+%wor:	&-uh 25391_25451 the 25451_25621 floor 25621_25891 is 25891_26101 all 26101_26421 wet 26421_26681 .
+%mor:	det:art|the n|floor cop|be&3S adv|all adj|wet .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*PAR:	and &-uh it must be a nice summer day (be)cause the window looks as
+	if it's open . 27862_32311
+%wor:	and 27862_28232 &-uh 28262_28442 it 29142_29322 must 29322_29542 be 29542_29622 a 29622_29692 nice 29692_30002 summer 30002_30262 day 30262_30482 (be)cause 30482_30702 the 30702_30722 window 30722_31022 looks 31022_31312 as 31312_31452  if 31452_31622 it's 31622_31812 open 31872_32312 .
+%mor:	coord|and pro:per|it mod|must cop|be det:art|a adj|nice n|summer
+	n|day conj|because det:art|the n|window v|look-3S adv|as conj|if
+	pro:per|it~cop|be&3S adj|open .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|8|DET 6|7|MOD 7|8|MOD 8|4|PRED
+	9|12|LINK 10|11|DET 11|12|SUBJ 12|4|CJCT 13|12|JCT 14|16|LINK
+	15|16|SUBJ 16|12|COMP 17|16|PRED 18|4|PUNCT
+*PAR:	and that's about +... [+ exc] 32867_33677
+%wor:	and 32867_32997 that's 32997_33237 about 33237_33677 +... [+ exc]
+%mor:	coord|and pro:dem|that~cop|be&3S adv|about +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	I don't see any birds or any animals out there . 34263_36213
+%wor:	I 34263_34313 don't 34313_34453 see 34453_34593 any 34593_34723 birds 34723_35073 or 35073_35153 any 35153_35363 animals 35363_35763 out 35763_35983 there 35983_36213 .
+%mor:	pro:sub|I mod|do~neg|not v|see qn|any n|bird-PL coord|or qn|any
+	n|animal-PL prep|out n|there .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|6|CONJ
+	8|9|QUANT 9|7|COORD 10|9|NJCT 11|10|POBJ 12|4|PUNCT
+*INV:	okay . 37120_37300
+%wor:	okay 37120_37300 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(.) okay . 40040_40240
+%wor:	(.) okay 40040_40240 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

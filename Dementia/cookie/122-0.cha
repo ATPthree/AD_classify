@@ -1,0 +1,88 @@
+@UTF8
+@PID:	11312/t-00002506-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|70;|female|ProbableAD||Participant|17||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	122-0, audio
+@G:	Cookie
+*PAR:	well, why <the mother is> [//] she's [/] &-um <she's not with the>
+	[//] what is she ? [+ exc] 180_11050
+%wor:	well, 180_610 why 2210_2390 <the 2390_2560 mother 2560_2770 is 2770_3340> [//] she's [/] 4580_5010 &-um 5010_5400 <she's 8310_8530 not 8530_8780 with 10130_10590 the 10590_10600>  [//] what is she ? [+ exc] 10600_11050
+%mor:	co|well cm|cm pro:rel|why pro:int|what cop|be&3S pro:sub|she ?
+%gra:	1|5|COM 2|1|LP 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*PAR:	she's &-uh &+indus interested in something else and she doesn't
+	realize that her water is spilling . 12211_20061
+%wor:	she's 12211_12481 &-uh 12481_12901 &+indus interested 15651_16461 in 16461_16641 something 16641_17041 else 17041_17461 and 17711_17831 she 17831_17851 doesn't 17851_18291  realize 18291_18731 that 18731_18901 her 18901_18941 water 18941_19231 is 19231_19531 spilling 19531_20061 .
+%mor:	pro:sub|she~aux|be&3S part|interest-PASTP prep|in
+	pro:indef|something post|else coord|and pro:sub|she
+	mod|do&3S~neg|not v|realize comp|that det:poss|her n|water aux|be&3S
+	part|spill-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|PQ 7|11|LINK
+	8|11|SUBJ 9|11|AUX 10|9|NEG 11|3|CJCT 12|16|LINK 13|14|DET
+	14|16|SUBJ 15|16|AUX 16|11|COMP 17|3|PUNCT
+*PAR:	(.) and the children have [//] &-uh havin(g) a good time because
+	they're [//] while their mother's interested in something else
+	they're stealing cookies . [+ gram] 22904_32433
+%wor:	(.) and 22904_23344 the 23804_23874 children 23874_24304 have [//] 24304_25074 &-uh 25564_25574 havin(g) 25574_25964 a 25964_26104 good 26244_26444 time 26444_26744 because 26744_27124  they're [//] 27124_27344 while 27624_27794 their 27794_27924 mother's 27924_28444 interested 30014_30514 in 30514_30584 something 30584_30994 else 30994_31294  they're 31294_31464 stealing 31464_32034 cookies 32034_32434 . [+ gram]
+%mor:	coord|and det:art|the n|child&PL part|have-PRESP det:art|a adj|good
+	n|time conj|because conj|while det:poss|their n|mother~aux|be&3S
+	part|interest-PASTP prep|in pro:indef|something post|else
+	pro:sub|they~aux|be&PRES part|steal-PRESP n|cookie-PL .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ
+	8|19|LINK 9|13|LINK 10|11|DET 11|13|SUBJ 12|13|AUX 13|19|CJCT
+	14|13|JCT 15|14|POBJ 16|13|JCT 17|19|SUBJ 18|19|AUX 19|4|CJCT
+	20|19|OBJ 21|4|PUNCT
+*PAR:	<the child> [//] the [/] <the son> [//] the boy looks like he's
+	gonna be hurt . 38220_42100
+%wor:	<the 38220_38610 child 38610_39160> [//] the [/] 39760_40060 <the 40060_40070 son 40070_40510> [//] the boy looks like he's  gonna be hurt . 40510_42100
+%mor:	det:art|the n|boy v|look-3S conj|like pro:sub|he~aux|be&3S
+	part|go&PRESP~inf|to aux|be part|hurt&PASTP .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|COMP
+	8|10|INF 9|10|AUX 10|7|COMP 11|3|PUNCT
+*PAR:	and oh the water's overflowing . 44591_46581
+%wor:	and 44591_44971 oh 44971_45371 the 45401_45411 water's 45411_45781 overflowing 45781_46581 .
+%mor:	coord|and co|oh det:art|the n|water~aux|be&3S over#part|flow-PRESP
+	.
+%gra:	1|6|LINK 2|6|COM 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+*PAR:	I hope I didn't go too fast . [+ exc] 49358_50848
+%wor:	I 49358_49368 hope 49368_49518 I 49518_49548 didn't 49548_49788 go 49948_50008 too 50008_50068 fast 50728_50848 . [+ exc]
+%mor:	pro:sub|I v|hope pro:sub|I mod|do&PAST~neg|not v|go adv|too
+	adv|fast .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|2|COMP 7|6|JCT 8|6|JCT
+	9|2|PUNCT
+*INV:	it's okay . 51001_51481
+%wor:	it's 51001_51091 okay 51091_51481 .
+%mor:	pro:per|it~cop|be&3S adj|okay .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	I've got the tape recorder on so &=laughs +... 52393_53983
+%wor:	I've 52393_52523 got 52523_52653 the 52653_52753 tape 52753_52953 recorder 52953_53333 on 53333_53603 so 53703_53983 &=laughs +...
+%mor:	pro:sub|I~aux|have part|get&PASTP det:art|the n|tape
+	n|record&dv-AGT adv|on adv|so +...
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|JCT 8|3|JCT
+	9|3|PUNCT
+*INV:	(.) what's happening there ? 59026_59796
+%wor:	(.) what's 59026_59226 happening 59226_59476 there 59476_59796 ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP n|there ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	the boy is falling . 60683_61753
+%wor:	the 60683_60813 boy 60813_60953 is 60953_61183 falling 61183_61753 .
+%mor:	det:art|the n|boy aux|be&3S part|fall-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	and oh he's stealing cookies too . 62526_64416
+%wor:	and 62526_62666 oh 62666_62776 he's 62806_62966 stealing 62966_63566 cookies 63666_64106 too 64136_64416 .
+%mor:	coord|and co|oh pro:sub|he~aux|be&3S part|steal-PRESP n|cookie-PL
+	post|too .
+%gra:	1|5|LINK 2|5|COM 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|JCT
+	8|5|PUNCT
+*INV:	mhm . 65019_65179
+%wor:	mhm 65019_65179 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 72613_72973
+%wor:	okay 72613_72973 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

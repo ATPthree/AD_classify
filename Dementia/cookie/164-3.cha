@@ -1,0 +1,68 @@
+@UTF8
+@PID:	11312/t-00002524-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|56;|male|ProbableAD||Participant|18||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	164-3, audio
+@G:	Cookie
+*INV:	xxx getting in the picture . 1050_2110
+%wor:	xxx getting 1050_1640 in 1640_1750 the 1750_1760 picture 1760_2110 .
+%mor:	part|get-PRESP prep|in det:art|the n|picture .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*INV:	all the action . 2556_3436
+%wor:	all 2556_2686 the 2686_2826 action 2826_3436 .
+%mor:	qn|all det:art|the n|action .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	okay the boy's in the cookie jar . 3660_6780
+%wor:	okay 3660_4600 the 4600_4720 boy's 5320_5670 in 5670_5860 the 5860_6070 cookie 6070_6400 jar 6400_6780 .
+%mor:	co|okay det:art|the n|boy~cop|be&3S prep|in det:art|the n|cookie
+	n|jar .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*PAR:	he's [/] (.) he's gonna fall off his stool . 6851_12471
+%wor:	he's [/] 6851_7031 (.) he's 7031_7101 gonna 11141_11301 fall 11301_11661 off 11661_11851 his 11851_11971 stool 11971_12471 .
+%mor:	pro:sub|he~aux|be&3S part|go&PRESP~inf|to v|fall prep|off
+	det:poss|his n|stool .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	the mother's (.) tub's running over (..) on the floor . 18066_26086
+%wor:	the 18066_18076 mother's 18076_18776 (.) tub's 21076_21316 running 21316_21736 over 21736_22076 (..) on 25276_25556 the 25556_25616 floor 25616_26086 .
+%mor:	det:art|the n|mother~aux|be&3S n|tub~aux|be&3S part|run-PRESP
+	adv|over prep|on det:art|the n|floor .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|6|PUNCT
+*PAR:	kid's gonna hit on the floor &=laughs . 27749_29189
+%wor:	kid's 27749_28029 gonna 28029_28269 hit 28269_28509 on 28509_28709 the 28709_28759 floor 28759_29189 &=laughs .
+%mor:	adj|kid&dn-POSS part|go&PRESP~prep|to n|hit prep|on det:art|the
+	n|floor .
+%gra:	1|0|INCROOT 2|1|XMOD 3|2|JCT 4|3|POBJ 5|2|JCT 6|7|DET 7|5|POBJ
+	8|1|PUNCT
+*INV:	mhm . 30551_30811
+%wor:	mhm 30551_30811 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	where's the girl at there ? [+ exc] 31401_32281
+%wor:	where's 31401_31531 the 31531_31601 girl 31601_31991 at 32021_32181 there 32181_32281 ? [+ exc]
+%mor:	pro:int|where~cop|be&3S det:art|the n|girl prep|at n|there ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*PAR:	an(d) she's [/] she reachin(g) for &-uh a cookie . 32761_39151
+%wor:	an(d) 32761_33011 she's [/] 36591_36791 she 36791_36801 reachin(g) 36801_37171 for 37171_37351 &-uh 37351_37361 a 37361_37441 cookie 38721_39151 .
+%mor:	coord|and pro:sub|she part|reach-PRESP prep|for det:art|a n|cookie
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	(.) poor ol(d) mom gotta &+g get her &=grunts +... 44650_46790
+%wor:	(.) poor 44650_44890 ol(d) 44890_45090 mom 45090_45460 gotta 45540_45760 &+g get 46500_46680 her 46680_46790 &=grunts +...
+%mor:	adj|poor adj|old n|mom mod|got~inf|to v|get pro:obj|her +...
+%gra:	1|3|MOD 2|3|MOD 3|6|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*PAR:	that's about it, huh ? [+ exc] 49281_49931
+%wor:	that's 49281_49421 about 49421_49671 it, 49671_49851 huh 49851_49931 ? [+ exc]
+%mor:	pro:dem|that~cop|be&3S adv|about pro:per|it cm|cm co|huh ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|LP 6|2|COM 7|2|PUNCT
+*INV:	okay . 50162_50702
+%wor:	okay 50162_50702 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

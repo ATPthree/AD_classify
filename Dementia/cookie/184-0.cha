@@ -1,0 +1,82 @@
+@UTF8
+@PID:	11312/t-00002541-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|63;|male|ProbableAD||Participant|27||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	184-0, audio
+@G:	Cookie
+*INV:	okey_dokey . 390_550
+%wor:	okey_dokey 390_550 .
+%mor:	co|okey_dokey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	tell me just what you see going on . 731_2461
+%wor:	tell 731_1151 me 1151_1261 just 1261_1491 what 1491_1581 you 1581_1641 see 1641_1851 going 1971_2111 on 2211_2461 .
+%mor:	v|tell pro:obj|me adv|just pro:int|what pro:per|you v|see
+	part|go-PRESP adv|on .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|JCT 4|6|LINK 5|6|SUBJ 6|1|COMP 7|6|COMP
+	8|7|JCT 9|1|PUNCT
+*PAR:	well ‡ (.) the little boy's in the cookie jar . 4586_7446
+%wor:	well 4586_4706 ‡ (.) the 6026_6116 little 6116_6336 boy's 6336_6646 in 6646_6786 the 6786_6816 cookie 6816_7056 jar 7056_7446 .
+%mor:	co|well beg|beg det:art|the adj|little n|boy~cop|be&3S prep|in
+	det:art|the n|cookie n|jar .
+%gra:	1|0|BEG 2|1|BEGP 3|5|DET 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|6|PUNCT
+*PAR:	and he's about to fall on the floor because the chair's [: stool's]
+	[* s:r] tilted . 9064_12504
+%wor:	and 9064_9154 he's 9154_9314 about 9314_9644 to 9644_9744 fall 10574_10784 on 10784_10934 the 10934_11014 floor 11044_11244 because 11244_11634 the 11634_11754 chair's [: stool's]  [* s:r] 11754_12074 tilted 12074_12504 .
+%mor:	coord|and pro:sub|he~cop|be&3S adv|about prep|to n|fall prep|on
+	det:art|the n|floor conj|because det:art|the n|stool~aux|be&3S
+	part|tilt-PASTP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|JCT 8|9|DET
+	9|7|POBJ 10|14|LINK 11|12|DET 12|14|SUBJ 13|14|AUX 14|3|CJCT
+	15|3|PUNCT
+*PAR:	mom's dryin(g) dishes . 15006_16136
+%wor:	mom's 15006_15296 dryin(g) 15296_15616 dishes 15616_16136 .
+%mor:	n|mom~aux|be&3S part|dry-PRESP n|dish-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	she's not paying attention (be)cause the <water's runnin(g) over>
+	[//] sink's runnin(g) over . 16650_20120
+%wor:	she's 16650_16880 not 16880_17060 paying 17130_17300 attention 17300_17720 (be)cause 17720_17870 the 17870_17880 <water's 17880_18080 runnin(g) 18080_18970 over 19290_19380>  [//] sink's runnin(g) over . 19380_20120
+%mor:	pro:sub|she~aux|be&3S neg|not part|pay-PRESP n|attention
+	conj|because det:art|the n|sink~aux|be&3S part|run-PRESP adv|over .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|10|LINK 7|8|DET
+	8|10|SUBJ 9|10|AUX 10|4|CJCT 11|10|JCT 12|4|PUNCT
+*PAR:	water's all over the floor . 20897_21857
+%wor:	water's 20897_21117 all 21117_21177 over 21177_21327 the 21327_21607 floor 21607_21857 .
+%mor:	n|water~cop|be&3S adv|all prep|over det:art|the n|floor .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*PAR:	the little girl I think is begging her brother to give her a cookie
+	. 21910_26590
+%wor:	the 21910_22020 little 23930_24140 girl 24140_24310 I 24310_24340 think 24340_24700 is 24700_24810 begging 25020_25350 her 25350_25390 brother 25390_25810 to 25810_25950 give 25950_26180 her 26340_26410 a 26410_26440 cookie 26440_26590  .
+%mor:	det:art|the adj|little n|girl pro:sub|I v|think aux|be&3S
+	part|beg-PRESP det:poss|her n|brother inf|to v|give pro:obj|her
+	det:art|a n|cookie .
+%gra:	1|3|DET 2|3|MOD 3|7|SUBJ 4|5|SUBJ 5|3|CMOD 6|7|AUX 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|11|INF 11|7|XJCT 12|11|OBJ2 13|14|DET 14|11|OBJ
+	15|7|PUNCT
+*PAR:	I'm not sure about that . [+ exc] 27196_28276
+%wor:	I'm 27196_27256 not 27286_27346 sure 27426_27576 about 27826_28036 that 28036_28276 . [+ exc]
+%mor:	pro:sub|I~cop|be&1S neg|not adj|sure prep|about pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*PAR:	&-um must be summer time because the window's open . 29428_33138
+%wor:	&-um 29428_29798 must 31028_31218 be 31218_31278 summer 31278_31588 time 31588_31978 because 32058_32248 the 32248_32308 window's 32308_32688 open 32688_33138 .
+%mor:	mod|must cop|be n|summer n|time conj|because det:art|the
+	n|window~cop|be&3S adj|open .
+%gra:	1|2|AUX 2|0|ROOT 3|4|MOD 4|2|PRED 5|8|LINK 6|7|DET 7|8|SUBJ
+	8|2|CJCT 9|8|PRED 10|2|PUNCT
+*PAR:	you can see the [/] the grass and shrubbery outside . 33775_36375
+%wor:	you 33775_33885 can 33885_34075 see 34955_35015 the [/] 35015_35035 the 35035_35045 grass 35045_35355 and 35355_35475 shrubbery 35475_35985 outside 35985_36375 .
+%mor:	pro:per|you mod|can v|see det:art|the n|grass coord|and n|shrubbery
+	adv|+prep|out+n|side .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|CONJ 7|6|COORD
+	8|7|NJCT 9|3|PUNCT
+*PAR:	and see a few dishes that mom has already dried . [+ gram] 38328_49238
+%wor:	and 38328_38418 see 41188_41258 a 41258_41288 few 41288_41728 dishes 42058_42348 that 42348_42658 mom 42658_42928 has 43108_43178 already 43178_43348 dried 48958_49238 . [+ gram]
+%mor:	coord|and v|see det:art|a n|few v|dish-3S det:dem|that n|mom
+	aux|have&3S adv|already part|dry-PASTP .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|7|DET 7|10|SUBJ
+	8|10|AUX 9|10|JCT 10|5|COMP 11|2|PUNCT
+@End

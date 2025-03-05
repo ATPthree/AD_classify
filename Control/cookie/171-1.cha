@@ -1,0 +1,56 @@
+@UTF8
+@PID:	11312/t-00002328-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|66;|female|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	171-1, audio
+@G:	Cookie
+*INV:	and there's the picture . 140_840
+%wor:	and 140_330 there's 330_520 the 520_570 picture 570_840 .
+%mor:	coord|and pro:exist|there~cop|be&3S det:art|the n|picture .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	well let's see . [+ exc] 5102_5622
+%wor:	well 5102_5212 let's 5492_5582 see 5582_5622 . [+ exc]
+%mor:	co|well v|let~pro:obj|us v|see .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|COMP 5|2|PUNCT
+*PAR:	the boy is taking cookies out_of the cookie jar . 5673_8663
+%wor:	the 5673_5913 boy 5913_6333 is 6463_6523 taking 6523_6893 cookies 7123_7273 out_of 7273_7513 the 7513_7663 cookie 7663_8033 jar 8163_8663 .
+%mor:	det:art|the n|boy aux|be&3S part|take-PRESP n|cookie-PL prep|out_of
+	det:art|the n|cookie n|jar .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|4|PUNCT
+*PAR:	and the little girl is laughing . 9485_10605
+%wor:	and 9485_9685 the 9685_9695 little 9695_9965 girl 10035_10125 is 10125_10185 laughing 10185_10605 .
+%mor:	coord|and det:art|the adj|little n|girl aux|be&3S part|laugh-PRESP
+	.
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+*PAR:	and the boy is falling off the stool . 10655_12645
+%wor:	and 10655_10795 the 10795_10895 boy 10895_11025 is 11025_11215 falling 11355_11725 off 11755_11815 the 11815_11825 stool 12215_12645 .
+%mor:	coord|and det:art|the n|boy aux|be&3S part|fall-PRESP prep|off
+	det:art|the n|stool .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	and the mother's washing dishes . 12699_14219
+%wor:	and 12699_12909 the 12909_12919 mother's 12919_13189 washing 13259_13519 dishes 13729_14219 .
+%mor:	coord|and det:art|the n|mother~aux|be&3S part|wash-PRESP n|dish-PL
+	.
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	and the water is running over . 15223_16543
+%wor:	and 15223_15353 the 15353_15363 water 15363_15553 is 15553_15703 running 15883_16033 over 16393_16543 .
+%mor:	coord|and det:art|the n|water aux|be&3S part|run-PRESP adv|over .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	and (..) I don't know whether the wind is blowing or not &=laughs .
+	[+ exc] 18151_27411
+%wor:	and 18151_18241 (..) I 18651_18661 don't 18661_18771 know 18841_18881 whether 18911_25501 the 25851_25861 wind 25861_26181 is 26471_26581 blowing 26851_27041 or 27321_27351 not 27351_27411 &=laughs .  [+ exc]
+%mor:	coord|and pro:sub|I mod|do~neg|not v|know comp|whether det:art|the
+	n|wind aux|be&3S part|blow-PRESP coord|or neg|not .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|10|LINK 7|8|DET
+	8|10|SUBJ 9|10|AUX 10|5|COMP 11|10|CONJ 12|11|COORD 13|5|PUNCT
+*INV:	okay . 31398_31538
+%wor:	okay 31398_31538 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

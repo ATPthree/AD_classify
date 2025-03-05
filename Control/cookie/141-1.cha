@@ -1,0 +1,59 @@
+@UTF8
+@PID:	11312/t-00002301-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|55;|female|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	141-1, audio
+@G:	Cookie
+*PAR:	well <the girl> [//] the boy is handing the girl &-uh cookies and
+	she's telling him to be quiet I guess . 1450_7320
+%mor:	n|well det:art|the n|boy aux|be&3S part|hand-PRESP det:art|the
+	n|girl n|cookie-PL coord|and pro:sub|she~aux|be&3S part|tell-PRESP
+	pro:obj|him inf|to aux|be adj|quiet pro:sub|I v|guess .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|5|CJCT 13|18|SUBJ 14|15|INF 15|18|XJCT
+	16|15|PRED 17|18|SUBJ 18|12|COMP 19|5|PUNCT
+%wor:	well 1450_1920 <the 2550_2610 girl 2610_3110> [//] the boy is handing the girl &-uh cookies and  she's telling him to be quiet I guess . 3200_7320
+*PAR:	<his stool is go> [//] he's going to fall . 8010_11051
+%mor:	pro:sub|he~aux|be&3S part|go-PRESP prep|to n|fall .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%wor:	<his 8011_8331 stool 8501_8961 is 9151_9391 go 10011_10131> [//] he's going to fall . 10131_11051
+*PAR:	the mother is drying dishes &=laughs just is oblivious to the water
+	coming out all over the place . 12547_18057
+%mor:	det:art|the n|mother aux|be&3S part|dry-PRESP n|dish-PL adv|just
+	cop|be&3S adj|oblivious prep|to det:art|the n|water part|come-PRESP
+	adv|out adv|all prep|over det:art|the n|place .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|7|SUBJ 5|4|OBJ 6|7|JCT 7|0|ROOT 8|7|PRED
+	9|8|JCT 10|11|DET 11|9|POBJ 12|11|XMOD 13|12|JCT 14|15|JCT 15|12|JCT
+	16|17|DET 17|15|POBJ 18|7|PUNCT
+%wor:	the 12547_12947 mother 13007_13267 is 13267_13397 drying 13397_13737 dishes 13737_14127 &=laughs just 14597_14897 is 14927_15187 oblivious 15897_16437 to 16437_16717 the 16717_16727 water 16727_17107  coming 17167_17427 out 17427_17597 all 17597_17707 over 17707_17807 the 17807_17847 place 17847_18057 .
+*PAR:	&-um xxx the dishes . 22636_26186
+%mor:	det:art|the n|dish-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%wor:	&-um 22636_22696 xxx the 23816_23996 dishes 26016_26186 .
+*PAR:	&-hm (.) that [//] that's the action ? [+ exc] 33054_37384
+%mor:	pro:dem|that~cop|be&3S det:art|the n|action ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%wor:	&-hm 33054_33124 (.) that [//] 36364_36584 that's 36764_36974 the 36974_37134 action 37134_37384 ? [+ exc]
+*PAR:	okay <the action is> [//] that [//] that's the only action I can
+	see . 38153_40643
+%mor:	co|okay pro:dem|that~cop|be&3S det:art|the qn|only n|action
+	pro:sub|I mod|can v|see .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|QUANT 6|3|PRED 7|9|SUBJ 8|9|AUX
+	9|6|CMOD 10|3|PUNCT
+%wor:	okay 38153_38243 <the 38243_38253 action 38253_38563 is 38693_38863> [//] that [//] 38943_39083 that's 39293_39483 the 39483_39623 only 39653_39833 action 39833_40213 I 40213_40223 can 40223_40323  see 40473_40643 .
+*PAR:	water running and the mother and the kids taking the cookies .
+	[+ gram] 40692_43422
+%mor:	n|water part|run-PRESP coord|and det:art|the n|mother coord|and
+	det:art|the n|kid-PL part|take-PRESP det:art|the n|cookie-PL .
+%gra:	1|0|INCROOT 2|1|XMOD 3|2|CONJ 4|5|DET 5|3|COORD 6|5|CONJ 7|8|DET
+	8|6|COORD 9|8|XMOD 10|11|DET 11|9|OBJ 12|1|PUNCT
+%wor:	water 40692_41022 running 41082_41442 and 41532_41622 the 41622_41632 mother 41632_41832 and 41832_42122 the 42122_42212 kids 42252_42632 taking 42702_42992 the 43152_43182 cookies 43182_43422 .  [+ gram]
+*INV:	okay . 43753_43923
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	okay 43753_43923 .
+@End

@@ -1,0 +1,148 @@
+@UTF8
+@PID:	11312/t-00002591-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|72;|female|ProbableAD||Participant|17||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	269-0, audio
+@G:	Cookie
+*INV:	action you see going on in that picture . 30_2220
+%wor:	action 30_350 you 350_480 see 480_910 going 940_1270 on 1270_1460 in 1460_1590 that 1590_1860 picture 1860_2220 .
+%mor:	n|action pro:per|you v|see part|go-PRESP adv|on prep|in
+	det:dem|that n|picture .
+%gra:	1|0|INCROOT 2|3|SUBJ 3|1|CMOD 4|3|COMP 5|4|JCT 6|4|JCT 7|8|DET
+	8|6|POBJ 9|1|PUNCT
+*PAR:	well ‡ I'm seeing a_lot_of water that isn't sposta be where it is .
+	3699_7949
+%wor:	well 3699_4199 ‡ I'm 4229_4419 seeing 4639_5099 a_lot_of 5099_5629 water 5629_6089 that 6089_6299 isn't 6299_6539 sposta 6539_6979 be 6979_7149 where 7149_7379 it 7379_7489 is 7489_7949 .
+%mor:	co|well beg|beg pro:sub|I~aux|be&1S part|see-PRESP qn|a_lot_of
+	n|water pro:rel|that aux|be&3S~neg|not part|suppose&PASTP~inf|to
+	cop|be pro:int|where pro:per|it cop|be&3S .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|QUANT 7|5|OBJ
+	8|11|LINK 9|11|AUX 10|9|NEG 11|7|CMOD 12|13|INF 13|11|COMP
+	14|16|LINK 15|16|SUBJ 16|13|PRED 17|5|PUNCT
+*PAR:	a full sink with &-uh more water running down all [/] all [/] all
+	the way to the floor . [+ gram] 9260_16300
+%wor:	a 9260_9350 full 9350_9720 sink 9720_10290 with 10340_10820 &-uh 11750_12170 more 13620_13810 water 13810_14190 running 14190_14490 down 14490_14790 all [/] 14790_15020 all [/] 15020_15260 all 15260_15560  the 15560_15600 way 15600_15690 to 15690_15750  the 15750_15800 floor 15800_16300 . [+ gram]
+%mor:	det:art|a adj|full n|sink prep|with qn|more n|water part|run-PRESP
+	prep|down qn|all det:art|the n|way prep|to det:art|the n|floor .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|6|QUANT 6|4|POBJ 7|6|XMOD
+	8|7|JCT 9|11|QUANT 10|11|DET 11|8|POBJ 12|11|NJCT 13|14|DET
+	14|12|POBJ 15|3|PUNCT
+*PAR:	a stool that's going to project somebody into a fall and real fast
+	. [+ gram] 17845_25305
+%wor:	a 17845_18105 stool 18105_18835 that's 18835_19175 going 19175_19535 to 19535_19935 project 21395_21875 somebody 21875_22555 into 22555_23315 a 23315_23345 fall 23345_24055 and 24055_24355 real 24355_24575 fast 24575_25305  . [+ gram]
+%mor:	det:art|a n|stool pro:rel|that~aux|be&3S part|go-PRESP inf|to
+	v|project pro:indef|somebody prep|into det:art|a n|fall coord|and
+	adj|real n|fast .
+%gra:	1|2|DET 2|0|INCROOT 3|5|LINK 4|5|AUX 5|2|CMOD 6|7|INF 7|5|COMP
+	8|7|OBJ 9|7|JCT 10|11|DET 11|9|POBJ 12|11|CONJ 13|14|MOD 14|12|COORD
+	15|2|PUNCT
+*PAR:	getting out_of the cookie jar . [+ gram] 26901_28341
+%wor:	getting 26901_27201 out_of 27201_27431 the 27431_27551 cookie 27551_27831 jar 27831_28341 . [+ gram]
+%mor:	part|get-PRESP prep|out_of det:art|the n|cookie n|jar .
+%gra:	1|0|ROOT 2|1|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|1|PUNCT
+*PAR:	&-uh &=clears:throat dishwashing and drying . [+ gram] 31606_35746
+%wor:	&-uh 31606_31906 &=clears:throat dishwashing 34076_34826 and 34826_35106 drying 35106_35746 . [+ gram]
+%mor:	n|+n|dish+part|washing coord|and part|dry-PRESP .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	(..) and a girl tryin(g) to say &=laughs “silent” so_that &-uh they
+	won't be caught . [+ gram] 43177_55047
+%wor:	(..) and 43177_43587 a 43587_44127 girl 45077_45607 tryin(g) 47477_47887 to 47887_48067 say 48067_48717 &=laughs “silent” 50537_50967 so_that 51947_53447 &-uh 53447_53457 they 54077_54177  won't 54177_54477 be 54477_54577 caught 54577_55047 . [+ gram]
+%mor:	coord|and det:art|a n|girl part|try-PRESP inf|to v|say adj|silent
+	conj|so_that pro:sub|they mod|will~neg|not aux|be part|catch&PASTP .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|XMOD 5|6|INF 6|4|COMP 7|6|PRED
+	8|13|LINK 9|13|SUBJ 10|13|AUX 11|10|NEG 12|13|AUX 13|3|CJCT
+	14|3|PUNCT
+*PAR:	two cups and a plate &-uh that probably are dry and then the other
+	plate is being dried . [+ gram] 58571_65531
+%wor:	two 58571_58741 cups 58741_59381 and 59381_59511 a 59511_59541 plate 59541_60141 &-uh 60931_61361 that 61461_61831 probably 61831_62251 are 62251_62411 dry 62411_62991 and 62991_63231 then 63231_63491 the 63491_63691 other 63691_63921  plate 63921_64301 is 64491_64661 being 64661_65001 dried 65001_65531 . [+ gram]
+%mor:	det:num|two n|cup-PL coord|and det:art|a n|plate pro:rel|that
+	adv|probable&dadj-LY cop|be&PRES adj|dry coord|and adv:tem|then
+	det:art|the qn|other n|plate aux|be&3S aux|be-PRESP part|dry-PASTP .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|8|LINK 7|8|JCT
+	8|5|CMOD 9|8|PRED 10|17|LINK 11|17|JCT 12|14|DET 13|14|QUANT
+	14|17|SUBJ 15|17|AUX 16|17|AUX 17|8|CJCT 18|2|PUNCT
+*PAR:	a cupboard door that's open . [+ gram] 67624_69154
+%wor:	a 67624_67684 cupboard 67684_68134 door 68134_68434 that's 68434_68694 open 68694_69154 . [+ gram]
+%mor:	det:art|a n|+n|cup+n|board n|door pro:rel|that~cop|be&3S adj|open .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|5|LINK 5|3|CMOD 6|5|PRED 7|3|PUNCT
+*PAR:	that stool though, I don't know what he's going to do with that . 70709_73869
+%wor:	that 70709_70929 stool 70929_71339 though, 71339_71699 I 71979_72079 don't 72079_72349 know 72349_72479 what 72479_72719 he's 72719_72839 going 72839_73019 to 73019_73089 do 73089_73229 with 73229_73529 that 73529_73869 .
+%mor:	det:dem|that n|stool adv|though cm|cm pro:sub|I mod|do~neg|not
+	v|know pro:int|what pro:sub|he~aux|be&3S part|go-PRESP inf|to v|do
+	prep|with pro:dem|that .
+%gra:	1|2|DET 2|8|JCT 3|2|NJCT 4|3|LP 5|8|SUBJ 6|8|AUX 7|6|NEG 8|0|ROOT
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|COMP 13|14|INF 14|12|COMP
+	15|14|JCT 16|15|POBJ 17|8|PUNCT
+*PAR:	&-uh (.) I don't know <what you> [//] <why the sink's> [//] &+l [//]
+	why the &-uh water's left on . 75965_87115
+%wor:	&-uh 75965_76265 (.) I 81455_81535 don't 81535_81695 know 81695_81835 <what 81835_82125 you 82125_82185> [//] <why the sink's> [//] 82185_83365 &+l [//]  why the &-uh water's left on . 83365_87115
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|why det:art|the
+	n|water~aux|be&3S part|leave&PASTP adv|on .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|9|LINK 6|7|DET 7|9|SUBJ 8|9|AUX
+	9|4|COMP 10|9|JCT 11|4|PUNCT
+*PAR:	it's gonna make a mess . 88320_89380
+%wor:	it's 88320_88430 gonna 88430_88660 make 88660_88850 a 88850_88900 mess 88900_89380 .
+%mor:	pro:per|it~aux|be&3S part|go&PRESP~inf|to v|make det:art|a n|mess .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ
+	8|3|PUNCT
+*PAR:	(.) she's drying the plate or the dishes or whatever it is that
+	she's working on . 95257_102167
+%wor:	(.) she's 95257_95397 drying 95397_96007 the 96037_96317 plate 97757_98187 or 98187_98347 the 98347_98497 dishes 98497_98987 or 98987_99107 whatever 99107_99527 it 99527_99667 is 99667_100197 that 100197_100277  she's 100277_100517 working 101497_101747 on 101747_102167 .
+%mor:	pro:sub|she~aux|be&3S part|dry-PRESP det:art|the n|plate coord|or
+	det:art|the n|dish-PL coord|or pro:indef|whatever pro:per|it
+	cop|be&3S comp|that pro:sub|she~aux|be&3S part|work-PRESP adv|on .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|CONJ 7|8|DET
+	8|6|COORD 9|3|CONJ 10|9|COORD 11|12|SUBJ 12|10|CMOD 13|16|LINK
+	14|16|SUBJ 15|16|AUX 16|12|CPRED 17|16|JCT 18|3|PUNCT
+*PAR:	and of_course that cupboard door is open . 104566_106836
+%wor:	and 104566_104656 of_course 104656_104996 that 104996_105206 cupboard 105516_105856 door 105856_106186 is 106186_106446 open 106446_106836 .
+%mor:	coord|and co|of_course pro:dem|that n|+n|cup+n|board n|door
+	cop|be&3S adj|open .
+%gra:	1|6|LINK 2|5|COM 3|5|MOD 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|PRED
+	8|6|PUNCT
+*PAR:	if it &+h hadn't been opened why maybe he wouldn't ha(ve) gotten his
+	cookies . 106882_110352
+%wor:	if 106882_107092 it 107092_107372 &+h hadn't 107372_107672 been 107672_107852 opened 107852_108412 why 108412_108792 maybe 108842_109102 he 109102_109242 wouldn't 109242_109492 ha(ve) 109492_109572 gotten 109572_109832 his 109832_110002  cookies 110002_110352 .
+%mor:	conj|if pro:per|it aux|have&PAST~neg|not aux|be&PASTP
+	part|open-PASTP pro:rel|why adv|maybe pro:sub|he
+	mod|will&COND~neg|not aux|have part|get&PASTP det:poss|his
+	n|cookie-PL .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|AUX 4|3|NEG 5|6|AUX 6|0|ROOT 7|13|LINK
+	8|13|JCT 9|13|SUBJ 10|13|AUX 11|10|NEG 12|13|AUX 13|6|COMP 14|15|DET
+	15|13|OBJ 16|6|PUNCT
+*INV:	&=laughs (.) anything else ? 114710_115660
+%wor:	&=laughs (.) anything 114710_115260 else 115260_115660 ?
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	well ‡ &=clears:throat otherwise it's [/] it's &-uh except for the
+	&+a two accidents it's &-uh not too bad . 120194_136734
+%wor:	well 120194_120744 ‡ &=clears:throat otherwise 123394_124254 it's [/] 124254_124664 it's 124664_125084 &-uh 125084_125424 except 128404_128734 for 128734_129064 the 129064_129244 &+a  two 130514_130704 accidents 130704_131714 it's 132904_133384 &-uh 133384_133624 not 135934_136144 too 136144_136354 bad 136384_136734 .
+%mor:	co|well beg|beg adv|otherwise pro:per|it~cop|be&3S prep|except
+	prep|for det:art|the det:num|two n|accident-PL pro:per|it~cop|be&3S
+	neg|not adv|too adj|bad .
+%gra:	1|0|BEG 2|1|BEGP 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|12|JCT
+	8|10|DET 9|10|QUANT 10|7|POBJ 11|12|SUBJ 12|6|CPOBJ 13|12|NEG
+	14|15|JCT 15|12|PRED 16|5|PUNCT
+*PAR:	but the boy hasn't gotten down to his fall yet . [+ cir] 138223_141373
+%wor:	but 138223_138423 the 138423_138563 boy 138563_138803 hasn't 138803_139623 gotten 139623_139933 down 139933_140243 to 140243_140303 his 140303_140563 fall 140563_140883 yet 140883_141373 . [+ cir]
+%mor:	conj|but det:art|the n|boy aux|have&3S~neg|not part|get&PASTP
+	adv|down prep|to det:poss|his n|fall adv:tem|yet .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|6|JCT 12|6|PUNCT
+*INV:	(.) is that it ? 146768_147078
+%wor:	(.) is 146768_146878 that 146878_147018 it 147018_147078 ?
+%mor:	cop|be&3S comp|that pro:per|it ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OBJ 4|1|PUNCT
+*PAR:	that's the way with boys you_know . [+ exc] 147100_148850
+%wor:	that's 147100_147440 the 147440_147460 way 147460_147710 with 147710_147830 boys 147930_148270 you_know 148270_148850 . [+ exc]
+%mor:	pro:dem|that~cop|be&3S det:art|the n|way prep|with n|boy-PL
+	co|you_know .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|4|COM
+	8|2|PUNCT
+*INV:	+< &=laughs .
+%wor:	+< &=laughs .
+@End

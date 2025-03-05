@@ -1,0 +1,103 @@
+@UTF8
+@PID:	11312/t-00002633-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|60;|male|PossibleAD||Participant|23||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	354-0, audio
+@G:	Cookie
+*INV:	in the picture . 110_790
+%wor:	in 110_280 the 280_310 picture 310_790 .
+%mor:	prep|in det:art|the n|picture .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*INV:	xxx .
+%wor:	xxx .
+*PAR:	&=laughs ready ? [+ exc] 7170_7490
+%wor:	&=laughs ready 7170_7490 ? [+ exc]
+%mor:	adj|ready ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 7637_8037
+%wor:	mhm 7637_8037 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	children are &+c <stealin(g) the cookie jar> [//] stealing cookies
+	out_of the [/] the cookie jar . 8713_14253
+%wor:	children 8713_9213 are 9263_9413 &+c <stealin(g) 9413_10013 the 10013_10043 cookie 10043_10403 jar 10403_10913> [//] stealing cookies  out_of the [/] 11593_12873 the 12873_13453 cookie 13483_13823 jar 13823_14253 .
+%mor:	n|child&PL aux|be&PRES part|steal-PRESP n|cookie-PL prep|out_of
+	det:art|the n|cookie n|jar .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|3|PUNCT
+*PAR:	and they stepped on a stepping [: step] [* f:p] stool . 15075_17765
+%wor:	and 15075_15395 they 16125_16285 stepped 16285_16715 on 16715_16845 a 16845_16915 stepping [: step] [* f:p] 16915_17375 stool 17375_17765 .
+%mor:	coord|and pro:sub|they v|step-PAST prep|on det:art|a n|step n|stool
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ
+	8|3|PUNCT
+*PAR:	and it's [/] &+i it's falling over . 17781_19901
+%wor:	and 17781_18341 it's [/] 18571_18701 &+i it's 18701_19081 falling 19081_19511 over 19511_19901 .
+%mor:	coord|and pro:per|it~aux|be&3S part|fall-PRESP adv|over .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	&-uh mother [: sister] [* s:r-ret] &-uh sister is askin(g) brother
+	for some of the cookies that he's gettin(g) from the cookie jar . 21318_28328
+%wor:	&-uh 21318_21848 mother [: sister] [* s:r-ret] 22148_22698 &-uh 23648_24088 sister 24088_24678 is 24678_24938 askin(g) 25318_25758 brother 25758_26048  for 26048_26238 some 26238_26448 of 26448_26608 the 26608_26618 cookies 26618_27038 that 27038_27128 he's 27128_27278 gettin(g) 27278_27498 from 27498_27708 the 27708_27738 cookie 27738_28018 jar 28018_28328 .
+%mor:	n|sister n|sister aux|be&3S part|ask-PRESP n|brother prep|for
+	pro:indef|some prep|of det:art|the n|cookie-PL pro:rel|that
+	pro:sub|he~aux|be&3S part|get-PRESP prep|from det:art|the n|cookie
+	n|jar .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|CMOD
+	15|14|JCT 16|18|DET 17|18|MOD 18|15|POBJ 19|4|PUNCT
+*PAR:	mother's doing dishes . 29120_30360
+%wor:	mother's 29120_29470 doing 29470_29750 dishes 29750_30360 .
+%mor:	n|mother~aux|be&3S part|do-PRESP n|dish-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	the sink is clogged up . 31002_32252
+%wor:	the 31002_31082 sink 31082_31422 is 31422_31552 clogged 31552_31952 up 31952_32252 .
+%mor:	det:art|the n|sink aux|be&3S part|clog-PASTP adv|up .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	the water is draining on the floor . 32529_35259
+%wor:	the 32529_33149 water 33639_33969 is 33969_34069 draining 34329_34659 on 34659_34919 the 34919_34939 floor 34939_35259 .
+%mor:	det:art|the n|water aux|be&3S part|drain-PRESP prep|on det:art|the
+	n|floor .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	she's a_little angry, looks a_little angry . 37093_39293
+%wor:	she's 37093_37393 a_little 37393_37873 angry, 37873_38353 looks 38353_38603 a_little 38603_38993 angry 38993_39293 .
+%mor:	pro:sub|she~cop|be&3S adv|a_little adj|angry cm|cm cop|look-3S
+	adv|a_little adj|angry .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|LP 6|2|PRED 7|8|JCT 8|6|PRED
+	9|2|PUNCT
+*PAR:	I don't see no husband or nobody . 40433_41973
+%wor:	I don't 40433_40593 see 40593_40793 no 40793_40963 husband 40963_41393 or 41393_41503 nobody 41503_41973 .
+%mor:	pro:sub|I mod|do~neg|not v|see qn|no n|husband coord|or n|nobody .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|6|CONJ
+	8|7|COORD 9|4|PUNCT
+*PAR:	&-uh cookie jar, cabinets . [+ gram] 43262_44742
+%wor:	&-uh 43262_43472 cookie 43472_43842 jar, 43842_44252 cabinets 44312_44742 . [+ gram]
+%mor:	n|cookie n|jar cm|cm n|cabinet-PL .
+%gra:	1|2|MOD 2|0|ROOT 3|2|LP 4|2|ENUM 5|2|PUNCT
+*PAR:	(..) mother can't be dressed any different . 48767_50177
+%wor:	(..) mother can't 48767_49017 be 49017_49147 dressed 49147_49527 any 49527_49697 different 49697_50177 .
+%mor:	n|mother mod|can~neg|not aux|be part|dress-PASTP qn|any
+	adj|different .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|AUX 5|0|ROOT 6|7|QUANT 7|5|JCT
+	8|5|PUNCT
+*PAR:	kids . [+ gram] 50958_51408
+%wor:	kids 50958_51408 . [+ gram]
+%mor:	n|kid-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	that's what I can see . [+ exc] 52410_53480
+%wor:	that's 52410_52800 what 52800_53080 I can 53280_53410 see 53410_53480 . [+ exc]
+%mor:	pro:dem|that~cop|be&3S pro:int|what pro:sub|I mod|can v|see .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|CPRED 7|2|PUNCT
+*INV:	okay that's fine . 53791_54761
+%wor:	okay 53791_54131 that's 54131_54371 fine 54371_54761 .
+%mor:	co|okay pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*INV:	okay . 55903_56053
+%wor:	okay 55903_56053 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

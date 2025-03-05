@@ -1,0 +1,60 @@
+@UTF8
+@PID:	11312/t-00002327-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|65;|female|Control||Participant|28||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	171-0, audio
+@G:	Cookie
+*PAR:	well let's see &=sighs . [+ exc] 440_1100
+%mor:	co|well v|let~pro:obj|us v|see .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|COMP 5|2|PUNCT
+%wor:	well 440_690 let's 690_950 see 950_1100 .
+*PAR:	the children are getting cookies . 3289_4769
+%mor:	det:art|the n|child&PL aux|be&PRES part|get-PRESP n|cookie-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	the 3289_3299 children 3299_3769 are 3769_3799 getting 3799_4179 cookies 4179_4769 .
+*PAR:	and the stool is going to fall . 5392_7252
+%mor:	coord|and det:art|the n|stool aux|be&3S part|go-PRESP prep|to
+	n|fall .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+%wor:	and 5392_5542 the 5852_5902 stool 5902_6292 is 6292_6352 going 6352_6652 to 6652_6712 fall 6712_7252 .
+*PAR:	the sink is overflowing . 7964_9134
+%mor:	det:art|the n|sink aux|be&3S over#part|flow-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%wor:	the 7964_8104 sink 8104_8344 is 8344_8454 overflowing 8524_9134 .
+*PAR:	the mother's <washing or> [//] drying dishes . 9154_13374
+%mor:	det:art|the n|mother~aux|be&3S part|dry-PRESP n|dish-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	the 9154_9524 mother's 11014_11404 washing 11434_11974 or 12164_12234 drying 12234_12724 dishes 12724_13374 .
+*PAR:	&-um (.) the girl is putting her finger up to her mouth . 15150_20710
+%mor:	det:art|the n|girl aux|be&3S part|put-PRESP det:poss|her n|finger
+	adv|up prep|to det:poss|her n|mouth .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|JCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+%wor:	&-um 15150_16600 the 17920_17930 girl 17930_18270 is 18300_18410 putting 18470_18750 her 18750_18790 finger 18790_19270 up 19270_19480 to 19480_19850 her 20380_20420 mouth 20420_20710 .
+*PAR:	like I said the mother doesn't know they took the lid off the
+	cookie jar . 21266_24406
+%mor:	conj|like pro:sub|I v|say&PAST det:art|the n|mother
+	mod|do&3S~neg|not v|know pro:sub|they v|take&PAST det:art|the n|lid
+	prep|off det:art|the n|cookie n|jar .
+%gra:	1|3|LINK 2|3|SUBJ 3|8|CJCT 4|5|DET 5|8|SUBJ 6|8|AUX 7|6|NEG 8|0|ROOT
+	9|10|SUBJ 10|8|COMP 11|12|DET 12|10|OBJ 13|10|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|8|PUNCT
+%wor:	like 21266_21356 I 21356_21366 said 21366_21706 the 21706_21716 mother 21716_21946 doesn't 21946_22276 know 22276_22736 they 22766_22846 took 22846_23206 the 23206_23366 lid 23366_23526 off 23526_23676 the 23676_23686 cookie 23956_24256 jar 24306_24406 .
+*PAR:	they opened the door . 24555_25585
+%mor:	pro:sub|they v|open-PAST det:art|the n|door .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	they 24555_24765 opened 24765_25185 the 25185_25195 door 25195_25585 .
+*PAR:	and (.) that's all I can see . [+ exc] 33746_35486
+%mor:	coord|and pro:dem|that~cop|be&3S pro:indef|all pro:sub|I mod|can
+	v|see .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|7|SUBJ 6|7|AUX 7|4|CMOD 8|3|PUNCT
+%wor:	and 33746_33836 that's 33836_33966 all 33966_34026 I 34026_34086 can 34086_34856 see 35386_35486 .
+*INV:	okay . 38963_39053
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	okay 38963_39053 .
+@End

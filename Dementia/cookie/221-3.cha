@@ -1,0 +1,90 @@
+@UTF8
+@PID:	11312/t-00002567-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|74;00.|male|MCI||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	221-3, audio
+@Comment:	age is educated estimate, extrapolated from incomplete
+	demographic data
+@G:	Cookie
+*INV:	picture . 650_890
+%wor:	picture 650_890 .
+%mor:	n|picture .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	well ‡ the boy is taking cookies out_o(f) the cookie jar . 1741_6001
+%wor:	well 1741_2401 ‡ the 2851_2991 boy 2991_3431 is 3431_3811 taking 3851_4281 cookies 4281_4761 out_o(f) 4761_5251 the 5251_5271 cookie 5271_5571 jar 5571_6001 .
+%mor:	co|well beg|beg det:art|the n|boy aux|be&3S part|take-PRESP
+	n|cookie-PL prep|out_of det:art|the n|cookie n|jar .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|6|PUNCT
+*PAR:	and he's handing one to his sister as he almost falls off his stool
+	. 6325_13675
+%wor:	and 6325_6565 he's 6565_6755 handing 6825_7355 one 7355_7675 to 7675_8005 his 8005_8255 sister 8465_9335 as 9435_9505 he 9505_9825 almost 10535_11145 falls 11435_11975 off 12095_12345 his 12455_12735 stool 13245_13675  .
+%mor:	coord|and pro:sub|he~aux|be&3S part|hand-PRESP det:num|one prep|to
+	det:poss|his n|sister conj|as pro:sub|he adv|almost n|fall-PL
+	prep|off det:poss|his n|stool .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|5|JCT 7|8|DET 8|6|POBJ
+	9|12|LINK 10|12|SUBJ 11|12|JCT 12|4|CJCT 13|12|NJCT 14|15|DET
+	15|13|POBJ 16|4|PUNCT
+*PAR:	and he has knocked the lid off the cookie jar . 13873_17853
+%wor:	and 13873_14153 he 14153_14193 has 14193_14363 knocked 14443_14753 the 15573_15943 lid 15943_16333 off 16373_16613 the 16733_16903 cookie 16903_17343 jar 17453_17853 .
+%mor:	coord|and pro:sub|he aux|have&3S part|knock-PASTP det:art|the n|lid
+	prep|off det:art|the n|cookie n|jar .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|4|PUNCT
+*PAR:	and the mother is washing dishes . 18564_23334
+%wor:	and 18564_18854 the 18854_18874 mother 18874_19754 is 20294_20614 washing 20614_22414 dishes 22414_23334 .
+%mor:	coord|and det:art|the n|mother aux|be&3S part|wash-PRESP n|dish-PL
+	.
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	and she has let the sink overflow . 23549_26179
+%wor:	and 23549_23769 she 23769_23849 has 23849_24129 let 24229_24559 the 24559_24669 sink 24869_25209 overflow 25309_26179 .
+%mor:	coord|and pro:sub|she aux|have&3S v|let&ZERO det:art|the n|sink
+	over#v|flow .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|POSTMOD
+	8|4|PUNCT
+*PAR:	and she's standing in a puddle . 26200_28180
+%wor:	and 26200_26350 she's 26380_26660 standing 26710_27180 in 27180_27310 a 27310_27420 puddle 27420_28180 .
+%mor:	coord|and pro:sub|she~aux|be&3S part|stand-PRESP prep|in det:art|a
+	n|puddle .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	and &+d window is open . [+ gram] 29280_32960
+%wor:	and 29280_29610 &+d window 29610_31690 is 31720_32060 open 32400_32960 . [+ gram]
+%mor:	coord|and n|window cop|be&3S adj|open .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	and &-uh there's a view of the back of the house with a hedge and a
+	nice walk and a grassy area . 32997_43607
+%wor:	and 32997_33537 &-uh 34467_34477 there's 34477_35077 a 35077_36707 view 36737_37107 of 37107_37337 the 37337_37477 back 37557_37977 of 37977_38237 the 38237_38267 house 38267_38837 with 38987_39227 a 39227_39477 hedge 39527_40117 and 40147_40327 a 40327_40397  nice 40397_40717 walk 40867_41507 and 41927_42097 a 42097_42167 grassy 42167_42967 area 42997_43607 .
+%mor:	coord|and pro:exist|there~cop|be&3S det:art|a n|view prep|of
+	det:art|the n|back prep|of det:art|the n|house prep|with det:art|a
+	n|hedge coord|and det:art|a adj|nice n|walk coord|and det:art|a
+	adj|grass&dn-Y n|area .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|8|DET
+	8|6|POBJ 9|8|NJCT 10|11|DET 11|9|POBJ 12|5|NJCT 13|14|DET 14|12|POBJ
+	15|14|CONJ 16|18|DET 17|18|MOD 18|15|COORD 19|5|CONJ 20|22|DET
+	21|22|MOD 22|19|COORD 23|3|PUNCT
+*PAR:	and the curtains are blowing in the wind . 44262_48602
+%wor:	and 44262_44632 the 44632_44642 curtains 44642_45242 are 45402_45642 blowing 45642_46682 in 47232_47612 the 47612_47632 wind 47632_48602 .
+%mor:	coord|and det:art|the n|curtain-PL aux|be&PRES part|blow-PRESP
+	prep|in det:art|the n|wind .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	and she's standing in a puddle . 49370_51790
+%wor:	and 49370_49720 she's 49830_50070 standing 50210_50770 in 50770_50910 a 50910_50980 puddle 50980_51790 .
+%mor:	coord|and pro:sub|she~aux|be&3S part|stand-PRESP prep|in det:art|a
+	n|puddle .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	and so that's about all . [+ exc] 52844_55104
+%wor:	and 52844_53624 so 53734_54194 that's 54554_54824 about 54854_55054 all 55054_55104 . [+ exc]
+%mor:	coord|and co|so pro:dem|that~cop|be&3S adv|about adv|all .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|4|PUNCT
+*INV:	okay ‡ that's fine . 55520_56160
+%wor:	okay 55520_55640 ‡ that's 55640_55890 fine 56040_56160 .
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+@End

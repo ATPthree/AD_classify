@@ -1,0 +1,100 @@
+@UTF8
+@PID:	11312/t-00016474-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|87;|female|ProbableAD||Participant|24||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	650-0, audio
+@G:	George_Immediate
+*INV:	what was that story about I just read ? 1656000_1659000
+%mor:	pro:int|what cop|be&PAST&13S pro:dem|that n|story prep|about
+	pro:sub|I adv|just v|read&ZERO ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|8|JCT 6|8|SUBJ 7|8|JCT 8|4|ENUM
+	9|2|PUNCT
+%com:	my best guess is that it's a George task due to the use of the word
+	"grandchildren", but no other context clues indicate whether it's a
+	George task or a Bill task .
+*PAR:	+< yeah . [+ exc] 1657100_1657808
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	uhhuh . [+ exc] 1659001_1659686
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	about &-uh &-uh &-uh &-uh <is it> [//] &-uh was it &-uh +... [+ exc] 1659686_1667441
+%mor:	adv|about cop|be&PAST&13S pro:per|it +...
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	I can't remember what relations were . [+ exc] 1667441_1669972
+%mor:	pro:sub|I mod|can~neg|not v|remember pro:int|what
+	n|relate&dv-TION-PL cop|be&PAST .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|4|PUNCT
+*INV:	okay . 1669972_1670785
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh ‡ &-uh &-uh <the but the> [//] &-uh (.) were they &-uh grandchildren
+	? 1670785_1680073
+%mor:	co|oh beg|beg aux|be&PAST pro:sub|they grand#n|child&PL ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|0|INCROOT 6|5|PUNCT
+*INV:	uhhuh . 1680073_1680723
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and [/] &-uh and &-uh they went to visit their relations . 1680723_1687631
+%mor:	coord|and pro:sub|they v|go&PAST inf|to v|visit det:poss|their
+	n|relate&dv-TION-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*INV:	right . 1687631_1687852
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+< &-uh and &-uh (.) &-uh &-uh &-uh and &-uh +... [+ exc] 1687631_1696071
+%mor:	coord|and coord|and +...
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	see ‡ &-uh what makes it &-uh &-uh &-uh +..? [+ exc] 1696071_1703072
+%mor:	co|see beg|beg pro:int|what v|make-3S pro:per|it +..?
+%gra:	1|0|BEG 2|1|BEGP 3|4|LINK 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	what makes that +/? [+ exc] 1703072_1704593
+%mor:	pro:int|what v|make-3S comp|that +/?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*INV:	+< can you remember any more ? 1703072_1705173
+%mor:	mod|can pro:per|you v|remember qn|any pro:indef|more ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*PAR:	+< huh ? [+ exc] 1704873_1705314
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	can you remember any more about that story ? 1705314_1707613
+%mor:	mod|can pro:per|you v|remember qn|any adv|more prep|about
+	det:dem|that n|story ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|JCT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	+< I [//] &-um &-uh do you think it's part nervousness that &-uh +...
+	[+ exc] 1707613_1712164
+%mor:	mod|do pro:per|you v|think pro:per|it~cop|be&3S adj|part
+	n|nervous&dadj-NESS pro:dem|that +...
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|MOD 7|5|PRED 8|5|PRED
+	9|3|PUNCT
+*INV:	+< no [/] no ‡ I don't really think it's nervousness . 1712164_1714614
+%mor:	co|no beg|beg pro:sub|I mod|do~neg|not adv|real&dadj-LY v|think
+	pro:per|it~cop|be&3S n|nervous&dadj-NESS .
+%gra:	1|0|BEG 2|1|BEGP 3|7|SUBJ 4|7|AUX 5|4|NEG 6|7|JCT 7|0|ROOT 8|9|SUBJ
+	9|7|COMP 10|9|PRED 11|7|PUNCT
+*PAR:	well ‡ <why doesn't> [/] why doesn't it &-uh &-uh show +... [+ exc] 1714614_1719002
+%mor:	co|well beg|beg pro:int|why mod|do&3S~neg|not pro:per|it v|show
+	+...
+%gra:	1|0|BEG 2|1|BEGP 3|7|JCT 4|7|AUX 5|4|NEG 6|7|SUBJ 7|0|ROOT 8|7|PUNCT
+*PAR:	&-uh I_mean in my &-uh brain &-uh that [//] &-uh &-uh what [//] the [/]
+	&-uh the picture that you painted . [+ exc] 1719002_1726827
+%mor:	co|I_mean prep|in det:poss|my n|brain det:art|the n|picture
+	pro:rel|that pro:per|you v|paint-PAST .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|6|DET 6|2|POBJ 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|1|PUNCT
+*PAR:	you_know about the story . [+ exc] 1726827_1728255
+%mor:	co|you_know prep|about det:art|the n|story .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	I_mean &-uh &-uh why don't I see that anymore ? [+ exc] 1728255_1731135
+%mor:	co|I_mean pro:int|why mod|do~neg|not pro:sub|I v|see comp|that
+	adv|anymore ?
+%gra:	1|6|COM 2|6|JCT 3|6|AUX 4|3|NEG 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|7|JCT
+	9|6|PUNCT
+*INV:	+< that's alright . 1730135_1731715
+%mor:	pro:dem|that~cop|be&3S adj|alright .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

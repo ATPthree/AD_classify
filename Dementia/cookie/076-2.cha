@@ -1,0 +1,234 @@
+@UTF8
+@PID:	11312/t-00002487-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|70;00.|female|ProbableAD||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	076-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete
+	demographic data
+@G:	Cookie
+*INV:	tell me all the action you see going on in the picture . 500_3020
+%mor:	v|tell pro:obj|me adv|all det:art|the n|action pro:per|you co|see
+	part|go-PRESP adv|on prep|in det:art|the n|picture .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|JCT 4|5|DET 5|1|OBJ 6|5|OBJ 7|8|COM 8|6|COMP
+	9|8|JCT 10|8|JCT 11|12|DET 12|10|POBJ 13|1|PUNCT
+%wor:	tell 500_690 me 690_840 all 870_1090 the 1090_1210 action 1210_1650 you 1650_1790 see 1890_2050 going 2050_2400 on 2400_2550 in 2550_2760 the 2790_2800 picture 2800_3020 .
+*PAR:	oh my . [+ exc] 3709_4019
+%mor:	co|oh det:poss|my .
+%gra:	1|0|INCROOT 2|3|DET 3|1|PUNCT
+%wor:	oh 3709_3739 my 3939_4019 .
+*PAR:	you mean how much or just &+t the ones ? [+ exc] 4230_6090
+%mor:	pro:per|you v|mean pro:int|how adv|much coord|or adv|just
+	det:art|the pro:indef|one-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|4|CONJ 6|8|JCT 7|8|DET 8|5|COORD
+	9|2|PUNCT
+%wor:	you 4230_4330 mean 4330_4510 how 4510_4690 much 4690_5000 or 5000_5060 just 5060_5420 &+t the 5420_5520 ones 5520_6090 ?
+*INV:	+< just tell me all the action . 6043_7193
+%mor:	adv|just v|tell pro:obj|me adv|all det:art|the n|action .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|6|JCT 5|6|DET 6|2|OBJ 7|2|PUNCT
+%wor:	just 6043_6183 tell 6183_6303 me 6303_6453 all 6453_6673 the 6673_6823 action 6823_7193 .
+*INV:	tell me what's going on . 7232_8292
+%mor:	v|tell pro:obj|me pro:int|what~aux|be&3S part|go-PRESP adv|on .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|LINK 4|5|AUX 5|1|COMP 6|5|JCT 7|1|PUNCT
+%wor:	tell 7232_7452 me 7452_7532 what's 7532_7772 going 7772_8112 on 8112_8292 .
+*PAR:	+< oh . [+ exc] 8420_8450
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	oh 8420_8450 .
+*PAR:	there's [//] the sink is overflowing while she's wiping &-uh &-uh
+	&+k &-uh a plate and not looking &=laughs . 9590_15110
+%mor:	det:art|the n|sink aux|be&3S over#part|flow-PRESP conj|while
+	pro:sub|she~aux|be&3S part|wipe-PRESP det:art|a n|plate coord|and
+	neg|not part|look-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CJCT
+	9|10|DET 10|8|OBJ 11|8|CONJ 12|13|NEG 13|11|COORD 14|4|PUNCT
+%wor:	there's 9590_9860 the 9900_10030 sink 10030_10330 is 10330_10500 overflowing 10620_11300 while 11300_11470 she's 11470_11690 wiping 11690_12260 &-uh 12990_13020 &-uh 13020_13090 &+k &-uh 13090_13130 a 13420_13730 plate 14090_14430 and 14430_14610 not 14610_14820 looking 14820_15110 .
+*INV:	mhm . 16225_16565
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	mhm 16225_16565 .
+*PAR:	the little boy is hungry . 16906_18146
+%mor:	det:art|the adj|little n|boy cop|be&3S adj|hungry .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+%wor:	the 16906_16966 little 16966_17186 boy 17186_17376 is 17376_17726 hungry 17886_18146 .
+*PAR:	he wants to get some cookies . 18190_19470
+%mor:	pro:sub|he v|want-3S inf|to v|get qn|some n|cookie-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|QUANT 6|4|OBJ 7|2|PUNCT
+%wor:	he 18190_18300 wants 18300_18610 to 18610_18700 get 18700_18930 some 18930_19110 cookies 19140_19470 .
+*PAR:	and he's standing on &-uh &-um a stool . 19537_22397
+%mor:	coord|and pro:sub|he~aux|be&3S part|stand-PRESP prep|on det:art|a
+	n|stool .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%wor:	and 19537_19667 he's 19667_19767 standing 19767_20237 on 20237_20487 &-uh 21197_21207 &-um 21207_21517 a 21937_21977 stool 21977_22397 .
+*PAR:	and it's tipping over . 23020_23730
+%mor:	coord|and pro:per|it~aux|be&3S part|tip-PRESP adv|over .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%wor:	and 23020_23090 it's 23090_23190 tipping 23190_23510 over 23510_23730 .
+*PAR:	and I don't know whether he's gonna bring the cookie jar with him
+	or what &=laughs . 24417_26807
+%mor:	coord|and pro:sub|I mod|do~neg|not v|know comp|whether
+	pro:sub|he~aux|be&3S part|go&PRESP~inf|to v|bring det:art|the
+	n|cookie n|jar prep|with pro:obj|him coord|or pro:int|what .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|COMP 10|11|INF 11|9|COMP 12|14|DET 13|14|MOD 14|11|OBJ 15|11|JCT
+	16|15|POBJ 17|11|CONJ 18|17|COORD 19|5|PUNCT
+%wor:	and 24417_24577 I 24577_24607 don't 24607_24737 know 24737_24777 whether 24777_24917 he's 24917_25077 gonna 25077_25267 bring 25267_25597 the 25627_25637 cookie 25637_25867 jar 25867_26147 with 26147_26347 him 26347_26447 or 26447_26557 what 26557_26807 .
+*PAR:	and the little girl is &-um &-uh holding up her hand wanting some .
+	28074_34584
+%mor:	coord|and det:art|the adj|little n|girl aux|be&3S part|hold-PRESP
+	prep|up det:poss|her n|hand part|want-PRESP qn|some .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|XJCT 11|10|OBJ 12|6|PUNCT
+%wor:	and 28074_28414 the 29084_29144 little 29144_29514 girl 29514_29944 is 29944_30244 &-um 30244_30524 &-uh 32864_32894 holding 32894_33174 up 33174_33334 her 33334_33424 hand 33424_33924 wanting 33954_34304 some 34304_34584 .
+*PAR:	and he's gonna give to him [* s:r] . 34626_35726
+%mor:	coord|and pro:sub|he~aux|be&3S part|go&PRESP~inf|to v|give prep|to
+	pro:obj|him .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|7|POBJ
+	9|4|PUNCT
+%wor:	and 34626_34756 he's 34756_34916 gonna 34946_35066 give 35266_35596 to 35596_35686 him 35686_35726 .
+*PAR:	but &-uh I don't know if she has a finger to her mouth but +... 35800_39160
+%mor:	conj|but pro:sub|I mod|do~neg|not v|know comp|if pro:sub|she
+	v|have&3S det:art|a n|finger prep|to det:poss|her n|mouth conj|but
+	+...
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|COMP
+	9|10|DET 10|8|OBJ 11|8|JCT 12|13|DET 13|11|POBJ 14|5|OM 15|5|PUNCT
+%wor:	but 35800_36010 &-uh 36010_36020 I 37230_37310 don't 37310_37480 know 37480_37610 if 37610_37680 she 37680_37760 has 37760_37920 a 37920_38000 finger 38000_38380 to 38380_38610 her 38610_38670 mouth 38670_39070 but 39070_39160 +...
+*PAR:	and she knows that he's gonna be tipping over it looks like to me .
+	39450_42180
+%mor:	coord|and pro:sub|she v|know-3S comp|that pro:sub|he~aux|be&3S
+	part|go&PRESP~inf|to aux|be part|tip-PRESP adv|over pro:per|it
+	n|look-PL co|like prep|to pro:obj|me .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|COMP 8|10|INF
+	9|10|AUX 10|13|XJCT 11|10|JCT 12|13|SUBJ 13|7|OBJ 14|13|COM 15|14|JCT
+	16|15|POBJ 17|3|PUNCT
+%wor:	and 39450_39560 she 39560_39670 knows 39670_40100 that 40100_40410 he's 40410_40550 gonna 40550_40720 be 40720_40840 tipping 40840_41220 over 41220_41440 it 41440_41580 looks 41580_41790 like 41790_42010 to 42010_42100 me 42100_42180 .
+*INV:	uhhuh . 43892_44312
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	uhhuh 43892_44312 .
+*PAR:	or maybe she's just not noticing it and making her mouth get ready
+	for this good cookie . 43893_49553
+%mor:	coord|or adv|maybe pro:sub|she~aux|be&3S adv|just neg|not
+	part|notice-PRESP pro:per|it coord|and part|make-PRESP det:poss|her
+	n|mouth aux|get v|ready prep|for det:dem|this adj|good n|cookie .
+%gra:	1|7|LINK 2|7|JCT 3|7|SUBJ 4|7|AUX 5|6|JCT 6|4|NEG 7|0|ROOT 8|7|OBJ
+	9|7|CONJ 10|9|COORD 11|12|DET 12|14|SUBJ 13|14|AUX 14|10|COMP 15|14|JCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|7|PUNCT
+%wor:	or 43893_43943 maybe 43943_44293 she's 44293_44513 just 44513_44833 not 44833_45123 noticing 45123_45653 it 45653_45793 and 45793_46103 making 46463_47313 her 47513_47573 mouth 47743_48023 get 48103_48303 ready 48303_48523 for 48523_48683 this 48683_48923 good 48923_49233 cookie 49233_49553 .
+*PAR:	I don't know which way it is for the little girl . [+ exc] 49991_51191
+%mor:	pro:sub|I mod|do~neg|not v|know det:int|which n|way pro:per|it
+	cop|be&3S prep|for det:art|the adj|little n|girl .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|LINK 6|8|JCT 7|8|SUBJ 8|4|COMP
+	9|8|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|4|PUNCT
+%wor:	I 49991_50021 don't 50021_50171 know 50171_50231 which 50231_50501 way 50531_50631 it 50631_50741 is 50741_50861 for 50861_50921 the 50921_50931 little 50931_51101 girl 51101_51191 .
+*PAR:	(be)cause she's smiling . [+ gram] 52537_53297
+%mor:	conj|because pro:sub|she~aux|be&3S part|smile-PRESP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%wor:	(be)cause 52537_52727 she's 52727_52867 smiling 52867_53297 .
+*PAR:	I think if she saw him falling over she'd do something to [/] to
+	help him so he wouldn't get hurt . 53333_58533
+%mor:	pro:sub|I v|think comp|if pro:sub|she v|see&PAST pro:obj|him
+	part|fall-PRESP adv|over pro:sub|she~mod|genmod v|do
+	pro:indef|something inf|to v|help pro:obj|him conj|so pro:sub|he
+	mod|will&COND~neg|not aux|get part|hurt&PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|5|OBJ 7|11|XJCT 8|7|JCT
+	9|11|SUBJ 10|11|AUX 11|5|COMP 12|11|OBJ 13|14|INF 14|12|XMOD 15|14|OBJ
+	16|21|LINK 17|21|SUBJ 18|21|AUX 19|18|NEG 20|21|AUX 21|2|CJCT 22|2|PUNCT
+%wor:	I 53333_53413 think 53413_53643 if 53643_53823 she 53823_53883 saw 53883_54213 him 54213_54333 falling 54333_54733 over 54733_55003 she'd 55003_55293 do 55793_55913 something 55913_56333 to 56333_56473 to 57173_57233 help 57233_57523 him 57523_57663 so 57663_57793 he 57793_57823 wouldn't 57823_58173 get 58173_58263 hurt 58373_58533 .
+*PAR:	I_mean she'd grab it or something . 58933_60243
+%mor:	co|I_mean pro:sub|she~mod|genmod v|grab pro:per|it coord|or
+	pro:indef|something .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|CONJ 7|6|COORD 8|4|PUNCT
+%wor:	I_mean 58933_59183 she'd 59183_59293 grab 59473_59743 it 59743_59833 or 59873_59903 something 59903_60243 .
+*INV:	+< mhm . 60210_60390
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	mhm 60210_60390 .
+*PAR:	but she's just looking up at him you_know lookin(g) up at those
+	good cookies and waitin(g) for them to come to her hand . 61072_66032
+%mor:	conj|but pro:sub|she~aux|be&3S adv|just part|look-PRESP adv|up
+	prep|at pro:obj|him co|you_know part|look-PRESP adv|up prep|at
+	det:dem|those adj|good n|cookie-PL coord|and part|wait-PRESP
+	prep|for pro:obj|them inf|to v|come prep|to det:poss|her n|hand .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|5|JCT 8|7|POBJ
+	9|5|COM 10|5|XJCT 11|10|JCT 12|10|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|10|CONJ 17|16|COORD 18|17|JCT 19|18|POBJ 20|21|INF 21|17|XJCT 22|21|JCT
+	23|24|DET 24|22|POBJ 25|5|PUNCT
+%wor:	but 61072_61192 she's 61192_61322 just 61322_61502 looking 61502_61802 up 61802_61922 at 61922_62012 him 62072_62462 you_know 62462_62552 lookin(g) 62552_62812 up 62812_62872 at 62872_63122 those 63122_63232 good 63302_63492 cookies 63492_63722 and 63722_63922 waitin(g) 64442_64722 for 64722_64892 them 64892_65102 to 65102_65162 come 65162_65402 to 65402_65692 her 65752_65792 hand 65792_66032 .
+*PAR:	but this little finger in her mouth is +... 66979_69479
+%mor:	conj|but det:dem|this adj|little n|finger prep|in det:poss|her
+	n|mouth cop|be&3S +...
+%gra:	1|8|LINK 2|4|DET 3|4|MOD 4|8|SUBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|0|ROOT
+	9|8|PUNCT
+%wor:	but 66979_67209 this 67209_67439 little 67889_68169 finger 68269_68509 in 68509_68739 her 68739_68789 mouth 68789_69239 is 69239_69479 +...
+*PAR:	&-uh I'm not quite sure what it means . [+ exc] 69939_71279
+%mor:	pro:sub|I~cop|be&1S neg|not adv|quite adj|sure pro:int|what
+	pro:per|it v|mean-3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|JCT 5|2|PRED 6|8|LINK 7|8|SUBJ 8|5|CMOD
+	9|2|PUNCT
+%wor:	&-uh 69939_69949 I'm 69949_70099 not 70099_70239 quite 70239_70549 sure 70549_70689 what 70689_70869 it 70869_70999 means 70999_71279 .
+*PAR:	I think it means that it's gonna be good &=laughs . 71808_73818
+%mor:	pro:sub|I v|think pro:per|it v|mean-3S comp|that
+	pro:per|it~aux|be&3S part|go&PRESP~inf|to cop|be adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|COMP
+	9|10|INF 10|8|COMP 11|10|PRED 12|2|PUNCT
+%wor:	I 71808_71888 think 71888_72088 it 72088_72188 means 72188_72448 that 72448_72528 it's 72528_72658 gonna 72658_72828 be 72828_73048 good 73048_73818 .
+*INV:	+< mhm probably . 73963_74743
+%mor:	co|mhm=yes adv|probable&dadj-LY .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%wor:	mhm 73963_74093 probably 74093_74743 .
+*PAR:	yeah . [+ exc]
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	yeah .
+*INV:	okay . 76080_76460
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	okay 76080_76460 .
+*PAR:	and &-uh I don't know whether the mother knows this is wet yet
+	&=laughs . 76797_79637
+%mor:	coord|and pro:sub|I mod|do~neg|not v|know comp|whether det:art|the
+	n|mother v|know-3S pro:dem|this cop|be&3S adj|wet adv:tem|yet .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|9|LINK 7|8|DET 8|9|SUBJ
+	9|5|COMP 10|11|SUBJ 11|9|COMP 12|11|PRED 13|12|JCT 14|5|PUNCT
+%wor:	and 76797_76977 &-uh 77107_77117 I 77117_77217 don't 77217_77487 know 77487_77567 whether 77567_77827 the 77827_77947 mother 77947_78257 knows 78257_78727 this 78727_78957 is 78957_79087 wet 79087_79357 yet 79357_79637 .
+*INV:	she's gonna find out isn't she ? 80760_82090
+%mor:	pro:sub|she~aux|be&3S part|go&PRESP~inf|to v|find adv|out
+	cop|be&3S~neg|not pro:sub|she ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|JCT 7|5|COMP 8|7|NEG
+	9|7|PRED 10|3|PUNCT
+%wor:	she's 80760_80890 gonna 80890_81180 find 81210_81480 out 81480_81730 isn't 81730_82090 she ?
+*PAR:	+< she's thinking something else I think . 81800_83410
+%mor:	pro:sub|she~aux|be&3S part|think-PRESP pro:indef|something
+	post|else pro:sub|I v|think .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|4|PQ 6|7|SUBJ 7|3|CJCT 8|3|PUNCT
+%wor:	she's 81800_82010 thinking 82010_82430 something 82430_82860 else 82860_83090 I 83140_83200 think 83310_83410 .
+*PAR:	I don't know what it is . [+ exc] 83646_84496
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|what pro:per|it cop|be&3S .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|4|PUNCT
+%wor:	I 83646_83686 don't 83686_83886 know 83886_83926 what 83926_84206 it 84206_84326 is 84326_84496 .
+*PAR:	+" <what are> [//] what's [//] what are we going to have for lunch
+	? 85710_87760
+%mor:	pro:int|what cop|be&PRES pro:sub|we part|go-PRESP inf|to v|have
+	prep|for n|lunch ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|3|XMOD 5|6|INF 6|4|COMP 7|6|JCT 8|7|POBJ
+	9|2|PUNCT
+%wor:	what 85710_85800 are 85800_85830 what's 85830_86190 what 86630_86730 are 86730_86760 we 86760_86830 going 86830_87020 to 87020_87100 have 87100_87240 for 87240_87330 lunch 87330_87760 ?
+*PAR:	or [/] &=laughs or she's got something in her mind (be)cause
+	certainly she'd see this if she didn't hear it . 88070_93350
+%mor:	coord|or pro:sub|she~aux|be&3S part|get&PASTP pro:indef|something
+	prep|in det:poss|her n|mind conj|because adv|certain&dadj-LY
+	pro:sub|she~mod|genmod v|see det:dem|this conj|if pro:sub|she
+	mod|do&PAST~neg|not v|hear pro:per|it .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|13|LINK 10|13|JCT 11|13|SUBJ 12|13|AUX 13|4|CJCT 14|15|DET 15|19|LINK
+	16|19|SUBJ 17|19|AUX 18|17|NEG 19|13|COMP 20|19|OBJ 21|4|PUNCT
+%wor:	or 88070_88170 or 88200_88360 she's 88760_88890 got 88890_89120 something 89120_89450 in 89450_89560 her 89560_89620 mind 89620_89940 (be)cause 89940_90120 certainly 90120_90460 she'd 90460_90760 see 91550_91900 this 91900_92230 if 92230_92400 she 92400_92410 didn't 92410_93010 hear 93010_93190 it 93190_93350 .
+*INV:	okay . 93480_94360
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	okay 93480_94360 .
+@End

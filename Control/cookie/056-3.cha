@@ -1,0 +1,66 @@
+@UTF8
+@PID:	11312/t-00002222-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|77;|male|Control||Participant|29||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	056-3, audio
+@G:	Cookie
+*INV:	okay ‡ you can start now . 550_1530
+%wor:	okay 550_760 ‡ you 790_880 can 880_1050 start 1050_1320 now 1320_1530 .
+%mor:	co|okay beg|beg pro:per|you mod|can v|start adv:tem|now .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	okay . [+ exc] 2604_2994
+%wor:	okay 2604_2994 . [+ exc]
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-uh the mother is wiping a dish at the sink . 3321_8221
+%wor:	&-uh 3321_3601 the 3601_3721 mother 4551_5021 is 5021_5371 wiping 5571_6251 a 6851_6961 dish 6961_7361 at 7361_7621 the 7621_7731 sink 7731_8221 .
+%mor:	det:art|the n|mother aux|be&3S part|wipe-PRESP det:art|a n|dish
+	prep|at det:art|the n|sink .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*PAR:	&-um the water is overflowing from the sink . 8707_12727
+%wor:	&-um 8707_8937 the 9877_9887 water 10007_10537 is 10537_10687 overflowing 10687_11507 from 11907_12177 the 12177_12267 sink 12267_12727 .
+%mor:	det:art|the n|water aux|be&3S over#part|flow-PRESP prep|from
+	det:art|the n|sink .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	a youngster's about to fall off a stool reaching for a cookie jar .
+	15158_20008
+%wor:	a 15158_15218 youngster's 15218_15898 about 15898_16338 to 16338_16508 fall 16508_16998 off 16998_17268 a 17268_17318 stool 17318_18008 reaching 18418_18828 for 18828_19048 a 19048_19078 cookie 19078_19448 jar 19448_20008 .
+%mor:	det:art|a n|youngster~aux|be&3S adv|about prep|to n|fall prep|off
+	det:art|a n|stool part|reach-PRESP prep|for det:art|a n|cookie n|jar
+	.
+%gra:	1|2|DET 2|10|SUBJ 3|10|AUX 4|5|JCT 5|3|JCT 6|5|POBJ 7|6|NJCT
+	8|9|DET 9|7|POBJ 10|0|ROOT 11|10|JCT 12|14|DET 13|14|MOD 14|11|POBJ
+	15|10|PUNCT
+*PAR:	and the little girl is holding up her hand to grab a cookie out_of
+	his hand . 20823_27893
+%wor:	and 20823_21353 the 22113_22683 little 22953_23223 girl 23223_23693 is 23693_23943 holding 23943_24603 up 24603_24763 her 24763_24913 hand 24913_25293 to 25293_25543 grab 26203_26483 a 26483_26543 cookie 26573_26883 out_of 26883_27263  his 27263_27513 hand 27513_27893 .
+%mor:	coord|and det:art|the adj|little n|girl aux|be&3S part|hold-PRESP
+	prep|up det:poss|her n|hand inf|to v|grab det:art|a n|cookie
+	prep|out_of det:poss|his n|hand .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|11|INF 11|6|XJCT 12|13|DET 13|11|OBJ 14|11|JCT 15|16|DET
+	16|14|POBJ 17|6|PUNCT
+*PAR:	(.) the window appears to be open but I can't make out any action
+	in the background there . 33319_40219
+%wor:	(.) the 33319_33369 window 33369_33779 appears 33779_34179 to 34179_34239 be 34239_34469 open 34469_35049 but 37639_37779 I 37779_37889 can't 37889_38159 make 38159_38409 out 38409_38549 any 38549_38799 action 38799_39169  in 39169_39269 the 39269_39359 background 39359_39929 there 39929_40219 .
+%mor:	det:art|the n|window v|appear-3S inf|to cop|be adj|open conj|but
+	pro:sub|I mod|can~neg|not v|make adv|out qn|any n|action prep|in
+	det:art|the n|+n|back+n|ground adv|there .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|PRED 7|11|LINK
+	8|11|SUBJ 9|11|AUX 10|9|NEG 11|3|CJCT 12|11|JCT 13|14|QUANT
+	14|11|OBJ 15|14|NJCT 16|17|DET 17|15|POBJ 18|11|JCT 19|3|PUNCT
+*PAR:	that's all . [+ exc] 43436_43836
+%wor:	that's 43436_43616 all 43616_43836 . [+ exc]
+%mor:	pro:dem|that~cop|be&3S pro:indef|all .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	okay ‡ that's fine . 44032_44852
+%wor:	okay 44032_44182 ‡ that's 44392_44602 fine 44602_44852 .
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+@End

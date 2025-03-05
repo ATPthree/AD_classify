@@ -1,0 +1,64 @@
+@UTF8
+@PID:	11312/t-00002700-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|81;|female|ProbableAD||Participant|22||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	601-0, audio
+@G:	Cookie
+*INV:	tell me everything that you see happening in that picture . 230_3250
+%wor:	tell 230_500 me 500_660 everything 660_1170 that 1170_1350 you 1350_1540 see 1590_1780 happening 1860_2410 in 2410_2570 that 2570_2800 picture 2800_3250 .
+%mor:	v|tell pro:obj|me pro:indef|everything pro:rel|that pro:per|you
+	v|see part|happen-PRESP prep|in det:dem|that n|picture .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|6|COMP
+	8|7|JCT 9|10|DET 10|8|POBJ 11|1|PUNCT
+*INV:	what's going on there ? 3316_4646
+%wor:	what's 3316_3716 going 3716_4066 on 4066_4376 there 4376_4646 ?
+%mor:	pro:int|what~aux|be&3S part|go-PRESP prep|on n|there ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	well ‡ the chair's [: stool's] [* s:r] gonna upset . 6349_8269
+%wor:	well 6349_6559 ‡ the 6559_6739 chair's [: stool's] [* s:r] 6739_7149 gonna 7149_7709 upset 7789_8269 .
+%mor:	co|well beg|beg det:art|the n|stool~aux|be&3S part|go&PRESP~inf|to
+	adj|upset .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|6|PUNCT
+*PAR:	and the kid's (..) gonna upset the cookies for one thing . 8401_10951
+%wor:	and 8401_8691 the 8691_8701 kid's 8701_8981 (..) gonna 8981_9241 upset 9241_9571 the 9571_9641 cookies 9641_10211 for 10241_10371 one 10371_10601 thing 10601_10951 .
+%mor:	coord|and det:art|the n|kid~aux|be&3S part|go&PRESP~inf|to v|upset
+	det:art|the n|cookie-PL prep|for pro:indef|one n|thing .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|9|DET
+	9|7|OBJ 10|7|JCT 11|12|SUBJ 12|10|POBJ 13|5|PUNCT
+*PAR:	and <the woman> [//] the sink's runnin(g) over the water on the
+	floor while she's dryin(g) the dishes . 13957_18717
+%wor:	and 13957_14157 <the 14157_14167 woman 14167_14747> [//] the sink's runnin(g) over the water on the  floor while she's dryin(g) the dishes . 14747_18717
+%mor:	coord|and det:art|the n|sink~aux|be&3S part|run-PRESP prep|over
+	det:art|the n|water prep|on det:art|the n|floor conj|while
+	pro:sub|she~aux|be&3S part|dry-PRESP det:art|the n|dish-PL .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|15|LINK 13|15|SUBJ 14|15|AUX
+	15|5|CJCT 16|17|DET 17|15|OBJ 18|5|PUNCT
+*PAR:	(...) and &-uh you need water in there to wash the dishes . 24517_27407
+%wor:	(...) and 24517_25257 &-uh 25257_25267 you 25267_25327 need 25327_25587 water 25587_26017 in 26017_26167 there 26167_26377 to 26377_26487 wash 26487_26747 the 26747_26957 dishes 26957_27407 .
+%mor:	coord|and pro:per|you mod|need v|water prep|in n|there inf|to
+	v|wash det:art|the n|dish-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|8|INF
+	8|4|XJCT 9|10|DET 10|8|OBJ 11|4|PUNCT
+*PAR:	and it's runnin(g) on the floor . 27454_28914
+%wor:	and 27454_27544 it's 27544_27734 runnin(g) 27734_28004 on 28004_28324 the 28324_28364 floor 28364_28914 .
+%mor:	coord|and pro:per|it~aux|be&3S part|run-PRESP prep|on det:art|the
+	n|floor .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	you can look out the window and see the grass . 31690_33610
+%wor:	you 31690_31830 can 31830_32050 look 32050_32230 out 32230_32420 the 32420_32440 window 32440_32780 and 32780_32930 see 32930_33210 the 33210_33270 grass 33270_33610 .
+%mor:	pro:per|you mod|can v|look adv|out det:art|the n|window coord|and
+	v|see det:art|the n|grass .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|3|OBJ 7|3|CONJ
+	8|7|COORD 9|10|DET 10|8|OBJ 11|3|PUNCT
+*INV:	okay . 33663_33733
+%wor:	okay 33663_33733 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

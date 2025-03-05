@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/t-00002369-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@Options:	multi
+@ID:	eng|Pitt|PAR|51;|male|Control||Participant|28||
+@Media:	255-1, audio
+@G:	Cookie
+*PAR:	I &+s see this woman who's standin(g) by the sink washin(g) dishes .
+	2110_5030
+%mor:	pro:sub|I v|see det:dem|this n|woman pro:rel|who~aux|be&3S
+	part|stand-PRESP prep|by det:art|the n|sink part|wash-PRESP
+	n|dish-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|LINK 6|7|AUX 7|4|CMOD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|10|XMOD 12|11|OBJ 13|2|PUNCT
+%wor:	I 2110_2140 &+s see 2790_2850 this 2850_3050 woman 3050_3330 who's 3330_3420 standin(g) 3420_3670 by 3670_3870 the 3870_3930 sink 3930_4400 washin(g) 4400_4770 dishes 4770_5030 .
+*PAR:	and the water's spillin(g) out over the sink . 5209_6929
+%mor:	coord|and det:art|the n|water~aux|be&3S part|spill-PRESP adv|out
+	prep|over det:art|the n|sink .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+%wor:	and 5209_5299 the 5299_5319 water's 5319_5769 spillin(g) 5769_6189 out 6189_6379 over 6379_6499 the 6499_6709 sink 6709_6929 .
+*PAR:	and I see <a little> [//] this little boy standing on a stool
+	reaching for cookies . 10279_15679
+%mor:	coord|and pro:sub|I v|see det:dem|this adj|little n|boy
+	part|stand-PRESP prep|on det:art|a n|stool part|reach-PRESP prep|for
+	n|cookie-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|XMOD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|6|XMOD 12|11|JCT 13|12|POBJ 14|3|PUNCT
+%wor:	and 10279_10369 I 10369_10449 see 10449_10839 a 10839_11139 little 11599_11969 this 12599_12829 little 12829_12959 boy 12959_13219 standing 13219_13609 on 13609_13699 a 13699_13759 stool 13759_14259 reaching 14749_15069 for 15099_15239 cookies 15289_15679 .
+*PAR:	and he looks like he's ready to fall . 15856_17486
+%mor:	coord|and pro:sub|he v|look-3S conj|like pro:sub|he~cop|be&3S
+	adj|ready prep|to n|fall .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|6|PRED 8|6|JCT
+	9|8|POBJ 10|3|PUNCT
+%wor:	and 15856_16076 he 16076_16086 looks 16086_16306 like 16306_16446 he's 16446_16606 ready 16606_16816 to 16816_16926 fall 16926_17486 .
+*PAR:	(..) &-uh as far as action goes I don't know if I see any more
+	action in there at all . [+ exc] 19090_39650
+%mor:	prep|as adv|far conj|as n|action v|go-3S pro:sub|I mod|do~neg|not
+	v|know comp|if pro:sub|I v|see qn|any qn|more n|action prep|in
+	n|there prep|at pro:indef|all .
+%gra:	1|2|COORD 2|5|JCT 3|4|COORD 4|5|SUBJ 5|0|ROOT 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|5|COMP 10|12|LINK 11|12|SUBJ 12|9|COMP 13|15|QUANT 14|15|QUANT
+	15|12|OBJ 16|12|JCT 17|16|POBJ 18|12|JCT 19|18|POBJ 20|5|PUNCT
+%wor:	&-uh 19090_19100 as 19100_19320 far 35850_35980 as 35980_36150 action 36150_36660 goes 36660_36750 I 36750_36790 don't 36790_37140 know 37740_38180 if 38260_38440 I 38440_38450 see 38450_38520 any 38520_38610 more 38610_38890 action 38920_39260 in 39260_39470 there 39470_39550 at 39550_39610 all 39610_39650 .
+@End

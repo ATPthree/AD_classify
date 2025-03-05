@@ -1,0 +1,81 @@
+@UTF8
+@PID:	11312/t-00002475-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|75;|male|MCI||Participant|27||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	061-1, audio
+@G:	Cookie
+*PAR:	movement of any kind or whatever ? [+ exc] 450_1860
+%mor:	n|movement prep|of qn|any n|kind coord|or pro:indef|whatever ?
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|QUANT 4|2|POBJ 5|1|CONJ 6|5|COORD 7|1|PUNCT
+%wor:	movement 450_900 of 900_970 any 970_1080 kind 1110_1310 or 1490_1520 whatever 1520_1860 ?
+*INV:	mhm what's going on in the picture . 2361_3971
+%mor:	co|mhm=yes pro:int|what~aux|be&3S part|go-PRESP adv|on prep|in
+	det:art|the n|picture .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+%wor:	mhm 2361_2691 what's 2791_2911 going 3051_3171 on 3381_3531 in 3771_3831 the 3831_3841 picture 3841_3971 .
+*PAR:	well ‡ he's reachin(g) for the cookie &=laughs but he's handing the
+	cookie to her . 5807_8657
+%mor:	co|well beg|beg pro:sub|he~aux|be&3S part|reach-PRESP prep|for
+	det:art|the n|cookie conj|but pro:sub|he~aux|be&3S part|hand-PRESP
+	det:art|the n|cookie prep|to pro:obj|her .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|5|CJCT 13|14|DET 14|12|OBJ 15|12|JCT
+	16|15|POBJ 17|5|PUNCT
+%wor:	well 5807_6067 he's 6377_6467 reachin(g) 6627_6957 for 6987_7067 the 7067_7237 cookie 7237_7607 but 7777_7867 he's 7867_7997 handing 7997_8267 the 8267_8377 cookie 8377_8517 to 8517_8607 her 8607_8657 .
+*PAR:	in the [/] the meantime the stool is falling over &*INV:mhm . 8777_11287
+%mor:	prep|in det:art|the n|meantime det:art|the n|stool aux|be&3S
+	part|fall-PRESP adv|over .
+%gra:	1|7|JCT 2|3|DET 3|1|POBJ 4|5|DET 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|7|PUNCT
+%wor:	in 8777_8997 the 9437_9447 the 9447_9557 meantime 9557_10037 the 10037_10147 stool 10247_10577 is 10577_10657 falling 10657_11017 over 11017_11287 &*INV:mhm .
+*PAR:	and &-uh she's dryin(g) dishes . 13329_17309
+%mor:	coord|and pro:sub|she~aux|be&3S part|dry-PRESP n|dish-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	and 13329_13909 &-uh 15619_15629 she's 15629_15849 dryin(g) 16579_16909 dishes 16909_17309 .
+*PAR:	and the sink is running over and all that kind of stuff . 17402_21732
+%mor:	coord|and det:art|the n|sink aux|be&3S part|run-PRESP adv|over
+	coord|and qn|all comp|that adj|kind prep|of n|stuff .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|CONJ 8|9|QUANT
+	9|7|COORD 10|9|PRED 11|10|JCT 12|11|POBJ 13|5|PUNCT
+%wor:	and 17402_17692 the 18092_18152 sink 18152_18352 is 18352_18492 running 18492_18762 over 18762_19032 and 19032_19342 all 20842_20982 that 20982_21192 kind 21192_21352 of 21352_21602 stuff 21602_21732 .
+*PAR:	she's xxx . [+ exc] 22886_23006
+%mor:	pro:sub|she~cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%wor:	she's 22886_23006 xxx .
+*PAR:	the little girl she's &-uh motioning for a cookie „ I guess . 27831_31411
+%mor:	det:art|the adj|little n|girl pro:sub|she~aux|be&3S
+	part|motion-PRESP prep|for det:art|a n|cookie end|end pro:sub|I
+	v|guess .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|12|ENDP 11|12|SUBJ 12|3|END 13|3|PUNCT
+%wor:	the 27831_27891 little 27891_28301 girl 28301_28391 she's 28431_28711 &-uh 28861_28871 motioning 30001_30391 for 30491_30551 a 30551_30591 cookie 30591_31021 I 31021_31031 guess 31031_31411 .
+*PAR:	that's all I see . [+ exc] 33301_33601
+%mor:	pro:dem|that~cop|be&3S pro:indef|all pro:sub|I v|see .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|SUBJ 5|3|CMOD 6|2|PUNCT
+%wor:	that's 33301_33471 all 33471_33531 I 33531_33541 see 33541_33601 .
+*INV:	anything else ? 36340_36610
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+%wor:	anything 36340_36520 else 36520_36610 ?
+*PAR:	xxx I don't see xxx . [+ exc] 39638_45988
+%mor:	pro:sub|I mod|do~neg|not v|see .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%wor:	xxx I 39638_39828 don't 45098_45778 see 45928_45988 xxx .
+*PAR:	&*INV:okay_that's_fine he's flying on his can . 53766_54906
+%mor:	pro:sub|he~aux|be&3S part|fly-PRESP prep|on det:poss|his mod|can .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%wor:	&*INV:okay_that's_fine he's 53766_53926 flying 53926_54386 on 54386_54476 his 54476_54576 can 54576_54906 .
+*PAR:	I can see that . [+ exc] 55130_55740
+%mor:	pro:sub|I mod|can v|see pro:dem|that .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	I 55130_55140 can 55140_55270 see 55360_55420 that 55420_55740 .
+*INV:	okay good . 57178_57748
+%mor:	co|okay adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%wor:	okay 57178_57348 good 57618_57748 .
+@End

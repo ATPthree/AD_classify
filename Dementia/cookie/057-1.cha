@@ -1,0 +1,95 @@
+@UTF8
+@PID:	11312/t-00002469-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|84;|female|ProbableAD||Participant|24||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	057-1, audio
+@G:	Cookie
+*PAR:	you ready ? [+ exc] 750_1190
+%wor:	you 750_850 ready 850_1190 ? [+ exc]
+%mor:	pro:per|you v|ready ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*INV:	mhm . 1444_1694
+%wor:	mhm 1444_1694 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the little girl's goin(g) “shh” . 2543_4823
+%wor:	the 2543_2553 little 2553_2853 girl's 2853_3433 goin(g) 4273_4493 “shh” 4493_4823 .
+%mor:	det:art|the adj|little n|girl~aux|be&3S part|go-PRESP co|shh .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|COM 7|5|PUNCT
+*PAR:	and she's also &-uh reaching up to get a &-uh cookie . 6012_10512
+%wor:	and 6012_6162 she's 6162_6362 also 6362_7972 &-uh 8592_8602 reaching 8602_9002 up 9002_9102 to 9102_9172 get 9402_9612 a 9612_10112 &-uh 10192_10202 cookie 10202_10512 .
+%mor:	coord|and pro:sub|she~aux|be&3S adv|also part|reach-PRESP adv|up
+	inf|to v|get det:art|a n|cookie .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|8|INF 8|5|XJCT
+	9|10|DET 10|8|OBJ 11|5|PUNCT
+*PAR:	and the [/] &+l the little boy is reaching for a cookie . 11730_15900
+%wor:	and 11730_11910 the [/] 11910_11920 &+l the 11920_12790 little 12790_13060 boy 13060_13830 is 13970_14320 reaching 14320_15070 for 15100_15440 a 15470_15500 cookie 15500_15900 .
+%mor:	coord|and det:art|the adj|little n|boy aux|be&3S part|reach-PRESP
+	prep|for det:art|a n|cookie .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|PUNCT
+*PAR:	and <he's goin(g) to> [//] his [//] the [/] &+s <the chair [: stool]
+	[* s:r-ret]> [//] the [/] &+sta &-uh the stool is tiltin(g) . 16396_25256
+%wor:	and 16396_16506 <he's 16506_16656 goin(g) 16656_16996 to 17236_17726> [//] his [//] 19376_19826 the [/] 19966_20306 &+s <the 20306_20586 chair [: stool]  [* s:r-ret]> [//] 21656_21906 the [/] 22446_22886 &+sta &-uh 22966_23106 the 23106_23276 stool 23276_23906 is 24456_24706 tiltin(g) 24806_25256 .
+%mor:	coord|and det:art|the n|stool aux|be&3S part|tilt-PRESP .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	and he's holding a [/] &-uh a cookie in his &-uh left hand . 27221_32241
+%wor:	and 27221_27331 he's 27331_27541 holding 27541_28341 a [/] 28341_28781 &-uh 29301_29311 a 29311_29471 cookie 30271_30521 in 30521_30631 his 30631_30891 &-uh 31141_31531 left 31601_31901 hand 31901_32241 .
+%mor:	coord|and pro:sub|he~aux|be&3S part|hold-PRESP det:art|a n|cookie
+	prep|in det:poss|his adj|left n|hand .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|4|PUNCT
+*PAR:	and &-uh the mother's drying dishes . 34372_37852
+%wor:	and 34372_35482 &-uh 35482_35492 the 35492_35522 mother's 35522_36042 drying 36042_36982 dishes 37422_37852 .
+%mor:	coord|and det:art|the n|mother~aux|be&3S part|dry-PRESP n|dish-PL .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	and &-uh <the water> [//] the dish water is on and it's pourin(g)
+	over onto the floor . 39718_46408
+%wor:	and 39718_40288 &-uh 40288_40518 <the 40518_40528 water 40528_41438> [//] the dish water is on and it's pourin(g)  over onto the floor . 41838_46408
+%mor:	coord|and det:art|the n|dish n|water cop|be&3S adv|on coord|and
+	pro:per|it~aux|be&3S part|pour-PRESP adv|over prep|onto det:art|the
+	n|floor .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|5|CJCT 11|10|JCT 12|10|JCT 13|14|DET
+	14|12|POBJ 15|5|PUNCT
+*PAR:	and &-uh (.) the curtains are blowing . 49428_56748
+%wor:	and 49428_50528 &-uh 50528_51218 (.) the 55298_55528 curtains 55558_56028 are 56028_56088 blowing 56088_56748 .
+%mor:	coord|and det:art|the n|curtain-PL aux|be&PRES part|blow-PRESP .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	the [/] the window's up . 56871_58321
+%wor:	the [/] 56871_56901 the 56901_56911 window's 57751_58141 up 58211_58321 .
+%mor:	det:art|the n|window~cop|be&3S adv|up .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	&+ee let me see . [+ exc] 61654_62584
+%wor:	&+ee let 61654_61804 me 61804_62244 see 62444_62584 . [+ exc]
+%mor:	v|let&ZERO pro:obj|me v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+*PAR:	(..) she's dryin(g) the dishes . 69471_70491
+%wor:	(..) she's 69471_69691 dryin(g) 69731_70191 the 70221_70231 dishes 70231_70491 .
+%mor:	pro:sub|she~aux|be&3S part|dry-PRESP det:art|the n|dish-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	I don't know whether I said that or not . [+ exc] 70653_71983
+%wor:	I 70653_70823 don't 70823_70953 know 70953_70993 whether 70993_71293 I 71363_71373 said 71373_71583 that 71583_71733 or 71733_71813 not 71813_71983 . [+ exc]
+%mor:	pro:sub|I mod|do~neg|not v|know comp|whether pro:sub|I v|say&PAST
+	comp|that coord|or neg|not .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP
+	8|7|OBJ 9|8|CONJ 10|9|COORD 11|4|PUNCT
+*PAR:	(...) I can't see any other &-uh +... [+ exc] 91355_92565
+%wor:	(...) I 91355_91385 can't 91385_91755 see 91755_91965 any 91995_92115 other 92115_92525 &-uh 92555_92565 +... [+ exc]
+%mor:	pro:sub|I mod|can~neg|not v|see qn|any qn|other +...
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+*PAR:	xxx the leaves are blowing on the trees . 98560_101470
+%wor:	xxx the 98560_98810 leaves 99140_99580 are 99580_99630 blowing 99630_100490 on 100750_101040 the 101040_101070 trees 101070_101470 .
+%mor:	det:art|the n|leaf-PL aux|be&PRES part|blow-PRESP prep|on
+	det:art|the n|tree-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*INV:	(..) okay that's good . 108127_112037
+%wor:	(..) okay 108127_108347 that's 111587_111937 good 111937_112037 .
+%mor:	co|okay pro:dem|that~cop|be&3S adj|good .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

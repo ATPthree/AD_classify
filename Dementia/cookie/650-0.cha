@@ -1,0 +1,130 @@
+@UTF8
+@PID:	11312/t-00002713-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|87;|female|ProbableAD||Participant|24||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	650-0, audio
+@G:	Cookie
+*PAR:	&-uh a boy is &-uh puttin(g) somethin(g) in the closet . 420_4620
+%wor:	&-uh 420_520 a 750_820 boy 820_1130 is 1130_1380 &-uh 1460_1660 puttin(g) 2030_2320 somethin(g) 2390_2690 in 2690_3030 the 3760_3780 closet 3780_4620 .
+%mor:	det:art|a n|boy aux|be&3S part|put-PRESP pro:indef|something
+	prep|in det:art|the n|closet .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*PAR:	<or he> [//] <and he could> [//] or <I it [/] it could be taking>
+	[//] he could be taking a cookie jar out . 5536_15236
+%wor:	<or 5536_5856 he 6306_6606> [//] <and he could> [//] 6716_9256 or 9256_9456 <I 9626_9956 it [/] 10396_10586 it 10586_10746 could 10876_11086 be 11086_11296 taking 12876_13276>  [//] he could be taking a cookie jar out . 13276_15236
+%mor:	coord|or pro:sub|he mod|could aux|be part|take-PRESP det:art|a
+	n|cookie v|jar adv|out .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|AUX 5|8|LINK 6|7|DET 7|8|SUBJ
+	8|0|ROOT 9|8|JCT 10|8|PUNCT
+*PAR:	and he's &-uh the &+step &-uh stepstool is tilting . 15501_19621
+%wor:	and 15501_16371 he's 16371_16541 &-uh 16611_16731 the 16931_16951 &+step &-uh 16951_17231 stepstool 17441_18051 is 18051_18231 tilting 18971_19621 .
+%mor:	coord|and pro:sub|he~aux|be&3S det:art|the n|+v|step+n|stool
+	aux|be&3S part|tilt-PRESP .
+%gra:	1|7|LINK 2|5|SUBJ 3|5|AUX 4|5|DET 5|7|SUBJ 6|7|AUX 7|0|ROOT
+	8|7|PUNCT
+*PAR:	(..) and a young girl seems to whisper to him &+n about makin(g)
+	noise . 25790_32960
+%wor:	(..) and 25790_25930 a 25930_26220 young 26250_26550 girl 26550_26980 seems 27250_27520 to 27610_27880 whisper 30260_30670 to 30670_30880 him 31080_31640 &+n about 31820_32170 makin(g) 32170_32510  noise 32510_32960 .
+%mor:	coord|and det:art|a adj|young n|girl cop|seem-3S inf|to v|whisper
+	prep|to pro:obj|him adv|about part|make-PRESP n|noise .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|8|POBJ 10|11|JCT 11|7|XJCT 12|11|OBJ 13|5|PUNCT
+*PAR:	doesn't it ? [+ exc] 33420_33820
+%wor:	doesn't 33420_33690 it 33690_33820 ? [+ exc]
+%mor:	mod|do&3S~neg|not pro:per|it ?
+%gra:	1|3|AUX 2|1|NEG 3|0|INCROOT 4|3|PUNCT
+*PAR:	did you notice that ? [+ exc] 34096_34996
+%wor:	did 34096_34296 you 34296_34376 notice 34376_34716 that 34716_34996 ? [+ exc]
+%mor:	mod|do&PAST pro:per|you v|notice pro:dem|that ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	mhm &*PAR:yeah . 35017_35777
+%wor:	mhm 35017_35777 &*PAR:yeah .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-uh now &+d do I go over on the other side ? [+ exc] 39597_41317
+%wor:	&-uh 39597_39667 now 39667_39937 &+d do 39937_40337 I 40337_40397 go 40397_40537 over 40537_40727 on 40727_40797 the 40797_40907 other 40907_41107 side 41107_41317 ? [+ exc]
+%mor:	adv:tem|now mod|do pro:sub|I v|go adv|over prep|on det:art|the
+	qn|other n|side ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|9|DET
+	8|9|QUANT 9|6|POBJ 10|4|PUNCT
+*INV:	mhm ‡ the whole picture . 41354_42964
+%wor:	mhm 41354_41534 ‡ the 41664_42204 whole 42204_42534 picture 42534_42964 .
+%mor:	co|mhm=yes beg|beg det:art|the adj|whole n|picture .
+%gra:	1|0|BEG 2|1|BEGP 3|5|DET 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*PAR:	+< whole picture . [+ exc] 43060_43560
+%wor:	+< whole 43060_43140 picture 43140_43560 . [+ exc]
+%mor:	adj|whole n|picture .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&-uh there's &-uh &-uh &-uh a older &+w woman . 44154_47874
+%wor:	&-uh 44154_44254 there's 44254_44574 &-uh 44754_45124 &-uh 45314_45354 &-uh 45354_45374 a 46124_46554 older 46774_47074 &+w woman 47074_47874 .
+%mor:	pro:exist|there~cop|be&3S det:art|a adj|old-CP n|woman .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*PAR:	well ‡ young still . [+ gram] 47893_50283
+%wor:	well 47893_48143 ‡ young 49433_49893 still 49893_50283 . [+ gram]
+%mor:	co|well beg|beg adj|young adj|still .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|JCT 5|3|PUNCT
+*PAR:	I mean to say that . [+ exc] 50530_51690
+%wor:	I 50530_50670 mean 50670_50960 to 50960_51120 say 51240_51500 that 51500_51690 . [+ exc]
+%mor:	pro:sub|I v|mean inf|to v|say comp|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|2|PUNCT
+*PAR:	&-uh then the [/] the child over there . 52113_54393
+%wor:	&-uh 52113_52373 then 52703_53083 the [/] 53133_53323 the 53323_53393 child 53393_53763 over 53763_53973 there 53973_54393 .
+%mor:	adv:tem|then det:art|the n|child prep|over n|there .
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|3|PUNCT
+*PAR:	and &-uh she's dryin(g) dishes or washin(g) (th)em, washin(g) and
+	<dry (th)em> [//] drying them . 54950_62150
+%wor:	and 54950_55270 &-uh 55270_55510 she's 55760_56140 dryin(g) 56210_56580 dishes 56580_57300 or 57300_57410 washin(g) 57410_57950 (th)em, 57950_58190 washin(g) 58500_58830 and 58830_59060  <dry 59060_59530 (th)em 59530_59670> [//] drying them . 61370_62150
+%mor:	coord|and pro:sub|she~aux|be&3S part|dry-PRESP n|dish-PL coord|or
+	part|wash-PRESP pro:obj|them cm|cm part|wash-PRESP coord|and
+	part|dry-PRESP pro:obj|them .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|CONJ 7|6|COORD
+	8|7|OBJ 9|7|LP 10|7|XJCT 11|10|CONJ 12|11|COORD 13|12|OBJ 14|4|PUNCT
+*PAR:	and &-uh (..) it looks as if she's spilling water on the floor from
+	the sink . 64400_78970
+%wor:	and 64400_64690 &-uh 64690_64820 (..) it 74060_74180 looks 74180_74360 as 74360_74450 if 74450_74590 she's 74590_74860 spilling 74890_75470 water 75470_75770 on 75770_75970 the 75970_76070 floor 76070_76650 from 78190_78440  the 78440_78560 sink 78560_78970 .
+%mor:	coord|and pro:per|it v|look-3S adv|as conj|if pro:sub|she~aux|be&3S
+	part|spill-PRESP n|water prep|on det:art|the n|floor prep|from
+	det:art|the n|sink .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|3|CJCT 9|8|OBJ 10|8|JCT 11|12|DET 12|10|POBJ 13|8|JCT 14|15|DET
+	15|13|POBJ 16|3|PUNCT
+*PAR:	is there &-uh a woman's face at the window ? [+ exc] 86704_89734
+%wor:	is 86704_86864 there 86864_87134 &-uh 87134_87144 a 87144_87464 woman's 88074_88454 face 88454_88914 at 88914_89264 the 89264_89274 window 89274_89734 ? [+ exc]
+%mor:	cop|be&3S adv|there det:art|a adj|woman&dn-POSS n|face prep|at
+	det:art|the n|window ?
+%gra:	1|0|ROOT 2|1|JCT 3|5|DET 4|5|MOD 5|1|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*PAR:	<doesn't it like a> [//] &+d doesn't it look like there's a face
+	there ? [+ exc] 91425_95705
+%wor:	<doesn't 91425_91725 it 91725_91785 like 91785_92035 a 92035_92235> [//] &+d doesn't it look like there's a face  there ? [+ exc] 93135_95705
+%mor:	mod|do&3S~neg|not pro:per|it v|look conj|like
+	pro:exist|there~cop|be&3S det:art|a n|face adv|there ?
+%gra:	1|4|AUX 2|1|NEG 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|CJCT
+	8|9|DET 9|7|PRED 10|9|NJCT 11|4|PUNCT
+*INV:	oh ‡ no ‡ hunhunh . 95900_96960
+%wor:	oh 95900_96140 ‡ no 96140_96620 ‡ hunhunh 96620_96960 .
+%mor:	co|oh beg|beg co|no beg|beg co|hunhunh=no .
+%gra:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|0|INCROOT 6|5|PUNCT
+*PAR:	+< ain't it then ? [+ exc] 97147_97477
+%wor:	+< ain't 97147_97237 it 97237_97327 then 97327_97477 ? [+ exc]
+%mor:	v|be~neg|not pro:per|it adv:tem|then ?
+%gra:	1|0|ROOT 2|1|NEG 3|4|SUBJ 4|1|JCT 5|1|PUNCT
+*PAR:	oh ‡ I thought it looked like a nose and a mouth &=laughs and eye
+	there . [+ exc] 97699_100999
+%wor:	oh 97699_98009 ‡ I 98259_98399 thought 98399_98629 it 98629_98959 looked 98959_99149 like 99149_99259 a 99259_99339 nose 99339_99859 and 99859_100009 a 100039_100399 mouth 100399_100489 &=laughs and 100489_100629 eye 100629_100909  there 100909_100999 . [+ exc]
+%mor:	co|oh beg|beg pro:sub|I v|think&PAST pro:per|it cop|look-PAST
+	prep|like det:art|a n|nose coord|and det:art|a n|mouth coord|and
+	n|eye adv|there .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|JCT
+	8|9|DET 9|7|POBJ 10|6|CONJ 11|12|DET 12|10|COORD 13|12|CONJ
+	14|13|COORD 15|14|JCT 16|4|PUNCT
+*INV:	okay . 101068_102178
+%wor:	okay 101068_102178 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

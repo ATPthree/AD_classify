@@ -1,0 +1,204 @@
+@UTF8
+@PID:	11312/a-00034889-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|70;|male|ProbableAD||Participant|25||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	544-0, audio
+@G:	George_Immediate
+*PAR:	they went down the street and she was frightened because all the
+	traffic and noise . 6000_9727
+%mor:	pro:sub|they v|go&PAST prep|down det:art|the n|street coord|and
+	pro:sub|she aux|be&PAST&13S part|frighten-PASTP conj|because qn|all
+	det:art|the n|traffic coord|and n|noise .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|2|CJCT 10|13|LINK 11|13|QUANT 12|13|DET 13|9|OBJ 14|13|CONJ 15|14|COORD
+	16|2|PUNCT
+*INV:	mhm . 9727_10691
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	what else you want me to tell you ? [+ exc] 10691_14244
+%mor:	pro:int|what post|else pro:per|you v|want pro:obj|me inf|to v|tell
+	pro:per|you ?
+%gra:	1|4|LINK 2|1|PQ 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|INF 7|4|COMP 8|7|OBJ
+	9|4|PUNCT
+*INV:	anything else that you can think of from the story . 14244_16310
+%mor:	pro:indef|anything post|else pro:dem|that pro:per|you mod|can
+	v|think prep|of prep|from det:art|the n|story .
+%gra:	1|3|SUBJ 2|1|PQ 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|6|PUNCT
+*PAR:	I really wasn't paying attention , to tell you the truth &=laughs .
+	[+ exc] 16310_22533
+%mor:	pro:sub|I adv|real&dadj-LY aux|be&PAST&13S~neg|not part|pay-PRESP
+	n|attention cm|cm inf|to v|tell pro:per|you det:art|the n|truth .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|LP 8|9|INF
+	9|5|XJCT 10|9|OBJ2 11|12|DET 12|9|OBJ 13|5|PUNCT
+*INV:	okay ‡ now that's not fair . 22533_26840
+%mor:	co|okay beg|beg adv:tem|now pro:dem|that~cop|be&3S neg|not adj|fair
+	.
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|NEG 7|5|PRED 8|5|PUNCT
+@G:	George_Delayed
+*INV:	www . 767000_787434
+%com:	task introduction .
+*PAR:	yeah ‡ the grandfather took the little boy for a walk . 787434_790998
+%mor:	co|yeah beg|beg det:art|the grand#n|father v|take&PAST det:art|the
+	adj|little n|boy prep|for det:art|a n|walk .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|5|PUNCT
+*PAR:	and &-uh they walked and (.) the boy got a_little frightened
+	because_of the traffic in the city . 790998_799962
+%mor:	coord|and pro:sub|they v|walk-PAST coord|and det:art|the n|boy
+	aux|get&PAST adv|a_little part|frighten-PASTP prep|because_of
+	det:art|the n|traffic prep|in det:art|the n|city .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|9|LINK 5|6|DET 6|9|SUBJ 7|9|AUX 8|9|JCT
+	9|3|CJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|3|PUNCT
+*PAR:	and &-uh (.) the grandfather says +"/. 799962_803758
+%mor:	coord|and det:art|the grand#n|father v|say-3S +"/.
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	+" don't worry „ kid . 803758_804350
+%mor:	mod|do~neg|not v|worry end|end n|kid .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|5|ENDP 5|3|END 6|3|PUNCT
+*PAR:	+" I'll take care of you &=cackles . 804350_806881
+%mor:	pro:sub|I~mod|will v|take n|care prep|of pro:per|you .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|4|NJCT 6|5|POBJ 7|3|PUNCT
+*INV:	and he probably did too „ huh ? 806881_808228
+%mor:	coord|and pro:sub|he adv|probable&dadj-LY v|do&PAST adv|too end|end
+	co|huh ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|ENDP 7|4|END 8|4|PUNCT
+*PAR:	yeah . [+ exc] 808228_808901
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mkay ‡ anything else you can think of ? 808901_814985
+%mor:	co|mkay beg|beg pro:indef|anything post|else pro:per|you mod|can
+	v|think prep|of ?
+%gra:	1|0|BEG 2|1|BEGP 3|7|LINK 4|3|PQ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|7|PUNCT
+*PAR:	nah . [+ exc] 814985_816158
+%mor:	co|nah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	www . 816158_822184
+%com:	introduces questioning .
+*INV:	who was the story about ? 822184_824193
+%mor:	pro:int|who cop|be&PAST&13S det:art|the n|story adv|about ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|2|PUNCT
+*INV:	can you think of the names of the people in the story ? 824193_826306
+%mor:	mod|can pro:per|you v|think prep|of det:art|the n|name-PL prep|of
+	det:art|the n|person&PL prep|in det:art|the n|story ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+*PAR:	what story ? [+ exc] 826306_827908
+%mor:	det:int|what n|story ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	the one that I read you , the same one . 827908_829417
+%mor:	det:art|the pro:indef|one pro:rel|that pro:sub|I v|read&ZERO
+	pro:per|you cm|cm det:art|the adj|same pro:indef|one .
+%gra:	1|2|DET 2|0|INCROOT 3|5|LINK 4|5|SUBJ 5|2|CMOD 6|5|OBJ 7|5|LP 8|10|DET
+	9|10|MOD 10|5|OBJ 11|2|PUNCT
+*INV:	we're still talkin(g) about the same story . 829417_831019
+%mor:	pro:sub|we~aux|be&PRES adv|still part|talk-PRESP prep|about
+	det:art|the adj|same n|story .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*PAR:	the names ? 831019_832203
+%mor:	det:art|the n|name-PL ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	mhm . 832203_832853
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	Mel , (.) Jack , (.) Margaret . 832853_839866
+%mor:	n:prop|Mel cm|cm n:prop|Jack cm|cm n:prop|Margaret .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|3|LP 5|1|ENUM 6|1|PUNCT
+*INV:	+< can you think of any +/? 838682_839181
+%mor:	mod|can pro:per|you v|think prep|of qn|any +/?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*INV:	mkay . 839866_841306
+%mor:	co|mkay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-eh William . 841306_843431
+%mor:	n:prop|William .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(o)kay . 843431_844801
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	what time of the year did George move in with his son's family ? 844801_849085
+%mor:	det:int|what n|time prep|of det:art|the n|year v|do&PAST
+	n:prop|George n|move adv|in prep|with det:poss|his adj|son&dn-POSS
+	n|family ?
+%gra:	1|2|DET 2|6|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|8|MOD 8|6|OBJ
+	9|6|JCT 10|6|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|6|PUNCT
+*PAR:	just before Christmas . 849085_851883
+%mor:	adv|just conj|before n:prop|Christmas .
+%gra:	1|2|JCT 2|3|LINK 3|0|INCROOT 4|3|PUNCT
+*INV:	mkay . 851883_852881
+%mor:	co|mkay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	what were George's stories about ? 852881_855818
+%mor:	pro:int|what cop|be&PAST adj|George&dn-POSS n|story-PL prep|about ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|JCT 6|2|PUNCT
+*INV:	do you remember what the stories were about ? 855818_860543
+%mor:	mod|do pro:per|you v|remember pro:int|what det:art|the n|story-PL
+	cop|be&PAST prep|about ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|6|DET 6|7|SUBJ 7|3|COMP 8|7|JCT
+	9|3|PUNCT
+*INV:	mkay . 860543_862563
+%mor:	co|mkay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	what did Melanie ask George to do ? 862563_864769
+%mor:	pro:int|what mod|do&PAST n:prop|Melanie v|ask n:prop|George inf|to
+	v|do ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|INF 7|4|COMP 8|4|PUNCT
+*PAR:	+" what did Melanie ask George to do ? 864769_868542
+%mor:	pro:int|what mod|do&PAST n:prop|Melanie v|ask n:prop|George inf|to
+	v|do ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|INF 7|4|COMP 8|4|PUNCT
+*INV:	remember ? 868542_871177
+%mor:	v|remember ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	take her for a walk . 871177_875647
+%mor:	v|take pro:obj|her prep|for det:art|a n|walk .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*INV:	(o)kay ‡ why did George hold Melanie's hand tightly ? 875647_879002
+%mor:	co|okay beg|beg pro:int|why mod|do&PAST n:prop|George n|hold
+	adj|Melanie&dn-POSS n|hand adv|tight&dadj-LY ?
+%gra:	1|0|BEG 2|1|BEGP 3|6|LINK 4|6|AUX 5|6|MOD 6|8|MOD 7|8|MOD 8|0|INCROOT
+	9|8|JCT 10|8|PUNCT
+*PAR:	because she was scared of the traffic and the noise . 879002_881696
+%mor:	conj|because pro:sub|she aux|be&PAST&13S part|scare-PASTP prep|of
+	det:art|the n|traffic coord|and det:art|the n|noise .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|CONJ
+	9|10|DET 10|8|COORD 11|4|PUNCT
+*INV:	mhm . 881696_884819
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	why didn't Melanie like the city ? 884819_888499
+%mor:	pro:int|why mod|do&PAST~neg|not n:prop|Melanie prep|like
+	det:art|the n|city ?
+%gra:	1|4|LINK 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	because she was raised in the country and she preferred the quiet
+	solitude and the green foliage and stuff like that . 888499_897148
+%mor:	conj|because pro:sub|she aux|be&PAST&13S part|raise-PASTP prep|in
+	det:art|the n|country coord|and pro:sub|she v|prefer-PAST
+	det:art|the n|quiet n|solitude coord|and det:art|the n|green
+	n|foliage coord|and n|stuff prep|like pro:dem|that .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|10|LINK
+	9|10|SUBJ 10|4|CJCT 11|13|DET 12|13|MOD 13|10|OBJ 14|13|CONJ 15|17|DET
+	16|17|MOD 17|14|COORD 18|17|CONJ 19|18|COORD 20|19|NJCT 21|20|POBJ
+	22|4|PUNCT
+*PAR:	and then , like I said , the traffic and all the noise . 897148_899679
+%mor:	coord|and adv:tem|then cm|cm conj|like pro:sub|I v|say&PAST cm|cm
+	det:art|the n|traffic coord|and qn|all det:art|the n|noise .
+%gra:	1|6|LINK 2|6|JCT 3|2|LP 4|6|LINK 5|6|SUBJ 6|0|ROOT 7|6|LP 8|9|DET
+	9|6|OBJ 10|9|CONJ 11|13|QUANT 12|13|DET 13|10|COORD 14|6|PUNCT
+*INV:	okay . 899679_900178
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	how's that ? [+ exc] 900178_900515
+%mor:	pro:int|how~cop|be&3S pro:dem|that ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	that's it . 900515_901502
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	&=cackles . [+ exc] 901502_902941
+@End

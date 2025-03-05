@@ -1,0 +1,94 @@
+@UTF8
+@PID:	11312/t-00002680-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|83;|female|PossibleAD||Participant|17||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	530-0, audio
+@G:	Cookie
+*INV:	I want you to tell me everything that's going on in this picture .
+	660_3870
+%wor:	I 660_710 want 710_990 you 990_1150 to 1150_1210 tell 1250_1430 me 1430_1620 everything 1620_2200 that's 2200_2360 going 2360_2780 on 2780_3080 in 3080_3240 this 3240_3420 picture 3420_3870 .
+%mor:	pro:sub|I v|want pro:per|you inf|to v|tell pro:obj|me
+	pro:indef|everything pro:rel|that~aux|be&3S part|go-PRESP adv|on
+	prep|in det:dem|this n|picture .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|INF 5|2|COMP 6|5|OBJ 7|5|OBJ
+	8|10|LINK 9|10|AUX 10|7|CMOD 11|10|JCT 12|10|JCT 13|14|DET
+	14|12|POBJ 15|2|PUNCT
+*INV:	I want you to tell me everything that you see happening in this
+	picture . 4289_7649
+%wor:	I 4289_4349 want 4349_4619 you 4619_4809 to 4809_4859 tell 4859_5019 me 5019_5169 everything 5169_5689 that 5689_5829 you 5829_5939 see 5939_6219 happening 6219_6849 in 6969_7139 this 7139_7309  picture 7309_7649 .
+%mor:	pro:sub|I v|want pro:per|you inf|to v|tell pro:obj|me
+	pro:indef|everything pro:rel|that pro:per|you v|see
+	part|happen-PRESP prep|in det:dem|this n|picture .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|INF 5|2|COMP 6|5|OBJ 7|5|OBJ
+	8|10|LINK 9|10|SUBJ 10|7|CMOD 11|10|COMP 12|11|JCT 13|14|DET
+	14|12|POBJ 15|2|PUNCT
+*PAR:	are you countin(g) (th)em ? [+ exc] 7740_8550
+%wor:	are 7740_7770 you 7770_7920 countin(g) 7920_8230 (th)em 8230_8550 ? [+ exc]
+%mor:	cop|be&PRES pro:per|you part|count-PRESP pro:obj|them ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|XMOD 4|3|OBJ 5|1|PUNCT
+*INV:	<just tell> [//] just say them to me . 9877_11177
+%wor:	<just 9877_10157 tell 10157_10397> [//] just say them to me . 10397_11177
+%mor:	adv|just v|say pro:obj|them prep|to pro:obj|me .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*PAR:	well the mother's &-uh &+dy &+dry &-uh dryin(g) dishes . 11231_16321
+%wor:	well 11231_11691 the 11691_11701 mother's 11701_12301 &-uh 12301_12641 &+dy &+dry &-uh 13891_14191 dryin(g) 14271_14821 dishes 15791_16321 .
+%mor:	co|well det:art|the n|mother~aux|be&3S part|dry-PRESP n|dish-PL .
+%gra:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	and &-uh she let the water run over . 17948_20248
+%wor:	and 17948_18418 &-uh 18418_18638 she 18638_18808 let 18808_19088 the 19088_19108 water 19108_19518 run 19518_19788 over 19788_20248 .
+%mor:	coord|and pro:sub|she v|let&ZERO det:art|the n|water n|run adv|over
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|JCT
+	8|3|PUNCT
+*PAR:	and &-um (.) the little one's got the cookie jar . 21728_29988
+%wor:	and 21728_22328 &-um 22328_22898 (.) the 27558_28048 little 28048_28338 one's 28338_28638 got 28638_28908 the 28908_28988 cookie 28988_29358 jar 29358_29988 .
+%mor:	coord|and det:art|the adj|little pro:indef|one~aux|be&3S
+	part|get&PASTP det:art|the n|cookie n|jar .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|6|PUNCT
+*PAR:	and the little boy almost fell off the +... 32026_33986
+%wor:	and 32026_32256 the 32256_32266 little 32266_32426 boy 32426_32726 almost 32726_33176 fell 33176_33446 off 33446_33816 the 33816_33986 +...
+%mor:	coord|and det:art|the adj|little n|boy adv|almost v|fall&PAST
+	prep|off det:art|the +...
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|PUNCT
+*PAR:	they had a stool . 35800_37450
+%wor:	they 35800_36250 had 36250_36670 a 36670_36720 stool 36720_37450 .
+%mor:	pro:sub|they v|have&PAST det:art|a n|stool .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and she had couple dishes, a couple cups and a plate . 41719_49329
+%wor:	and 41719_41819 she 41819_41859 had 41859_42189 couple 44479_44849 dishes, 44849_45549 a 46749_46829 couple 46829_47249 cups 47529_48069 and 48069_48189 a 48189_48229 plate 48229_49329 .
+%mor:	coord|and pro:sub|she v|have&PAST qn|couple n|dish-PL cm|cm
+	det:art|a qn|couple n|cup-PL coord|and det:art|a n|plate .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|LP 7|9|DET
+	8|9|QUANT 9|3|OBJ 10|9|CONJ 11|12|DET 12|10|COORD 13|3|PUNCT
+*PAR:	the &-uh little ones didn't have anything . 49693_51413
+%wor:	the 49693_49853 &-uh 49853_50023 little 50023_50243 ones 50243_50473 didn't 50473_50713 have 50713_50903 anything 50903_51413 .
+%mor:	det:art|the adj|little pro:indef|one-PL mod|do&PAST~neg|not v|have
+	pro:indef|anything .
+%gra:	1|3|DET 2|3|MOD 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*PAR:	she's drying the dishes . 56531_58471
+%wor:	she's 56531_56941 drying 56941_57671 the 57671_57681 dishes 57681_58471 .
+%mor:	pro:sub|she~aux|be&3S part|dry-PRESP det:art|the n|dish-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and <her water> [//] the water run over . 63017_65417
+%wor:	and 63017_63157 <her 63157_63267 water 63267_63927> [//] the water run over . 63927_65417
+%mor:	coord|and det:art|the n|water n|run adv|over .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|4|PUNCT
+*PAR:	huhuh . [+ exc] 68174_68514
+%wor:	huhuh 68174_68514 . [+ exc]
+%mor:	co|huhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ? 68876_69286
+%wor:	okay 68876_69286 ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 69450_69920
+%wor:	okay 69450_69920 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

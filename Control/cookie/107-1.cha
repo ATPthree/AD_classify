@@ -1,0 +1,85 @@
+@UTF8
+@PID:	11312/t-00002254-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|58;|male|Control||Participant|27||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	107-1, audio
+@G:	Cookie
+*INV:	and there's the picture . 190_2360
+%wor:	and 190_920 there's 970_1560 the 1560_1570 picture 1570_2360 .
+%mor:	coord|and pro:exist|there~cop|be&3S det:art|the n|picture .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	(.) boy's fallin(g) off a stool . [+ gram] 2413_10203
+%wor:	(.) boy's 2413_2483 fallin(g) 2483_7953 off 7983_8233 a 8233_10033 stool 10063_10203 . [+ gram]
+%mor:	n|boy~aux|be&3S part|fall-PRESP prep|off det:art|a n|stool .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	the lid is fallin(g) off a cookie jar . 10290_12530
+%wor:	the 10290_10600 lid 10630_11120 is 11120_11180 fallin(g) 11180_11440 off 11440_11630 a 11630_11760 cookie 11790_12120 jar 12150_12530 .
+%mor:	det:art|the n|lid aux|be&3S part|fall-PRESP prep|off det:art|a
+	n|cookie n|jar .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*PAR:	he's grabbin(g) a cookie in his hand . 12750_15190
+%wor:	he's 12750_12840 grabbin(g) 12840_13100 a 13100_13110 cookie 13110_13240 in 13240_14840 his 14870_14940 hand 14940_15190 .
+%mor:	pro:sub|he~aux|be&3S part|grab-PRESP det:art|a n|cookie prep|in
+	det:poss|his n|hand .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	the girl is reachin(g) up . 15212_16592
+%wor:	the 15212_15412 girl 15412_15592 is 15592_15652 reachin(g) 15652_16292 up 16322_16592 .
+%mor:	det:art|the n|girl aux|be&3S part|reach-PRESP adv|up .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	she's touchin(g) her nose . 16608_19568
+%wor:	she's 16608_16658 touchin(g) 16658_19388 her 19418_19458 nose 19458_19568 .
+%mor:	pro:sub|she~aux|be&3S part|touch-PRESP det:poss|her n|nose .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	xxx . [+ exc]
+%wor:	xxx . [+ exc]
+*PAR:	the other side, the mother's washin(g) dishes . [+ gram] 23223_26753
+%wor:	the 23223_23273 other 23273_23363 side, 23363_23603 the 23603_23613 mother's 23613_23993 washin(g) 23993_26273 dishes 26303_26753 . [+ gram]
+%mor:	det:art|the qn|other n|side cm|cm det:art|the n|mother~aux|be&3S
+	part|wash-PRESP n|dish-PL .
+%gra:	1|3|DET 2|3|QUANT 3|0|INCROOT 4|3|LP 5|6|DET 6|8|SUBJ 7|8|AUX
+	8|3|CMOD 9|8|OBJ 10|3|PUNCT
+*PAR:	the sink is runnin(g) over . 26798_28088
+%wor:	the 26798_26958 sink 26958_27158 is 27158_27338 runnin(g) 27338_27658 over 27658_28088 .
+%mor:	det:art|the n|sink aux|be&3S part|run-PRESP adv|over .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	(.) her feet's [* m:a] gettin(g) wet (.) as she's lookin(g) out the
+	window . [+ gram] 28171_43291
+%wor:	(.) her 28171_28241 feet's [* m:a] 28241_28341 gettin(g) 28341_34931 wet 34961_35491 (.) as 35491_35561 she's 35991_36081 lookin(g) 36121_40011 out 41991_42051 the 42051_42361  window 42391_43291 . [+ gram]
+%mor:	det:poss|her n|foot&PL~aux|be&3S part|get-PRESP adj|wet conj|as
+	pro:sub|she~aux|be&3S part|look-PRESP prep|out det:art|the n|window
+	.
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PRED 6|9|LINK 7|9|SUBJ
+	8|9|AUX 9|4|CJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|4|PUNCT
+*PAR:	that'd be pretty difficult to look out the window and get your feet
+	gettin(g) wet at the same time but that's what it is . [+ exc] 45146_50036
+%wor:	that'd 45146_45876 be 45876_45886 pretty 45886_46086 difficult 46086_46316 to 46316_46356 look 46356_46486 out 46486_46546 the 46546_46556 window 46556_46786 and 46786_46966 get 46966_47056 your 47056_47116 feet 47186_47386  gettin(g) 47386_47656 wet 47656_47776 at 47776_47936 the 47936_47946 same 47946_48016 time 48016_48826 but 48856_49046 that's 49086_49206 what 49286_49866 it 49866_49976 is 49976_50036 . [+ exc]
+%mor:	pro:rel|that~mod|genmod cop|be adv|pretty adj|difficult inf|to
+	v|look prep|out det:art|the n|window coord|and v|get det:poss|your
+	n|foot&PL part|get-PRESP adj|wet prep|at det:art|the adj|same n|time
+	conj|but pro:rel|that~cop|be&3S pro:int|what pro:per|it cop|be&3S .
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|5|JCT 5|3|PRED 6|7|INF 7|5|XMOD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|3|CONJ 12|11|COORD 13|14|DET 14|12|OBJ
+	15|14|XMOD 16|15|JCT 17|15|JCT 18|20|DET 19|20|MOD 20|17|POBJ
+	21|3|CONJ 22|23|LINK 23|21|COORD 24|26|LINK 25|26|SUBJ 26|23|PRED
+	27|3|PUNCT
+*INV:	+< &=laughs . [+ exc]
+%wor:	+< &=laughs . [+ exc]
+*PAR:	okay . [+ exc] 51444_51674
+%wor:	okay 51444_51674 . [+ exc]
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ? 51830_52230
+%wor:	okay 51830_52230 ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 52678_52938
+%wor:	okay 52678_52938 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

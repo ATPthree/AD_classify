@@ -1,0 +1,61 @@
+@UTF8
+@PID:	11312/t-00002296-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|51;|female|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	139-1, audio
+@G:	Cookie
+*INV:	tell me anything that you see going on in that picture . 520_3710
+%mor:	v|tell pro:obj|me pro:indef|anything pro:rel|that pro:per|you v|see
+	part|go-PRESP adv|on prep|in det:dem|that n|picture .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|6|COMP 8|7|JCT
+	9|7|JCT 10|11|DET 11|9|POBJ 12|1|PUNCT
+%wor:	tell 520_1300 me 1300_1500 anything 1500_1880 that 1880_2030 you 2030_2110 see 2110_2350 going 2350_2680 on 2680_2900 in 2900_3020 that 3020_3210 picture 3210_3710 .
+*PAR:	okay she's washing dishes . 4118_6048
+%mor:	co|okay pro:sub|she~aux|be&3S part|wash-PRESP n|dish-PL .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	okay 4118_4448 she's 4448_4848 washing 4848_5368 dishes 5368_6048 .
+*PAR:	the sink is running over . 6797_8347
+%mor:	det:art|the n|sink aux|be&3S part|run-PRESP adv|over .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%wor:	the 6797_6927 sink 6927_7267 is 7267_7477 running 7477_7837 over 7837_8347 .
+*PAR:	&-uh the boy is falling off the &-uh stool . 9489_12909
+%mor:	det:art|the n|boy aux|be&3S part|fall-PRESP prep|off det:art|the
+	n|stool .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%wor:	&-uh 9489_9669 the 9669_9859 boy 9859_10079 is 10079_10319 falling 10319_10959 off 11079_11619 the 11619_12039 &-uh 12039_12129 stool 12129_12909 .
+*PAR:	he's getting cookies . 13638_14878
+%mor:	pro:sub|he~aux|be&3S part|get-PRESP n|cookie-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	he's 13638_13858 getting 13858_14228 cookies 14228_14878 .
+*PAR:	the girl is reaching for a cookie . 14898_16958
+%mor:	det:art|the n|girl aux|be&3S part|reach-PRESP prep|for det:art|a
+	n|cookie .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%wor:	the 14898_15098 girl 15098_15388 is 15388_15628 reaching 15628_16028 for 16028_16388 a 16388_16418 cookie 16418_16958 .
+*INV:	anything else ? 24446_25106
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+%wor:	anything 24446_24816 else 24816_25106 ?
+*PAR:	the girl is telling him to be quiet . 26667_28797
+%mor:	det:art|the n|girl aux|be&3S part|tell-PRESP pro:obj|him inf|to
+	cop|be adj|quiet .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|INF 7|4|COMP 8|7|PRED
+	9|4|PUNCT
+%wor:	the 26667_26797 girl 26797_27097 is 27097_27247 telling 27247_27617 him 27617_27797 to 27797_27937 be 27937_28067 quiet 28067_28797 .
+*INV:	is that it ? 42029_42399
+%mor:	cop|be&3S comp|that pro:per|it ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OBJ 4|1|PUNCT
+%wor:	is 42029_42099 that 42099_42319 it 42319_42399 ?
+*PAR:	mhm . [+ exc] 42810_43360
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	mhm 42810_43360 . [+ exc]
+*INV:	okay . 43623_43763
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	okay 43623_43763 .
+@End

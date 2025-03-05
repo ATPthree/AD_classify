@@ -1,0 +1,106 @@
+@UTF8
+@PID:	11312/t-00002696-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|73;|male|ProbableAD||Participant|14||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	592-0, audio
+@G:	Cookie
+*INV:	okay ‡ can you tell me everything you see going on in the picture ?
+	1678_4198
+%wor:	okay 1678_1858 can 1948_2038 you 2038_2108 tell 2108_2318 me 2318_2468 everything 2468_2758 you 2758_2838 see 2838_3158 going 3158_3478 on 3478_3708 in 3708_3788 the 3788_3808 picture 3808_4198 ?
+%mor:	co|okay beg|beg mod|can pro:per|you v|tell pro:obj|me
+	pro:indef|everything pro:per|you v|see part|go-PRESP adv|on prep|in
+	det:art|the n|picture ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|OBJ 8|9|SUBJ
+	9|5|CJCT 10|9|COMP 11|10|JCT 12|10|JCT 13|14|DET 14|12|POBJ
+	15|5|PUNCT
+*PAR:	&-mm &+s boy &+o over here standin(g) on the chair [: stool]
+	[* s:r] . 6427_8687
+%wor:	&-mm 6427_6437 &+s 6437_6447 boy 6477_6667 &+o 6667_7057 over 7127_7397 here 7397_7637 standin(g) 7637_8187 on 8187_8427 the 8467_8477 chair 8477_8687 .
+%mor:	co|boy prep|over n|here part|stand-PRESP prep|on det:art|the
+	n|stool .
+%gra:	1|4|COM 2|4|JCT 3|2|POBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	&-uh it's fallin(g) over . 8846_10206
+%wor:	&-uh 8846_8856 it's 8856_9276 fallin(g) 9276_9866 over 9866_10206 .
+%mor:	pro:per|it~aux|be&3S part|fall-PRESP adv|over .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and a girl down below . [+ gram] 11736_12786
+%wor:	and 11736_11826 a 11826_11856 girl 11856_11996 down 11996_12346 below 12346_12786 .
+%mor:	coord|and det:art|a n|girl adv|down prep|below .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|5|JCT 5|3|NJCT 6|3|PUNCT
+*PAR:	the boy's up [/] up (th)ere . 14473_16023
+%wor:	the 14473_14483 boy's 14483_15053 up 15053_15233 up 15423_15673 (th)ere 15673_16023 .
+%mor:	det:art|the n|boy~cop|be&3S prep|up n|there .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	he's &-uh has a cookie jar up (th)ere . 16849_19729
+%wor:	he's 16849_17179 &-uh 18189_18199 has 18199_18429 a 18429_18519 cookie 18549_18839 jar 18839_19349 up 19349_19539 (th)ere 19539_19729 .
+%mor:	pro:sub|he~cop|be&3S v|have&3S det:art|a n|cookie n|jar prep|up
+	n|there .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|JCT 8|7|POBJ
+	9|3|PUNCT
+*PAR:	he's puttin(g) cookies in . 21049_22119
+%wor:	he's 21049_21159 puttin(g) 21159_21529 cookies 21559_22009 in 22009_22119 .
+%mor:	pro:sub|he~aux|be&3S part|put-PRESP n|cookie-PL adv|in .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	and the thing's fallin(g) over . [+ es] 22832_24382
+%wor:	and 22832_23112 the 23332_23342 thing's 23342_23662 fallin(g) 23662_24152 over 24152_24382 .
+%mor:	coord|and det:art|the n|thing~aux|be&3S part|fall-PRESP adv|over .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	then there's the lady . 28802_30212
+%wor:	then 28802_29002 there's 29002_29522 the 29642_29692 lady 29692_30212 .
+%mor:	adv:tem|then pro:exist|there~cop|be&3S det:art|the n|lady .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	she's [/] (..) she's washin(g) dishes and dryin(g) (th)em . 31888_38808
+%wor:	she's 31888_32358 she's 36258_36468 washin(g) 36468_36968 dishes 36968_37498 and 37948_38218 dryin(g) 38218_38678 (th)em 38678_38808 .
+%mor:	pro:sub|she~aux|be&3S part|wash-PRESP n|dish-PL coord|and
+	part|dry-PRESP pro:obj|them .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|CONJ 6|5|COORD 7|6|OBJ
+	8|3|PUNCT
+*PAR:	and the sink (.) is turned on . 41448_44748
+%wor:	and 41448_41628 the 41628_41698 sink 41698_42198 is 43868_44008 turned 44008_44368 on 44368_44748 .
+%mor:	coord|and det:art|the n|sink aux|be&3S part|turn-PASTP adv|on .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	and the water's runnin(g) down and is runnin(g) on the floor . 44790_47180
+%wor:	and 44790_44860 the 44860_44870 water's 44870_45340 runnin(g) 45340_45700 down 45700_45950 and 45950_46250 is 46250_46310 runnin(g) 46310_46630 on 46630_46830 the 46830_46870 floor 46870_47180 .
+%mor:	coord|and det:art|the n|water~aux|be&3S part|run-PRESP adv|down
+	coord|and aux|be&3S part|run-PRESP prep|on det:art|the n|floor .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|CONJ 8|9|AUX
+	9|7|COORD 10|9|JCT 11|12|DET 12|10|POBJ 13|5|PUNCT
+*PAR:	and she's standin(g) in the water . 47251_48581
+%wor:	and 47251_47421 she's 47421_47631 standin(g) 47631_48111 in 48111_48211 the 48211_48241 water 48241_48581 .
+%mor:	coord|and pro:sub|she~aux|be&3S part|stand-PRESP prep|in
+	det:art|the n|water .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	she's got &-uh (..) a dress on . 50358_54728
+%wor:	she's 50358_50538 got 50538_50738 &-uh 50738_50878 a 53968_54018 dress 54018_54468 on 54468_54728 .
+%mor:	pro:sub|she~aux|be&3S part|get&PASTP det:art|a n|dress adv|on .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*PAR:	and [/] and there's [//] she's looking out [/] out past drapes down
+	here . 54800_64800
+%wor:	and 54800_55180 and 57730_58270 there's 58330_58440 she's 58440_58720 looking 58720_59060 out 59060_59390 out 60470_60720 past 60720_61100 drapes 62750_63500 down 63760_64520 here 64520_64800 .
+%mor:	coord|and pro:sub|she~aux|be&3S part|look-PRESP adv|out adj|past
+	v|drape-3S prep|down n|here .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|7|XJCT 5|4|JCT 6|7|SUBJ 7|0|ROOT
+	8|7|JCT 9|8|POBJ 10|7|PUNCT
+*PAR:	and she's lookin(g) out through the window . 65868_67588
+%wor:	and 65868_66008 she's 66008_66198 lookin(g) 66198_66528 out 66528_66788 through 66788_67108 the 67108_67168 window 67168_67588 .
+%mor:	coord|and pro:sub|she~aux|be&3S part|look-PRESP adv|out
+	prep|through det:art|the n|window .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*PAR:	(..) looks like that boy's gonna fall over pretty soon . 75164_77504
+%wor:	looks 75164_75394 like 75394_75604 that 75604_75834 boy's 75834_76114 gonna 76114_76304 fall 76304_76654 over 76654_76914 pretty 76914_77204 soon 77204_77504 .
+%mor:	v|look-3S prep|like pro:dem|that n|boy~aux|be&3S
+	part|go&PRESP~inf|to v|fall adv|over adv|pretty adv|soon .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|6|AUX 6|1|XJCT 7|8|INF 8|6|COMP
+	9|8|JCT 10|11|JCT 11|8|JCT 12|1|PUNCT
+*INV:	+< okay . 78329_78459
+%wor:	okay 78329_78459 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

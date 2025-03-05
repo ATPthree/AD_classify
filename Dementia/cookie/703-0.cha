@@ -1,0 +1,85 @@
+@UTF8
+@PID:	11312/t-00002728-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|73;|female|ProbableAD||Participant|13||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	703-0, audio
+@G:	Cookie
+*INV:	that's happening in that picture . 450_1900
+%wor:	that's 450_670 happening 670_1190 in 1190_1350 that 1350_1560 picture 1560_1900 .
+%mor:	pro:dem|that~aux|be&3S part|happen-PRESP prep|in det:dem|that
+	n|picture .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*INV:	what do you see going on in there ? 2388_3698
+%wor:	what 2388_2498 do 2498_2558 you 2558_2618 see 2618_2818 going 2818_3228 on 3228_3508 in 3508_3618 there 3618_3698 ?
+%mor:	pro:int|what mod|do pro:per|you v|see part|go-PRESP adv|on prep|in
+	n|there ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|5|JCT 7|5|JCT 8|7|POBJ
+	9|4|PUNCT
+*PAR:	&-uh well ‡ here's the child reaching up but he's on a stool . 3718_6758
+%wor:	&-uh 3718_4008 well 4008_4178 ‡ here's 4178_4378 the 4378_4478 child 4478_4978 reaching 4978_5458 up 5458_5638 but 5638_5768 he's 5768_6038 on 6038_6238 a 6238_6278 stool 6278_6758 .
+%mor:	co|well beg|beg pro:exist|here~cop|be&3S det:art|the n|child
+	part|reach-PRESP adv|up conj|but pro:sub|he~cop|be&3S prep|on
+	det:art|a n|stool .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|6|XMOD
+	8|7|JCT 9|11|LINK 10|11|SUBJ 11|4|CJCT 12|11|JCT 13|14|DET
+	14|12|POBJ 15|4|PUNCT
+*PAR:	and he's falling off . 6774_7934
+%wor:	and 6774_7014 he's 7014_7214 falling 7214_7624 off 7624_7934 .
+%mor:	coord|and pro:sub|he~aux|be&3S part|fall-PRESP adv|off .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*INV:	mhm . 7949_8719
+%wor:	mhm 7949_8719 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	she's drying dishes at the window . 9652_11272
+%wor:	she's 9652_9892 drying 9892_10222 dishes 10222_10572 at 10572_10712 the 10712_10732 window 10732_11272 .
+%mor:	pro:sub|she~aux|be&3S part|dry-PRESP n|dish-PL prep|at det:art|the
+	n|window .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ
+	8|3|PUNCT
+*INV:	mhm . 11606_11866
+%wor:	mhm 11606_11866 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	she also spilled the water . 12150_13290
+%wor:	she 12150_12250 also 12250_12620 spilled 12680_12960 the 12960_12980 water 12980_13290 .
+%mor:	pro:sub|she adv|also v|spill-PAST det:art|the n|water .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*INV:	mhm . 13307_14527
+%wor:	mhm 13307_14527 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	anything else happening on there ? 18489_19949
+%wor:	anything 18489_18869 else 18869_19119 happening 19119_19569 on 19569_19709 there 19709_19949 ?
+%mor:	pro:indef|anything post|else part|happen-PRESP prep|on n|there ?
+%gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	oh ‡ they [//] like I said they were climbing . 22287_24837
+%wor:	oh 22287_23067 ‡ they [//] 23097_23267 like 23397_23587 I 23587_23647 said 23647_23987 they 23987_24107 were 24107_24197 climbing 24197_24837 .
+%mor:	co|oh beg|beg conj|like pro:sub|I v|say&PAST pro:sub|they
+	aux|be&PAST part|climb-PRESP .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|8|CJCT 6|8|SUBJ 7|8|AUX
+	8|0|ROOT 9|8|PUNCT
+*PAR:	she's doing dishes . 25632_26562
+%wor:	she's 25632_25882 doing 25882_26172 dishes 26172_26562 .
+%mor:	pro:sub|she~aux|be&3S part|do-PRESP n|dish-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	mhm . 26749_27389
+%wor:	mhm 26749_27389 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	she spilled the water too <out_o(f) the sink> [//] over the sink „
+	I should say . 28846_33126
+%wor:	she 28846_29016 spilled 29016_29366 the 29366_29386 water 29386_29786 too 29786_29946 <out_o(f) 29946_30986 the 30986_30996 sink 30996_31116> [//] over the sink „ I  should say . 31836_33126
+%mor:	pro:sub|she v|spill-PAST det:art|the n|water adv|too prep|over
+	det:art|the n|sink end|end pro:sub|I mod|should v|say .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|JCT 7|8|DET 8|6|POBJ
+	9|12|ENDP 10|12|SUBJ 11|12|AUX 12|2|END 13|2|PUNCT
+*INV:	okay great . 34469_35209
+%wor:	okay 34469_34809 great 34809_35209 .
+%mor:	co|okay adj|great .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

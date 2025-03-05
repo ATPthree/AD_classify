@@ -1,0 +1,111 @@
+@UTF8
+@PID:	11312/t-00002504-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|80;|male|MCI||Participant|27||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	120-3, audio
+@G:	Cookie
+*INV:	take a look at this picture and tell me everything that's happening
+	here . 390_4410
+%wor:	take 390_740 a 740_770 look 770_1070 at 1070_1230 this 1230_1410 picture 1410_1910 and 2130_2340 tell 2340_2540 me 2540_2730 everything 2790_3450 that's 3450_3690 happening 3690_4260  here 4260_4410 .
+%mor:	v|take det:art|a v|look prep|at det:dem|this n|picture coord|and
+	v|tell pro:obj|me pro:indef|everything pro:rel|that~aux|be&3S
+	part|happen-PRESP n|here .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ
+	8|7|COORD 9|8|OBJ2 10|8|OBJ 11|13|LINK 12|13|AUX 13|10|CMOD
+	14|13|OBJ 15|1|PUNCT
+*INV:	tell me everything that's going on in that picture . 4461_6751
+%wor:	tell 4461_4731 me 4731_4881 everything 4881_5431 that's 5431_5541 going 5541_5921 on 5921_6091 in 6091_6291 that 6291_6521 picture 6521_6751 .
+%mor:	v|tell pro:obj|me pro:indef|everything pro:rel|that~aux|be&3S
+	part|go-PRESP adv|on prep|in det:dem|that n|picture .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|6|LINK 5|6|AUX 6|3|CMOD 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|1|PUNCT
+*PAR:	okay . [+ exc] 7115_8255
+%wor:	okay 7115_8255 . [+ exc]
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the little boy is snitching a cookie while the mother's not looking
+	. 8300_13060
+%wor:	the 8300_8400 little 8400_8700 boy 8700_9220 is 9220_9460 snitching 9460_9940 a 9940_10010 cookie 10010_10520 while 10520_10770 the 10770_10780 mother's 10780_11310 not 11620_12510 looking 12540_13060  .
+%mor:	det:art|the adj|little n|boy aux|be&3S part|snitch-PRESP det:art|a
+	n|cookie conj|while det:art|the n|mother~aux|be&3S neg|not
+	part|look-PRESP .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|13|LINK
+	9|10|DET 10|13|SUBJ 11|13|AUX 12|11|NEG 13|5|CJCT 14|5|PUNCT
+*PAR:	he's snitching one for his sister also . 13573_16363
+%wor:	he's 13573_13783 snitching 13783_14483 one 14483_14743 for 14743_14963 his 14963_15143 sister 15233_15703 also 15703_16363 .
+%mor:	pro:sub|he~aux|be&3S part|snitch-PRESP pro:indef|one prep|for
+	det:poss|his n|sister adv|also .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|3|JCT
+	9|3|PUNCT
+*PAR:	the little girl is saying “quiet shh” with her finger to her lips
+	. 16980_23250
+%wor:	the 16980_17120 little 17120_17440 girl 17440_18170 is 18890_19140 saying 19140_20010 “quiet 21020_21610 shh” 21650_21970 with 21970_22100 her 22100_22320 finger 22320_22700 to 22700_22830 her 22830_22950 lips 22950_23250  .
+%mor:	det:art|the adj|little n|girl aux|be&3S part|say-PRESP n|quiet
+	on|shh prep|with det:poss|her n|finger prep|to det:poss|her n|lip-PL
+	.
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|6|XMOD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|5|PUNCT
+*PAR:	the stool is going to come topple over and their secret will be
+	discovered . 23938_28198
+%wor:	the 23938_24038 stool 24038_24488 is 24488_24548 going 24548_24778 to 24778_24918 come 24918_25708 topple 25708_26068 over 26068_26408 and 26408_26668 their 26668_26918 secret 26918_27368 will 27368_27568 be 27568_27588  discovered 27588_28198 .
+%mor:	det:art|the n|stool aux|be&3S part|go-PRESP inf|to v|come v|topple
+	adv|over coord|and det:poss|their n|secret mod|will aux|be
+	part|discover-PASTP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|COMP 8|7|JCT
+	9|14|LINK 10|11|DET 11|14|SUBJ 12|14|AUX 13|14|AUX 14|7|CJCT
+	15|4|PUNCT
+*PAR:	&-uh the woman is washing the dishes . 29188_32677
+%wor:	&-uh 29188_29358 the 29358_29368 woman 29368_29998 is 29998_30118 washing 30408_31778 the 31778_31898 dishes 31898_32678 .
+%mor:	det:art|the n|woman aux|be&3S part|wash-PRESP det:art|the n|dish-PL
+	.
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and I think she's wiping (th)em . 33670_37920
+%wor:	and 33670_34580 I 36690_36720 think 36720_36980 she's 36980_37180 wiping 37180_37610 (th)em 37610_37920 .
+%mor:	coord|and pro:sub|I v|think pro:sub|she~aux|be&3S part|wipe-PRESP
+	pro:obj|them .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|6|OBJ
+	8|3|PUNCT
+*PAR:	and the faucet is running and the sink is running over and spilling
+	onto the floor and she's walking in a puddle . 38429_44599
+%wor:	and 38429_38689 the 38689_38919 faucet 38919_39609 is 39609_39759 running 39759_40249 and 40249_40529 the 40529_40629 sink 40629_40869 is 40869_40999 running 40999_41349 over 41349_41739 and 41739_41889 spilling 41889_42269  onto 42269_42629 the 42629_42729 floor 42729_43129 and 43129_43329 she's 43329_43509 walking 43509_43929 in 43929_44059 a 44059_44109 puddle 44109_44599 .
+%mor:	coord|and det:art|the n|faucet aux|be&3S part|run-PRESP coord|and
+	det:art|the n|sink aux|be&3S part|run-PRESP adv|over coord|and
+	part|spill-PRESP prep|onto det:art|the n|floor coord|and
+	pro:sub|she~aux|be&3S part|walk-PRESP prep|in det:art|a n|puddle .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|10|LINK 7|8|DET
+	8|10|SUBJ 9|10|AUX 10|5|CJCT 11|10|JCT 12|10|CONJ 13|12|COORD
+	14|13|JCT 15|16|DET 16|14|POBJ 17|20|LINK 18|20|SUBJ 19|20|AUX
+	20|5|CJCT 21|20|JCT 22|23|DET 23|21|POBJ 24|5|PUNCT
+*PAR:	and let's see things that are happening . [+ exc] 45845_47885
+%wor:	and 45845_46455 let's 46455_46715 see 46715_46795 things 46795_47105 that 47105_47215 are 47215_47305 happening 47305_47885 . [+ exc]
+%mor:	coord|and v|let~pro:obj|us v|see n|thing-PL pro:rel|that
+	aux|be&PRES part|happen-PRESP .
+%gra:	1|2|LINK 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|8|LINK 7|8|AUX
+	8|5|CMOD 9|2|PUNCT
+*PAR:	I guess that's about all that's +... [+ exc] 47900_49330
+%wor:	I 47900_47990 guess 47990_48230 that's 48230_48450 about 48480_48740 all 48740_48940 that's 48940_49330 +... [+ exc]
+%mor:	pro:sub|I n|guess pro:rel|that~cop|be&3S adv|about adv|all
+	pro:rel|that~cop|be&3S +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|LINK 4|2|CMOD 5|8|JCT 6|8|JCT 7|8|LINK
+	8|4|PRED 9|2|PUNCT
+*PAR:	well she's not [//] &+n has not yet noticed the children . 50331_53731
+%wor:	well 50331_50601 she's 50601_50861 not [//] 50861_51121 &+n has 51121_51191 not 51451_52371 yet 52401_52631 noticed 52631_52981 the 52981_53051 children 53051_53731 .
+%mor:	co|well pro:sub|she~cop|be&3S aux|have&3S neg|not conj|yet
+	v|notice-PAST det:art|the n|child&PL .
+%gra:	1|3|COM 2|3|SUBJ 3|7|SUBJ 4|7|AUX 5|4|NEG 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|7|PUNCT
+*PAR:	and that's really all that's happening I guess . [+ exc] 56654_59854
+%wor:	and 56654_57314 that's 57314_57644 really 57854_58184 all 58184_58544 that's 58544_58844 happening 59084_59564 I 59564_59664 guess 59664_59854 . [+ exc]
+%mor:	coord|and pro:dem|that~cop|be&3S adv|real&dadj-LY adv|all
+	pro:rel|that~aux|be&3S part|happen-PRESP pro:sub|I v|guess .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|JCT 6|8|LINK 7|8|AUX
+	8|5|CMOD 9|10|SUBJ 10|8|COMP 11|3|PUNCT
+*INV:	okay . 60120_60550
+%wor:	okay 60120_60550 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

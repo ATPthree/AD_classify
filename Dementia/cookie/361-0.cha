@@ -1,0 +1,89 @@
+@UTF8
+@PID:	11312/t-00002642-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|78;|female|PossibleAD||Participant|19||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	361-0, audio
+@G:	Cookie
+*INV:	just tell me everything you see going on in the picture . 150_2400
+%wor:	just 150_270 tell 400_570 me 570_680 everything 710_1120 you 1120_1200 see 1200_1270 going 1310_1520 on 1520_1630 in 1630_2090 the 2160_2170 picture 2170_2400 .
+%mor:	adv|just v|tell pro:obj|me pro:indef|everything pro:per|you v|see
+	part|go-PRESP adv|on prep|in det:art|the n|picture .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|OBJ 5|6|SUBJ 6|2|CJCT 7|6|COMP 8|7|JCT
+	9|7|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*PAR:	&=sighs the boy is snitching cookies . 5616_7046
+%wor:	&=sighs the 5616_5626 boy 5626_5866 is 5866_6076 snitching 6106_6566 cookies 6606_7046 .
+%mor:	det:art|the n|boy aux|be&3S part|snitch-PRESP n|cookie-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	the sister's laughin(g) . 7978_9058
+%wor:	the 7978_8078 sister's 8078_8568 laughin(g) 8568_9058 .
+%mor:	det:art|the n|sister~aux|be&3S part|laugh-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	the [/] the <bench [: stool] [* s:r-ret] he> [//] &-uh stool he's
+	on is [/] is slanted . 11272_15882
+%wor:	the [/] 11272_11472 the 11502_11782 <bench [: stool] [* s:r-ret] 11812_12032 he 12542_12552> [//] &-uh stool he's on  is [/] 12552_13682 is 15012_15072 slanted 15412_15882 .
+%mor:	det:art|the n|stool pro:sub|he~cop|be&3S adv|on aux|be&3S
+	part|slant-PASTP .
+%gra:	1|2|DET 2|7|SUBJ 3|4|SUBJ 4|2|CMOD 5|4|JCT 6|7|AUX 7|0|ROOT
+	8|7|PUNCT
+*PAR:	&-uh (.) oh ‡ <the mother then did> [//] the water &+s spilled over
+	in the sink (.) on [/] &+t on to the floor . 15900_27940
+%wor:	&-uh 15900_15910 (.) oh 15910_16130 ‡ <the 19600_19620 mother 19620_19910 then 21310_21540 did 21570_21770> [//] the water &+s spilled over in  the sink (.) on [/] 21770_26740 &+t on 27050_27250 to 27380_27450 the 27510_27520 floor 27520_27940 .
+%mor:	co|oh beg|beg det:art|the n|water v|spill-PAST adv|over prep|in
+	det:art|the n|sink adv|on prep|to det:art|the n|floor .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|JCT 11|5|JCT 12|13|DET 13|11|POBJ 14|5|PUNCT
+*PAR:	and (.) there's dishes on the +... 28000_31660
+%wor:	and 28000_28090 (.) there's 30330_30470 dishes 30470_30720 on 30720_31190 the 31650_31660 +...
+%mor:	coord|and pro:exist|there~cop|be&3S n|dish-PL prep|on det:art|the
+	+...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|NJCT 6|5|POBJ 7|3|PUNCT
+*PAR:	she's dryin(g) &-uh a plate . 33415_34785
+%wor:	she's 33415_33505 dryin(g) 33605_34285 &-uh 34365_34375 a 34375_34465 plate 34505_34785 .
+%mor:	pro:sub|she~aux|be&3S part|dry-PRESP det:art|a n|plate .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	curtains . [+ gram] 38318_38778
+%wor:	curtains 38318_38778 . [+ gram]
+%mor:	n|curtain-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&-uh a good view just +... 40119_41409
+%wor:	&-uh 40119_40129 a 40129_40159 good 40649_40799 view 40909_41289 just 41289_41409 +...
+%mor:	det:art|a adj|good n|view adv|just +...
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|3|PUNCT
+*PAR:	(..) and the +... 46423_46543
+%wor:	(..) and 46423_46533 the 46533_46543 +...
+%mor:	coord|and det:art|the +...
+%gra:	1|0|INCROOT 2|3|DET 3|1|PUNCT
+*INV:	okay . 47067_47167
+%wor:	okay 47067_47167 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	anything else ? 49200_49740
+%wor:	anything 49200_49390 else 49650_49740 ?
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	(.) well ‡ &-uh you can see the [/] &-uh <I guess> [//] the
+	backyard . 55088_58438
+%wor:	(.) well 55088_55388 ‡ &-uh 55548_55558 you 55558_55628 can 55688_55818 see 55818_56098 the [/] 56098_56208 &-uh 56208_56268 <I 56268_56318 guess 57318_57418> [//] the backyard . 57418_58438
+%mor:	co|well beg|beg pro:per|you mod|can v|see det:art|the
+	n|+n|back+n|yard .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ
+	8|5|PUNCT
+*PAR:	and &-uh (..) &+d (.) I don't know if that would be a part of the
+	house or a garage or &-uh &+th the walk . 63758_74308
+%wor:	and 63758_63888 &-uh 67918_67928 (..) &+d (.) I 67928_68018 don't 68088_68248 know 68598_68638 if 68638_68698 that 70618_70708 would 70708_70828 be 70828_70888 a 70888_71278 part 71348_71438 of 71638_71768 the 71768_71778  house 71778_71838 or 71838_72058 a 72268_72298 garage 73778_73878 or 73878_73908 &-uh 73908_73918 &+th the 73918_73928 walk 73928_74308 .
+%mor:	coord|and pro:sub|I mod|do~neg|not v|know comp|if pro:dem|that
+	mod|will&COND cop|be det:art|a n|part prep|of det:art|the n|house
+	coord|or det:art|a n|garage coord|or det:art|the n|walk .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|9|LINK 7|9|SUBJ
+	8|9|AUX 9|5|COMP 10|11|DET 11|9|PRED 12|11|NJCT 13|14|DET 14|12|POBJ
+	15|5|CONJ 16|17|DET 17|15|COORD 18|17|CONJ 19|20|DET 20|18|COORD
+	21|5|PUNCT
+*INV:	(..) okay that's fine . 86246_86816
+%wor:	(..) okay 86246_86336 that's 86406_86526 fine 86726_86816 .
+%mor:	co|okay pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

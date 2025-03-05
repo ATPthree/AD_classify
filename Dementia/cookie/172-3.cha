@@ -1,0 +1,79 @@
+@UTF8
+@PID:	11312/t-00002529-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|75;00.|female|MCI||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	172-3, audio
+@Comment:	age is educated estimate, extrapolated from incomplete
+	demographic data
+@G:	Cookie
+*PAR:	okay . [+ exc] 170_890
+%wor:	okay 170_890 . [+ exc]
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	little boy is reaching for the cookie jar . 2279_4078
+%wor:	little 2279_2499 boy 2499_2779 is 2779_2909 reaching 2909_3259 for 3259_3379 the 3379_3469 cookie 3469_3759 jar 3759_4079 .
+%mor:	adj|little n|boy aux|be&3S part|reach-PRESP prep|for det:art|the
+	n|cookie n|jar .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*PAR:	<in so doing he's tipping over the> [//] &+s and he's handing them
+	to his sister, the cookies . 4100_8140
+%wor:	<in 4100_4240 so 4240_4520 doing 4520_4950 he's 4950_5170 tipping 5170_5530 over 5530_5820 the 5820_6030> [//] &+s and he's handing them to his sister, the cookies . 6080_8140
+%mor:	coord|and pro:sub|he~aux|be&3S part|hand-PRESP pro:obj|them prep|to
+	det:poss|his n|sister cm|cm det:art|the n|cookie-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|LP 10|11|DET 11|4|OBJ 12|4|PUNCT
+*PAR:	so doing he's tipping over the stool <in the> [//] &-uh in front of
+	the open cupboard . 8541_14251
+%wor:	so 8541_8771 doing 8771_9101 he's 9101_9361 tipping 9361_9721 over 9721_9961 the 9961_10121 stool 10121_10851 <in 11421_11651 the 11651_11941> [//] &-uh in front of  the open cupboard . 11941_14251
+%mor:	adv|so part|do-PRESP pro:sub|he~aux|be&3S part|tip-PRESP prep|over
+	det:art|the n|stool prep|in n|front prep|of det:art|the adj|open
+	n|+n|cup+n|board .
+%gra:	1|2|JCT 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|9|POBJ 11|10|NJCT 12|14|DET 13|14|MOD 14|11|POBJ
+	15|2|PUNCT
+*PAR:	&-uh the mother is washing dishes . 14998_17088
+%wor:	&-uh 14998_15208 the 15208_15248 mother 15248_15808 is 15808_16198 washing 16198_16608 dishes 16608_17088 .
+%mor:	det:art|the n|mother aux|be&3S part|wash-PRESP n|dish-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and at that time water is overflowing from the sink . 17170_21210
+%wor:	and 17170_17270 at 17270_17440 that 17440_17650 time 17650_18280 water 18750_19180 is 19180_19430 overflowing 19430_20230 from 20230_20470 the 20470_20600 sink 20600_21210 .
+%mor:	coord|and prep|at det:dem|that n|time n|water aux|be&3S
+	over#part|flow-PRESP prep|from det:art|the n|sink .
+%gra:	1|7|LINK 2|7|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|7|PUNCT
+*PAR:	she's wiping a dish at the time . 23449_25149
+%wor:	she's 23449_23649 wiping 23649_24089 a 24089_24129 dish 24129_24439 at 24439_24539 the 24539_24609 time 24609_25149 .
+%mor:	pro:sub|she~aux|be&3S part|wipe-PRESP det:art|a n|dish prep|at
+	det:art|the n|time .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	and that's what I +//. [+ exc] 26682_27242
+%wor:	and 26682_26802 that's 26802_27052 what 27052_27162 I 27162_27242 +//. [+ exc]
+%mor:	coord|and pro:dem|that~cop|be&3S pro:int|what pro:sub|I +//.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|OM 6|3|PUNCT
+*PAR:	her feet are in the water . 27288_28558
+%wor:	her 27288_27498 feet 27498_27778 are 27778_27878 in 27878_27988 the 27988_27998 water 27998_28558 .
+%mor:	det:poss|her n|foot&PL cop|be&PRES prep|in det:art|the n|water .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and that's as much as I see . [+ exc] 28714_29774
+%wor:	and 28714_28764 that's 28764_28944 as 28944_29074 much 29074_29294 as 29294_29404 I 29404_29514 see 29514_29774 . [+ exc]
+%mor:	coord|and pro:dem|that~cop|be&3S adv|as adv|much prep|as pro:sub|I
+	v|see .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|COORD 5|3|PRED 6|8|COORD 7|8|SUBJ
+	8|5|ENUM 9|3|PUNCT
+*PAR:	her back is to the boy and to the girl . 30230_32189
+%wor:	her 30230_30320 back 30320_30640 is 30640_30780 to 30780_30940 the 30940_31160 boy 31350_31490 and 31490_31700 to 31700_31770 the 31770_31880 girl 31880_32190 .
+%mor:	det:poss|her adj|back aux|be&3S prep|to det:art|the n|boy coord|and
+	prep|to det:art|the n|girl .
+%gra:	1|2|DET 2|0|ROOT 3|2|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|CONJ
+	8|7|COORD 9|10|DET 10|8|POBJ 11|3|PUNCT
+*INV:	okay . 35970_36090
+%wor:	okay 35970_36090 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,75 @@
+@UTF8
+@PID:	11312/t-00002339-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|67;|male|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	208-0, audio
+@G:	Cookie
+*INV:	alright . 790_1410
+%wor:	alright 790_1410 .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	ready ? [+ exc] 6543_6833
+%wor:	ready 6543_6833 ? [+ exc]
+%mor:	adj|ready ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the boy is going after cookies in a cookie jar . 7735_11235
+%wor:	the 7735_7785 boy 7785_8105 is 8105_8385 going 8385_8915 after 9485_9915 cookies 9955_10305 in 10305_10395 a 10395_10435 cookie 10435_10805 jar 10805_11235 .
+%mor:	det:art|the n|boy aux|be&3S part|go-PRESP prep|after n|cookie-PL
+	prep|in det:art|a n|cookie n|jar .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|NJCT
+	8|10|DET 9|10|MOD 10|7|POBJ 11|4|PUNCT
+*PAR:	he's standing on a stool that's tilting over . 11576_14296
+%wor:	he's 11576_11716 standing 11716_12116 on 12116_12246 a 12246_12296 stool 12296_12776 that's 12776_12936 tilting 13336_13736 over 13736_14296 .
+%mor:	pro:sub|he~aux|be&3S part|stand-PRESP prep|on det:art|a n|stool
+	pro:rel|that~aux|be&3S part|tilt-PRESP adv|over .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|9|LINK 8|9|AUX
+	9|6|CMOD 10|9|JCT 11|3|PUNCT
+*PAR:	<the girl is> [//] the little girl is laughing . 16256_19166
+%wor:	<the 16256_16316 girl 16316_16806 is 17276_17406> [//] the little girl is laughing . 17406_19166
+%mor:	det:art|the adj|little n|girl aux|be&3S part|laugh-PRESP .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	the mother is washing dishes . 19934_21814
+%wor:	the 19934_19944 mother 19944_20424 is 20664_20764 washing 20764_21274 dishes 21274_21814 .
+%mor:	det:art|the n|mother aux|be&3S part|wash-PRESP n|dish-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and the water is spilling over from the sink onto the floor . 22374_27854
+%wor:	and 22374_22674 the 22674_22684 water 22684_23134 is 23134_23274 spilling 23274_23824 over 23954_24424 from 24664_25084 the 25394_25454 sink 25454_25934 onto 26764_27264 the 27264_27274 floor 27354_27854 .
+%mor:	coord|and det:art|the n|water aux|be&3S part|spill-PRESP adv|over
+	prep|from det:art|the n|sink prep|onto det:art|the n|floor .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|JCT 11|12|DET 12|10|POBJ 13|5|PUNCT
+*PAR:	and the window is open . 28880_32540
+%wor:	and 28880_29420 the 29530_29540 window 29540_30240 is 31270_31530 open 31850_32540 .
+%mor:	coord|and det:art|the n|window cop|be&3S adj|open .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	and (.) she's drying the dishes evidently . 34030_41330
+%wor:	and 34030_34530 (.) she's 38710_39090 drying 39700_40210 the 40210_40220 dishes 40220_40600 evidently 40600_41330 .
+%mor:	coord|and pro:sub|she~aux|be&3S part|dry-PRESP det:art|the
+	n|dish-PL adv|evident&dadj-LY .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT
+	8|4|PUNCT
+*PAR:	and &-uh the curtains are open . 43408_46938
+%wor:	and 43408_44468 &-uh 45718_45728 the 45728_45738 curtains 45738_46188 are 46188_46478 open 46478_46938 .
+%mor:	coord|and det:art|the n|curtain-PL cop|be&PRES adj|open .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	and there's two cups and a saucer on the sink . 48854_52284
+%wor:	and 48854_49064 there's 49064_49364 two 50324_50554 cups 50584_50854 and 50854_51004 a 51004_51034 saucer 51034_51574 on 51574_51834 the 51864_51974 sink 51974_52284 .
+%mor:	coord|and pro:exist|there~cop|be&3S det:num|two n|cup-PL coord|and
+	det:art|a n|saucer prep|on det:art|the n|sink .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|5|CONJ 7|8|DET
+	8|6|COORD 9|8|NJCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*PAR:	and that is about all I can see . [+ exc] 59580_60590
+%wor:	and 59580_59870 that 59870_59950 is 59950_60010 about 60010_60160 all 60160_60220 I 60220_60290 can 60290_60510 see 60510_60590 . [+ exc]
+%mor:	coord|and pro:dem|that cop|be&3S adv|about adv|all pro:sub|I
+	mod|can v|see .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|JCT 5|8|JCT 6|8|SUBJ 7|8|AUX
+	8|3|CPRED 9|3|PUNCT
+*INV:	okay . 61338_61558
+%wor:	okay 61338_61558 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,77 @@
+@UTF8
+@PID:	11312/t-00002644-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|75;|female|ProbableAD||Participant|15||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	362-1, audio
+@G:	Cookie
+*INV:	just take a look at this picture and tell me everything that you
+	see happening in that picture . 550_5860
+%wor:	just 550_690 take 690_960 a 960_1330 look 1360_1480 at 1970_2140 this 2140_2370 picture 2400_2840 and 3390_3490 tell 3490_3670 me 3670_3850 everything 3880_4420 that 4420_4510 you 4510_4630  see 4630_4980 happening 4980_5420 in 5420_5500 that 5500_5690 picture 5690_5860 .
+%mor:	adv|just v|take det:art|a v|look prep|at det:dem|this n|picture
+	coord|and v|tell pro:obj|me pro:indef|everything pro:rel|that
+	pro:per|you v|see part|happen-PRESP prep|in det:dem|that n|picture .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|4|CONJ
+	9|8|COORD 10|9|OBJ2 11|9|OBJ 12|14|LINK 13|14|SUBJ 14|11|CMOD
+	15|14|COMP 16|15|JCT 17|18|DET 18|16|POBJ 19|2|PUNCT
+*PAR:	alright ‡ a little boy has a cookie jar . 5913_7923
+%wor:	alright 5913_6273 ‡ a 6273_6303 little 6303_6503 boy 6503_6963 has 7053_7213 a 7213_7273 cookie 7333_7573 jar 7573_7923 .
+%mor:	co|alright beg|beg det:art|a adj|little co|boy aux|have&3S
+	det:art|a n|cookie n|jar .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|9|MOD 5|9|COM 6|9|AUX 7|9|DET 8|9|MOD
+	9|0|INCROOT 10|9|PUNCT
+*INV:	xxx .
+%wor:	xxx .
+*PAR:	okay ‡ <the little girl> [//] <he's trying> [/] he's trying [//]
+	got on the ladder and trying to &-uh get a jar . [+ gram] 8780_15990
+%wor:	okay 8780_9250 ‡ <the 9250_9260 little 9260_9500 girl 9500_9950> [//] <he's trying> [/] 10020_10560 he's 10560_10780 trying [//] 10780_11310 got 11390_11790  on 11790_11890 the 11890_11900 ladder 11900_12360 and 12750_12920 trying 12920_13340 to 13340_13710 &-uh 13710_13930 get 15380_15520 a 15520_15600 jar 15600_15990 . [+ gram]
+%mor:	co|okay beg|beg pro:sub|he~aux|be&3S part|get&PASTP prep|on
+	det:art|the n|ladder coord|and part|try-PRESP inf|to v|get det:art|a
+	n|jar .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|CONJ 10|9|COORD 11|12|INF 12|10|COMP 13|14|DET 14|12|OBJ
+	15|5|PUNCT
+*PAR:	and this is the mother I guess . 16817_18047
+%wor:	and 16817_16927 this 16927_17087 is 17087_17197 the 17197_17277 mother 17277_17627 I 17627_17727 guess 17727_18047 .
+%mor:	coord|and pro:dem|this cop|be&3S det:art|the n|mother pro:sub|I
+	v|guess .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|7|SUBJ 7|5|CMOD
+	8|3|PUNCT
+*PAR:	right ? [+ exc] 18100_18300
+%wor:	right 18100_18300 ? [+ exc]
+%mor:	co|right ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 18876_19096
+%wor:	mhm 18876_19096 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	she is so &=laughs +... 19561_20191
+%wor:	she 19561_19641 is 19641_19931 so 19931_20191 &=laughs +...
+%mor:	pro:sub|she cop|be&3S adv|so +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	she [/] &=laughs she really &+g is [//] isn't any good sense of a
+	mother because the water's <running out_of the> [/] &+s &=laughs
+	running out_of the sink to the floor . 22070_32360
+%wor:	she [/] 22070_22200 &=laughs she 22740_22880 really 22880_23410 &+g is [//] 23440_23750 isn't 23980_24270 any 24270_24440 good 24440_24730 sense 24900_25130 of 25130_25220 a 25220_25300  mother 25300_25640 because 25640_26040 the 26040_26050 water's 26050_26500 <running 26500_26800 out_of 26800_27520 the 29250_29320> [/] &+s &=laughs  running out_of the sink to the floor . 29970_32360
+%mor:	pro:sub|she adv|real&dadj-LY cop|be&3S~neg|not qn|any adj|good
+	n|sense prep|of det:art|a n|mother conj|because det:art|the
+	n|water~aux|be&3S part|run-PRESP prep|out_of det:art|the n|sink
+	prep|to det:art|the n|floor .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|NEG 5|7|QUANT 6|7|MOD 7|3|PRED
+	8|7|NJCT 9|10|DET 10|8|POBJ 11|15|LINK 12|13|DET 13|15|SUBJ
+	14|15|AUX 15|3|CJCT 16|15|JCT 17|18|DET 18|16|POBJ 19|15|JCT
+	20|21|DET 21|19|POBJ 22|3|PUNCT
+*PAR:	so ‡ if I was a mother I would spank her . [+ exc] 32563_34783
+%wor:	so 32563_32693 ‡ if 32693_32803 I 32833_33103 was 33103_33183 a 33183_33243 mother 33243_33643 I 33953_34093 would 34093_34273 spank 34273_34733 her 34733_34783 . [+ exc]
+%mor:	co|so beg|beg conj|if pro:sub|I cop|be&PAST&13S det:art|a n|mother
+	pro:sub|I mod|will&COND v|spank pro:obj|her .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|PRED
+	8|10|SUBJ 9|10|AUX 10|7|CMOD 11|10|OBJ 12|5|PUNCT
+*PAR:	right ? [+ exc] 36044_36264
+%wor:	right 36044_36264 ? [+ exc]
+%mor:	co|right ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

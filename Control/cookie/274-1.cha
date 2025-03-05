@@ -1,0 +1,69 @@
+@UTF8
+@PID:	11312/t-00002379-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|55;|male|Control||Participant|26||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	274-1, audio
+@G:	Cookie
+*INV:	you see going on in this picture ? 490_2210
+%wor:	you 490_580 see 580_920 going 920_1340 on 1340_1480 in 1480_1620 this 1620_1780 picture 1780_2210 ?
+%mor:	pro:per|you v|see part|go-PRESP adv|on prep|in det:dem|this
+	n|picture ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ
+	8|2|PUNCT
+*PAR:	(.) well the mother's &-uh doing the dishes and allowing the sink
+	<to run> [/] &+o run over . 7762_13842
+%wor:	(.) well 7762_8212 the 8892_8982 mother's 8982_9452 &-uh 9592_9602 doing 9602_10372 the 11032_11342 dishes 11342_11612 and 11612_11772 allowing 11772_12092 the 12092_12122 sink 12122_12412  <to 12412_12652 run 12712_13242> [/] &+o run over . 13242_13842
+%mor:	co|well det:art|the n|mother~aux|be&3S part|do-PRESP det:art|the
+	n|dish-PL coord|and part|allow-PRESP det:art|the n|sink n|run
+	adv|over .
+%gra:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|CONJ
+	9|8|COORD 10|12|DET 11|12|MOD 12|9|OBJ 13|9|JCT 14|5|PUNCT
+*PAR:	<the kids or> [//] the boy's in the cookie jar . 15248_18038
+%wor:	<the 15248_15658 kids 15658_15968 or 16098_16558> [//] the boy's in the cookie jar . 16558_18038
+%mor:	det:art|the n|boy~cop|be&3S prep|in det:art|the n|cookie n|jar .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ
+	8|3|PUNCT
+*PAR:	and the stand [: stool] [* s:r] that he's standing on is tilting
+	over . [+ cir] 19279_21979
+%wor:	and 19279_19949 the 19949_19969 stand [: stool] [* s:r] 19969_20359 that 20359_20449 he's 20449_20589 standing 20589_21009 on 21009_21149 is 21149_21229 tilting 21229_21609  over 21609_21979 . [+ cir]
+%mor:	coord|and det:art|the n|stool comp|that pro:sub|he~aux|be&3S
+	part|stand-PRESP adv|on cop|be&3S part|tilt-PRESP adv|over .
+%gra:	1|9|LINK 2|3|DET 3|9|SUBJ 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CMOD
+	8|7|JCT 9|0|ROOT 10|9|PRED 11|10|JCT 12|9|PUNCT
+*PAR:	and &-uh I don't know what the girl is doing . [+ exc] 24259_28429
+%wor:	and 24259_25019 &-uh 27259_27299 I 27299_27309 don't 27309_27409 know 27409_27449 what 27449_27619 the 27619_27689 girl 27689_27929 is 27929_27989 doing 27989_28429 . [+ exc]
+%mor:	coord|and pro:sub|I mod|do~neg|not v|know pro:int|what det:art|the
+	n|girl aux|be&3S part|do-PRESP .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|10|LINK 7|8|DET
+	8|10|SUBJ 9|10|AUX 10|5|COMP 11|5|PUNCT
+*PAR:	gonna tell on him or do something . [+ gram] 28941_30381
+%wor:	gonna 28941_29191 tell 29241_29451 on 29451_29641 him 29641_29741 or 29741_29821 do 29821_29991 something 29991_30381 . [+ gram]
+%mor:	part|go&PRESP~inf|to v|tell prep|on pro:obj|him coord|or v|do
+	pro:indef|something .
+%gra:	1|0|INCROOT 2|3|INF 3|1|COMP 4|3|JCT 5|4|POBJ 6|1|CONJ 7|6|COORD
+	8|7|OBJ 9|1|PUNCT
+*PAR:	and then there's some people out here behind the garage . 33288_35658
+%wor:	and 33288_33458 then 33568_33668 there's 33668_33888 some 33888_34008 people 34008_34278 out 34278_34418 here 34418_34488 behind 34488_35028 the 35128_35218 garage 35218_35658 .
+%mor:	coord|and adv:tem|then pro:exist|there~cop|be&3S qn|some
+	n|person&PL prep|out n|here prep|behind det:art|the n|garage .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|PRED 7|6|NJCT
+	8|7|POBJ 9|6|NJCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+*PAR:	I don't know what they are doing . [+ exc] 35751_37281
+%wor:	I 35751_35791 don't 36551_36691 know 36691_36741 what 36741_36971 they 36971_37031 are 37031_37101 doing 37101_37281 . [+ exc]
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|what pro:sub|they
+	aux|be&PRES part|do-PRESP .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|4|COMP 9|4|PUNCT
+*PAR:	do you see them ? [+ exc] 37297_37957
+%wor:	do 37297_37397 you 37397_37507 see 37507_37567 them 37597_37957 ? [+ exc]
+%mor:	mod|do pro:per|you v|see pro:obj|them ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	mhm . 38636_39016
+%wor:	mhm 38636_39016 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

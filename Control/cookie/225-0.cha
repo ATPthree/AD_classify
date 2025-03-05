@@ -1,0 +1,134 @@
+@UTF8
+@PID:	11312/t-00002349-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|67;|female|Control||Participant|29||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	225-0, audio
+@G:	Cookie
+*INV:	what do you see going on ? 640_2170
+%wor:	what 640_1150 do 1270_1330 you 1330_1530 see 1530_1780 going 1780_2080 on 2080_2170 ?
+%mor:	pro:int|what mod|do pro:per|you v|see part|go-PRESP adv|on ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|5|JCT 7|4|PUNCT
+*PAR:	I see a little boy on a stool almost falling over, taking cookies
+	out_of the cookie jar . 3352_11872
+%wor:	I 3352_3382 see 3382_4072 a 4072_4282 little 4322_4512 boy 4512_5002 on 5082_5162 a 5162_5302 stool 5302_5702 almost 5702_5912 falling 5912_7592 over, 7592_8262 taking 9302_9752 cookies 10132_10622  out_of 10622_10812 the 10812_11022 cookie 11022_11362 jar 11392_11872 .
+%mor:	pro:sub|I v|see det:art|a adj|little n|boy prep|on det:art|a
+	n|stool adv|almost part|fall-PRESP adv|over cm|cm part|take-PRESP
+	n|cookie-PL prep|out_of det:art|the n|cookie n|jar .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|JCT 7|8|DET 8|6|POBJ
+	9|10|JCT 10|2|XJCT 11|10|JCT 12|10|LP 13|2|XJCT 14|13|OBJ 15|13|JCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|2|PUNCT
+*PAR:	and the little girl is putting her finger to her mouth <that she's>
+	[//] &-uh to keep it quiet . 12605_19615
+%wor:	and 12605_12895 the 12895_12905 little 12905_13055 girl 13055_13765 is 13895_14365 putting 14365_14785 her 14785_14875 finger 14875_15235 to 15235_15425 her 15425_15645 mouth 15645_16405 <that 16975_17225 she's 17225_17515>  [//] &-uh to keep it quiet . 17855_19615
+%mor:	coord|and det:art|the adj|little n|girl aux|be&3S part|put-PRESP
+	det:poss|her n|finger prep|to det:poss|her n|mouth inf|to v|keep
+	pro:per|it adj|quiet .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|JCT 10|11|DET 11|9|POBJ 12|13|INF 13|6|XJCT 14|13|OBJ 15|13|JCT
+	16|6|PUNCT
+*PAR:	the &-uh mother is washing dishes . 20446_23836
+%wor:	the 20446_20876 &-uh 20876_21086 mother 21636_21886 is 21886_22196 washing 22196_22716 dishes 23066_23836 .
+%mor:	det:art|the n|mother aux|be&3S part|wash-PRESP n|dish-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	she's drying the dishes and letting the water (.) &-uh <keep being>
+	[//] &-uh keep on running <in the> [/] in the sink . 25169_33149
+%wor:	she's 25169_25609 drying 25639_26129 the 26329_26409 dishes 26409_26819 and 26819_26929 letting 26929_27189 the 27189_27369 water 27369_27819 (.) &-uh 29039_29359 <keep 29959_30209 being 30429_30789>  [//] &-uh keep on running <in the> [/] 30859_32519 in 32519_32689 the 32689_32779 sink 32779_33149 .
+%mor:	pro:sub|she~aux|be&3S part|dry-PRESP det:art|the n|dish-PL
+	coord|and part|let-PRESP det:art|the n|water v|keep adv|on
+	part|run-PRESP prep|in det:art|the n|sink .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|10|LINK 7|10|XJCT
+	8|9|DET 9|10|SUBJ 10|3|CJCT 11|10|JCT 12|10|XJCT 13|12|JCT 14|15|DET
+	15|13|POBJ 16|3|PUNCT
+*PAR:	and then water is running over and she is standing <in the sink
+	[: water] [* s:r-ret]> [//] in the water that's &-uh running over .
+	33196_42326
+%wor:	and 33196_33346 then 33346_33526 water 33526_33756 is 33756_34176 running 34566_34936 over 34936_35226 and 35226_35526 she 35526_35626 is 35626_35826 standing 35826_36506 <in 37416_37596 the 37596_37846 sink  [: water] [* s:r-ret]> [//] 37876_38036 in 38106_38356 the 38356_38526 water 38526_38956 that's 40006_40446 &-uh 40476_40726 running 41476_41836 over 41836_42326 .
+%mor:	coord|and adv:tem|then n|water aux|be&3S part|run-PRESP adv|over
+	coord|and pro:sub|she aux|be&3S part|stand-PRESP prep|in det:art|the
+	n|water pro:rel|that~aux|be&3S part|run-PRESP adv|over .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|5|CJCT 11|10|JCT 12|13|DET 13|11|POBJ
+	14|16|LINK 15|16|AUX 16|13|CMOD 17|16|JCT 18|5|PUNCT
+*PAR:	&-uh there's a window there she's looking at, at the grass and the
+	flowers . 43581_50291
+%wor:	&-uh 43581_43931 there's 44171_44381 a 44381_44431 window 44431_44951 there 45411_45811 she's 46121_46441 looking 46441_46821 at, 46821_47171 at 47941_48111 the 48111_48491 grass 48621_49131 and 49131_49301 the 49301_49351  flowers 49351_50291 .
+%mor:	pro:exist|there~cop|be&3S det:art|a n|window adv|there
+	pro:sub|she~aux|be&3S part|look-PRESP prep|at cm|cm prep|at
+	det:art|the n|grass coord|and det:art|the n|flower-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|8|JCT 6|8|SUBJ 7|8|AUX
+	8|4|XMOD 9|8|JCT 10|9|LP 11|8|JCT 12|13|DET 13|11|POBJ 14|8|CONJ
+	15|16|DET 16|14|COORD 17|2|PUNCT
+*PAR:	and the &-uh &-uh curtains seem to be shaking from the (.) wind and
+	the air that's blowing in . 51547_65537
+%wor:	and 51547_51997 the 52857_53327 &-uh 53327_53527 &-uh 54877_55327 curtains 56697_57457 seem 57627_58077 to 58077_58247 be 58247_58517 shaking 58677_59217 from 59217_59547 the 59547_59567 (.) wind 61677_62007 and 63937_64077  the 64077_64237 air 64237_64517 that's 64517_64747 blowing 64747_65247 in 65247_65537 .
+%mor:	coord|and det:art|the n|curtain-PL cop|seem inf|to aux|be
+	part|shake-PRESP prep|from det:art|the n|wind coord|and det:art|the
+	n|air pro:rel|that~aux|be&3S part|blow-PRESP adv|in .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|INF 6|7|AUX 7|4|COMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|7|CONJ 12|13|DET 13|11|COORD 14|16|LINK
+	15|16|AUX 16|13|CMOD 17|16|JCT 18|4|PUNCT
+*PAR:	the dishes that she's through (.) drying are sitting on the sink
+	top . 66554_71684
+%wor:	the 66554_66634 dishes 66634_67104 that 67104_67254 she's 67254_67644 through 67644_68074 (.) drying 68864_69524 are 69864_69964 sitting 69964_70414 on 70414_70604 the 70604_70724 sink  top 71154_71684 .
+%mor:	det:art|the n|dish-PL pro:rel|that pro:sub|she~aux|be&3S
+	adv|through part|dry-PRESP aux|be&PRES part|sit-PRESP prep|on
+	det:art|the n|sink n|top .
+%gra:	1|2|DET 2|0|INCROOT 3|7|LINK 4|7|SUBJ 5|7|AUX 6|7|JCT 7|2|CMOD
+	8|9|AUX 9|7|COMP 10|9|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|2|PUNCT
+*PAR:	and the little girl's raising her hands for the little boy to hand
+	her a cookie . 75150_81590
+%wor:	and 75150_75360 the 75360_75370 little 75370_75630 girl's 75660_76390 raising 76940_77480 her 77480_77700 hands 78150_78670 for 78670_78750 the 78750_78760 little 78760_79240 boy 79270_79500 to 79500_79560 hand 79560_80040  her 80040_80260 a 80910_80990 cookie 80990_81590 .
+%mor:	coord|and det:art|the adj|little n|girl~aux|be&3S part|raise-PRESP
+	det:poss|her n|hand-PL prep|for det:art|the adj|little n|boy inf|to
+	v|hand pro:obj|her det:art|a n|cookie .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|14|INF 14|12|XMOD
+	15|14|OBJ2 16|17|DET 17|14|OBJ 18|6|PUNCT
+*PAR:	and he has one cookie in his hand and he's going after another one
+	. 82328_86288
+%wor:	and 82328_82818 he 82818_83168 has 83168_83388 one 83388_83558 cookie 83558_83988 in 83988_84148 his 84148_84448 hand 84448_84768 and 84768_84888 he's 84888_85018 going 85018_85348 after 85348_85698 another 85698_86088 one 86088_86288  .
+%mor:	coord|and pro:sub|he v|have&3S det:num|one n|cookie prep|in
+	det:poss|his n|hand coord|and pro:sub|he~aux|be&3S part|go-PRESP
+	prep|after qn|another pro:indef|one .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|8|DET
+	8|6|POBJ 9|12|LINK 10|12|SUBJ 11|12|AUX 12|3|CJCT 13|12|JCT
+	14|15|QUANT 15|13|POBJ 16|3|PUNCT
+*PAR:	&-uh he's ready to hand her a cookie . 90214_92844
+%wor:	&-uh 90214_90224 he's 90224_90394 ready 90394_90664 to 90664_90764 hand 90764_91164 her 91164_91204 a 91204_91414 cookie 92534_92844 .
+%mor:	pro:sub|he~cop|be&3S adj|ready inf|to v|hand pro:obj|her det:art|a
+	n|cookie .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|XMOD 6|5|OBJ2 7|8|DET
+	8|5|OBJ 9|2|PUNCT
+*PAR:	mother is &-uh holding a dish cloth that she's drying the dishes
+	with . 97957_103217
+%wor:	mother 97957_98157 is 98157_98727 &-uh 98727_98757 holding 98757_99707 a 99707_99857 dish 100837_101067 cloth 101067_101487 that 101487_101777 she's 101837_102097 drying 102097_102477 the 102477_102567 dishes 102567_103097  with 103127_103217 .
+%mor:	n|mother aux|be&3S part|hold-PRESP det:art|a n|dish n|cloth
+	comp|that pro:sub|she~aux|be&3S part|dry-PRESP det:art|the n|dish-PL
+	prep|with .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|6|CMOD 11|12|DET 12|10|OBJ 13|10|JCT
+	14|3|PUNCT
+*PAR:	she has a platter that she's drying . 103232_105572
+%wor:	she 103232_103242 has 103242_103312 a 103312_103342 platter 103472_104682 that 104682_104942 she's 104942_105182 drying 105182_105572 .
+%mor:	pro:sub|she v|have&3S det:art|a n|platter comp|that
+	pro:sub|she~aux|be&3S part|dry-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|4|CMOD 9|2|PUNCT
+*INV:	okay . 111029_111209
+%wor:	okay 111029_111209 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I don't see any other action . [+ exc] 111231_112841
+%wor:	I 111231_111241 don't 111241_111331 see 111641_111901 any 111901_112141 other 112141_112301 action 112301_112841 . [+ exc]
+%mor:	pro:sub|I mod|do~neg|not v|see qn|any qn|other n|action .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|QUANT 6|7|QUANT 7|4|OBJ
+	8|4|PUNCT
+*INV:	okay that's fine . 113913_114563
+%wor:	okay 113913_114033 that's 114033_114403 fine 114403_114563 .
+%mor:	co|okay pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

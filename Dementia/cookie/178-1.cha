@@ -1,0 +1,93 @@
+@UTF8
+@PID:	11312/t-00002532-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|56;|female|ProbableAD||Participant|24||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	178-1, audio
+@G:	Cookie
+*INV:	I want you to look at that picture and tell me everything that you
+	see happening in the picture . 30_6720
+%wor:	I 30_1520 want 1980_2190 you 2190_2250 to 2250_2370 look 2370_2590 at 2590_2780 that 2780_3040 picture 3040_3620 and 3800_3990 tell 3990_4170 me 4170_4370 everything 4400_4920 that 4920_5020 you 5020_5230  see 5230_5610 happening 5700_6370 in 6370_6460 the 6460_6470 picture 6470_6720 .
+%mor:	pro:sub|I v|want pro:per|you inf|to v|look prep|at det:dem|that
+	n|picture coord|and v|tell pro:obj|me pro:indef|everything
+	pro:rel|that pro:per|you v|see part|happen-PRESP prep|in det:art|the
+	n|picture .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|INF 5|2|COMP 6|5|JCT 7|8|DET
+	8|6|POBJ 9|5|CONJ 10|9|COORD 11|10|OBJ2 12|10|OBJ 13|15|LINK
+	14|15|SUBJ 15|12|CMOD 16|15|COMP 17|16|JCT 18|19|DET 19|17|POBJ
+	20|2|PUNCT
+*INV:	what's happening there ? 7271_8241
+%wor:	what's 7271_7491 happening 7531_7931 there 7931_8241 ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP n|there ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	(...) &-um &+t takin(g) some cookies . [+ gram] 34081_43081
+%wor:	(...) &-um 34081_34761 &+t takin(g) 41771_42231 some 42231_42421 cookies 42421_43081 . [+ gram]
+%mor:	part|take-PRESP qn|some n|cookie-PL .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+*PAR:	and &+f fallin(g) over . [+ gram] 46288_48128
+%wor:	and 46288_47158 &+f fallin(g) 47218_47638 over 47638_48128 . [+ gram]
+%mor:	coord|and part|fall-PRESP adv|over .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	and &-uh mother's dryin(g) dishes . 53518_58668
+%wor:	and 53518_54208 &-uh 54818_54828 mother's 57138_57608 dryin(g) 57608_58118 dishes 58118_58668 .
+%mor:	coord|and n|mother~aux|be&3S part|dry-PRESP n|dish-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and things fallin(g) &-uh &-um +... 60203_64772
+%wor:	and 60203_60553 things 60553_61073 fallin(g) 61073_61613 &-uh 61613_61743 &-um 63893_64773 +...
+%mor:	coord|and n|thing-PL part|fall-PRESP +...
+%gra:	1|3|LINK 2|3|MOD 3|0|ROOT 4|3|PUNCT
+*PAR:	sink's runnin(g) over . [+ gram] 72740_73980
+%wor:	sink's 72740_73030 runnin(g) 73030_73440 over 73440_73980 . [+ gram]
+%mor:	n|sink~aux|be&3S part|run-PRESP adv|over .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and two cups and saucer <on the plate [: sink] [* s:r-ret]> [//]
+	&-uh on the sink . [+ gram] 75329_83859
+%wor:	and 75329_75829 two 79449_79679 cups 79679_80079 and 80229_80549 saucer 80549_81019 <on 81019_81419 the 81479_81709 plate [: sink] [* s:r-ret]> [//]  &-uh on the sink . [+ gram] 81709_83859
+%mor:	coord|and det:num|two n|cup-PL coord|and n|saucer prep|on
+	det:art|the n|sink .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|CONJ 5|4|COORD 6|3|JCT 7|8|DET
+	8|6|POBJ 9|3|PUNCT
+*PAR:	and &-uh +... 86817_90897
+%wor:	and 86817_87537 &-uh 90887_90897 +...
+%mor:	coord|and +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and the girl's &-um &-um +... 113271_118121
+%wor:	and 113271_113691 the 114211_114381 girl's 114381_114801 &-um 114801_115781 &-um 117421_118121 +...
+%mor:	coord|and det:art|the n|girl~cop|be&3S +...
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	<cookies [: curtains] [* per-ret] I_mean> [//] &-um (..) &-uh (..)
+	windows [: curtains] [* s:r] on the curtains [: windows] [* s:r] .
+	[+ gram] 134100_152090
+%wor:	<cookies [: curtains] [* per-ret] 134100_134670 I_mean 135170_135870> [//] &-um (..) &-uh (..)  windows [: curtains] [* s:r] 143160_151160 on 151710_151880 the 151880_152090 curtains [: windows] [* s:r] .  [+ gram]
+%mor:	n|curtain-PL prep|on det:art|the n|window-PL .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*INV:	okay is that everything ? 153482_166262
+%wor:	okay 153482_153602 is 153662_153722 that 153972_154082 everything 154082_166262 ?
+%mor:	co|okay cop|be&3S comp|that pro:indef|everything ?
+%gra:	1|2|COM 2|0|ROOT 3|2|PRED 4|3|OM 5|2|PUNCT
+*PAR:	and &-um (...) the spigot's on the sink . 168860_187020
+%wor:	and 168860_169180 &-um 169180_170710 (...) the 185700_185790 spigot's 185790_186340 on 186340_186550 the 186550_186760 sink 186760_187020 .
+%mor:	coord|and det:art|the n|spigot~cop|be&3S prep|on det:art|the n|sink
+	.
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*INV:	mhm . 187088_188198
+%wor:	mhm 187088_188198 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and &-uh +... [+ exc] 194059_209439
+%wor:	and 194059_194779 &-uh 209429_209439 +... [+ exc]
+%mor:	coord|and +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 220899_221189
+%wor:	okay 220899_221189 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	well that's about it . [+ exc] 222645_223505
+%wor:	well 222645_222755 that's 222755_222915 about 222985_223325 it 223325_223505 . [+ exc]
+%mor:	co|well pro:dem|that~cop|be&3S adv|about pro:per|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+@End

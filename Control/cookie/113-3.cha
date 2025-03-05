@@ -1,0 +1,73 @@
+@UTF8
+@PID:	11312/t-00002262-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|50;|female|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	113-3, audio
+@G:	Cookie
+*INV:	okay and here's the picture . 1200_3120
+%wor:	okay 1200_1530 and 2050_2230 here's 2230_2430 the 2430_2570 picture 2570_3120 .
+%mor:	co|okay coord|and pro:exist|here~cop|be&3S det:art|the n|picture .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*PAR:	little boy getting in the cookie jar . [+ gram] 8288_9898
+%wor:	little 8288_8628 boy 8628_8728 getting 8758_9038 in 9038_9218 the 9218_9348 cookie 9348_9728 jar 9758_9898 . [+ gram]
+%mor:	adj|little n|boy part|get-PRESP prep|in det:art|the n|cookie n|jar
+	.
+%gra:	1|2|MOD 2|0|INCROOT 3|2|XMOD 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ
+	8|2|PUNCT
+*PAR:	and the little girl holding out her hand for some cookies . 11044_15504
+%wor:	and 11044_11414 the 11414_11424 little 11424_11724 girl 11724_12204 holding 12204_12674 out 12674_12864 her 12864_12924 hand 12924_13454 for 13454_13884 some 14574_14834 cookies 14864_15504 .
+%mor:	coord|and det:art|the adj|little n|girl part|hold-PRESP adv|out
+	det:poss|her n|hand prep|for qn|some n|cookie-PL .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|JCT 10|11|QUANT 11|9|POBJ 12|5|PUNCT
+*PAR:	and a stool the boy is on is about to tip over . 15555_19965
+%wor:	and 15555_16095 a 16095_16135 stool 16135_16315 the 16315_17695 boy 17755_17835 is 17835_18165 on 18165_18355 is 18355_18515 about 18515_18825 to 18825_18905 tip 18905_19275 over 19275_19965 .
+%mor:	coord|and det:art|a n|stool det:art|the n|boy cop|be&3S adv|on
+	cop|be&3S adv|about inf|to v|tip adv|over .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|5|DET 5|6|SUBJ 6|0|ROOT 7|8|JCT
+	8|6|PRED 9|11|JCT 10|11|INF 11|8|CPRED 12|11|JCT 13|6|PUNCT
+*PAR:	and a lady is drying a dish . 20607_24027
+%wor:	and 20607_20967 a 20967_20997 lady 20997_21487 is 21487_22037 drying 23107_23417 a 23417_23477 dish 23477_24027 .
+%mor:	coord|and det:art|a n|lady aux|be&3S part|dry-PRESP det:art|a
+	n|dish .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ
+	8|5|PUNCT
+*PAR:	and the water is running over overflowing from the sink . 24051_28421
+%wor:	and 24051_24641 the 24641_24651 water 24651_24831 is 24831_25081 running 25081_25971 over 26941_27031 overflowing 27031_27491 from 27491_27701 the 27701_27771 sink 27771_28421 .
+%mor:	coord|and det:art|the n|water aux|be&3S part|run-PRESP adv|over
+	over#part|flow-PRESP prep|from det:art|the n|sink .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|JCT 7|5|COMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*PAR:	&-uh you said just the action ? [+ exc] 30432_31762
+%wor:	&-uh 30432_30442 you 30442_30592 said 30592_30822 just 30822_31022 the 31022_31192 action 31192_31762 ? [+ exc]
+%mor:	pro:per|you v|say&PAST adv|just det:art|the n|action ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|JCT 4|5|DET 5|2|OBJ 6|2|PUNCT
+*INV:	mhm . 31808_32357
+%wor:	mhm 31808_32358 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+< the lady is stepping in the water on the floor . 32470_36461
+%wor:	+< the 32471_32511 lady 32511_32891 is 32891_33171 stepping 33171_33641 in 33641_33861 the 33861_33871 water 33871_34371 on 34371_34431 the 34431_34471 floor 34471_36461 .
+%mor:	det:art|the n|lady cop|be&3S n:gerund|step-GERUND prep|in
+	det:art|the n|water prep|on det:art|the n|floor .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|7|DET 7|5|POBJ 8|4|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*PAR:	&-hm I don't know what's goin(g) on outside the window . [+ exc] 38385_43915
+%wor:	&-hm 38385_39075 I 41545_41555 don't 41555_41825 know 41855_41895 what's 41895_42055 goin(g) 42055_42255 on 42375_42525 outside 42595_42825 the 42825_43715 window 43755_43915 . [+ exc]
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|what~aux|be&3S
+	part|go-PRESP adv|on adj|outside det:art|the n|window .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|SUBJ 6|7|AUX 7|4|COMP 8|7|JCT
+	9|11|MOD 10|11|DET 11|7|OBJ 12|4|PUNCT
+*INV:	okay ? 46860_47240
+%wor:	okay 46860_47240 ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	that's fine thank_you . 47839_49959
+%wor:	that's 47839_48069 fine 48069_48469 thank_you 48469_49959 .
+%mor:	pro:dem|that~cop|be&3S adj|fine co|thank_you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|COM 5|2|PUNCT
+@End

@@ -1,0 +1,74 @@
+@UTF8
+@PID:	11312/t-00002264-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|63;|female|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	114-1, audio
+@G:	Cookie
+*INV:	okay there it is . 550_1410
+%wor:	okay 550_700 there 700_910 it 910_1290 is 1290_1410 .
+%mor:	co|okay adv|there pro:per|it cop|be&3S .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*INV:	what do you see going on in that picture ? 2138_3668
+%wor:	what 2138_2238 do 2238_2298 you 2298_2358 see 2358_2538 going 2538_2848 on 2848_3008 in 3008_3108 that 3108_3318 picture 3318_3668 ?
+%mor:	pro:int|what mod|do pro:per|you v|see part|go-PRESP adv|on prep|in
+	det:dem|that n|picture ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*PAR:	well the boy is getting cookies and he's gonna fall off the stool .
+	4480_9290
+%wor:	well 4480_5010 the 5590_5750 boy 5750_6330 is 6360_6730 getting 6760_7040 cookies 7040_7480 and 7480_7590 he's 7590_7740 gonna 7740_7970 fall 7970_8270 off 8270_8550 the 8550_8640 stool 8640_9290 .
+%mor:	co|well det:art|the n|boy aux|be&3S part|get-PRESP n|cookie-PL
+	coord|and pro:sub|he~aux|be&3S part|go&PRESP~inf|to v|fall prep|off
+	det:art|the n|stool .
+%gra:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|5|CJCT 11|12|INF 12|10|COMP 13|12|JCT
+	14|15|DET 15|13|POBJ 16|5|PUNCT
+*PAR:	and the mother is doing dishes . 10980_13140
+%wor:	and 10980_11470 the 11470_11480 mother 11480_12160 is 12190_12380 doing 12380_12720 dishes 12750_13140 .
+%mor:	coord|and det:art|the n|mother aux|be&3S part|do-PRESP n|dish-PL .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	and the water is running over out_of the sink . 13188_16908
+%wor:	and 13188_13278 the 13278_13378 water 13378_13748 is 13748_13908 running 13908_14538 over 14818_15248 out_of 16158_16538 the 16538_16578 sink 16578_16908 .
+%mor:	coord|and det:art|the n|water aux|be&3S part|run-PRESP adv|over
+	prep|out_of det:art|the n|sink .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*PAR:	she has the faucet on . 16927_18127
+%wor:	she 16927_17007 has 17007_17227 the 17227_17397 faucet 17397_17827 on 17827_18127 .
+%mor:	pro:sub|she v|have&3S det:art|the n|faucet adv|on .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*PAR:	she's spilling water all over the floor . 19486_21496
+%wor:	she's 19486_19706 spilling 19706_20186 water 20186_20516 all 20546_20896 over 20926_21016 the 21016_21046 floor 21196_21496 .
+%mor:	pro:sub|she~aux|be&3S part|spill-PRESP n|water adv|all prep|over
+	det:art|the n|floor .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|6|JCT 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*INV:	anything else ? 29851_30731
+%wor:	anything 29851_30221 else 30221_30731 ?
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	well the boy is handing the little girl a cookie . 33138_37548
+%wor:	well 33138_33518 the 34748_35208 boy 35658_35858 is 35858_36008 handing 36008_36428 the 36428_36438 little 36438_36748 girl 36778_36988 a 36988_37058 cookie 37058_37548 .
+%mor:	co|well det:art|the n|boy aux|be&3S part|hand-PRESP det:art|the
+	adj|little n|girl det:art|a n|cookie .
+%gra:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|10|DET 10|8|OBJ 11|5|PUNCT
+*INV:	anything else ? 47752_48422
+%wor:	anything 47752_47932 else 47932_48422 ?
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	&-uh nothing that I can see of action . [+ exc] 50885_53565
+%wor:	&-uh 50885_50935 nothing 51965_52305 that 52305_52425 I 52425_52525 can 52525_52775 see 52775_52905 of 52905_53095 action 53095_53565 . [+ exc]
+%mor:	pro:indef|nothing pro:rel|that pro:sub|I mod|can v|see prep|of
+	n|action .
+%gra:	1|0|INCROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CMOD 6|5|JCT 7|6|POBJ
+	8|1|PUNCT
+*INV:	okay fine . 54626_56786
+%wor:	okay 54626_54966 fine 56686_56786 .
+%mor:	co|okay adv|fine .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

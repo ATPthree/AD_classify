@@ -1,0 +1,132 @@
+@UTF8
+@PID:	11312/t-00002726-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|78;|female|ProbableAD||Participant|12||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	698-0, audio
+@G:	Cookie
+*INV:	xxx picture . 1200_1700
+%wor:	xxx picture 1200_1700 .
+%mor:	n|picture .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	well ‡ there's a cookie jar there with the lid off . 3854_10754
+%wor:	well 3854_5204 ‡ there's 8024_8244 a 8244_8294 cookie 8294_8654 jar 8654_9004 there 9004_9414 with 9964_10114 the 10114_10194 lid 10194_10484 off 10484_10754 .
+%mor:	co|well beg|beg pro:exist|there~cop|be&3S det:art|a n|cookie n|jar
+	adv|there prep|with det:art|the n|lid adv|off .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED
+	8|7|NJCT 9|7|NJCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|4|PUNCT
+*PAR:	and the kid was up gettin(g) cookies . 10842_12972
+%wor:	and 10842_11122 the 11122_11132 kid 11132_11342 was 11342_11572 up 11692_12032 gettin(g) 12032_12372 cookies 12372_12972 .
+%mor:	coord|and det:art|the n|kid aux|be&PAST&13S adv|up part|get-PRESP
+	n|cookie-PL .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|OBJ
+	8|6|PUNCT
+*PAR:	and he's upsettin(g) . 14845_16335
+%wor:	and 14845_15095 he's 15095_15485 upsettin(g) 15485_16335 .
+%mor:	coord|and pro:sub|he~aux|be&3S part|upset-PRESP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	there's a &+sp water spigot here . 20850_22690
+%wor:	there's 20850_21290 a 21290_21330 &+sp water 21410_21760 spigot 21760_22240 here 22240_22690 .
+%mor:	pro:exist|there~cop|be&3S det:art|a n|water n|spigot adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|2|PUNCT
+*INV:	okay &+h hang on a second . 30137_31247
+%wor:	okay 30137_30367 &+h hang 30367_30857 on 30857_30917 a 30917_30987 second 30987_31247 .
+%mor:	co|okay v|hang prep|on det:art|a n|second .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*INV:	let me +... 31585_35265
+%wor:	let 31585_35255 me 35255_35265 +...
+%mor:	v|let&ZERO pro:obj|me +...
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*INV:	okay . 35804_35894
+%wor:	okay 35804_35894 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	let me have you look at this again and I want you to tell me
+	everything you see going on right here . 36625_41155
+%wor:	let 36625_36815 me 36815_36935 have 36935_37055 you 37085_37165 look 37165_37345 at 37345_37445 this 37445_37595 again 37645_38145 and 38435_38525 I 38525_38585 want 38585_38875 you 38875_38935 to 38935_39005 tell 39005_39255 me 39255_39385  everything 39385_39785 you 39785_39885 see 39885_40125 going 40125_40445 on 40445_40685 right 40685_40945 here 40945_41155 .
+%mor:	v|let&ZERO pro:obj|me v|have pro:per|you v|look prep|at
+	pro:dem|this adv:tem|again coord|and pro:sub|I v|want pro:per|you
+	inf|to v|tell pro:obj|me pro:indef|everything pro:per|you v|see
+	part|go-PRESP adv|on adv|right n|here .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|SUBJ 5|3|COMP 6|5|JCT 7|6|POBJ
+	8|5|JCT 9|11|LINK 10|11|SUBJ 11|5|CJCT 12|14|SUBJ 13|14|INF
+	14|11|COMP 15|14|OBJ 16|14|OBJ 17|18|SUBJ 18|14|COMP 19|22|XJCT
+	20|19|JCT 21|22|JCT 22|18|COMP 23|1|PUNCT
+*INV:	what do you see going on there ? 41200_42720
+%wor:	what 41200_41540 do 41540_41620 you 41620_41710 see 41710_41960 going 41960_42270 on 42270_42490 there 42490_42720 ?
+%mor:	pro:int|what mod|do pro:per|you v|see part|go-PRESP prep|on n|there
+	?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|5|JCT 7|6|POBJ
+	8|4|PUNCT
+*PAR:	that kid's gettin(g) cookies . 42900_44500
+%wor:	that 42900_43190 kid's 43190_43530 gettin(g) 43530_43840 cookies 43840_44500 .
+%mor:	comp|that n|kid~aux|be&3S part|get-PRESP n|cookie-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	see he got a handful on him . 44943_46693
+%wor:	see 44943_45113 he 45113_45293 got 45293_45503 a 45503_45533 handful 45533_46243 on 46243_46563 him 46633_46693 .
+%mor:	v|see pro:sub|he v|get&PAST det:art|a n|hand-FUL prep|on
+	pro:obj|him .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ
+	8|1|PUNCT
+*INV:	can you see anything else ? 47427_48567
+%wor:	can 47427_47517 you 47517_47577 see 47607_47687 anything 47687_48077 else 48077_48567 ?
+%mor:	mod|can pro:per|you v|see pro:indef|anything post|else ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|PQ 6|3|PUNCT
+*INV:	what else is going on ? 48586_49746
+%wor:	what 48586_48766 else 48766_49016 is 49016_49136 going 49136_49446 on 49446_49746 ?
+%mor:	pro:int|what post|else aux|be&3S part|go-PRESP adv|on ?
+%gra:	1|4|LINK 2|1|PQ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	(.) well ‡ this is a &+c cupboard up here . 50366_62226
+%wor:	(.) well 50366_50466 ‡ this 60116_60596 is 60596_60826 a 60826_60866 &+c cupboard 60866_61626 up 61626_61846 here 61846_62226 .
+%mor:	co|well beg|beg pro:dem|this cop|be&3S det:art|a n|+n|cup+n|board
+	prep|up n|here .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|6|NJCT
+	8|7|POBJ 9|4|PUNCT
+*PAR:	(.) here somebody ate and left the dish set . 70765_73035
+%wor:	(.) here 70765_70945 somebody 70945_71625 ate 71625_71775 and 71775_71875 left 71875_72065 the 72065_72155 dish 72155_72465 set 72465_73035 .
+%mor:	adv|here pro:indef|somebody v|eat&PAST coord|and v|leave&PAST
+	det:art|the n|dish part|set&PASTP .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|7|DET 7|5|OBJ
+	8|7|XMOD 9|3|PUNCT
+*PAR:	and this one's &-uh dryin(g) the dishes . 74360_76810
+%wor:	and 74360_74450 this 74450_74710 one's 74980_75310 &-uh 75310_75370 dryin(g) 75370_75950 the 75950_76100 dishes 76100_76810 .
+%mor:	coord|and pro:dem|this pro:indef|one~aux|be&3S part|dry-PRESP
+	det:art|the n|dish-PL .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ
+	8|5|PUNCT
+*INV:	what else do you see going on here ? 78854_81284
+%wor:	what 78854_79534 else 79534_79784 do 79784_79894 you 79894_80004 see 80004_80284 going 80284_80594 on 80594_80874 here 80874_81284 ?
+%mor:	pro:int|what post|else mod|do pro:per|you v|see part|go-PRESP
+	prep|on n|here ?
+%gra:	1|5|LINK 2|1|PQ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|COMP 7|6|JCT 8|7|POBJ
+	9|5|PUNCT
+*PAR:	this lady's dryin(g) dishes . 88410_90580
+%wor:	this 88410_88670 lady's 88670_89170 dryin(g) 89170_89670 dishes 89670_90580 .
+%mor:	pro:dem|this n|lady~aux|be&3S part|dry-PRESP n|dish-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	can you see anything else going on ? 91601_94081
+%wor:	can 91601_91751 you 92591_92701 see 92701_92911 anything 92911_93251 else 93251_93621 going 93651_93881 on 93881_94081 ?
+%mor:	mod|can pro:per|you v|see pro:indef|anything post|else
+	part|go-PRESP adv|on ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|PQ 6|4|XMOD 7|6|JCT 8|3|PUNCT
+*PAR:	that's a cookie jar and the little boy is on a ladder [: stool]
+	[* s:r] tryin(g) to get cookies . 94101_98851
+%wor:	that's 94101_94421 a 94421_94451 cookie 94451_94801 jar 94801_95181 and 95181_95321 the 95321_95331 little 95331_95601 boy 95601_95881 is 95881_96041 on 96041_96611 a 96611_96801 ladder [: stool]  [* s:r] 97611_97731 tryin(g) 97731_98121 to 98121_98191 get 98191_98321 cookies 98321_98851 .
+%mor:	pro:dem|that~cop|be&3S det:art|a n|cookie n|jar coord|and
+	det:art|the adj|little n|boy aux|be&3S prep|on det:art|a n|stool
+	part|try-PRESP inf|to v|get n|cookie-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|14|LINK 7|9|DET
+	8|9|MOD 9|14|SUBJ 10|14|AUX 11|10|JCT 12|13|DET 13|11|POBJ 14|5|XMOD
+	15|16|INF 16|14|COMP 17|16|OBJ 18|2|PUNCT
+*INV:	okay . 99180_99810
+%wor:	okay 99180_99810 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay let me take that away . 105940_107200
+%wor:	okay 105940_106460 let 106460_106560 me 106560_106650 take 106650_106850 that 106850_106980 away 106980_107200 .
+%mor:	co|okay v|let&ZERO pro:obj|me v|take comp|that adv|away .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|COMP 5|4|OBJ 6|5|JCT 7|2|PUNCT
+@End

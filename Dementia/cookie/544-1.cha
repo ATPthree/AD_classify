@@ -1,0 +1,61 @@
+@UTF8
+@PID:	11312/t-00002683-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|71;|male|ProbableAD||Participant|23||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	544-1, audio
+@G:	Cookie
+*INV:	tell me everything that you see going on in this picture . 360_2610
+%wor:	tell 360_520 me 520_650 everything 650_1040 that 1040_1120 you 1120_1230 see 1230_1450 going 1450_1790 on 1790_1990 in 1990_2090 this 2090_2240 picture 2280_2610 .
+%mor:	v|tell pro:obj|me pro:indef|everything pro:rel|that pro:per|you
+	v|see part|go-PRESP adv|on prep|in det:dem|this n|picture .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|6|COMP
+	8|7|JCT 9|7|JCT 10|11|DET 11|9|POBJ 12|1|PUNCT
+*INV:	everything that you see happening there . 2963_4383
+%wor:	everything 2963_3293 that 3293_3373 you 3373_3453 see 3453_3673 happening 3673_4163 there 4163_4383 .
+%mor:	pro:indef|everything pro:rel|that pro:per|you v|see
+	part|happen-PRESP n|there .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CMOD 5|4|COMP 6|5|OBJ 7|1|PUNCT
+*PAR:	okay ‡ the mommy is <washin(g) the> [//] dryin(g) the dishes . 5074_7974
+%wor:	okay 5074_5554 ‡ the 5554_5624 mommy 5624_6074 is 6074_6244 <washin(g) 6244_6794 the 7004_7124> [//] dryin(g) the dishes . 7124_7974
+%mor:	co|okay beg|beg det:art|the n|mommy aux|be&3S part|dry-PRESP
+	det:art|the n|dish-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*PAR:	the boy is takin(g) a cookie from the cookie jar . 8975_11285
+%wor:	the 8975_9045 boy 9045_9465 is 9465_9655 takin(g) 9655_9975 a 9975_10025 cookie 10025_10345 from 10345_10555 the 10555_10675 cookie 10675_10995 jar 10995_11285 .
+%mor:	det:art|the n|boy aux|be&3S part|take-PRESP det:art|a n|cookie
+	prep|from det:art|the n|cookie n|jar .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|4|PUNCT
+*PAR:	and he's gonna hand it to his little sister . 11300_13030
+%wor:	and 11300_11350 he's 11350_11430 gonna 11430_11640 hand 11640_11920 it 11920_12010 to 12010_12130 his 12130_12280 little 12280_12480 sister 12480_13030 .
+%mor:	coord|and pro:sub|he~aux|be&3S part|go&PRESP~inf|to v|hand
+	pro:per|it prep|to det:poss|his adj|little n|sister .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|6|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|4|PUNCT
+*PAR:	and the bench [: stool] [* s:r] is toppling over as the kid is
+	standing on . [+ gram] 13602_16142
+%wor:	and 13602_13882 the 13882_14062 bench [: stool] [* s:r] 14062_14192 is 14192_14262 toppling 14262_14712 over 14712_14922 as 14922_15002 the 15002_15112 kid 15112_15372 is 15372_15472  standing 15472_15912 on 15912_16142 . [+ gram]
+%mor:	coord|and det:art|the n|stool aux|be&3S part|topple-PRESP adv|over
+	prep|as det:art|the n|kid aux|be&3S part|stand-PRESP adv|on .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|11|SUBJ 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|11|AUX 11|0|ROOT 12|11|JCT 13|11|PUNCT
+*PAR:	and the water's dripping out_of the sink . 16835_18645
+%wor:	and 16835_16975 the 16975_16995 water's 16995_17435 dripping 17435_17745 out_of 17745_18235 the 18235_18245 sink 18245_18645 .
+%mor:	coord|and det:art|the n|water~aux|be&3S part|drip-PRESP prep|out_of
+	det:art|the n|sink .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	(.) okay ? [+ exc] 22234_22594
+%wor:	(.) okay 22234_22594 ? [+ exc]
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 22880_23200
+%wor:	okay 22880_23200 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

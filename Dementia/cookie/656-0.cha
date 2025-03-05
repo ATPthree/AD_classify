@@ -1,0 +1,48 @@
+@UTF8
+@PID:	11312/t-00002715-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|59;|female|MCI||Participant|29||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	656-0, audio
+@G:	Cookie
+*PAR:	well the water ran over . 40_4610
+%wor:	well 40_110 the 140_2110 water 3020_3600 ran 3600_4200 over 4200_4610 .
+%mor:	co|well det:art|the n|water v|run&PAST adv|over .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	the mother's wiping dishes . 5711_7831
+%wor:	the 5711_6131 mother's 6131_6541 wiping 6541_7001 dishes 7001_7831 .
+%mor:	det:art|the n|mother~aux|be&3S part|wipe-PRESP n|dish-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	the boy's up in the cookie jar ready to fall over . 8617_12437
+%wor:	the 8617_8677 boy's 8677_9077 up 9077_9267 in 9727_10177 the 10207_10227 cookie 10227_10567 jar 10567_10987 ready 10987_11227 to 11227_11327 fall 11327_11857 over 11887_12437 .
+%mor:	det:art|the n|boy~cop|be&3S adv|up prep|in det:art|the n|cookie
+	n|jar adj|ready inf|to v|fall adv|over .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|3|PRED 10|11|INF 11|9|XMOD 12|11|JCT 13|3|PUNCT
+*PAR:	the little girl is reaching out to get the cookies . 12716_16656
+%wor:	the 12716_12776 little 12776_13036 girl 13036_13386 is 13386_13836 reaching 14816_15286 out 15286_15586 to 15586_15706 get 15706_15906 the 15906_16006 cookies 16006_16656 .
+%mor:	det:art|the adj|little n|girl aux|be&3S part|reach-PRESP adv|out
+	inf|to v|get det:art|the n|cookie-PL .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|INF 8|5|XJCT
+	9|10|DET 10|8|OBJ 11|5|PUNCT
+*PAR:	and the mother's mad . 19090_21080
+%wor:	and 19090_19400 the 19950_20010 mother's 20010_20400 mad 20400_21080 .
+%mor:	coord|and det:art|the n|mother~cop|be&3S adj|mad .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	and the window's open . 22103_24023
+%wor:	and 22103_22203 the 23133_23213 window's 23213_23643 open 23643_24023 .
+%mor:	coord|and det:art|the n|window~cop|be&3S adj|open .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	and (.) is there more than that ? [+ exc] 27833_32773
+%wor:	and 27833_27953 (.) is 31913_31993 there 31993_32153 more 32153_32413 than 32443_32653 that 32653_32773 ? [+ exc]
+%mor:	coord|and cop|be&3S adv|there pro:indef|more prep|than pro:dem|that
+	?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*INV:	that's fine . 32998_33428
+%wor:	that's 32998_33198 fine 33198_33428 .
+%mor:	pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

@@ -1,0 +1,93 @@
+@UTF8
+@PID:	11312/t-00002377-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|54;|female|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	267-2, audio
+@G:	Cookie
+*INV:	tell me everything that is going on in there . 0_3050
+%wor:	tell 0_100 me 100_680 everything 680_1590 that 1590_1750 is 1750_2100 going 2100_2430 on 2430_2710 in 2710_2790 there 2790_3050 .
+%mor:	v|tell pro:obj|me pro:indef|everything pro:rel|that aux|be&3S
+	part|go-PRESP adv|on prep|in n|there .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|6|LINK 5|6|AUX 6|3|CMOD 7|6|JCT 8|6|JCT
+	9|8|POBJ 10|1|PUNCT
+*PAR:	&=clears:throat mother is &-um drying the dishes and looking out
+	the window not paying any attention that the water is spilling all
+	over the floor and the sink . 6601_14351
+%wor:	&=clears:throat mother 6601_7081 is 7081_7461 &-um 7461_7821 drying 8361_8821 the 8821_8921 dishes 8921_9571 and 9571_9811 looking 9811_10121 out 10121_10331 the 10331_10351  window 10351_10851 not 10851_11091 paying 11091_11381 any 11381_11491 attention 11491_11971 that 11971_12091 the 12091_12101 water 12101_12381 is 12381_12471 spilling 12471_12851 all 12851_13061 over 13061_13301  the 13301_13341 floor 13341_13691 and 13691_13851 the 13851_13881 sink 13881_14351 .
+%mor:	n|mother aux|be&3S part|dry-PRESP det:art|the n|dish-PL coord|and
+	part|look-PRESP prep|out det:art|the n|window neg|not part|pay-PRESP
+	qn|any n|attention pro:rel|that det:art|the n|water aux|be&3S
+	part|spill-PRESP adv|all prep|over det:art|the n|floor coord|and
+	det:art|the n|sink .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|6|COORD
+	8|7|JCT 9|10|DET 10|8|POBJ 11|12|NEG 12|7|XJCT 13|14|QUANT 14|12|OBJ
+	15|19|LINK 16|17|DET 17|19|SUBJ 18|19|AUX 19|14|CMOD 20|21|JCT
+	21|19|JCT 22|23|DET 23|21|POBJ 24|23|CONJ 25|26|DET 26|24|COORD
+	27|3|PUNCT
+*PAR:	the window is open . 15718_16978
+%wor:	the 15718_15738 window 15738_16208 is 16208_16408 open 16408_16978 .
+%mor:	det:art|the n|window cop|be&3S adj|open .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	&-um the children are behind mother &-uh stealing cookies out_of
+	the cookie jar . 19127_25737
+%wor:	&-um 19127_19607 the 20847_21147 children 21147_21657 are 21657_21757 behind 21757_22287 mother 22287_22677 &-uh 23717_23887 stealing 23887_24307 cookies 24307_24687 out_of 24687_24927 the 24927_24987  cookie 24987_25287 jar 25287_25737 .
+%mor:	det:art|the n|child&PL aux|be&PRES adv|behind n|mother
+	part|steal-PRESP n|cookie-PL prep|out_of det:art|the n|cookie n|jar
+	.
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|INCROOT 6|5|XMOD 7|6|OBJ
+	8|6|JCT 9|11|DET 10|11|MOD 11|8|POBJ 12|5|PUNCT
+*PAR:	and the boy has climbed up <on the> [/] &+be on the stool which is
+	tipping over . 26379_30779
+%wor:	and 26379_26549 the 26549_26649 boy 26649_26889 has 26889_27019 climbed 27019_27439 up 27439_27629 <on 27629_27999 the 27999_28179> [/] &+be on the stool which is  tipping over . 28179_30779
+%mor:	coord|and det:art|the n|boy aux|have&3S part|climb-PASTP adv|up
+	prep|on det:art|the n|stool pro:rel|which aux|be&3S part|tip-PRESP
+	adv|over .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|12|LINK 11|12|AUX 12|9|CMOD 13|12|JCT 14|5|PUNCT
+*PAR:	he's getting cookies out_of the cookie jar, handing them to his
+	sister . 31589_36149
+%wor:	he's 31589_31779 getting 31779_32109 cookies 32109_32609 out_of 32609_32919 the 32919_32969 cookie 32969_33269 jar, 33269_33759 handing 34669_34989 them 34989_35119 to 35119_35279 his 35279_35419  sister 35419_36149 .
+%mor:	pro:sub|he~aux|be&3S part|get-PRESP n|cookie-PL prep|out_of
+	det:art|the n|cookie n|jar cm|cm part|hand-PRESP pro:obj|them
+	prep|to det:poss|his n|sister .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|3|LP 10|3|XJCT 11|10|OBJ 12|10|JCT 13|14|DET 14|12|POBJ 15|3|PUNCT
+*PAR:	his shoes are untied . 36777_38177
+%wor:	his 36777_36957 shoes 36957_37417 are 37417_37577 untied 37577_38177 .
+%mor:	det:poss|his n|shoe-PL aux|be&PRES un#part|tie-PASTP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	he's gonna fall . 38200_39410
+%wor:	he's 38200_38380 gonna 38380_38650 fall 38650_39410 .
+%mor:	pro:sub|he~aux|be&3S part|go&PRESP~inf|to v|fall .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|3|PUNCT
+*PAR:	&-um (.) the cupboard door is open . 40333_44813
+%wor:	&-um 40333_40783 (.) the 43333_43733 cupboard 43733_44183 door 44183_44403 is 44403_44563 open 44563_44813 .
+%mor:	det:art|the n|+n|cup+n|board n|door cop|be&3S adj|open .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	the lid's off the cookie jar . 44833_46263
+%wor:	the 44833_44883 lid's 44883_45203 off 45203_45393 the 45393_45493 cookie 45493_45823 jar 45823_46263 .
+%mor:	det:art|the n|lid~cop|be&3S prep|off det:art|the n|cookie n|jar .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ
+	8|3|PUNCT
+*PAR:	&-uh (.) mother's feet are getting wet . 47955_51505
+%wor:	&-uh 47955_48435 (.) mother's 50095_50465 feet 50465_50665 are 50665_50725 getting 50725_51075 wet 51075_51505 .
+%mor:	adj|mother&dn-POSS n|foot&PL aux|be&PRES part|get-PRESP adj|wet .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	she must be in outer space that she doesn't notice all this that's
+	going on &=laughs . 52252_55312
+%wor:	she 52252_52352 must 52352_52622 be in 52712_52812 outer 52812_53042 space 53042_53462 that 53462_53602 she 53602_53642 doesn't 53642_53972 notice 53972_54282 all 54282_54442 this 54442_54682 that's 54682_54842  going 54842_55162 on 55162_55312 &=laughs .
+%mor:	pro:sub|she mod|must cop|be prep|in adj|outer n|space pro:rel|that
+	pro:sub|she mod|do&3S~neg|not v|notice qn|all det:dem|this
+	pro:rel|that~aux|be&3S part|go-PRESP adv|on .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|11|LINK
+	8|11|SUBJ 9|11|AUX 10|9|NEG 11|6|CMOD 12|13|QUANT 13|11|OBJ
+	14|16|LINK 15|16|AUX 16|13|CMOD 17|16|JCT 18|3|PUNCT
+*INV:	&=laughs okay thanks . 56033_57213
+%wor:	&=laughs okay 56033_56933 thanks 56933_57213 .
+%mor:	co|okay co|thanks .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

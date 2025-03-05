@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/t-00002403-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|57;|male|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	322-2, audio
+@G:	Cookie
+*INV:	you can start now . 520_1430
+%wor:	you 520_580 can 580_900 start 900_1210 now 1210_1430 .
+%mor:	pro:per|you mod|can v|start adv:tem|now .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	okay . [+ exc] 1991_2421
+%wor:	okay 1991_2421 . [+ exc]
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the boy is taking cookies out_of a closet with one hand trying to
+	give the cookies to his sister with another (.) while he is falling
+	off a three [/] three prong stool . 2538_15118
+%wor:	the 2538_2748 boy 2748_3078 is 3078_3308 taking 3308_3868 cookies 3928_4658 out_of 4838_5238 a 5238_5278 closet 5278_6058 with 6808_7058 one 7058_7288 hand 7288_7698 trying 7698_7998 to 7998_8068  give 8068_8578 the 8578_8598 cookies 8598_9028 to 9028_9208 his 9208_9388 sister 9388_9938 with 9938_10148 another 10148_10638 (.) while 11458_11738 he 11738_11828 is 11828_12028 falling 12028_12498  off 12498_12868 a 12868_12938 three [/] 12938_13418 three 13648_13928 prong 13928_14378 stool 14468_15118 .
+%mor:	det:art|the n|boy aux|be&3S part|take-PRESP n|cookie-PL prep|out_of
+	det:art|a n|closet prep|with det:num|one n|hand part|try-PRESP
+	inf|to v|give det:art|the n|cookie-PL prep|to det:poss|his n|sister
+	prep|with pro:indef|another conj|while pro:sub|he aux|be&3S
+	part|fall-PRESP prep|off det:art|a det:num|three n|prong n|stool .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|JCT 10|11|QUANT 11|9|POBJ 12|4|XJCT 13|14|INF 14|12|COMP
+	15|16|DET 16|14|OBJ 17|14|JCT 18|19|DET 19|17|POBJ 20|14|JCT
+	21|20|POBJ 22|25|LINK 23|25|SUBJ 24|25|AUX 25|4|CJCT 26|25|JCT
+	27|30|DET 28|29|QUANT 29|30|MOD 30|26|POBJ 31|4|PUNCT
+*PAR:	his mother is washing dishes . 16155_18465
+%wor:	his 16155_16415 mother 16415_16815 is 16815_17255 washing 17255_17905 dishes 17905_18465 .
+%mor:	det:poss|his n|mother aux|be&3S part|wash-PRESP n|dish-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and the dishwasher is overflowing onto the floor . 19488_23608
+%wor:	and 19488_20198 the 20198_20368 dishwasher 20368_21148 is 21148_21318 overflowing 21318_22338 onto 22378_22788 the 22788_22918 floor 22918_23608 .
+%mor:	coord|and det:art|the n|+n|dish+n|washer aux|be&3S
+	over#part|flow-PRESP prep|onto det:art|the n|floor .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	and the curtains are billowing . 24547_26527
+%wor:	and 24547_25207 the 25207_25227 curtains 25227_25847 are 25847_26047 billowing 26047_26527 .
+%mor:	coord|and det:art|the n|curtain-PL aux|be&PRES part|billow-PRESP .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	and the girl is eating (.) or toying . 27063_31473
+%wor:	and 27063_27193 the 27383_27623 girl 27983_28323 is 28323_28583 eating 28633_28943 (.) or 29953_30283 toying 31203_31473 .
+%mor:	coord|and det:art|the n|girl aux|be&3S part|eat-PRESP coord|or
+	part|toy-PRESP .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|CONJ 7|6|COORD
+	8|5|PUNCT
+*PAR:	it's difficult to tell . [+ exc] 31934_33264
+%wor:	it's 31934_32104 difficult 32404_32844 to 32994_33034 tell 33034_33264 . [+ exc]
+%mor:	pro:per|it~cop|be&3S adj|difficult inf|to v|tell .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|XMOD 6|2|PUNCT
+*PAR:	that's the only action I see . [+ exc] 34044_35674
+%wor:	that's 34044_34264 the 34264_34384 only 34384_34604 action 34644_35134 I 35134_35224 see 35464_35674 . [+ exc]
+%mor:	pro:dem|that~cop|be&3S det:art|the qn|only n|action pro:sub|I v|see
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|PRED 6|7|SUBJ 7|5|CMOD
+	8|2|PUNCT
+*INV:	okay ‡ good . 36415_36745
+%wor:	okay 36415_36635 ‡ good 36635_36745 .
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@End

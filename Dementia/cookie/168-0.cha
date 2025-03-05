@@ -1,0 +1,32 @@
+@UTF8
+@PID:	11312/t-00002525-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|67;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	168-0, audio
+@Comment:	overlapping recording
+@G:	Cookie
+*INV:	action that you [/] &+sh you see in there . 180_2270
+%wor:	action 180_560 that 560_700 you [/] 700_760 &+sh you 760_860 see 930_1010 in 1010_1090 there 1090_2270 .
+%mor:	n|action pro:rel|that pro:per|you v|see prep|in n|there .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CMOD 5|4|JCT 6|5|POBJ 7|1|PUNCT
+*PAR:	&-uh the &+b boy's &+f gonna fall off of the [/] &-um the stool . 2491_8461
+%wor:	&-uh 2491_2501 the 2501_2771 &+b boy's 3661_3761 &+f gonna 3761_3901 fall 3901_4771 off 4771_5061 of 5741_6821 the [/] 7021_7031 &-um 7031_7181 the 7901_8061 stool 8111_8461 .
+%mor:	det:art|the n|boy~aux|be&3S part|go&PRESP~inf|to v|fall adv|off
+	prep|of det:art|the n|stool .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+*PAR:	&-uh the water is going on the floor . 11006_13756
+%wor:	&-uh 11006_11166 the 11656_11776 water 12316_12596 is 12596_12936 going 12986_13196 on 13326_13386 the 13386_13416 floor 13416_13756 .
+%mor:	det:art|the n|water aux|be&3S part|go-PRESP prep|on det:art|the
+	n|floor .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*INV:	<see a thing for that> [//] see anything else ? 31240_32479
+%wor:	<see 31240_31300 a 31300_31330 thing 31330_31660 for 31660_31750 that 31750_31870> [//] see anything else ? 32050_32480
+%mor:	v|see pro:indef|anything post|else ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|PQ 4|1|PUNCT
+@End

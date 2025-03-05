@@ -1,0 +1,103 @@
+@UTF8
+@PID:	11312/t-00002482-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|73;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	067-1, audio
+@G:	Cookie
+*INV:	there it is . 70_1950
+%mor:	adv|there pro:per|it cop|be&3S .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%wor:	there 70_420 it 620_810 is 1430_1950 .
+*PAR:	that's it . [+ exc] 1996_2296
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%wor:	that's 1996_2166 it 2166_2296 .
+*PAR:	well the girl's dryin(g) the [/] the plate . 2629_11349
+%mor:	co|well det:art|the n|girl~aux|be&3S part|dry-PRESP det:art|the
+	n|plate .
+%gra:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	well 2629_3129 the 3999_4469 girl's 6749_7229 dryin(g) 8589_9039 the 9039_9139 the 10129_10319 plate 10889_11349 .
+*PAR:	and she's overflowin(g) the water in the &=laughs sink . 12508_15878
+%mor:	coord|and pro:sub|she~aux|be&3S over#part|flow-PRESP det:art|the
+	n|water prep|in det:art|the n|sink .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+%wor:	and 12508_12618 she's 12618_12828 overflowin(g) 12868_13528 the 13528_13538 water 13538_13938 in 13938_14358 the 15398_15458 sink 15458_15878 .
+*INV:	(..) okay . 21380_21660
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	okay 21380_21660 .
+*PAR:	there's a boy up on a stool and he's fallin(g) off of it . 24143_27563
+%mor:	pro:exist|there~cop|be&3S det:art|a n|boy adv|up prep|on det:art|a
+	n|stool coord|and pro:sub|he~aux|be&3S part|fall-PRESP adv|off
+	prep|of pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|4|NJCT 7|8|DET 8|6|POBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|4|XMOD 13|12|JCT 14|12|JCT 15|14|POBJ
+	16|2|PUNCT
+%wor:	there's 24143_24293 a 24293_24353 boy 24353_24733 up 24763_24943 on 24943_25173 a 25203_25233 stool 25233_25583 and 25583_26153 he's 26153_26453 fallin(g) 26673_27023 off 27023_27323 of 27323_27483 it 27483_27563 .
+*PAR:	tryin(g) to get a cake or somethin(g) . [+ gram] 29110_30440
+%mor:	part|try-PRESP inf|to v|get det:art|a n|cake coord|or
+	pro:indef|something .
+%gra:	1|0|INCROOT 2|3|INF 3|1|COMP 4|5|DET 5|3|OBJ 6|5|CONJ 7|6|COORD
+	8|1|PUNCT
+%wor:	tryin(g) 29110_29500 to 29500_29580 get 29580_29730 a 29730_29770 cake 29960_30050 or 30050_30080 somethin(g) 30080_30440 .
+*PAR:	(..) in the cupboard . [+ gram] 35378_37448
+%mor:	prep|in det:art|the n|+n|cup+n|board .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+%wor:	in 35378_35568 the 37108_37118 cupboard 37118_37448 .
+*PAR:	see he's trying to get this and he's gonna fall off of there .
+	[+ es] 38560_41980
+%mor:	co|see pro:sub|he~aux|be&3S part|try-PRESP inf|to v|get
+	pro:dem|this coord|and pro:sub|he~aux|be&3S part|go&PRESP~inf|to
+	v|fall adv|off prep|of n|there .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|4|CJCT 12|13|INF 13|11|COMP 14|13|JCT 15|13|JCT
+	16|15|POBJ 17|4|PUNCT
+%wor:	see 38560_38640 he's 38640_38920 trying 38920_39180 to 39180_39240 get 39240_39530 this 39530_39830 and 39830_40100 he's 40100_40330 gonna 40970_41160 fall 41160_41500 off 41500_41790 of 41790_41890 there 41890_41980 .
+*INV:	mhm, okay . 42000_43680
+%mor:	co|mhm=yes cm|cm adj|okay .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+%wor:	mhm, 42000_42740 okay 43400_43680 .
+*PAR:	+< so +... 43620_43700
+%mor:	co|so +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	so 43620_43700 +...
+*PAR:	and the mother's water's all coming down out_of her &=laughs sink
+	there . 47730_51890
+%mor:	coord|and det:art|the n|mother~cop|be&3S n|water~aux|be&3S adv|all
+	part|come-PRESP adv|down prep|out_of det:poss|her n|sink adv|there .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|8|SUBJ 6|8|AUX 7|8|JCT 8|4|PRED
+	9|8|JCT 10|8|JCT 11|12|DET 12|10|POBJ 13|8|JCT 14|4|PUNCT
+%wor:	and 47730_47950 the 47950_47980 mother's 47980_48530 water's 48890_49400 all 49400_49630 coming 49710_50010 down 50010_50260 out_of 50290_50970 her 50970_51010 sink 51010_51490 there 51490_51890 .
+*INV:	mhm . 52000_52340
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	mhm 52000_52340 .
+*INV:	what's happening here ? 53165_54035
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP n|here ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	what's 53165_53455 happening 53455_53785 here 53785_54035 ?
+*PAR:	the little girl is puttin(g) her hand up to the boy . 54248_60138
+%mor:	det:art|the adj|little n|girl aux|be&3S part|put-PRESP det:poss|her
+	n|hand adv|up prep|to det:art|the n|boy .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|5|JCT 10|11|DET 11|9|POBJ 12|5|PUNCT
+%wor:	the 54248_54698 little 56128_56458 girl 56458_56978 is 56978_57228 puttin(g) 58378_58778 her 58778_58818 hand 58818_58998 up 58998_59198 to 59198_59298 the 59298_59598 boy 59838_60138 .
+*PAR:	they're gonna get something out_of that jar, a pineapple jar or
+	something . 61163_64492
+%mor:	pro:sub|they~aux|be&PRES part|go&PRESP~inf|to v|get
+	pro:indef|something prep|out_of det:dem|that n|jar cm|cm det:art|a
+	n|+n|pine+n|apple n|jar coord|or pro:indef|something .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|3|LP 11|13|DET 12|13|MOD 13|3|OBJ 14|13|CONJ 15|14|COORD
+	16|3|PUNCT
+%wor:	they're 61163_61243 gonna 61243_61423 get 61423_61763 something 61763_62083 out_of 62083_62253 that 62253_62563 jar, 62563_62833 a 62833_62973 pineapple 63173_63373 jar 63843_63933 or 64103_64133 something 64133_64493 .
+*INV:	okay . 65610_66030
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	okay 65610_66030 .
+@End

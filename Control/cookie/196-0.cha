@@ -1,0 +1,102 @@
+@UTF8
+@PID:	11312/t-00002337-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|62;|male|Control||Participant|28||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	196-0, audio
+@G:	Cookie
+*INV:	and there's the picture . 110_1000
+%wor:	and 110_240 there's 240_440 the 440_550 picture 660_1000 .
+%mor:	coord|and pro:exist|there~cop|be&3S det:art|the n|picture .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	mhm . [+ exc] 1700_1840
+%wor:	mhm 1700_1840 . [+ exc]
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&=sighs the mother is washing the dishes but not very attentively
+	allowing the sink to overflow onto the floor . 2843_12723
+%wor:	&=sighs the 2843_3553 mother 6293_6543 is 6543_6663 washing 6663_7143 the 7343_7433 dishes 7433_7863 but 8033_8183 not 8533_8703 very 8703_8983 attentively 8983_9823  allowing 9823_10023 the 10463_10513 sink 10513_10903 to 10903_11053 overflow 11493_11743 onto 11833_12043 the 12043_12093 floor 12093_12723 .
+%mor:	det:art|the n|mother aux|be&3S part|wash-PRESP det:art|the
+	n|dish-PL conj|but neg|not adv|very adv|attentive&dadj-LY
+	part|allow-PRESP det:art|the n|sink prep|to over#v|flow prep|onto
+	det:art|the n|floor .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|CONJ 8|7|NEG
+	9|10|JCT 10|11|JCT 11|7|COORD 12|13|DET 13|11|OBJ 14|11|JCT
+	15|14|POBJ 16|11|JCT 17|18|DET 18|16|POBJ 19|4|PUNCT
+*PAR:	and she is drying a dish . 14932_16632
+%wor:	and 14932_15152 she 15152_15262 is 15262_15602 drying 15672_16202 a 16202_16282 dish 16282_16632 .
+%mor:	coord|and pro:sub|she aux|be&3S part|dry-PRESP det:art|a n|dish .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	&=sighs kids are tryin(g) to get into the cookie jar . [+ gram] 18954_20864
+%wor:	&=sighs kids 18954_19274 are 19274_19344 tryin(g) 19344_19664 to 19664_19724 get 19724_19814 into 19814_19994 the 20224_20234 cookie 20234_20524 jar 20524_20864 . [+ gram]
+%mor:	n|kid-PL aux|be&PRES part|try-PRESP inf|to v|get prep|into
+	det:art|the n|cookie n|jar .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|3|PUNCT
+*PAR:	they have managed to get into it . 20884_22384
+%wor:	they 20884_20974 have 20974_21244 managed 21244_21614 to 21614_21724 get 21784_21924 into 21924_22274 it 22274_22384 .
+%mor:	pro:sub|they aux|have part|manage-PASTP inf|to v|get prep|into
+	pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|6|POBJ
+	8|3|PUNCT
+*PAR:	the boy is standing on a stool which is in the process of falling
+	over while he's trying to hand a cookie to his younger sister who is
+	reaching for it . 23162_30372
+%wor:	the 23162_23172 boy 23172_23362 is 23362_23452 standing 23452_23912 on 23912_24042 a 24042_24112 stool 24112_24502 which 24502_24692 is 24692_24752 in 24752_24832 the 25042_25142 process 25142_25602 of 25602_25722 falling 25722_26112  over 26222_26382 while 26382_26802 he's 26802_26982 trying 26982_27302 to 27302_27362 hand 27362_27612 a 27732_27762 cookie 27762_28052 to 28102_28172 his 28172_28362 younger 28452_28822 sister 28822_29192 who 29192_29252 is 29252_29312  reaching 29632_30012 for 30112_30302 it 30302_30372 .
+%mor:	det:art|the n|boy aux|be&3S part|stand-PRESP prep|on det:art|a
+	n|stool pro:rel|which cop|be&3S prep|in det:art|the n|process
+	prep|of part|fall-PRESP adv|over conj|while pro:sub|he~aux|be&3S
+	part|try-PRESP inf|to v|hand det:art|a n|cookie prep|to det:poss|his
+	adj|young-CP n|sister pro:rel|who aux|be&3S part|reach-PRESP
+	prep|for pro:per|it .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|9|LINK
+	9|7|CMOD 10|9|JCT 11|12|DET 12|10|POBJ 13|12|NJCT 14|13|POBJ
+	15|9|JCT 16|19|LINK 17|19|SUBJ 18|19|AUX 19|4|CJCT 20|21|INF
+	21|19|COMP 22|23|DET 23|21|OBJ 24|21|JCT 25|27|DET 26|27|MOD
+	27|24|POBJ 28|30|LINK 29|30|AUX 30|27|CMOD 31|30|JCT 32|31|POBJ
+	33|4|PUNCT
+*PAR:	the window is open overlooking a garden . 30918_35898
+%wor:	the 30918_31268 window 32598_33018 is 33018_33338 open 33338_34008 overlooking 34648_35378 a 35458_35488 garden 35488_35898 .
+%mor:	det:art|the n|window cop|be&3S adj|open over#part|look-PRESP
+	det:art|a n|garden .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PRED 6|7|DET 7|5|OBJ
+	8|3|PUNCT
+*PAR:	the wind is blowing slightly . 37910_39840
+%wor:	the 37910_37940 wind 37940_38370 is 38370_38500 blowing 38640_39190 slightly 39190_39840 .
+%mor:	det:art|the n|wind aux|be&3S part|blow-PRESP adv|slight&dadj-LY .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	it's ruffling the curtains . 39888_41258
+%wor:	it's 39888_40008 ruffling 40008_40418 the 40698_40708 curtains 40708_41258 .
+%mor:	pro:per|it~aux|be&3S part|ruffle-PRESP det:art|the n|curtain-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	it is summer . 42097_45337
+%wor:	it 42097_42247 is 44247_44687 summer 44687_45337 .
+%mor:	pro:per|it cop|be&3S n|summer .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	or at least the grass is out and the trees are in leaf and the
+	bushes . 47560_51840
+%wor:	or 47560_47590 at 47590_47720 least 47720_48030 the 48030_48150 grass 48150_48270 is 48270_48540 out 48540_48640 and 48690_48900 the 48900_48910 trees 49950_50430 are 50430_50600 in 50700_50760 leaf 50760_50960 and 51350_51440 the 51440_51450  bushes 51450_51840 .
+%mor:	coord|or prep|at adj|least det:art|the n|grass cop|be&3S adv|out
+	coord|and det:art|the n|tree-PL cop|be&PRES prep|in n|leaf coord|and
+	det:art|the n|bush-PL .
+%gra:	1|6|LINK 2|6|JCT 3|2|POBJ 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|JCT
+	8|11|LINK 9|10|DET 10|11|SUBJ 11|6|CJCT 12|11|JCT 13|12|POBJ
+	14|13|CONJ 15|16|DET 16|14|COORD 17|6|PUNCT
+*PAR:	that's all of the action I see . [+ exc] 57507_59137
+%wor:	that's 57507_57667 all 57667_57867 of 57867_57967 the 57967_58107 action 58207_58687 I 59047_59057 see 59057_59137 . [+ exc]
+%mor:	pro:dem|that~cop|be&3S pro:indef|all prep|of det:art|the n|action
+	pro:sub|I v|see .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|6|DET 6|4|POBJ 7|8|SUBJ
+	8|3|CJCT 9|2|PUNCT
+*INV:	okay . 59546_59886
+%wor:	okay 59546_59886 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	thank_you . 60296_60496
+%wor:	thank_you 60296_60496 .
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

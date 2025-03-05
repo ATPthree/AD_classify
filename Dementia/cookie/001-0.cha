@@ -1,0 +1,85 @@
+@UTF8
+@PID:	11312/t-00002420-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|57;|male|ProbableAD||Participant|18||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	001-0, audio
+@Comment:	another audio testing file overlaps in background
+@G:	Cookie
+*INV:	this is the picture . 340_2530
+%wor:	this 340_940 is 940_1460 the 1460_2150 picture 2150_2530 .
+%mor:	pro:dem|this cop|be&3S det:art|the n|picture .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	mhm . [+ exc] 2581_3211
+%wor:	mhm 2581_3211 . [+ exc]
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	just tell me everything that you see happening in that picture . 3426_6646
+%wor:	just 3426_4196 tell 4196_4376 me 4376_4506 everything 4506_5306 that 5306_5416 you 5416_5496 see 5496_5556 happening 5556_5876 in 5876_6056 that 6056_6206 picture 6206_6646 .
+%mor:	adv|just v|tell pro:obj|me pro:indef|everything pro:rel|that
+	pro:per|you v|see part|happen-PRESP prep|in det:dem|that n|picture .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ2 4|2|OBJ 5|7|LINK 6|7|SUBJ 7|4|CMOD
+	8|7|COMP 9|8|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*PAR:	+< alright . [+ exc] 6650_6820
+%wor:	+< alright 6650_6820 . [+ exc]
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	there's &-um a young boy that's getting a cookie jar . 7277_12027
+%wor:	there's 7277_7537 &-um 7537_7897 a 8637_8667 young 8667_8997 boy 8997_9467 that's 10137_10327 getting 10327_10967 a 10967_11057 cookie 11057_11437 jar 11437_12027 .
+%mor:	pro:exist|there~cop|be&3S det:art|a adj|young n|boy
+	pro:rel|that~aux|be&3S part|get-PRESP det:art|a n|cookie n|jar .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|8|LINK 7|8|AUX
+	8|5|CMOD 9|11|DET 10|11|MOD 11|8|OBJ 12|2|PUNCT
+*PAR:	and it [//] he's &-uh in bad shape because &-uh the thing is
+	fallin(g) over . 12768_18528
+%wor:	and 12768_12898 it [//] 12898_13028 he's 13658_13868 &-uh 13868_13878 in 13878_14258 bad 15178_15538 shape 15538_15868 because 15868_16288 &-uh 16288_16298 the 16298_16838 thing 16838_17508 is 17508_17618  fallin(g) 17618_18088 over 18088_18528 .
+%mor:	coord|and pro:sub|he~cop|be&3S prep|in adj|bad n|shape conj|because
+	det:art|the n|thing aux|be&3S part|fall-PRESP adv|over .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|11|LINK
+	8|9|DET 9|11|SUBJ 10|11|AUX 11|3|CJCT 12|11|JCT 13|3|PUNCT
+*PAR:	and in the picture the mother is washin(g) dishes and doesn't see
+	it . 19908_24598
+%wor:	and 19908_20258 in 20258_20498 the 20498_20628 picture 20628_21298 the 21298_21328 mother 21328_21898 is 21898_22048 washin(g) 22648_23038 dishes 23038_23518 and 23518_23708 doesn't 23708_24038 see 24038_24358  it 24358_24598 .
+%mor:	coord|and prep|in det:art|the n|picture det:art|the n|mother
+	aux|be&3S part|wash-PRESP n|dish-PL coord|and mod|do&3S~neg|not
+	v|see pro:per|it .
+%gra:	1|8|LINK 2|8|JCT 3|4|DET 4|2|POBJ 5|6|DET 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|8|OBJ 10|8|CONJ 11|13|AUX 12|11|NEG 13|10|COORD 14|13|OBJ
+	15|8|PUNCT
+*PAR:	and so <is the> [//] the water is overflowing in the sink . 25022_29022
+%wor:	and 25022_25212 so 25212_26142 <is 26222_26322 the 26322_26592> [//] the water is overflowing in the sink . 26592_29022
+%mor:	coord|and co|so det:art|the n|water aux|be&3S over#part|flow-PRESP
+	prep|in det:art|the n|sink .
+%gra:	1|6|LINK 2|6|COM 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|PUNCT
+*PAR:	and the dishes might <get falled [* +ed] over if you don't> [//]
+	fell [//] fall over there [/] there if you don't get it . 30541_34461
+%wor:	and 30541_30721 the 30721_30771 dishes 30771_31051 might 31051_31291 <get 31291_31401 falled [* +ed] 31401_31791 over 31791_31911 if 31911_31971 you 31971_32011 don't 32041_32281> [//]  fell [//] 32281_32571 fall 32571_32881 over 32881_33031 there [/] 33031_33361 there 33561_33811 if 33811_33941 you 33941_34001 don't 34001_34211 get 34211_34351 it 34351_34461 .
+%mor:	coord|and det:art|the n|dish-PL mod|might v|fall prep|over n|there
+	conj|if pro:per|you mod|do~neg|not v|get pro:per|it .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ
+	8|12|LINK 9|12|SUBJ 10|12|AUX 11|10|NEG 12|5|CJCT 13|12|OBJ
+	14|5|PUNCT
+*PAR:	and it [//] there [//] it's a picture of a kitchen window . 35844_38954
+%wor:	and 35844_36104 it [//] 36104_36244 there [//] 36244_36324 it's 36324_36414 a 36414_36874 picture 36904_37434 of 37434_37634 a 37634_38154 kitchen 38184_38574 window 38574_38954 .
+%mor:	coord|and pro:per|it~cop|be&3S det:art|a n|picture prep|of
+	det:art|a n|kitchen n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|9|DET
+	8|9|MOD 9|6|POBJ 10|3|PUNCT
+*PAR:	and the curtains are very &-uh distinct . 39140_42140
+%wor:	and 39140_39250 the 39250_40010 curtains 40040_40500 are 40500_40680 very 40680_41220 &-uh 41220_41230 distinct 41640_42140 .
+%mor:	coord|and det:art|the n|curtain-PL cop|be&PRES adv|very
+	adj|distinct .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|4|PUNCT
+*PAR:	but the water is &+flow still flowing . 44272_46242
+%wor:	but 44272_44412 the 44412_44432 water 44432_45442 is 45512_45582 &+flow still 45582_45782 flowing 45782_46242 .
+%mor:	conj|but det:art|the n|water aux|be&3S adv|still part|flow-PRESP .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|PUNCT
+*INV:	okay thank_you very much . 47005_54755
+%wor:	okay 47005_47095 thank_you 47095_47415 very 47415_54485 much 54485_54755 .
+%mor:	co|okay co|thank_you adv|very adv|much .
+%gra:	1|4|COM 2|4|COM 3|4|JCT 4|0|INCROOT 5|4|PUNCT
+@End

@@ -1,0 +1,74 @@
+@UTF8
+@PID:	11312/t-00002199-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|77;00.|female|Control||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	021-4, audio
+@Comment:	age is educated estimate, extrapolated from incomplete
+	demographic data
+@G:	Cookie
+*INV:	okay good . 240_650
+%wor:	okay 240_500 good 500_650 .
+%mor:	co|okay adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*INV:	tell me all of the things you see going on . 700_2200
+%wor:	tell 700_850 me 850_910 all 910_1000 of 1000_1100 the 1100_1160 things 1160_1600 you 1640_1760 see 1760_1800 going 1800_2050 on 2050_2200 .
+%mor:	v|tell pro:obj|me pro:indef|all prep|of det:art|the n|thing-PL
+	pro:per|you v|see part|go-PRESP adv|on .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|8|SUBJ
+	8|3|CMOD 9|8|COMP 10|9|JCT 11|1|PUNCT
+*PAR:	alright . [+ exc] 2376_3046
+%wor:	alright 2376_3046 . [+ exc]
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	a little girl is reaching for the <cookie> [/] cookie that the
+	boy's reaching for the cookie to give to her while <the> [/] the
+	&-uh stool is being tipped . [+ gram] 3144_12174
+%wor:	a 3144_3484 little 3484_3894 girl 3894_4174 is 4174_4294 reaching 4294_4734 for 4734_4944 the 4944_5124 <cookie 5124_5724> [/] cookie that the  boy's reaching for the cookie to give to her while <the> [/] 6024_10284 the 10334_10694 &-uh 10694_10814  stool 10814_11274 is 11274_11504 being 11604_11844 tipped 11844_12174 . [+ gram]
+%mor:	det:art|a adj|little n|girl aux|be&3S part|reach-PRESP prep|for
+	det:art|the n|cookie pro:rel|that det:art|the n|boy~aux|be&3S
+	part|reach-PRESP prep|for det:art|the n|cookie inf|to v|give prep|to
+	pro:obj|her conj|while det:art|the n|stool aux|be&3S aux|be-PRESP
+	part|tip-PASTP .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|13|LINK 10|11|DET 11|13|SUBJ 12|13|AUX 13|8|CMOD 14|13|JCT
+	15|16|DET 16|14|POBJ 17|18|INF 18|13|COMP 19|18|JCT 20|19|POBJ
+	21|26|LINK 22|23|DET 23|26|SUBJ 24|26|AUX 25|26|AUX 26|5|CJCT
+	27|5|PUNCT
+*PAR:	the mother is drying the dish while the water is running out_of the
+	spigot . 12760_16790
+%wor:	the 12760_12930 mother 12930_13420 is 13420_13540 drying 13540_14030 the 14030_14150 dish 14150_14460 while 14460_14670 the 14670_14720 water 14720_15190 is 15190_15300 running 15300_15680 out_of 15680_16100 the 16100_16140  spigot 16140_16790 .
+%mor:	det:art|the n|mother aux|be&3S part|dry-PRESP det:art|the n|dish
+	conj|while det:art|the n|water aux|be&3S part|run-PRESP prep|out_of
+	det:art|the n|spigot .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|11|LINK 8|9|DET
+	9|11|SUBJ 10|11|AUX 11|4|CJCT 12|11|JCT 13|14|DET 14|12|POBJ
+	15|4|PUNCT
+*PAR:	&-um let's see . [+ exc] 16859_18889
+%wor:	&-um 16859_18409 let's 18569_18739 see 18739_18889 . [+ exc]
+%mor:	v|let~pro:obj|us v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+*PAR:	action [/] action [/] action [/] action . [+ exc] 19182_21052
+%wor:	action [/] 19182_19902 action [/] 19982_20352 action [/] 20352_20752 action 20752_21052  . [+ exc]
+%mor:	n|action .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no birds, geese . [+ gram] 21526_23356
+%wor:	no 21526_21656 birds, 21656_22356 geese 22866_23356 . [+ gram]
+%mor:	qn|no n|bird-PL cm|cm n|goose&PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|LP 4|2|ENUM 5|2|PUNCT
+*PAR:	(..) it's all I can see . [+ exc] 26008_26868
+%wor:	(..) it's 26008_26098 all 26098_26188 I 26188_26308 can 26308_26498 see 26498_26868 . [+ exc]
+%mor:	pro:per|it~cop|be&3S pro:indef|all pro:sub|I mod|can v|see .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|2|PUNCT
+*INV:	okay . 27840_28170
+%wor:	okay 27840_28170 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	that's fine . [+ exc] 28367_28977
+%wor:	that's 28367_28597 fine 28597_28977 . [+ exc]
+%mor:	pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

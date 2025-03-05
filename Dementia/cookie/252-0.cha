@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/t-00002582-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|62;|male|ProbableAD||Participant|22||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	252-0, audio
+@G:	Cookie
+*INV:	okay here's the picture . 260_1360
+%wor:	okay 260_550 here's 610_840 the 840_1040 picture 1040_1360 .
+%mor:	co|okay pro:exist|here~cop|be&3S det:art|the n|picture .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	(..) &=sighs just &-um &+m mention the &-uh what [/] what action is
+	going on . 1683_11933
+%wor:	(..) &=sighs just 1683_1813 &-um 3273_3653 &+m mention 8063_10063 the 10093_10103 &-uh 10103_10113 what [/] 10143_10353 what 10933_11143 action 11143_11453 is 11453_11513  going 11543_11873 on 11873_11933 .
+%mor:	adj|just v|mention det:art|the pro:int|what n|action aux|be&3S
+	part|go-PRESP adv|on .
+%gra:	1|2|JCT 2|0|ROOT 3|5|DET 4|5|MOD 5|7|SUBJ 6|7|AUX 7|2|COMP 8|7|JCT
+	9|2|PUNCT
+*INV:	+< right [/] right . [+ exc] 11560_12040
+%wor:	+< right [/] 11560_11760 right 11760_12040 . [+ exc]
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the young lad taking cookies out_of the cookie jar and &-um handing
+	one down to his sister „ I presume . [+ gram] 12843_23023
+%wor:	the 12843_13033 young 13033_13273 lad 13273_13573 taking 14593_14963 cookies 15053_15223 out_of 15283_15873 the 15873_15883 cookie 15883_16113 jar 16113_16473 and 16473_16693 &-um 17943_18963 handing 19643_20063  one 20063_20363 down 20363_20853 to 20943_21003 his 21003_21073 sister 21073_21243 „ I 21243_21353 presume 22423_23023 . [+ gram]
+%mor:	det:art|the adj|young n|lad part|take-PRESP n|cookie-PL prep|out_of
+	det:art|the n|cookie n|jar coord|and part|hand-PRESP pro:indef|one
+	adv|down prep|to det:poss|his n|sister end|end pro:sub|I v|presume .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|XMOD 5|4|OBJ 6|4|JCT 7|9|DET
+	8|9|MOD 9|6|POBJ 10|3|CONJ 11|10|COORD 12|11|OBJ 13|11|JCT 14|11|JCT
+	15|16|DET 16|14|POBJ 17|19|ENDP 18|19|SUBJ 19|3|END 20|3|PUNCT
+*PAR:	and &-um (..) the stool is gonna fall out from under him . 24353_31313
+%wor:	and 24353_24673 &-um 24673_25113 (..) the 29163_29303 stool 29303_29733 is 29763_29823 gonna 29823_30033 fall 30163_30603 out 30683_30743 from 30743_30923 under 30953_31073 him 31073_31313 .
+%mor:	coord|and det:art|the n|stool aux|be&3S part|go&PRESP~inf|to v|fall
+	adv|out prep|from adv|under pro:obj|him .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|7|JCT 10|9|JCT 11|10|POBJ 12|5|PUNCT
+*PAR:	(...) and the mother is washing dishes (.) but she's distracted . 39053_44983
+%wor:	(...) and 39053_39203 the 39853_40343 mother 40343_40543 is 40543_40703 washing 40813_41653 dishes 41683_41833 (.) but 43913_44013 she's 44113_44273 distracted 44363_44983 .
+%mor:	coord|and det:art|the n|mother aux|be&3S part|wash-PRESP n|dish-PL
+	conj|but pro:sub|she~aux|be&3S part|distract-PASTP .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|5|CJCT 11|5|PUNCT
+*PAR:	and the water's all running out over the sink . 44999_47609
+%wor:	and 44999_45259 the 45259_45269 water's 45269_45629 all 45629_45929 running 46069_46659 out 46809_46849 over 46849_46939 the 46939_47279 sink 47279_47609 .
+%mor:	coord|and det:art|the n|water~aux|be&3S adv|all part|run-PRESP
+	adv|out prep|over det:art|the n|sink .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|6|PUNCT
+*PAR:	(...) she's wiping the sink and wiping the dishes . 55115_57475
+%wor:	(...) she's 55115_55185 wiping 55295_55735 the 55845_55855 sink 55855_55975 and 55975_56115 wiping 56395_57285 the 57315_57325 dishes 57325_57475 .
+%mor:	pro:sub|she~aux|be&3S part|wipe-PRESP det:art|the n|sink coord|and
+	part|wipe-PRESP det:art|the n|dish-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|6|COORD
+	8|9|DET 9|7|OBJ 10|3|PUNCT
+*PAR:	(..) that's about [/] about it . [+ exc] 60684_61664
+%wor:	(..) that's 60684_60794 about [/] 61354_61474 about 61474_61604 it 61604_61664 . [+ exc]
+%mor:	pro:dem|that~cop|be&3S adv|about pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*INV:	okay good . 61994_62484
+%wor:	okay 61994_62114 good 62114_62484 .
+%mor:	co|okay adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

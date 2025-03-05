@@ -1,0 +1,30 @@
+@UTF8
+@PID:	11312/a-00034897-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|72;|male|ProbableAD||Participant|24||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	676-0, audio
+@G:	Unknown_Immediate
+*PAR:	nothing . [+ exc] 1005468_1005990
+%mor:	pro:indef|nothing .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	do you know who the story was about ? 1005990_1009857
+%mor:	mod|do pro:per|you v|know pro:int|who det:art|the n|story
+	cop|be&PAST&13S adv|about ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|6|DET 6|7|SUBJ 7|3|COMP 8|7|JCT
+	9|3|PUNCT
+*PAR:	not necessarily . [+ exc] 1009857_1012667
+%mor:	neg|not adv|necessary&dadj-LY .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PUNCT
+*PAR:	doesn't mean anything to me . [+ exc] 1012667_1015024
+%mor:	mod|do&3S~neg|not v|mean pro:indef|anything prep|to pro:obj|me .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|OBJ 5|4|NJCT 6|5|POBJ 7|3|PUNCT
+*INV:	0 . 1015024_1027133
+%exp:	silence .
+*INV:	mkay . 1027133_1027737
+%mor:	co|mkay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	no delayed return to this task was found .
+@End

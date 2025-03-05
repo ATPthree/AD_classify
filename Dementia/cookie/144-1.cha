@@ -1,0 +1,116 @@
+@UTF8
+@PID:	11312/t-00002515-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|68;|female|ProbableAD||Participant|15||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	144-1, audio
+@G:	Cookie
+*INV:	look at that picture and tell me what you see going on . 510_3020
+%wor:	look 510_660 at 660_780 that 780_1020 picture 1020_1390 and 1390_1560 tell 1560_1690 me 1690_1820 what 1820_2080 you 2080_2140 see 2140_2440 going 2440_2600 on 2600_3020 .
+%mor:	v|look prep|at det:dem|that n|picture coord|and v|tell pro:obj|me
+	pro:int|what pro:per|you v|see part|go-PRESP adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|CONJ 6|5|COORD 7|6|OBJ
+	8|10|LINK 9|10|SUBJ 10|6|COMP 11|10|COMP 12|11|JCT 13|1|PUNCT
+*PAR:	an average home that looks very much like ours at many times .
+	[+ gram] 3717_8167
+%wor:	an 3717_3847 average 3847_4497 home 4497_5057 that 5607_5837 looks 5837_6027 very 6027_6217 much 6217_6517 like 6517_6777 ours 6837_7257 at 7257_7497 many 7497_7727 times 7727_8167 .
+%mor:	det:art|a n|average n|home pro:rel|that cop|look-3S adv|very
+	adv|much prep|like pro:poss|ours prep|at qn|many n|time-PL .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|5|LINK 5|3|CMOD 6|7|JCT 7|5|JCT
+	8|5|JCT 9|8|POBJ 10|9|NJCT 11|12|QUANT 12|10|POBJ 13|3|PUNCT
+*PAR:	<and the mother is> [//] well she's spilling her water which is not
+	very good but she's doing [//] washing dishes and drying them . 8661_17361
+%wor:	and 8661_9091 the 9701_9781 mother 9781_10381 is 10591_10891 well 11371_11441 she's 11441_11671 spilling 11671_12121 her 12121_12191 water 12191_12621 which 12621_12861 is 12861_13001 not 13041_13261 very 13261_13461 good 13461_13831 but 13831_14071 she's 14621_15141 doing 15361_15721 washing 15721_16181 dishes 16181_16681 and 16681_16831 drying 16831_17251 them 17251_17361 .
+%mor:	co|well pro:sub|she~aux|be&3S part|spill-PRESP det:poss|her n|water
+	pro:rel|which cop|be&3S neg|not adv|very adj|good conj|but
+	pro:sub|she~aux|be&3S part|wash-PRESP n|dish-PL coord|and
+	part|dry-PRESP pro:obj|them .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|LINK 8|6|CMOD
+	9|8|NEG 10|11|JCT 11|8|PRED 12|15|LINK 13|15|SUBJ 14|15|AUX
+	15|8|CJCT 16|15|OBJ 17|15|CONJ 18|17|COORD 19|18|OBJ 20|4|PUNCT
+*PAR:	and one of the children upset the cookie jar . 17480_19660
+%wor:	and 17480_17770 one 17770_17890 of 17890_17990 the 17990_18070 children 18070_18480 upset 18480_18880 the 18880_18950 cookie 18950_19250 jar 19250_19660 .
+%mor:	coord|and det:num|one prep|of det:art|the n|child&PL v|upset
+	det:art|the n|cookie n|jar .
+%gra:	1|6|LINK 2|6|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|9|DET
+	8|9|MOD 9|6|OBJ 10|6|PUNCT
+*PAR:	and that's an [: a] [* f:p] very average thing to go in [: on]
+	[* s:r] in a home . 20228_23228
+%wor:	and 20228_20338 that's 20338_20538 an 20538_20698 very 20768_21178 average 21208_21978 thing 21978_22258 to 22288_22378 go 22428_22568 in 22568_22628 in 22628_22948 a 23018_23048 home 23048_23228 .
+%mor:	coord|and pro:dem|that~cop|be&3S det:art|a adv|very adj|average
+	n|thing inf|to v|go adv|on prep|in det:art|a n|home .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|6|JCT 6|7|MOD 7|3|PRED 8|9|INF
+	9|7|XMOD 10|9|JCT 11|9|JCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+*PAR:	our home <is a very> [/] it's a very active family . [+ exc] 23834_28624
+%wor:	our 23834_23964 home 23964_24194 is 24194_24304 a 24304_24344 very 24344_24744 it's 26724_26904 a 26904_26964 very 26964_27314 active 27314_27904 family 28164_28624 .
+%mor:	det:poss|our n|home pro:per|it~cop|be&3S det:art|a adv|very
+	adj|active n|family .
+%gra:	1|2|DET 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|8|DET 6|7|JCT 7|8|MOD 8|4|PRED
+	9|4|PUNCT
+*PAR:	and so that it makes it kinda hard at our house sometime because
+	&-uh there's a_lot_of [//] &+ac like I said a_lot_of activity .
+	[+ exc] 29193_37253
+%wor:	and 29193_29623 so 30783_31053 that 31053_31243 it 31383_31653 makes 31653_31893 it 31893_31993 kinda 31993_32263 hard 32263_32503 at 32503_32603 our 32603_32733 house 32733_32953 sometime 32953_33443 because 33443_33923 &-uh 34233_34273 there's 34273_34563 a_lot_of 34563_35053 &+ac 35113_35303 like 35583_35793 I 35793_35823 said 35823_36033 a_lot_of 36033_36633 activity 36633_37253 .
+%mor:	coord|and adv|so pro:rel|that pro:per|it v|make-3S pro:per|it
+	adv|kinda adv|hard prep|at det:poss|our n|house adv:tem|sometime
+	conj|because pro:exist|there~cop|be&3S conj|like pro:sub|I
+	v|say&PAST qn|a_lot_of n|active&dadj-ITY .
+%gra:	1|5|LINK 2|5|JCT 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|8|JCT 8|5|JCT
+	9|5|JCT 10|11|DET 11|9|POBJ 12|5|JCT 13|15|LINK 14|15|SUBJ 15|5|CJCT
+	16|18|LINK 17|18|SUBJ 18|15|CJCT 19|20|QUANT 20|18|OBJ 21|5|PUNCT
+*INV:	okay you see anything else going on over here ? 39260_41460
+%wor:	okay 39260_39580 you 39580_39670 see 39670_39840 anything 39840_40200 else 40200_40410 going 40410_40550 on 40550_41170 over 41200_41290 here 41290_41460 ?
+%mor:	co|okay pro:per|you v|see pro:indef|anything post|else
+	part|go-PRESP adv|on prep|over n|here ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|PQ 6|3|XJCT 7|6|JCT 8|6|JCT
+	9|8|POBJ 10|3|PUNCT
+*PAR:	well the poor girl is spillin(g) the water on her feet . 42857_44927
+%wor:	well 42857_42997 the 42997_43207 poor 43207_43357 girl 43357_43637 is 43637_43777 spillin(g) 43777_44097 the 44097_44127 water 44127_44427 on 44427_44677 her 44677_44717 feet 44717_44927 .
+%mor:	co|well det:art|the adj|poor n|girl aux|be&3S part|spill-PRESP
+	det:art|the n|water prep|on det:poss|her n|foot&PL .
+%gra:	1|6|COM 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|JCT 10|11|DET 11|9|POBJ 12|6|PUNCT
+*PAR:	it's gonna be &+k wet but then she'll hafta struggle with that . 45030_48320
+%wor:	it's 45030_45170 gonna 45170_45340 be 45340_45490 &+k 45490_45640 wet 45820_46280 but 46280_46420 then 46740_47010 she'll 47010_47330 hafta 47330_47560 struggle 47560_47960 with 47960_48240 that 48240_48320 .
+%mor:	pro:per|it~aux|be&3S part|go&PRESP~inf|to cop|be adj|wet conj|but
+	adv:tem|then pro:sub|she~mod|will mod|have~inf|to v|struggle
+	prep|with pro:dem|that .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|PRED 7|13|LINK
+	8|13|JCT 9|13|SUBJ 10|13|AUX 11|13|AUX 12|13|INF 13|3|CJCT 14|13|JCT
+	15|14|POBJ 16|3|PUNCT
+*PAR:	also there are a few more dishes left that didn't get finished . 48912_52592
+%wor:	also 48912_49222 there 49222_49382 are 49382_49502 a 49502_49552 few 49552_49742 more 49742_50062 dishes 50362_50842 left 51082_51422 that 51552_51702 didn't 51702_51952 get 51952_52222 finished 52222_52592 .
+%mor:	adv|also adv|there cop|be&PRES det:art|a qn|few qn|more n|dish-PL
+	adj|left comp|that mod|do&PAST~neg|not aux|get part|finish-PASTP .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|7|DET 5|6|QUANT 6|7|QUANT 7|3|PRED
+	8|7|POSTMOD 9|13|LINK 10|13|AUX 11|10|NEG 12|13|AUX 13|8|CMOD
+	14|3|PUNCT
+*PAR:	this hasta be the dishes . 53447_54697
+%wor:	this 53447_53617 hasta 53617_53907 be 53907_54077 the 54077_54257 dishes 54257_54697 .
+%mor:	pro:dem|this mod|have&3S~inf|to cop|be det:art|the n|dish-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*PAR:	and how that little boy fell off that stool I don't know but he did
+	. 55360_59020
+%wor:	and 55360_55590 how 55590_55700 that 55700_55910 little 55910_56060 boy 56060_56310 fell 56310_56570 off 56570_56800 that 56800_56950 stool 57310_57840 I 57840_57930 don't 57930_58150 know 58150_58440 but 58470_58640 he 58640_58720 did 58720_59020 .
+%mor:	coord|and pro:int|how det:dem|that adj|little n|boy v|fall&PAST
+	prep|off det:dem|that n|stool pro:sub|I mod|do~neg|not v|know
+	conj|but pro:sub|he v|do&PAST .
+%gra:	1|6|LINK 2|6|LINK 3|5|DET 4|5|MOD 5|6|SUBJ 6|13|CJCT 7|6|JCT
+	8|9|DET 9|7|POBJ 10|13|SUBJ 11|13|AUX 12|11|NEG 13|0|ROOT 14|16|LINK
+	15|16|SUBJ 16|13|CJCT 17|13|PUNCT
+*INV:	anything else ? 63468_64348
+%wor:	anything 63468_63918 else 63918_64348 ?
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	no . [+ exc] 64691_64982
+%wor:	no 64692_64982 .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay .
+%wor:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

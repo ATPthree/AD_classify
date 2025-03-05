@@ -1,0 +1,174 @@
+@UTF8
+@PID:	11312/t-00002575-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|58;|male|ProbableAD||Participant|18||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	235-0, audio
+@G:	Cookie
+*INV:	and there's the picture . 370_1540
+%wor:	and 370_560 there's 560_890 the 890_1030 picture 1030_1540 .
+%mor:	coord|and pro:exist|there~cop|be&3S det:art|the n|picture .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*INV:	all the action that you can see . 1932_3682
+%wor:	all 1932_2202 the 2202_2352 action 2352_2712 that 2712_2812 you 2812_3012 can 3012_3142 see 3142_3682 .
+%mor:	qn|all det:art|the n|action pro:rel|that pro:per|you mod|can v|see
+	.
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CMOD
+	8|3|PUNCT
+*PAR:	hm +... [+ exc] 7702_7782
+%wor:	hm 7702_7782 +... [+ exc]
+%mor:	co|hm +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	it's a little boy climbin(g) up gettin(g) some &+coo cookies
+	out_o(f) the cookie jar . 14244_17634
+%wor:	it's 14244_14344 a 14344_14384 little 14384_14534 boy 14534_14814 climbin(g) 14814_15174 up 15174_15354 gettin(g) 15764_15924 some 15924_16084 &+coo cookies 16084_16344 out_o(f) 16344_16974 the 16974_17044 cookie 17044_17284 jar 17284_17634 .
+%mor:	pro:per|it~cop|be&3S det:art|a adj|little n|boy part|climb-PRESP
+	adv|up part|get-PRESP qn|some n|cookie-PL prep|out_of det:art|the
+	n|cookie n|jar .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|XMOD 7|6|JCT
+	8|5|XMOD 9|10|QUANT 10|8|OBJ 11|8|JCT 12|14|DET 13|14|MOD 14|11|POBJ
+	15|2|PUNCT
+*PAR:	and his little sister reachin(g) for some . [+ gram] 17847_21617
+%wor:	and 17847_17977 his 20107_20247 little 20247_20447 sister 20447_20837 reachin(g) 20837_21157 for 21157_21217 some 21217_21617 . [+ gram]
+%mor:	coord|and det:poss|his adj|little n|sister part|reach-PRESP
+	prep|for qn|some .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ
+	8|5|PUNCT
+*PAR:	and the little boy is standin(g) on a ladder [: stool] [* s:r] . 21635_25595
+%wor:	and 21635_21755 the 24115_24135 little 24135_24375 boy 24375_24535 is 24535_24655 standin(g) 24655_25005 on 25005_25225 a 25225_25445 ladder [: stool] [* s:r] 25475_25595 .
+%mor:	coord|and det:art|the adj|little n|boy aux|be&3S part|stand-PRESP
+	prep|on det:art|a n|stool .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|PUNCT
+*PAR:	an(d) his big sister washin(g) the dishes (..) at the sink . 29265_37155
+%wor:	an(d) 29265_29355 his 30015_30215 big 30215_30475 sister 30475_30945 washin(g) 30945_31415 the 31415_31485 dishes 31485_32015 (..) at 36175_36235 the 36235_36655 sink 36655_37155 .
+%mor:	coord|and det:poss|his adj|big n|sister part|wash-PRESP det:art|the
+	n|dish-PL prep|at det:art|the n|sink .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*PAR:	(..) big sister washin(g) the dishes . 55289_56569
+%wor:	(..) big 55289_55459 sister 55459_55789 washin(g) 55789_56079 the 56079_56159 dishes 56159_56569 .
+%mor:	adj|big n|sister part|wash-PRESP det:art|the n|dish-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|XMOD 4|5|DET 5|3|OBJ 6|2|PUNCT
+*PAR:	and <she got> [/] she got &-uh dishes <on the> [//] &+s sittin(g) on
+	the sink . [+ gram] 56589_60039
+%wor:	and 56589_56769 <she 56769_56789 got 56789_57089> [/] she got &-uh dishes <on the> [//] 57539_59089 &+s sittin(g) 59259_59529 on 59529_59679 the 59679_59769 sink 59769_60039 . [+ gram]
+%mor:	coord|and pro:sub|she v|get&PAST n|dish-PL part|sit-PRESP prep|on
+	det:art|the n|sink .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|XMOD 6|5|JCT 7|8|DET
+	8|6|POBJ 9|3|PUNCT
+*PAR:	and I think she's &-uh runnin(g) water . 67591_68921
+%wor:	and 67591_67681 I 67681_67731 think 67731_67961 she's 67961_68201 &-uh 68201_68251 runnin(g) 68251_68691 water 68691_68921 .
+%mor:	coord|and pro:sub|I v|think pro:sub|she~aux|be&3S part|run-PRESP
+	n|water .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|6|OBJ
+	8|3|PUNCT
+*INV:	can you tell me anything else that's going on over there ? 79016_81986
+%wor:	can 79016_79156 you 79286_79506 tell 79506_79716 me 79716_79826 anything 79826_80186 else 80186_80566 that's 80566_80736 going 80736_81026 on 81026_81226 over 81226_81446 there 81446_81986 ?
+%mor:	mod|can pro:per|you v|tell pro:obj|me pro:indef|anything post|else
+	pro:rel|that~aux|be&3S part|go-PRESP adv|on prep|over n|there ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ2 5|3|OBJ 6|5|PQ 7|9|LINK 8|9|AUX
+	9|5|CMOD 10|9|JCT 11|9|JCT 12|11|POBJ 13|3|PUNCT
+*PAR:	and I said <the &-uh little sister's> [//] &-uh &+reach Johnny's
+	[//] Johnny <he is> [/] &-uh he is up on the ladder &-uh &+get
+	gettin(g) some cookies . 86532_95842
+%wor:	and 86532_86682 I 86682_86802 said 86802_87662 <the 87662_87682 &-uh 88572_88602 little 88602_89032 sister's 89032_89902> [//] &-uh &+reach Johnny's [//]  Johnny <he is> [/] 89902_92252 &-uh 92252_92602 he 92602_92832 is 92832_93092 up 93602_93772 on 93772_93932 the 93932_93952 ladder &-uh 94532_94752 &+get gettin(g) 94752_95302  some 95302_95512 cookies 95512_95842 .
+%mor:	coord|and pro:sub|I v|say&PAST n:prop|Johnny pro:sub|he aux|be&3S
+	adv|up prep|on det:art|the n|ladder part|get-PRESP qn|some
+	n|cookie-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|SUBJ 6|4|CMOD 7|6|JCT
+	8|6|JCT 9|10|DET 10|8|POBJ 11|6|XJCT 12|13|QUANT 13|11|OBJ
+	14|3|PUNCT
+*PAR:	and the little sister <reachin(g) up> [/] &+reach reaching up after
+	some . [+ gram] 95897_101057
+%wor:	and 95897_96017 the 96017_96027 little 96027_96417 sister 98837_99337 <reachin(g) 99337_99617 up 99617_99707> [/] &+reach  reaching up after some . [+ gram] 99707_101057
+%mor:	coord|and det:art|the adj|little n|sister part|reach-PRESP adv|up
+	prep|after qn|some .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|XMOD 6|5|JCT 7|5|JCT
+	8|7|POBJ 9|4|PUNCT
+*INV:	anything +/. 102353_102983
+%wor:	anything 102353_102983 +/.
+%mor:	pro:indef|anything +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+< <he [/] he [/] he> [//] he's passin(g) it down to her . 102444_104074
+%wor:	+<  <he [/] 102444_102544 he [/] 102544_102714 he 102714_102924> [//] he's passin(g) it down to her . 102924_104074
+%mor:	pro:sub|he~aux|be&3S part|pass-PRESP pro:per|it adv|down prep|to
+	pro:obj|her .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|JCT 7|6|POBJ
+	8|3|PUNCT
+*INV:	okay anything else ? 104570_105870
+%wor:	okay 104570_105020 anything 105020_105430 else 105430_105870 ?
+%mor:	co|okay pro:indef|anything post|else ?
+%gra:	1|2|COM 2|0|ROOT 3|2|PQ 4|2|PUNCT
+*PAR:	and <the ladder [: stool] [* s:r-rep]> [/] the ladder [: stool]
+	[* s:r] about to turn over . [+ gram] 107890_109650
+%wor:	and 107890_108130 <the 108130_108190 ladder [: stool] [* s:r-rep]> [/] 108190_108320 the 108320_108550 ladder [: stool] [* s:r] 108550_108690 about 108690_109070 to 109070_109130 turn 109130_109350 over 109350_109650 . [+ gram]
+%mor:	coord|and det:art|the n|stool adv|about inf|to v|turn adv|over .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|JCT 5|6|INF 6|0|ROOT 7|6|JCT
+	8|6|PUNCT
+*INV:	okay . 109939_110699
+%wor:	okay 109939_110699 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(..) anything else goin(g) on over here ? 123008_124818
+%wor:	(..) anything 123008_123438 else 123438_123638 goin(g) 123638_123888 on 123888_124088 over 124088_124348 here 124348_124818 ?
+%mor:	pro:indef|anything post|else part|go-PRESP adv|on prep|over n|here
+	?
+%gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*PAR:	the [//] &+k &-uh this [//] the cups <what she's> [//] &-uh &+sh
+	maybe she goin(g) to wash them . 128978_134398
+%wor:	the [//] 128978_129888 &+k &-uh 130108_130378 this [//] 130378_130688 the 130688_130888 cups 130888_131378 <what 131378_131638 she's 131638_131848> [//] &-uh &+sh maybe  she goin(g) to wash them . 131848_134398
+%mor:	det:art|the n|cup-PL adv|maybe pro:sub|she part|go-PRESP inf|to
+	v|wash pro:obj|them .
+%gra:	1|2|DET 2|0|INCROOT 3|5|JCT 4|5|SUBJ 5|2|XMOD 6|7|INF 7|5|COMP
+	8|7|OBJ 9|2|PUNCT
+*PAR:	and she got them sittin(g) <on the> [/] on the sink . 134417_136067
+%wor:	and 134417_134517 she 134517_134537 got 134537_134657 them 134657_134887 sittin(g) 134887_135137 <on 135137_135307 the 135307_135477> [/] on the sink . 135507_136067
+%mor:	coord|and pro:sub|she v|get&PAST pro:obj|them part|sit-PRESP
+	prep|on det:art|the n|sink .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|8|DET
+	8|6|POBJ 9|3|PUNCT
+*INV:	uhhuh . 136597_136947
+%wor:	uhhuh 136597_136947 .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and <maybe runnin(g)> [/] maybe runnin(g) water on the sink .
+	[+ gram] 136964_139284
+%wor:	and 136964_137354 <maybe 137384_137664 runnin(g) 137664_138064> [/] maybe runnin(g) water on the sink . [+ gram] 138094_139284
+%mor:	coord|and adv|maybe part|run-PRESP n|water prep|on det:art|the
+	n|sink .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ
+	8|3|PUNCT
+*PAR:	and <they got> [//] if she <got a> [/] got a curtain to pull (.)
+	that she might get some light in there . [+ gram] 139300_146200
+%wor:	and 139300_139420 <they 139420_139470 got 139470_139830> [//] if she <got a> [/] 139830_141710 got 141710_141890 a 141890_141960 curtain 141960_142290 to 142290_142350 pull 142350_142790 (.) that 144610_144780  she 144780_144840 might 144890_145210 get some 145500_145690 light 145690_145900 in 145900_146070 there 146070_146200 . [+ gram]
+%mor:	coord|and conj|if pro:sub|she v|get&PAST det:art|a n|curtain inf|to
+	v|pull comp|that pro:sub|she mod|might v|get qn|some n|light prep|in
+	n|there .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|INF
+	8|4|XJCT 9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|COMP 13|14|QUANT
+	14|12|OBJ 15|12|JCT 16|15|POBJ 17|4|PUNCT
+*PAR:	since dishes [//] the dishes stacked up . [+ gram] 149976_152506
+%wor:	since 149976_150616 dishes [//] 151266_151556 the 151556_151676 dishes 151676_151996 stacked 151996_152366 up 152366_152506 . [+ gram]
+%mor:	conj|since det:art|the n|dish-PL v|stack-PAST adv|up .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	they might be on the sink . 154233_155183
+%wor:	they 154233_154373 might 154373_154583 be 154583_154663 on 154663_154863 the 154863_154953 sink 154953_155183 .
+%mor:	pro:sub|they mod|might cop|be prep|on det:art|the n|sink .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*INV:	anything else ? 157335_158295
+%wor:	anything 157335_157785 else 157785_158295 ?
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	no ‡ that be about all xxx . [+ exc] 160064_161124
+%wor:	no 160064_160454 ‡ that 160454_160604 be 160604_160624 about 160624_160794 all 160794_161124 xxx . [+ exc]
+%mor:	co|no beg|beg pro:dem|that cop|be adv|about adv|all .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|4|PUNCT
+*INV:	okay good . 162488_162978
+%wor:	okay 162488_162638 good 162868_162978 .
+%mor:	co|okay adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

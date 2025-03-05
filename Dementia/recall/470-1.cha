@@ -1,0 +1,76 @@
+@UTF8
+@PID:	11312/a-00048785-1
+@Begin
+@Languages:	eng
+@Participants:	PAR 0000 Participant, INV Investigator
+@ID:	eng|Pitt|PAR|79;|male|ProbableAD||Participant|22||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	470-1, audio
+@G:	George_Immediate
+*INV:	okay ‡ tell me everything you can remember . 982000_984461
+%mor:	co|okay beg|beg v|tell pro:obj|me pro:indef|everything pro:per|you
+	mod|can v|remember .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|OBJ 5|8|LINK 6|8|SUBJ 7|8|AUX 8|3|COMP
+	9|3|PUNCT
+*PAR:	(..) George moved +//. 984461_987770
+%mor:	n:prop|George v|move-PAST +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	&=laughs I don't remember anything xxx . [+ exc] 987770_990440
+%mor:	pro:sub|I mod|do~neg|not v|remember pro:indef|anything .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	go_ahead . 990440_991311
+%mor:	co|go_ahead .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	you're doing great . 991311_991845
+%mor:	pro:per|you~aux|be&PRES part|do-PRESP adj|great .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	+< too fast . [+ exc] 991311_992762
+%mor:	adv|too adv|fast .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*PAR:	I hafta see xxx . [+ exc] 992762_996347
+%mor:	pro:sub|I mod|have~inf|to v|see .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|PUNCT
+*INV:	can you remember anything more about the story ? 996347_998312
+%mor:	mod|can pro:per|you v|remember pro:indef|anything qn|more
+	prep|about det:art|the n|story ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|NJCT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	somethin(g) (a)bout the country , George , and this and that . 998312_1001273
+%mor:	pro:indef|something prep|about det:art|the n|country cm|cm
+	n:prop|George cm|cm coord|and pro:dem|this coord|and pro:dem|that .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|4|LP 6|4|ENUM 7|6|LP 8|4|CONJ
+	9|8|COORD 10|4|CONJ 11|10|COORD 12|1|PUNCT
+*PAR:	moved out and this and moved in [//] (.) out_of the city an:d +... 1001273_1006718
+%mor:	v|move-PAST adv|out coord|and pro:dem|this coord|and v|move-PAST
+	prep|out_of det:art|the n|city coord|and +...
+%gra:	1|0|ROOT 2|1|JCT 3|1|CONJ 4|3|COORD 5|1|CONJ 6|5|COORD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|1|CONJ 11|1|PUNCT
+*PAR:	mkay ‡ I don't know &=chuckles . [+ exc] 1006718_1008761
+%mor:	co|mkay beg|beg pro:sub|I mod|do~neg|not v|know .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|PUNCT
+*PAR:	I [/] I [/] &+c &=chuckles (.) I don't memorize xxx +/. [+ exc] 1008761_1013417
+%mor:	pro:sub|I mod|do~neg|not v|memory&dadj-IZE +/.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+@G:	Bill_Immediate
+*INV:	tell me what you remember . 2196500_2198009
+%mor:	v|tell pro:obj|me pro:int|what pro:per|you v|remember .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|LINK 4|5|SUBJ 5|1|COMP 6|1|PUNCT
+*PAR:	+< visiting . 2197000_2198009
+%mor:	part|visit-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	yeah . 2198009_2198531
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	visiting uncle or somebody . 2198531_2200888
+%mor:	part|visit-PRESP n|uncle coord|or pro:indef|somebody .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	went out fishing and +... 2200888_2203431
+%mor:	v|go&PAST adv|out part|fish-PRESP coord|and +...
+%gra:	1|0|ROOT 2|1|JCT 3|1|XJCT 4|3|CONJ 5|1|PUNCT
+*PAR:	and &-uh (a)bout it . 2203431_2206705
+%mor:	coord|and prep|about pro:per|it .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|POBJ 4|1|PUNCT
+*INV:	mkay . 2206705_2207703
+%mor:	co|mkay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,51 @@
+@UTF8
+@PID:	11312/t-00002527-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|74;00.|female|MCI||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	172-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete
+	demographic data
+@G:	Cookie
+*PAR:	mother's drying the dishes and the water is running over the sink
+	and going onto the floor . 3620_8410
+%wor:	mother's 3620_3980 drying 3980_4490 the 4490_4500 dishes 4500_4980 and 4980_5110 the 5110_5130 water 5130_5550 is 5550_5660 running 5710_6120 over 6260_6710 the 6710_6900 sink 6900_7160  and 7160_7320 going 7320_7590 onto 7590_7920 the 8040_8060 floor 8060_8410 .
+%mor:	n|mother~aux|be&3S part|dry-PRESP det:art|the n|dish-PL coord|and
+	det:art|the n|water aux|be&3S part|run-PRESP prep|over det:art|the
+	n|sink coord|and part|go-PRESP prep|onto det:art|the n|floor .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|10|LINK 7|8|DET
+	8|10|SUBJ 9|10|AUX 10|3|CJCT 11|10|JCT 12|13|DET 13|11|POBJ
+	14|10|CONJ 15|14|COORD 16|15|JCT 17|18|DET 18|16|POBJ 19|3|PUNCT
+*PAR:	and &-uh the little boy is up getting cookies out_of the jar and
+	the stool's about to fall over . 9874_15544
+%wor:	and 9874_10624 &-uh 10784_10854 the 10854_10894 little 10894_11084 boy 11084_11244 is 11244_11514 up 11514_11704 getting 12084_12334 cookies 12334_12744 out_of 12744_13014 the 13014_13184 jar 13184_13724 and 13814_13984 the 13984_14084  stool's 14084_14474 about 14474_14784 to 14784_14844 fall 14944_15274 over 15274_15544 .
+%mor:	coord|and det:art|the adj|little n|boy aux|be&3S adv|up
+	part|get-PRESP n|cookie-PL prep|out_of det:art|the n|jar coord|and
+	det:art|the n|stool~cop|be&3S adv|about inf|to v|fall adv|over .
+%gra:	1|7|LINK 2|4|DET 3|4|MOD 4|7|SUBJ 5|7|AUX 6|7|JCT 7|0|ROOT 8|7|OBJ
+	9|7|JCT 10|11|DET 11|9|POBJ 12|15|LINK 13|14|DET 14|15|SUBJ
+	15|7|CJCT 16|18|JCT 17|18|INF 18|15|CPRED 19|18|JCT 20|7|PUNCT
+*PAR:	and the little girl's holding <her hands up for [/] for a cookie>
+	[//] one hand up for a cookie and the other one up to her mouth +"/.
+	16326_22636
+%wor:	and 16326_16436 the 16436_16536 little 16536_16696 girl's 16696_17086 holding 17116_17616 <her 17646_17686 hands 17686_17936 up 17936_18056 for [/] 18156_18276 for 18956_19026 a 19026_19156 cookie 19206_19506>  [//] one hand up for a cookie and the other one up to her mouth +"/. 19506_22636
+%mor:	coord|and det:art|the adj|little n|girl~aux|be&3S part|hold-PRESP
+	det:num|one n|hand adv|up prep|for det:art|a n|cookie coord|and
+	det:art|the qn|other pro:indef|one adv|up prep|to det:poss|her
+	n|mouth +"/.
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|QUANT
+	8|6|OBJ 9|6|JCT 10|6|JCT 11|12|DET 12|10|POBJ 13|6|CONJ 14|16|DET
+	15|16|QUANT 16|13|COORD 17|16|NJCT 18|16|NJCT 19|20|DET 20|18|POBJ
+	21|6|PUNCT
+*PAR:	+" sh@o don't tell mother . 23027_24117
+%wor:	+" sh@o 23027_23057 don't 23407_23647 tell 23707_23847 mother 23847_24117 .
+%mor:	on|sh mod|do~neg|not v|tell n|mother .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	(...) okay that's fine . 24139_35639
+%wor:	(...) okay 24139_24229 that's 35419_35529 fine 35529_35639 .
+%mor:	co|okay pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

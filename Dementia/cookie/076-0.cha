@@ -1,0 +1,171 @@
+@UTF8
+@PID:	11312/t-00002486-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|68;|female|ProbableAD||Participant|25||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	076-0, audio
+@G:	Cookie
+*INV:	what's going on in the picture ? 0_1410
+%wor:	what's 0_360 going 360_650 on 650_840 in 840_940 the 940_1210 picture 1210_1410 ?
+%mor:	pro:int|what~aux|be&3S part|go-PRESP adv|on prep|in det:art|the
+	n|picture ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ
+	8|3|PUNCT
+*PAR:	&-uh well ‡ the children are climbing up . 3584_6644
+%wor:	&-uh 3584_3844 well 5154_5464 ‡ the 5494_5674 children 5674_5974 are 5974_6064 climbing 6174_6534 up 6534_6644 .
+%mor:	co|well beg|beg det:art|the n|child&PL aux|be&PRES part|climb-PRESP
+	adv|up .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT
+	8|6|PUNCT
+*PAR:	and he's about to fall . 6841_7901
+%wor:	and 6841_6931 he's 7031_7151 about 7151_7421 to 7481_7541 fall 7661_7901 .
+%mor:	coord|and pro:sub|he~cop|be&3S adv|about prep|to n|fall .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|JCT 6|5|POBJ 7|3|PUNCT
+*PAR:	and he's getting cookies . 7950_9170
+%wor:	and 7950_8040 he's 8420_8570 getting 8730_8860 cookies 9020_9170 .
+%mor:	coord|and pro:sub|he~aux|be&3S part|get-PRESP n|cookie-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and she's &-uh telling him to sh@o be quiet so mother <won't hear
+	it> [//] won't hear him getting up there . 10632_15732
+%wor:	and 10632_10742 she's 10772_10922 &-uh 12202_12212 telling 12212_12482 him 13252_13322 to 13322_13382 sh@o 13382_13392 be 13392_13412 quiet 13412_13622 so 13622_13692 mother 13722_13852 <won't 14042_14162 hear 14452_14542  it 14542_14612> [//] won't hear him getting up there . 15012_15732
+%mor:	coord|and pro:sub|she~aux|be&3S part|tell-PRESP pro:obj|him prep|to
+	on|sh cop|be adj|quiet adv|so n|mother mod|will~neg|not v|hear
+	pro:obj|him part|get-PRESP prep|up n|there .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|14|SUBJ
+	8|14|AUX 9|8|PRED 10|14|JCT 11|14|SUBJ 12|14|AUX 13|12|NEG 14|6|POBJ
+	15|14|OBJ 16|4|XJCT 17|16|JCT 18|17|POBJ 19|4|PUNCT
+*PAR:	and &-uh he's handing a cookie down to her . 20713_22413
+%wor:	and 20713_20823 &-uh 20893_20903 he's 20903_21073 handing 21143_21323 a 21323_21353 cookie 21573_21693 down 22223_22313 to 22313_22373 her 22373_22413 .
+%mor:	coord|and pro:sub|he~aux|be&3S part|hand-PRESP det:art|a n|cookie
+	adv|down prep|to pro:obj|her .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|JCT
+	9|8|POBJ 10|4|PUNCT
+*PAR:	she's washing the dishes . 22925_23875
+%wor:	she's 22925_23105 washing 23105_23435 the 23435_23665 dishes 23665_23875 .
+%mor:	pro:sub|she~aux|be&3S part|wash-PRESP det:art|the n|dish-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and &-uh (.) for some reason she must have been upset about
+	something because &-uh she is letting the water run out all over the
+	place .
+%wor:	and &-uh (.) for some reason she must have been upset about
+	something because &-uh she is letting the water run out all over the
+	place .
+%mor:	coord|and prep|for qn|some n|reason pro:sub|she mod|must aux|have
+	cop|be&PASTP v|upset prep|about pro:indef|something conj|because
+	pro:sub|she aux|be&3S part|let-PRESP det:art|the n|water n|run
+	adv|out adv|all prep|over det:art|the n|place .
+%gra:	1|9|LINK 2|9|JCT 3|4|QUANT 4|2|POBJ 5|8|SUBJ 6|8|AUX 7|8|AUX
+	8|9|SUBJ 9|0|ROOT 10|9|JCT 11|10|POBJ 12|15|LINK 13|15|SUBJ
+	14|15|AUX 15|9|CJCT 16|18|DET 17|18|MOD 18|15|OBJ 19|15|JCT
+	20|21|JCT 21|15|JCT 22|23|DET 23|21|POBJ 24|9|PUNCT
+*PAR:	<whether she's> [//] &+up I can't believe she's upset about the kids
+	(be)cause she hasn't seen them . 33334_37244
+%wor:	<whether 33334_33504 she's 33504_33624> [//] &+up I can't believe she's upset about the kids  (be)cause she hasn't seen them . 34774_37244
+%mor:	pro:sub|I mod|can~neg|not v|believe pro:sub|she~cop|be&3S v|upset
+	prep|about det:art|the n|kid-PL conj|because pro:sub|she
+	aux|have&3S~neg|not part|see&PASTP pro:obj|them .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|PRED
+	8|7|JCT 9|10|DET 10|8|POBJ 11|15|LINK 12|15|SUBJ 13|15|AUX 14|13|NEG
+	15|4|CJCT 16|15|OBJ 17|4|PUNCT
+*PAR:	maybe she did turn and look at them and &=laughs then go back to
+	the dishes . 37666_41236
+%wor:	maybe 37666_37756 she did 37836_37966 turn 37966_38066 and look 38156_38246 at 38326_38386 them 38386_38706 and &=laughs then 40066_40256 go 40256_40356 back 40356_40646 to 40646_40736  the dishes 40786_41236 .
+%mor:	adv|maybe pro:sub|she mod|do&PAST v|turn coord|and v|look prep|at
+	pro:obj|them coord|and adv:tem|then v|go adv|back prep|to
+	det:art|the n|dish-PL .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|CONJ 6|5|COORD 7|6|JCT
+	8|7|POBJ 9|6|CONJ 10|11|JCT 11|9|COORD 12|11|JCT 13|11|JCT 14|15|DET
+	15|13|POBJ 16|4|PUNCT
+*INV:	&=laughs .
+%wor:	&=laughs .
+*PAR:	in other words it's &-uh +... 43680_44330
+%wor:	in 43680_43750 other 43750_43920 words 43920_44190 it's 44190_44330 &-uh +...
+%mor:	prep|in qn|other n|word-PL pro:per|it~cop|be&3S +...
+%gra:	1|5|JCT 2|3|QUANT 3|1|POBJ 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	&-uh she [/] she's deciding that if she did see them she's deciding
+	that she's going to let them go ahead with it . 48560_53130
+%wor:	&-uh she [/] she's deciding that if she did see them she's deciding
+	that she's going to let them go ahead with it . 48560_53130
+%mor:	pro:sub|she~aux|be&3S part|decide-PRESP comp|that conj|if
+	pro:sub|she mod|do&PAST v|see pro:obj|them pro:sub|she~aux|be&3S
+	part|decide-PRESP comp|that pro:sub|she~aux|be&3S part|go-PRESP
+	inf|to v|let&ZERO pro:obj|them v|go adv|ahead prep|with pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|12|LINK 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|12|CJCT 9|8|OBJ 10|12|SUBJ 11|12|AUX 12|3|COMP 13|16|LINK
+	14|16|SUBJ 15|16|AUX 16|12|COMP 17|18|INF 18|16|COMP 19|20|SUBJ
+	20|18|COMP 21|20|JCT 22|20|JCT 23|22|POBJ 24|3|PUNCT
+*PAR:	but I don't think she would have let them go ahead if she saw the
+	little boy falling . 54317_57037
+%wor:	but 54317_54437 I 54437_54447 don't 54447_54537 think 54537_54657 she would 54937_55027 have let 55107_55257 them 55257_55367 go 55517_55657 ahead 55757_55877 if 55877_55937 she saw 55947_56007 the  little 56017_56307 boy 56417_56487 falling 56897_57037 .
+%mor:	conj|but pro:sub|I mod|do~neg|not v|think pro:sub|she mod|will&COND
+	aux|have part|let&PASTP pro:obj|them v|go adv|ahead conj|if
+	pro:sub|she v|see&PAST det:art|the adj|little n|boy part|fall-PRESP
+	.
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|9|CJCT 6|9|SUBJ 7|9|AUX 8|9|AUX
+	9|0|ROOT 10|11|SUBJ 11|9|COMP 12|11|JCT 13|15|LINK 14|15|SUBJ
+	15|9|CJCT 16|18|DET 17|18|MOD 18|15|OBJ 19|18|XMOD 20|9|PUNCT
+*PAR:	I think she would have turned . 57086_58316
+%wor:	I 57086_57096 think 57096_57216 she would 58026_58116 have turned 58196_58316 .
+%mor:	pro:sub|I v|think pro:sub|she mod|will&COND aux|have
+	part|turn-PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|6|AUX 6|2|COMP 7|2|PUNCT
+*PAR:	maybe dropped her dish &=laughs . 59324_60744
+%wor:	maybe 59324_59424 dropped 59424_59784 her 59784_59974 dish 60414_60744 &=laughs .
+%mor:	adv|maybe v|drop-PAST det:poss|her n|dish .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	but she would have gotten hold of him and saved him from being
+	harmed in the fall . 60915_63595
+%wor:	but 60915_61035 she would 61045_61135 have gotten 61205_61395 hold 61395_61525 of 61525_61605 him 61605_61665 and saved 61985_62105 him 62385_62445 from 62445_62615 being 62615_62745  harmed 62745_62975 in 62975_63055 the fall 63475_63595 .
+%mor:	conj|but pro:sub|she mod|will&COND aux|have part|get&PASTP n|hold
+	prep|of pro:obj|him coord|and v|save-PAST pro:obj|him prep|from
+	n|being v|harm-PAST prep|in det:art|the n|fall .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|OBJ 7|6|NJCT
+	8|7|POBJ 9|5|CONJ 10|9|COORD 11|10|OBJ 12|14|JCT 13|14|SUBJ
+	14|10|COMP 15|14|JCT 16|17|DET 17|15|POBJ 18|5|PUNCT
+*PAR:	and he might just pull all the cookie jar with him when he falls
+	too &=laughs . 66463_69653
+%wor:	and he 66463_66473 might 66473_66633 just 66713_66853 pull 66953_67043 all the cookie 67563_67683 jar 67683_67863 with 67863_68053 him 68053_68153 when 68503_68573 he 68573_68693 falls 68693_69053  too 69103_69653 &=laughs .
+%mor:	coord|and pro:sub|he mod|might adv|just v|pull qn|all det:art|the
+	n|cookie n|jar prep|with pro:obj|him conj|when pro:sub|he v|fall-3S
+	adv|too .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|9|QUANT 7|9|DET
+	8|9|MOD 9|5|OBJ 10|5|JCT 11|10|POBJ 12|14|LINK 13|14|SUBJ 14|5|CJCT
+	15|14|JCT 16|5|PUNCT
+*INV:	&=laughs .
+%wor:	&=laughs .
+*PAR:	and with the water on the floor and the cookie jar on the floor
+	&=laughs it would be a sad +/. 70749_74619
+%wor:	and with 70749_70929 the water on 71259_71489 the floor 71569_71779 and the cookie 71999_72249 jar 72329_72579 on 72579_72669 the floor 72809_73089  &=laughs it 73089_73159 would 73559_73749 be 73749_73809 a 73809_73949 sad 73949_74619 +/.
+%mor:	coord|and prep|with det:art|the n|water prep|on det:art|the n|floor
+	coord|and det:art|the n|cookie n|jar prep|on det:art|the n|floor
+	pro:per|it mod|will&COND cop|be det:art|a adj|sad +/.
+%gra:	1|17|LINK 2|17|JCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|7|CONJ 9|11|DET 10|11|MOD 11|8|COORD 12|17|JCT 13|14|DET
+	14|12|POBJ 15|17|SUBJ 16|17|AUX 17|0|ROOT 18|19|DET 19|17|PRED
+	20|17|PUNCT
+*INV:	+< bad . 75003_75243
+%wor:	+< bad 75003_75243 .
+%mor:	adj|bad .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+, threesome but [//] and the kitchen would be a mess . 75571_77531
+%wor:	+, threesome 75571_75951 but [//] 75951_76041 and the kitchen 77001_77141 would 77281_77371 be 77371_77381 a 77381_77411 mess 77411_77531 .
+%mor:	n|threesome coord|and det:art|the n|kitchen mod|will&COND cop|be
+	det:art|a n|mess .
+%gra:	1|0|INCROOT 2|6|LINK 3|4|DET 4|6|SUBJ 5|6|AUX 6|1|CJCT 7|8|DET
+	8|6|PRED 9|1|PUNCT
+*INV:	mhm . 79063_79393
+%wor:	mhm 79063_79393 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ? 80227_80607
+%wor:	okay 80227_80607 ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	great ! 80910_81370
+%wor:	great 80910_81370 !
+%mor:	adj|great !
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

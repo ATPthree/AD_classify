@@ -1,0 +1,142 @@
+@UTF8
+@PID:	11312/t-00002330-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|56;|female|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	175-0, audio
+@G:	Cookie
+*INV:	there it is . 70_710
+%wor:	there 70_160 it 160_510 is 510_710 .
+%mor:	adv|there pro:per|it cop|be&3S .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	the woman is washing dishes . 761_3331
+%wor:	the 761_1981 woman 1981_2181 is 2181_2481 washing 2481_2871 dishes 3051_3331 .
+%mor:	det:art|the n|woman aux|be&3S part|wash-PRESP n|dish-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	she's wearing an apron . 3348_4748
+%wor:	she's 3348_3808 wearing 3858_4138 an 4138_4218 apron 4318_4748 .
+%mor:	pro:sub|she~aux|be&3S part|wear-PRESP det:art|a n|apron .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	water is pouring out_of the sink . 4928_6768
+%wor:	water 4928_5138 is 5138_5388 pouring 5658_5918 out_of 5918_6478 the 6478_6548 sink 6548_6768 .
+%mor:	n|water aux|be&3S part|pour-PRESP prep|out_of det:art|the n|sink .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	the boy is taking cookies from the cookie jar . 6847_10607
+%wor:	the 6847_8027 boy 8027_8117 is 8117_8477 taking 8517_8737 cookies 8737_8887 from 8887_9127 the 9157_10037 cookie 10037_10157 jar 10157_10607 .
+%mor:	det:art|the n|boy aux|be&3S part|take-PRESP n|cookie-PL prep|from
+	det:art|the n|cookie n|jar .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|4|PUNCT
+*PAR:	and his sister or young girl is asking for some for her . 11141_14771
+%wor:	and 11141_11381 his 11381_11481 sister 11481_11961 or 12521_12551 young 12551_12641 girl 13051_13161 is 13161_13241 asking 13241_13471 for 13471_14371 some 14371_14461 for 14461_14611 her 14611_14771 .
+%mor:	coord|and det:poss|his n|sister coord|or adj|young n|girl aux|be&3S
+	part|ask-PRESP prep|for qn|some prep|for pro:obj|her .
+%gra:	1|8|LINK 2|3|DET 3|8|SUBJ 4|3|CONJ 5|6|MOD 6|4|COORD 7|8|AUX
+	8|0|ROOT 9|8|JCT 10|9|POBJ 11|10|NJCT 12|11|POBJ 13|8|PUNCT
+*PAR:	the lid is off the cookie jar . 14792_16622
+%wor:	the 14792_15042 lid 15042_15142 is 15142_15252 off 15252_16202 the 16202_16212 cookie 16212_16352 jar 16442_16622 .
+%mor:	det:art|the n|lid cop|be&3S prep|off det:art|the n|cookie n|jar .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ
+	8|3|PUNCT
+*PAR:	the cupboard door is open . 17106_18806
+%wor:	the 17106_17476 cupboard 17476_17866 door 17936_18116 is 18116_18376 open 18436_18806 .
+%mor:	det:art|the n|+n|cup+n|board n|door cop|be&3S adj|open .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	he is on a three legged stool <which is falling> [//] &-uh which is
+	tilted . 19428_24048
+%wor:	he 19428_19538 is 19538_19818 on 19818_19888 a 19888_19918 three 19918_20328 legged 20328_20608 stool 20608_20978 <which 20978_21328 is 21328_21628 falling 22068_23128> [//] &-uh which is  tilted . 23178_24048
+%mor:	pro:sub|he cop|be&3S prep|on det:art|a det:num|three adj|legged
+	n|stool pro:rel|which aux|be&3S part|tilt-PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|7|DET 5|7|QUANT 6|7|MOD 7|3|POBJ
+	8|10|LINK 9|10|AUX 10|7|CMOD 11|2|PUNCT
+*PAR:	there are curtains in the kitchen . 24098_25708
+%wor:	there 24098_24328 are 24328_24528 curtains 24658_25038 in 25038_25188 the 25188_25338 kitchen 25338_25708 .
+%mor:	adv|there cop|be&PRES n|curtain-PL prep|in det:art|the n|kitchen .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*PAR:	there's a tree outside the window . 25761_27271
+%wor:	there's 25761_26031 a 26031_26071 tree 26071_26301 outside 26301_26451 the 26451_27031 window 27061_27271 .
+%mor:	pro:exist|there~cop|be&3S det:art|a n|tree adj|outside det:art|the
+	n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|7|MOD 5|7|MOD 6|7|DET 7|2|PRED
+	8|2|PUNCT
+*PAR:	there are shrubs . 27393_28283
+%wor:	there 27393_27623 are 27713_27833 shrubs 27833_28283 .
+%mor:	adv|there cop|be&PRES n|shrub-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	there's a walk . 28713_29533
+%wor:	there's 28713_29283 a 29283_29313 walk 29313_29533 .
+%mor:	pro:exist|there~cop|be&3S det:art|a n|walk .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	there are two cups on the &-uh sink counter . 29884_34114
+%wor:	there 29884_30394 are 30394_30424 two 30424_30464 cups 30464_30564 on 30564_30604 the 30634_33394 &-uh 33424_33434 sink 33434_33684 counter 33684_34114 .
+%mor:	adv|there cop|be&PRES det:num|two n|cup-PL prep|on det:art|the
+	n|sink n|counter .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|NJCT 6|8|DET 7|8|MOD
+	8|5|POBJ 9|2|PUNCT
+*PAR:	there's a plate there . 34161_35451
+%wor:	there's 34161_34471 a 34471_34511 plate 34511_34851 there 34851_35451 .
+%mor:	pro:exist|there~cop|be&3S det:art|a n|plate adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|2|PUNCT
+*PAR:	and as I said the water is overflowing . 36135_38015
+%wor:	and 36135_36225 as 36225_36315 I 36315_36325 said 36325_36435 the 36435_36845 water 36845_37015 is 37015_37325 overflowing 37365_38015 .
+%mor:	coord|and conj|as pro:sub|I v|say&PAST det:art|the n|water
+	aux|be&3S over#part|flow-PRESP .
+%gra:	1|8|LINK 2|4|LINK 3|4|SUBJ 4|8|CJCT 5|6|DET 6|8|SUBJ 7|8|AUX
+	8|0|ROOT 9|8|PUNCT
+*PAR:	it is already on the floor . 38229_40019
+%wor:	it 38229_38379 is 38379_38539 already 38539_39089 on 39209_39359 the 39359_39379 floor 39379_40019 .
+%mor:	pro:per|it cop|be&3S adv|already prep|on det:art|the n|floor .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*PAR:	there are cupboards above the kitchen counter and below . 40067_45687
+%wor:	there 40067_41207 are 41207_41237 cupboards 41237_41457 above 41457_43617 the 43647_43657 kitchen 43657_44197 counter 44527_44937 and 44937_45037 below 45277_45687 .
+%mor:	adv|there cop|be&PRES n|+n|cup+n|board-PL prep|above det:art|the
+	n|kitchen n|counter coord|and adv|below .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|7|DET 6|7|MOD 7|4|POBJ
+	8|7|CONJ 9|8|COORD 10|2|PUNCT
+*PAR:	and the window is above the kitchen sink . 46423_49283
+%wor:	and 46423_46673 the 46673_46683 window 46683_46983 is 47053_47233 above 47233_47543 the 47543_48973 kitchen 48973_49123 sink 49123_49283 .
+%mor:	coord|and det:art|the n|window cop|be&3S prep|above det:art|the
+	n|kitchen n|sink .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*PAR:	and the mother has a short sleeve dress on has short hair and is
+	drying the dishes by hand .
+%wor:	and the mother has a short sleeve dress on has short hair and is
+	drying the dishes by hand .
+%mor:	coord|and det:art|the n|mother v|have&3S det:art|a adj|short
+	n|sleeve n|dress prep|on aux|have&3S adj|short n|hair coord|and
+	aux|be&3S part|dry-PRESP det:art|the n|dish-PL prep|by n|hand .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|8|DET 6|7|MOD 7|8|MOD 8|4|OBJ
+	9|4|JCT 10|9|POBJ 11|12|MOD 12|10|PRED 13|10|CONJ 14|15|AUX
+	15|13|COORD 16|17|DET 17|15|OBJ 18|15|JCT 19|18|POBJ 20|4|PUNCT
+*PAR:	curtains on the window that you can see outside the window to the
+	other side of the house . [+ gram] 60169_60629
+%wor:	curtains on the window that you 60169_60229 can 60479_60569 see 60569_60629 outside the window to the  other side of the house . [+ gram]
+%mor:	n|curtain-PL prep|on det:art|the n|window pro:rel|that pro:per|you
+	mod|can v|see adj|outside det:art|the n|window prep|to det:art|the
+	qn|other n|side prep|of det:art|the n|house .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|4|CMOD 9|11|MOD 10|11|DET 11|8|OBJ 12|11|NJCT 13|15|DET
+	14|15|QUANT 15|12|POBJ 16|15|NJCT 17|18|DET 18|16|POBJ 19|1|PUNCT
+*PAR:	you can see the grass . 61759_62059
+%wor:	you can see the grass 61759_62059 .
+%mor:	pro:per|you mod|can v|see det:art|the n|grass .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	you can see the handles on the cupboards . 63406_63946
+%wor:	you can see the handles 63406_63596 on the cupboards 63806_63946 .
+%mor:	pro:per|you mod|can v|see det:art|the n|handle-PL prep|on
+	det:art|the n|+n|cup+n|board-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	anything else ? [+ exc] 63998_65458
+%wor:	anything 63998_65378 else 65378_65458 ? [+ exc]
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*INV:	nope that's it . 65797_66537
+%wor:	nope 65797_65897 that's 66157_66447 it 66447_66537 .
+%mor:	co|nope pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

@@ -1,0 +1,99 @@
+@UTF8
+@PID:	11312/t-00002669-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|78;|male|ProbableAD||Participant|10||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	504-0, audio
+@G:	Cookie
+*PAR:	why they're stealing on the cookies . [+ gram] 2220_4790
+%wor:	why 2220_2410 they're 2410_2580 stealing 2580_3300 on 3300_3690 the 3960_4060 cookies 4060_4790 . [+ gram]
+%mor:	pro:int|why pro:sub|they~aux|be&PRES part|steal-PRESP prep|on
+	det:art|the n|cookie-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	and the little girl is gonna &+t take him one too or he's gonna tell
+	his mother . 5652_10802
+%wor:	and 5652_5972 the 5972_5992 little 5992_6212 girl 6212_6602 is 6602_6702 gonna 6702_7092 &+t take 8342_8622 him 8622_8762 one 8762_9062 too 9062_9302 or 9302_9452 he's 9452_9562 gonna 9562_9822 tell 9822_10152  his 10152_10302 mother 10302_10802 .
+%mor:	coord|and det:art|the adj|little n|girl aux|be&3S
+	part|go&PRESP~inf|to v|take pro:obj|him pro:indef|one adv|too
+	coord|or pro:sub|he~aux|be&3S part|go&PRESP~inf|to v|tell
+	det:poss|his n|mother .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|OBJ 10|8|OBJ 11|12|JCT 12|15|LINK 13|15|SUBJ 14|15|AUX
+	15|10|CMOD 16|17|INF 17|15|COMP 18|19|DET 19|17|OBJ 20|6|PUNCT
+*PAR:	and the mother is workin(g) over there doin(g) all that dirty over
+	there . [+ gram] 11530_15220
+%wor:	and 11530_11640 the 11640_11710 mother 11710_12130 is 12130_12340 workin(g) 12340_12760 over 12760_13000 there 13000_13260 doin(g) 13260_13690 all 13690_13920 that 13920_14250 dirty 14250_14650 over 14650_14880  there 14880_15220 . [+ gram]
+%mor:	coord|and det:art|the n|mother aux|be&3S part|work-PRESP prep|over
+	n|there part|do-PRESP qn|all pro:dem|that v|dirty prep|over n|there
+	.
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ
+	8|5|XJCT 9|10|QUANT 10|11|SUBJ 11|8|COMP 12|11|JCT 13|12|POBJ
+	14|5|PUNCT
+*PAR:	and the kids should be doin(g) the dishes . 15680_17860
+%wor:	and 15680_15940 the 15940_15960 kids 15960_16270 should 16270_16540 be 16540_16640 doin(g) 16640_17270 the 17270_17280 dishes 17280_17860 .
+%mor:	coord|and det:art|the n|kid-PL mod|should aux|be part|do-PRESP
+	det:art|the n|dish-PL .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*PAR:	and that's dirty to have that on the floor when they're stealing .
+	18792_21882
+%wor:	and 18792_18922 that's 18922_19182 dirty 19182_19612 to 19612_19682 have 19682_19992 that 19992_20152 on 20152_20462 the 20462_20542 floor 20542_20842 when 20842_21082 they're 21082_21222 stealing 21222_21882 .
+%mor:	coord|and pro:dem|that~cop|be&3S v|dirty inf|to v|have pro:dem|that
+	prep|on det:art|the n|floor conj|when pro:sub|they~aux|be&PRES
+	part|steal-PRESP .
+%gra:	1|3|LINK 2|3|SUBJ 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ
+	8|6|JCT 9|10|DET 10|8|POBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|4|CJCT
+	15|4|PUNCT
+*PAR:	and he's gonna fall down and break them down on his back . 21900_24740
+%wor:	and 21900_22010 he's 22010_22230 gonna 22230_22490 fall 22490_22830 down 22830_23100 and 23100_23270 break 23270_23560 them 23560_23730 down 23730_24030 on 24030_24230 his 24230_24370 back 24370_24740 .
+%mor:	coord|and pro:sub|he~aux|be&3S part|go&PRESP~inf|to v|fall adv|down
+	coord|and v|break pro:obj|them adv|down prep|on det:poss|his n|back
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT
+	8|6|CONJ 9|8|COORD 10|9|OBJ 11|9|JCT 12|9|JCT 13|14|DET 14|12|POBJ
+	15|4|PUNCT
+*INV:	okay . 25960_26150
+%wor:	okay 25960_26150 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and I don't think that his mother would <be very> [//] be a nice to
+	do that . [+ gram] 27202_34522
+%wor:	and 27202_27392 I 27392_27572 don't 27572_27842 think 27842_28292 that 29622_29792 his 29792_30002 mother 30002_30372 would 30372_30752 <be 31222_31362 very 31362_31922> [//] be a nice to  do that . [+ gram] 32532_34522
+%mor:	coord|and pro:sub|I mod|do~neg|not v|think comp|that det:poss|his
+	n|mother mod|will&COND cop|be det:art|a adj|nice inf|to v|do
+	pro:dem|that .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|10|LINK 7|8|DET
+	8|10|SUBJ 9|10|AUX 10|5|COMP 11|12|DET 12|10|PRED 13|14|INF
+	14|12|XMOD 15|14|OBJ 16|5|PUNCT
+*PAR:	they would rather have all you want because the water's all over
+	the floor now . [+ gram] 34701_39981
+%wor:	they 34701_35791 would 35791_36021 rather 36021_36471 have 36471_36731 all 36731_36881 you 36881_37031 want 37031_37531 because 37531_38011 the 38011_38031 water's 38031_38611 all 38611_38901 over 38901_39261  the 39261_39381 floor 39381_39681 now 39681_39981 . [+ gram]
+%mor:	pro:sub|they mod|will&COND adv|rather v|have adv|all pro:per|you
+	v|want conj|because det:art|the n|water~cop|be&3S adv|all prep|over
+	det:art|the n|floor adv:tem|now .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|7|JCT 6|7|SUBJ 7|4|COMP
+	8|11|LINK 9|10|DET 10|11|SUBJ 11|4|CJCT 12|13|JCT 13|11|JCT
+	14|15|DET 15|13|POBJ 16|15|NJCT 17|4|PUNCT
+*PAR:	look at that . [+ exc] 40000_40770
+%wor:	look 40000_40260 at 40260_40500 that 40500_40770 . [+ exc]
+%mor:	v|look prep|at pro:dem|that .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	+" get there and get down . 41634_42964
+%wor:	+" get 41634_41944 there 41944_42254 and 42254_42394 get 42394_42654 down 42654_42964 .
+%mor:	v|get adv|there coord|and v|get adv|down .
+%gra:	1|0|ROOT 2|1|JCT 3|1|CONJ 4|3|COORD 5|4|JCT 6|1|PUNCT
+*PAR:	+" oh bang@o you're down on your back ! 43379_46029
+%wor:	+" oh 43379_43669 bang@o 43669_44419 you're 44419_44819 down 44849_45109 on 45109_45349 your 45349_45549 back 45549_46029 !
+%mor:	co|oh on|bang pro:per|you~cop|be&PRES adv|down prep|on
+	det:poss|your adj|back !
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*INV:	alright . 46210_46930
+%wor:	alright 46210_46930 .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

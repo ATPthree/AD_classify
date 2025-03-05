@@ -1,0 +1,74 @@
+@UTF8
+@PID:	11312/t-00002291-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@Options:	multi
+@ID:	eng|Pitt|PAR|73;00.|female|Control||Participant|||
+@Media:	137-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete
+	demographic data
+@G:	Cookie
+*PAR:	she's &-uh drying &-uh dishes . 60_2700
+%mor:	pro:sub|she~aux|be&3S part|dry-PRESP n|dish-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	she's 60_630 &-uh 630_900 drying 900_1770 &-uh 1800_1860 dishes 1860_2700 .
+*PAR:	the water is pouring out_of the sink . 2800_5980
+%mor:	det:art|the n|water aux|be&3S part|pour-PRESP prep|out_of
+	det:art|the n|sink .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%wor:	the 2800_2890 water 2890_3470 is 3470_3970 pouring 4190_4380 out_of 4380_5090 the 5090_5650 sink 5680_5980 .
+*PAR:	this kid's about to break his neck because this is moving . 6689_10619
+%mor:	pro:dem|this n|kid~cop|be&3S adv|about inf|to v|break det:poss|his
+	n|neck conj|because det:dem|this aux|be&3S part|move-PRESP .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|JCT 5|6|INF 6|3|CPRED 7|8|DET 8|6|OBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|3|CJCT 13|3|PUNCT
+%wor:	this 6689_6829 kid's 7009_7339 about 7339_7689 to 7689_7759 break 7839_8159 his 8159_8279 neck 8389_8719 because 8899_9189 this 9329_9579 is 9579_9699 moving 9809_10619 .
+*PAR:	this thing's moving . [+ es] 10678_11938
+%mor:	pro:dem|this n|thing~aux|be&3S part|move-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%wor:	this 10678_10798 thing's 10798_11448 moving 11518_11938 . [+ es]
+*PAR:	and she's talking and moving her hands . 12938_16778
+%mor:	coord|and pro:sub|she~aux|be&3S part|talk-PRESP coord|and
+	part|move-PRESP det:poss|her n|hand-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|CONJ 6|5|COORD 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+%wor:	and 12938_13508 she's 14198_14628 talking 14748_15358 and 15358_15608 moving 15608_16018 her 16018_16128 hands 16128_16778 .
+*PAR:	and he's moving, getting the cookie out_of the jar . 16860_20530
+%mor:	coord|and pro:sub|he~aux|be&3S part|move-PRESP cm|cm part|get-PRESP
+	det:art|the n|cookie prep|out_of det:art|the n|jar .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|LP 6|4|XJCT 7|8|DET 8|6|OBJ
+	9|6|JCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+%wor:	and 16860_17040 he's 17040_17330 moving, 17330_17840 getting 18390_18830 the 18830_18900 cookie 18900_19360 out_of 19740_19820 the 19820_19990 jar 19990_20530 .
+*PAR:	&-um I don't know +... [+ exc] 21565_23735
+%mor:	pro:sub|I mod|do~neg|not v|know +...
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%wor:	&-um 21565_21625 I 21815_21825 don't 21825_23035 know 23695_23735 +... [+ exc]
+*PAR:	<she may want> [//] if she isn't moving her feet out_of that water
+	she's going to be shortly . 25840_30570
+%mor:	conj|if pro:sub|she aux|be&3S~neg|not part|move-PRESP det:poss|her
+	n|foot&PL prep|out_of det:dem|that n|water pro:sub|she~aux|be&3S
+	part|go-PRESP inf|to cop|be adv|short&dadj-LY .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|13|CJCT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|DET 10|8|POBJ 11|13|SUBJ 12|13|AUX 13|0|ROOT 14|15|INF 15|13|COMP
+	16|15|JCT 17|13|PUNCT
+%wor:	<she 25840_25870 may 25870_25940 want 26170_26300> [//] if she isn't moving her feet out_of that water  she's going to be shortly . 26500_30570
+*PAR:	and that's &-uh +... [+ exc] 31532_31922
+%mor:	coord|and pro:dem|that~cop|be&3S +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%wor:	and 31532_31632 that's 31632_31902 &-uh 31902_31922 +... [+ exc]
+*PAR:	oh over +... [+ exc] 32305_32636
+%mor:	co|oh adv|over +...
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%wor:	oh 32306_32456 over 32456_32636 +... [+ exc]
+*PAR:	no I don't see the wind blowin(g), hmhunh . 33783_35903
+%mor:	co|no pro:sub|I mod|do~neg|not v|see det:art|the n|wind
+	part|blow-PRESP cm|cm co|no .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|XMOD
+	9|8|LP 10|5|COM 11|5|PUNCT
+%wor:	no 33783_34013 I 34013_34043 don't 34043_34203 see 34233_34293 the 34293_34303 wind 34303_34453 blowin(g), 34613_34763 hmhunh 34763_35903 .
+*PAR:	that about it . [+ exc] 35952_37172
+%mor:	pro:dem|that prep|about pro:per|it .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%wor:	that 35952_36612 about 36612_36922 it 36922_37172 . [+ exc]
+@End

@@ -1,0 +1,144 @@
+@UTF8
+@PID:	11312/t-00002375-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|68;|female|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	266-2, audio
+@G:	Cookie
+*PAR:	&-uh it's &-uh a kitchen scene . 1470_4810
+%wor:	&-uh 1470_1820 it's 2440_2820 &-uh 2880_3040 a 3250_3580 kitchen 3630_4040 scene 4040_4810 .
+%mor:	pro:per|it~cop|be&3S det:art|a n|kitchen n|scene .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*PAR:	and the mother is doing the dishes . 5303_7033
+%wor:	and 5303_5393 the 5393_5453 mother 5453_5763 is 5763_5913 doing 5913_6263 the 6263_6323 dishes 6323_7033 .
+%mor:	coord|and det:art|the n|mother aux|be&3S part|do-PRESP det:art|the
+	n|dish-PL .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ
+	8|5|PUNCT
+*PAR:	the children are trying to get into the cookie jar . 7420_10970
+%wor:	the 7420_7510 children 7510_8180 are 8180_8560 trying 9290_9580 to 9580_9640 get 9640_9800 into 9800_10030 the 10030_10140 cookie 10140_10470 jar 10470_10970 .
+%mor:	det:art|the n|child&PL aux|be&PRES part|try-PRESP inf|to v|get
+	prep|into det:art|the n|cookie n|jar .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|4|PUNCT
+*PAR:	the stool is falling over . 11921_14021
+%wor:	the 11921_12041 stool 12041_12641 is 12641_12951 falling 12951_13411 over 13411_14021 .
+%mor:	det:art|the n|stool aux|be&3S part|fall-PRESP adv|over .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	the water is running over in the sink . 14877_17547
+%wor:	the 14877_14907 water 14907_15357 is 15357_15727 running 15917_16267 over 16267_16567 in 16567_16817 the 16817_16857 sink 16857_17547 .
+%mor:	det:art|the n|water aux|be&3S part|run-PRESP adv|over prep|in
+	det:art|the n|sink .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*PAR:	the [//] &-um &+win it looks as though the window is open . 18624_22864
+%wor:	the [//] 18624_19144 &-um 19144_19584 &+win it 20684_20874 looks 20874_21224 as 21224_21364 though 21364_21494 the 21494_21554 window 21554_21974 is 21974_22194 open 22194_22864 .
+%mor:	pro:per|it v|look-3S adv|as adv|though det:art|the n|window
+	cop|be&3S adj|open .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|7|JCT 5|6|DET 6|7|SUBJ 7|2|COMP
+	8|7|PRED 9|2|PUNCT
+*PAR:	and there (.) is grass and what have you, &+t grass and trees
+	outside . 23113_30753
+%wor:	and 23113_23263 there 23263_23593 (.) is 25533_25903 grass 26193_26903 and 28223_28353 what 28353_28573 have 28573_28793 you, 28793_29053 &+t grass 29153_29473 and 29473_29593 trees 29593_30033  outside 30033_30753 .
+%mor:	coord|and adv|there cop|be&3S v|grass coord|and pro:int|what v|have
+	pro:per|you cm|cm n|grass coord|and n|tree-PL adv|+prep|out+n|side .
+%gra:	1|3|LINK 2|3|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|CONJ 6|7|SUBJ 7|5|COORD
+	8|7|OBJ 9|8|LP 10|8|ENUM 11|7|CONJ 12|11|COORD 13|12|NJCT 14|4|PUNCT
+*PAR:	looks like the curtains might be billowing a little . [+ gram] 31559_34019
+%wor:	looks 31559_31779 like 31779_31939 the 31939_32019 curtains 32019_32659 might 32659_32879 be 32879_32989 billowing 32989_33529 a 33529_33629 little 33629_34019 . [+ gram]
+%mor:	v|look-3S prep|like det:art|the n|curtain-PL mod|might aux|be
+	part|billow-PRESP det:art|a adj|little .
+%gra:	1|7|JCT 2|1|JCT 3|4|DET 4|2|POBJ 5|7|AUX 6|7|AUX 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|7|PUNCT
+*PAR:	the little girl is asking the boy for a cookie . 35723_38303
+%wor:	the 35723_35753 little 35753_36033 girl 36033_36403 is 36403_36543 asking 36543_37033 the 37033_37073 boy 37073_37333 for 37333_37583 a 37583_37623 cookie 37623_38303 .
+%mor:	det:art|the adj|little n|girl aux|be&3S part|ask-PRESP det:art|the
+	n|boy prep|for det:art|a n|cookie .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*PAR:	and let's see . [+ exc] 40279_41379
+%wor:	and 40279_40989 let's 40989_41219 see 41219_41379 . [+ exc]
+%mor:	coord|and v|let~pro:obj|us v|see .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|COMP 5|2|PUNCT
+*PAR:	the mother's drying the dishes . 41400_43040
+%wor:	the 41400_41530 mother's 41530_41900 drying 41900_42340 the 42340_42410 dishes 42410_43040 .
+%mor:	det:art|the n|mother~aux|be&3S part|dry-PRESP det:art|the n|dish-PL
+	.
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and (..) she's standing in the water . 45304_51314
+%wor:	and 45304_46074 (..) she's 49634_49874 standing 49874_50444 in 50444_50614 the 50614_50644 water 50644_51314 .
+%mor:	coord|and pro:sub|she~aux|be&3S part|stand-PRESP prep|in
+	det:art|the n|water .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	looks like there are a couple dishes that have already been dried
+	sitting on the sink . [+ gram] 54562_58592
+%wor:	looks 54562_54812 like 54812_55002 there 55002_55092 are 55092_55122 a 55122_55162 couple 55162_55662 dishes 55832_56212 that 56212_56312 have 56312_56432 already 56432_56792 been 56792_57042 dried 57042_57502  sitting 57502_57892 on 57892_58092 the 58092_58122 sink 58122_58592 . [+ gram]
+%mor:	v|look-3S conj|like adv|there cop|be&PRES det:art|a qn|couple
+	n|dish-PL pro:rel|that v|have adv|already aux|be&PASTP
+	part|dry-PASTP part|sit-PRESP prep|on det:art|the n|sink .
+%gra:	1|0|ROOT 2|4|LINK 3|4|SUBJ 4|1|COMP 5|7|DET 6|7|QUANT 7|4|PRED
+	8|9|LINK 9|7|CMOD 10|9|JCT 11|12|AUX 12|9|XJCT 13|9|XJCT 14|13|JCT
+	15|16|DET 16|14|POBJ 17|1|PUNCT
+*PAR:	(..) I guess that's all I see . [+ exc] 62016_63486
+%wor:	(..) I 62016_62106 guess 62106_62416 that's 62416_62646 all 62646_62796 I 62796_63016 see 63046_63486 . [+ exc]
+%mor:	pro:sub|I n|guess pro:rel|that~cop|be&3S adv|all pro:sub|I v|see .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|LINK 4|2|CMOD 5|7|JCT 6|7|SUBJ 7|4|CPRED
+	8|2|PUNCT
+*INV:	can you tell me what's going on over here ? 64555_66155
+%wor:	can 64555_64695 you 64815_64945 tell 64945_65045 me 65045_65085 what's 65175_65375 going 65375_65545 on 65545_65675 over 65675_65865 here 65865_66155 ?
+%mor:	mod|can pro:per|you v|tell pro:obj|me pro:int|what~aux|be&3S
+	part|go-PRESP adv|on prep|over n|here ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|AUX 7|3|COMP 8|7|JCT
+	9|7|JCT 10|9|POBJ 11|3|PUNCT
+*PAR:	pardon me ? [+ exc] 66796_67216
+%wor:	pardon 66796_67126 me 67126_67216 ? [+ exc]
+%mor:	v|pardon pro:obj|me ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*INV:	tell me this again . 67657_68397
+%wor:	tell 67657_67807 me 67807_67907 this 67907_68137 again 68137_68397 .
+%mor:	v|tell pro:obj|me det:dem|this adv:tem|again .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|DET 4|1|JCT 5|1|PUNCT
+*PAR:	I might have missed it what you said . [+ exc] 68415_69555
+%wor:	I 68415_68465 might 68465_68665 have 68665_68785 missed 68785_69025 it 69055_69135 what 69135_69315 you 69315_69375 said 69375_69555 . [+ exc]
+%mor:	pro:sub|I mod|might aux|have part|miss-PASTP pro:per|it
+	pro:int|what pro:per|you v|say&PAST .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|LINK 7|8|SUBJ
+	8|4|CJCT 9|4|PUNCT
+*PAR:	oh I said the little boy's tryin(g) to get some cookies out_of the
+	cookie jar . [+ exc] 69800_73380
+%wor:	oh 69800_69970 I 69970_70110 said 70110_70400 the 70400_70410 little 70410_70900 boy's 70900_71240 tryin(g) 71240_71470 to 71470_71530 get 71530_71720 some 71720_71870 cookies 71870_72380 out_of 72380_72600 the 72600_72780  cookie 72780_73130 jar 73130_73380 . [+ exc]
+%mor:	co|oh pro:sub|I v|say&PAST det:art|the adj|little n|boy~aux|be&3S
+	part|try-PRESP inf|to v|get qn|some n|cookie-PL prep|out_of
+	det:art|the n|cookie n|jar .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|8|SUBJ 7|8|AUX 8|3|COMP
+	9|10|INF 10|8|COMP 11|12|QUANT 12|10|OBJ 13|10|JCT 14|16|DET
+	15|16|MOD 16|13|POBJ 17|3|PUNCT
+*INV:	+< okay . 73155_73285
+%wor:	+< okay 73155_73285 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and the little girl's asking for a cookie . [+ exc] 73400_75380
+%wor:	and 73400_73530 the 73530_73540 little 73540_73750 girl's 73750_74150 asking 74150_74590 for 74590_74770 a 74770_74810 cookie 74810_75380 . [+ exc]
+%mor:	coord|and det:art|the adj|little n|girl~aux|be&3S part|ask-PRESP
+	prep|for det:art|a n|cookie .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|PUNCT
+*PAR:	and the stool looks as though it's going to fall over . [+ exc] 75400_78080
+%wor:	and 75400_75630 the 75630_75640 stool 75640_76040 looks 76040_76480 as 76480_76610 though 76610_76770 it's 76770_76910 going 76910_77170 to 77170_77250 fall 77250_77630 over 77630_78080 . [+ exc]
+%mor:	coord|and det:art|the n|stool v|look-3S adv|as adv|though
+	pro:per|it~aux|be&3S part|go-PRESP inf|to v|fall adv|over .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|9|JCT 7|9|SUBJ 8|9|AUX
+	9|4|COMP 10|11|INF 11|9|COMP 12|11|JCT 13|4|PUNCT
+*INV:	okay . 78889_79129
+%wor:	okay 78889_79129 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay good . 80476_81366
+%wor:	okay 80476_80826 good 81206_81366 .
+%mor:	co|okay adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

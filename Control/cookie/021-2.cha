@@ -1,0 +1,70 @@
+@UTF8
+@PID:	11312/t-00002197-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|75;00.|female|Control||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	021-2, audio
+@Comment:	age is educated estimate, extrapolated from incomplete
+	demographic data
+@G:	Cookie
+*INV:	okay what do you see goin(g) on in that picture ? 720_2630
+%wor:	okay 720_1010 what 1010_1220 do 1220_1330 you 1330_1400 see 1400_1650 goin(g) 1650_1880 on 1880_2050 in 2050_2110 that 2110_2300 picture 2340_2630 ?
+%mor:	co|okay pro:int|what mod|do pro:per|you v|see part|go-PRESP adv|on
+	prep|in det:dem|that n|picture ?
+%gra:	1|5|COM 2|5|OBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|COMP 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*PAR:	mother's washing dishes . 2653_4183
+%wor:	mother's 2653_3093 washing 3093_3563 dishes 3563_4183 .
+%mor:	n|mother~aux|be&3S part|wash-PRESP n|dish-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	the sink is overflowing . 4200_5730
+%wor:	the 4200_4300 sink 4300_4700 is 4700_4880 overflowing 4880_5730 .
+%mor:	det:art|the n|sink aux|be&3S over#part|flow-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	the boy's falling off a chair [: stool] [* s:r] as he's getting for
+	the cookie . [+ gram] 5747_9047
+%wor:	the 5747_5887 boy's 5887_6257 falling 6257_6727 off 6727_7067 a 7067_7197 chair [: stool] [* s:r] 7227_7597 as 7597_7907 he's 7907_8077 getting 8077_8407 for 8407_8497  the 8497_8657 cookie 8657_9047 . [+ gram]
+%mor:	det:art|the n|boy~aux|be&3S part|fall-PRESP prep|off det:art|a
+	n|stool conj|as pro:sub|he~aux|be&3S part|get-PRESP prep|for
+	det:art|the n|cookie .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|11|LINK 9|11|SUBJ 10|11|AUX 11|4|CJCT 12|11|JCT 13|14|DET
+	14|12|POBJ 15|4|PUNCT
+*PAR:	girl's reaching up for the cookie . [+ gram] 9690_11560
+%wor:	girl's 9690_10080 reaching 10080_10560 up 10560_10760 for 10760_10840 the 10840_11010 cookie 11010_11560 . [+ gram]
+%mor:	n|girl~aux|be&3S part|reach-PRESP adv|up prep|for det:art|the
+	n|cookie .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ
+	8|3|PUNCT
+*PAR:	&-um I did say the water is running down . [+ exc] 12160_15610
+%wor:	&-um 12160_12900 I 13270_13300 did 13300_13540 say 13540_13700 the 13700_13770 water 13770_14260 is 14260_14460 running 14460_14910 down 14910_15610 . [+ exc]
+%mor:	pro:sub|I mod|do&PAST v|say det:art|the n|water aux|be&3S
+	part|run-PRESP adv|down .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|7|SUBJ 6|7|AUX 7|3|COMP 8|7|JCT
+	9|3|PUNCT
+*PAR:	the mother's looking out the window . 18103_20063
+%wor:	the 18103_18113 mother's 18113_18563 looking 18563_18933 out 18933_19163 the 19163_19253 window 19253_20063 .
+%mor:	det:art|the n|mother~aux|be&3S part|look-PRESP prep|out det:art|the
+	n|window .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	(.) &-uh dishes of_course are on the sink . 23262_25062
+%wor:	(.) &-uh 23262_23272 dishes 23272_23662 of_course 23662_24172 are 24172_24212 on 24212_24422 the 24422_24452 sink 24452_25062 .
+%mor:	n|dish-PL co|of_course cop|be&PRES prep|on det:art|the n|sink .
+%gra:	1|3|SUBJ 2|3|COM 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	think that's about it . [+ exc] 30695_31535
+%wor:	think 30695_30925 that's 30925_31135 about 31135_31345 it 31345_31535 . [+ exc]
+%mor:	v|think pro:dem|that~cop|be&3S adv|about pro:per|it .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|JCT 5|3|PRED 6|1|PUNCT
+*INV:	okay . 32409_32619
+%wor:	okay 32409_32619 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	alright good . 33681_34421
+%wor:	alright 33681_34191 good 34191_34421 .
+%mor:	co|alright adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

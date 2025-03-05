@@ -1,0 +1,117 @@
+@UTF8
+@PID:	11312/t-00002450-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|67;00.|male|MCI||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	033-4, audio
+@Comment:	age is educated estimate, extrapolated from incomplete
+	demographic data
+@G:	Cookie
+*INV:	&=clears:throat let's just take a look at that picture . 30_2630
+%wor:	&=clears:throat let's 30_260 just 260_380 take 380_470 a 470_1510 look 1540_1700 at 1700_1820 that 1820_2040 picture 2040_2630 .
+%mor:	v|let~pro:obj|us adv|just v|take det:art|a v|look prep|at
+	det:dem|that n|picture .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|JCT 4|1|COMP 5|6|DET 6|4|OBJ 7|6|JCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+*INV:	and tell me everything that you see happening in that picture . 2679_5739
+%wor:	and 2679_3139 tell 3139_3359 me 3359_3569 everything 3569_4019 that 4019_4179 you 4179_4369 see 4369_4569 happening 4569_5059 in 5059_5249 that 5249_5489 picture 5489_5739 .
+%mor:	coord|and v|tell pro:obj|me pro:indef|everything pro:rel|that
+	pro:per|you v|see part|happen-PRESP prep|in det:dem|that n|picture .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ2 4|2|OBJ 5|7|LINK 6|7|SUBJ 7|4|CMOD
+	8|7|COMP 9|8|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*INV:	everything that's going on there . 5762_7822
+%wor:	everything 5762_6452 that's 6452_6672 going 6672_7132 on 7132_7352 there 7352_7822 .
+%mor:	pro:indef|everything pro:rel|that~aux|be&3S part|go-PRESP prep|on
+	n|there .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|AUX 4|1|CMOD 5|4|JCT 6|5|POBJ 7|1|PUNCT
+*PAR:	&=clears:throat (o)kay . [+ exc] 9665_10235
+%wor:	&=clears:throat (o)kay 9665_10235 . [+ exc]
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&=clears:throat there are three persons in the kitchen . 10251_13061
+%wor:	&=clears:throat there 10251_10871 are 10871_11001 three 11001_11531 persons 11701_12311 in 12311_12541 the 12541_12551 kitchen 12551_13061 .
+%mor:	pro:exist|there cop|be&PRES det:num|three n|person-PL prep|in
+	det:art|the n|kitchen .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|2|PUNCT
+*PAR:	the little girl is instructing the little boy to take cookies
+	out_of the cookie jar on the second &-uh shelf of the cupboard . 14896_25906
+%wor:	the 14896_14906 little 14906_15206 girl 15206_15796 is 15796_16336 instructing 16336_17176 the 17176_17546 little 17546_17786 boy 17786_17846 to 17846_17906 take 17906_18026 cookies 18026_18216  out_of 18216_23926 the 23926_23956 cookie 23956_24096 jar 24096_24396 on 24396_24476 the 24476_24486 second 24486_24776 &-uh 24776_25176 shelf 25176_25306 of 25306_25436 the 25436_25446 cupboard 25446_25906 .
+%mor:	det:art|the adj|little n|girl aux|be&3S part|instruct-PRESP
+	det:art|the adj|little n|boy inf|to v|take n|cookie-PL prep|out_of
+	det:art|the n|cookie n|jar prep|on det:art|the adj|second n|shelf
+	prep|of det:art|the n|+n|cup+n|board .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|10|INF 10|8|XMOD 11|10|OBJ 12|10|JCT 13|15|DET 14|15|MOD
+	15|12|POBJ 16|10|JCT 17|19|DET 18|19|MOD 19|16|POBJ 20|19|NJCT
+	21|22|DET 22|20|POBJ 23|5|PUNCT
+*PAR:	and at the same time his &-uh stool that he's standing on is about
+	to collapse . 25956_34036
+%wor:	and 25956_26486 at 26486_26606 the 26606_26796 same 26796_27086 time 27086_27886 his 27886_28336 &-uh 28336_28346 stool 28346_28466 that 28466_30346 he's 30806_30986 standing 30986_31446 on 31446_31816 is 31816_32416 about 32416_33016  to 33016_33206 collapse 33206_34036 .
+%mor:	coord|and prep|at det:art|the adj|same n|time det:poss|his n|stool
+	pro:rel|that pro:sub|he~aux|be&3S part|stand-PRESP adv|on cop|be&3S
+	adv|about inf|to v|collapse .
+%gra:	1|13|LINK 2|13|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|7|DET 7|13|SUBJ
+	8|11|LINK 9|11|SUBJ 10|11|AUX 11|7|CMOD 12|11|JCT 13|0|ROOT
+	14|16|JCT 15|16|INF 16|13|CPRED 17|13|PUNCT
+*PAR:	the mother apparently is &-uh doing dishes and &-uh looking out the
+	windo(w) . 34969_41409
+%wor:	the 34969_35059 mother 35059_36349 apparently 36379_37079 is 37079_37769 &-uh 37769_38019 doing 38019_38339 dishes 38339_39089 and 39089_39749 &-uh 39749_39779 looking 39779_40479 out 40479_40749 the 40749_40769  windo(w) 40769_41409 .
+%mor:	det:art|the n|mother adv|apparent&dadj-LY aux|be&3S part|do-PRESP
+	n|dish-PL coord|and part|look-PRESP prep|out det:art|the n|window .
+%gra:	1|2|DET 2|0|INCROOT 3|5|JCT 4|5|AUX 5|2|XMOD 6|5|OBJ 7|5|CONJ
+	8|7|COORD 9|8|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*PAR:	has the faucet &+ro &-uh on in the sink . [+ gram] 41482_45222
+%wor:	has 41482_42482 the 42482_42912 faucet 42912_43422 &+ro &-uh 43422_43442 on 43442_44572 in 44572_44742 the 44742_44812 sink 44812_45222 . [+ gram]
+%mor:	v|have&3S det:art|the n|faucet adv|on prep|in det:art|the n|sink .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|1|JCT 6|7|DET 7|5|POBJ 8|1|PUNCT
+*PAR:	and the [//] apparently the plug is in and the water is cascading
+	over the kitchen floor . 45321_54801
+%wor:	and 45321_46001 the [//] 46001_46541 apparently 46541_47721 the 47721_47761 plug 48441_48771 is 48771_48991 in 48991_49451 and 49451_49801 the 49801_49871 water 49871_50191 is 50191_50321 cascading 50321_51191  over 51191_51531 the 51531_51961 kitchen 52831_53621 floor 54211_54801 .
+%mor:	coord|and adv|apparent&dadj-LY det:art|the n|plug cop|be&3S adv|in
+	coord|and det:art|the n|water aux|be&3S part|cascade-PRESP prep|over
+	det:art|the n|kitchen n|floor .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|11|LINK
+	8|9|DET 9|11|SUBJ 10|11|AUX 11|5|CJCT 12|11|JCT 13|15|DET 14|15|MOD
+	15|12|POBJ 16|5|PUNCT
+*PAR:	and &-uh it must be a warm sunny day because the windo(w) is open .
+	54930_63950
+%wor:	and 54930_57330 &-uh 57330_58300 it 58340_58500 must 58500_58780 be 58780_58790 a 58790_59790 warm 59820_60230 sunny 60230_60940 day 61130_61500 because 61500_62370 the 62370_62390 windo(w) 62390_63170 is 63170_63360 open 63360_63950 .
+%mor:	coord|and pro:per|it mod|must cop|be det:art|a adj|warm
+	adj|sun&dn-Y n|day conj|because det:art|the n|window cop|be&3S
+	adj|open .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|8|DET 6|8|MOD 7|8|MOD 8|4|PRED
+	9|12|LINK 10|11|DET 11|12|SUBJ 12|4|CJCT 13|12|PRED 14|4|PUNCT
+*PAR:	and I can see the shrubbery and what appears to be the end of the
+	house maybe a garage door . 64053_71983
+%wor:	and 64053_65433 I 65433_65613 can 65613_65863 see 65863_66253 the 66253_66513 shrubbery 66513_67223 and 67223_67723 what 67723_68313 appears 68313_68863 to 68863_69083 be 69113_69583 the 69583_69803 end 69803_69963 of 69963_70053 the 70053_70083  house 70083_70593 maybe 70593_70813 a 70813_71023 garage 71053_71453 door 71453_71983 .
+%mor:	coord|and pro:sub|I mod|can v|see det:art|the n|shrubbery coord|and
+	pro:int|what v|appear-3S inf|to cop|be det:art|the n|end prep|of
+	det:art|the n|house adv|maybe det:art|a n|garage n|door .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|CONJ
+	8|9|SUBJ 9|7|COORD 10|11|INF 11|9|COMP 12|13|DET 13|11|PRED
+	14|13|NJCT 15|16|DET 16|14|POBJ 17|13|NJCT 18|20|DET 19|20|MOD
+	20|17|POBJ 21|4|PUNCT
+*PAR:	and on the counter there are dishes that the mother has either
+	washed or &+ha has dried and &-uh is still washing a plate . 72165_84825
+%wor:	and 72165_73825 on 73825_74055 the 74055_74365 counter 74365_74915 there 74915_75345 are 75345_76155 dishes 76215_76715 that 76715_77265 the 77265_77395 mother 77395_78095 has 78095_78475 either 78475_79125  washed 79165_79645 or 79645_80555 &+ha has 80555_81575 dried 81575_82125 and 82125_82535 &-uh 82535_82855 is 82855_83605 still 83605_83905 washing 83905_84295 a 84295_84455 plate 84485_84825 .
+%mor:	coord|and prep|on det:art|the n|counter adv|there cop|be&PRES
+	n|dish-PL pro:rel|that det:art|the n|mother aux|have&3S adv|either
+	part|wash-PASTP coord|or aux|have&3S part|dry-PASTP coord|and
+	aux|be&3S adv|still part|wash-PRESP det:art|a n|plate .
+%gra:	1|6|LINK 2|6|JCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|6|PRED
+	8|13|LINK 9|10|DET 10|13|SUBJ 11|13|AUX 12|13|JCT 13|7|CMOD
+	14|16|LINK 15|16|AUX 16|13|CJCT 17|16|CONJ 18|20|AUX 19|20|JCT
+	20|17|COORD 21|22|DET 22|20|OBJ 23|6|PUNCT
+*INV:	okay . 85381_86391
+%wor:	okay 85381_86391 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	thanks . 86440_88320
+%wor:	thanks 86440_88320 .
+%mor:	co|thanks .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

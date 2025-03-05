@@ -1,0 +1,54 @@
+@UTF8
+@PID:	11312/t-00002718-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|58;|male|ProbableAD||Participant|20||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	663-0, audio
+@G:	Cookie
+*PAR:	well ‡ the boy on the chair [: stool] [* s:r] is &-uh fallin(g),
+	reachin(g) up for a cookie, handin(g) one to the girl . 800_7490
+%wor:	well 800_1190 ‡ the 1190_1250 boy 1250_1500 on 1500_1870 the 1870_1910 chair [: stool] [* s:r] 1910_2600 is 2600_2690 &-uh 2690_3070 fallin(g), 3200_3790  reachin(g) 4680_5080 up 5080_5230 for 5230_5380 a 5380_5440 cookie, 5440_5990 handin(g) 6210_6540 one 6540_6750 to 6750_7000 the 7000_7070 girl 7070_7490 .
+%mor:	co|well beg|beg det:art|the n|boy prep|on det:art|the n|stool
+	aux|be&3S part|fall-PRESP cm|cm part|reach-PRESP adv|up prep|for
+	det:art|a n|cookie cm|cm part|hand-PRESP det:num|one prep|to
+	det:art|the n|girl .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|9|SUBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|9|AUX
+	9|0|ROOT 10|9|LP 11|9|XJCT 12|11|JCT 13|11|JCT 14|15|DET 15|13|POBJ
+	16|9|LP 17|9|XJCT 18|17|OBJ 19|18|JCT 20|21|DET 21|19|POBJ
+	22|9|PUNCT
+*PAR:	the lady is &-uh wiping a dish . 7680_10280
+%wor:	the 7680_7710 lady 7710_8160 is 8160_8750 &-uh 8750_9210 wiping 9460_9900 a 9900_9970 dish 9970_10280 .
+%mor:	det:art|the n|lady aux|be&3S part|wipe-PRESP det:art|a n|dish .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	water runnin(g) on the floor . [+ gram] 10450_11980
+%wor:	water 10450_10930 runnin(g) 10930_11360 on 11360_11620 the 11620_11690 floor 11690_11980 . [+ gram]
+%mor:	n|water part|run-PRESP prep|on det:art|the n|floor .
+%gra:	1|0|INCROOT 2|1|XMOD 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*PAR:	she's standin(g) in it . 12150_13090
+%wor:	she's 12150_12380 standin(g) 12380_12880 in 12880_13010 it 13010_13090 .
+%mor:	pro:sub|she~aux|be&3S part|stand-PRESP prep|in pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	(.) &-mm (.) trees outside, the lawn, shrubbery . [+ gram] 13367_20087
+%wor:	(.) &-mm (.) trees 13367_13487 outside, 13687_13847 the 16227_16437 lawn, 16437_17727 shrubbery 17727_20087 . [+ gram]
+%mor:	n|tree-PL adv|+prep|out+n|side cm|cm det:art|the n|lawn cm|cm
+	n|shrubbery .
+%gra:	1|0|INCROOT 2|1|NJCT 3|1|LP 4|5|DET 5|1|ENUM 6|5|LP 7|1|ENUM
+	8|1|PUNCT
+*PAR:	a window outside that I can see . [+ gram] 22301_24331
+%wor:	a 22301_22381 window 22381_22861 outside 22861_23451 that 23451_23581 I 23581_23721 can 23721_23981 see 23981_24331 . [+ gram]
+%mor:	det:art|a n|window adv|+prep|out+n|side pro:rel|that pro:sub|I
+	mod|can v|see .
+%gra:	1|2|DET 2|7|SUBJ 3|7|JCT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|0|ROOT
+	8|7|PUNCT
+*PAR:	(.) that's about it dear . [+ exc] 27111_28161
+%wor:	(.) that's 27111_27311 about 27311_27571 it 27571_27721 dear 27721_28161 . [+ exc]
+%mor:	pro:dem|that~cop|be&3S adv|about pro:per|it co|dear .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|COM 6|2|PUNCT
+*INV:	+< that's fine . 27874_28134
+%wor:	+< that's 27874_27994 fine 27994_28134 .
+%mor:	pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

@@ -1,0 +1,102 @@
+@UTF8
+@PID:	11312/t-00002200-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|74;|female|Control||Participant|27||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	022-0, audio
+@G:	Cookie
+*INV:	okay and you can begin right there . 1040_3010
+%wor:	okay 1040_1680 and 1680_1780 you 1780_1850 can 1850_2030 begin 2030_2300 right 2300_2550 there 2550_3010 .
+%mor:	co|okay coord|and pro:per|you mod|can v|begin adv|right n|there .
+%gra:	1|5|COM 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|JCT 7|5|JCT
+	8|5|PUNCT
+*PAR:	well ‡ the little boy's on a stepstool trying to reach the cookie
+	jar . 3264_11224
+%wor:	well 3264_3334 ‡ the 3364_6954 little 6954_7664 boy's 7664_7924 on 7924_8044 a 8044_8144 stepstool 8144_9274 trying 9274_9754 to 9754_9814 reach 9814_10144 the 10144_10294 cookie 10294_10664  jar 10664_11224 .
+%mor:	co|well beg|beg det:art|the adj|little n|boy~aux|be&3S prep|on
+	det:art|a n|+v|step+n|stool part|try-PRESP inf|to v|reach
+	det:art|the n|cookie n|jar .
+%gra:	1|0|BEG 2|1|BEGP 3|5|DET 4|5|MOD 5|10|SUBJ 6|10|AUX 7|6|JCT 8|9|DET
+	9|7|POBJ 10|0|ROOT 11|12|INF 12|10|COMP 13|15|DET 14|15|MOD
+	15|12|OBJ 16|10|PUNCT
+*PAR:	and he's falling . 11248_12528
+%wor:	and 11248_11478 he's 11478_11838 falling 11838_12528 .
+%mor:	coord|and pro:sub|he~aux|be&3S part|fall-PRESP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	and the girl is reachin(g) for a cookie he has in his hand . 12551_17421
+%wor:	and 12551_13021 the 13021_13161 girl 13161_13531 is 14201_14411 reachin(g) 14411_14891 for 14891_15091 a 15091_15201 cookie 15331_15661 he 15661_16151 has 16151_16361 in 16361_16461 his 16461_16721 hand 16721_17421 .
+%mor:	coord|and det:art|the n|girl aux|be&3S part|reach-PRESP prep|for
+	det:art|a n|cookie pro:sub|he aux|have&3S prep|in det:poss|his
+	n|hand .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT 10|9|INCROOT 11|10|JCT 12|13|DET 13|11|POBJ 14|10|PUNCT
+*PAR:	the mama's washin(g) dishes . 17824_20474
+%wor:	the 17824_19164 mama's 19164_19714 washin(g) 19714_20124 dishes 20124_20474 .
+%mor:	det:art|the n|mama~aux|be&3S part|wash-PRESP n|dish-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and the sink's running over . 20617_21957
+%wor:	and 20617_20667 the 20667_20677 sink's 20677_21067 running 21067_21487 over 21487_21957 .
+%mor:	coord|and det:art|the n|sink~aux|be&3S part|run-PRESP adv|over .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	and she's drying a plate . 21973_24183
+%wor:	and 21973_22253 she's 22253_22403 drying 22403_23013 a 23013_23113 plate 23173_24183 .
+%mor:	coord|and pro:sub|she~aux|be&3S part|dry-PRESP det:art|a n|plate .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and the sink is runnin(g) over down on the floor . 24233_27193
+%wor:	and 24233_24323 the 24323_24993 sink 24993_25373 is 25373_25543 runnin(g) 25543_25803 over 25803_26023 down 26023_26313 on 26313_26453 the 26453_26563 floor 26563_27193 .
+%mor:	coord|and det:art|the n|sink aux|be&3S part|run-PRESP adv|over
+	adv|down prep|on det:art|the n|floor .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|5|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*PAR:	the window is up . 27632_29232
+%wor:	the 27632_28052 window 28052_28542 is 28542_28822 up 28892_29232 .
+%mor:	det:art|the n|window cop|be&3S adv|up .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and is that &+a all ? [+ exc] 29402_34542
+%wor:	and 29402_29472 is 29472_29532 that 29532_32012 &+a all 33862_34542 ? [+ exc]
+%mor:	coord|and cop|be&3S comp|that adv|all ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|3|JCT 5|2|PUNCT
+*PAR:	you want something else ? [+ exc] 35250_36270
+%wor:	you 35250_35340 want 35340_35560 something 35560_35950 else 35950_36270 ? [+ exc]
+%mor:	pro:per|you v|want pro:indef|something post|else ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|PQ 5|2|PUNCT
+*INV:	+< anything else ? 35640_36130
+%wor:	+< anything 35640_35950 else 35960_36130 ?
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*INV:	is there anything else ? 36290_37040
+%wor:	is 36290_36500 there 36500_36580 anything 36580_36870 else 36870_37040 ?
+%mor:	cop|be&3S adv|there pro:indef|anything post|else ?
+%gra:	1|0|ROOT 2|1|SUBJ 3|1|PRED 4|3|PQ 5|1|PUNCT
+*PAR:	oh ‡ well ‡ there's a plate and two cups on the counter . 37400_43700
+%wor:	oh 37400_37430 ‡ well 37790_38400 ‡ there's 38400_39090 a plate 40370_40890 and 40890_41220 two 41220_41420 cups 41420_42040 on 42270_42460 the 42460_42810 counter 42890_43700 .
+%mor:	co|oh beg|beg co|well beg|beg pro:exist|there~cop|be&3S det:art|a
+	n|plate coord|and det:num|two n|cup-PL prep|on det:art|the n|counter
+	.
+%gra:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|6|SUBJ 6|0|ROOT 7|8|DET
+	8|6|PRED 9|8|CONJ 10|11|QUANT 11|9|COORD 12|11|NJCT 13|14|DET
+	14|12|POBJ 15|6|PUNCT
+*PAR:	(.) <is that> [/] is that enough ? [+ exc] 43932_51552
+%wor:	(.) <is 43932_43992 that 43992_50932> [/] is that enough ? [+ exc] 50932_51552
+%mor:	cop|be&3S pro:dem|that adv|enough ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|JCT 4|1|PUNCT
+*INV:	that's fine „ sure . 51600_52530
+%wor:	that's 51600_51740 fine 51740_52210 „ sure 52350_52530 .
+%mor:	pro:dem|that~cop|be&3S adj|fine end|end adj|sure .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|ENDP 5|2|END 6|2|PUNCT
+*PAR:	+< I_mean is that +..? [+ exc] 51745_52305
+%wor:	+< I_mean 51745_52125 is 52125_52195 that 52195_52305 +..? [+ exc]
+%mor:	co|I_mean cop|be&3S pro:dem|that +..?
+%gra:	1|2|COM 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	that's good . 53375_53955
+%wor:	that's 53375_53675 good 53675_53955 .
+%mor:	pro:dem|that~cop|be&3S adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	+< I [/] I don't see anything +/. [+ exc] 54020_54630
+%wor:	+< I [/] 54020_54050 I 54050_54090 don't 54090_54340 see 54340_54450 anything 54450_54630 +/. [+ exc]
+%mor:	pro:sub|I mod|do~neg|not v|see pro:indef|anything +/.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+@End

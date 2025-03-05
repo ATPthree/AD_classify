@@ -1,0 +1,165 @@
+@UTF8
+@PID:	11312/t-00002474-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|74;|male|MCI||Participant|26||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	061-0, audio
+@G:	Cookie
+*INV:	okay there you go . 180_1690
+%wor:	okay 180_460 there 1320_1490 you 1490_1610 go 1610_1690 .
+%mor:	co|okay adv|there pro:per|you v|go .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*INV:	there's the picture . 1738_2438
+%wor:	there's 1738_2038 the 2038_2228 picture 2228_2438 .
+%mor:	pro:exist|there~cop|be&3S det:art|the n|picture .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	is it alright to say mother and &+s son and daughter ? [+ exc] 4220_6580
+%wor:	is 4220_4280 it 4280_4340 alright 4340_4710 to 4710_4820 say 4820_4880 mother 5020_5230 and 5230_5420 &+s son 6020_6250 and 6280_6450 daughter 6450_6580 ? [+ exc]
+%mor:	aux|be&3S pro:per|it co|alright inf|to v|say n|mother coord|and
+	n|son coord|and n|daughter ?
+%gra:	1|5|AUX 2|5|SUBJ 3|5|COM 4|5|INF 5|0|ROOT 6|5|OBJ 7|5|CONJ
+	8|7|COORD 9|8|CONJ 10|9|COORD 11|5|PUNCT
+*INV:	+< mhm . 6210_6410
+%wor:	+< mhm 6210_6410 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	mother is wiping dishes but she's overflowing the sink bowl . 7852_11272
+%wor:	mother 7852_8142 is 8142_8212 wiping 8602_9002 dishes 9032_9342 but 9472_9582 she's 9682_9772 overflowing 9952_10632 the 10802_10812 sink 10812_11092 bowl 11092_11272 .
+%mor:	n|mother aux|be&3S part|wipe-PRESP n|dish-PL conj|but
+	pro:sub|she~aux|be&3S over#part|flow-PRESP det:art|the n|sink n|bowl
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|3|CJCT 9|11|DET 10|11|MOD 11|8|OBJ 12|3|PUNCT
+*PAR:	water is running on the floor . 11487_13017
+%wor:	water 11487_11677 is 11677_11737 running 11737_11907 on 12017_12567 the 12617_12637 floor 12637_13017 .
+%mor:	n|water aux|be&3S part|run-PRESP prep|on det:art|the n|floor .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	outside I can't tell if it's a cloudy day or a great day but you
+	can see some shrubbery and [/] and bushes . 21659_21749
+%wor:	outside I can't tell if it's a cloudy day or a great day but you
+	can see some shrubbery and [/] 21659_21749 and bushes .
+%mor:	n|+prep|out+n|side pro:sub|I mod|can~neg|not v|tell comp|if
+	pro:per|it~cop|be&3S det:art|a adj|cloud&dn-Y n|day coord|or
+	det:art|a adj|great n|day conj|but pro:per|you mod|can v|see qn|some
+	n|shrubbery coord|and n|bush-PL .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|LINK 7|8|SUBJ
+	8|5|COMP 9|11|DET 10|11|MOD 11|8|PRED 12|11|CONJ 13|15|DET 14|15|MOD
+	15|12|COORD 16|19|LINK 17|19|SUBJ 18|19|AUX 19|5|CJCT 20|21|QUANT
+	21|19|OBJ 22|21|CONJ 23|22|COORD 24|5|PUNCT
+*PAR:	< and the son> [//] and the tilting stool is about to fall . 21749_24859
+%wor:	<and the 21749_21849 son 21849_22239> [//] and the tilting stool is about to fall . 22449_24859
+%mor:	coord|and det:art|the part|tilt-PRESP n|stool cop|be&3S adv|about
+	prep|to n|fall .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|JCT 8|7|POBJ
+	9|5|PUNCT
+*PAR:	taking cookies for he and his sister out_of the cookie jar .
+	[+ gram] 25519_28219
+%wor:	taking 25519_25849 cookies 25879_26229 for 26229_26549 he 26549_26559 and his 26649_26719 sister 26799_27029 out_of 27029_27079 the 27079_27659 cookie 27759_27979 jar 28129_28219 .  [+ gram]
+%mor:	part|take-PRESP n|cookie-PL prep|for pro:sub|he coord|and
+	det:poss|his n|sister prep|out_of det:art|the n|cookie n|jar .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|JCT 4|3|POBJ 5|4|CONJ 6|7|DET 7|5|COORD
+	8|7|NJCT 9|11|DET 10|11|MOD 11|8|POBJ 12|1|PUNCT
+*PAR:	so somebody's &+gon gonna &+s have some cleanup work to do . 29714_33044
+%wor:	so 29714_29794 somebody's 29914_30224 &+gon gonna 30794_30994 &+s have 30994_31684 some cleanup 32064_32284 work 32394_32494 to 32704_32764 do 32964_33044 .
+%mor:	adv|so pro:indef|somebody~aux|be&3S part|go&PRESP~inf|to v|have
+	qn|some n|+v|clean+prep|up n|work inf|to v|do .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|9|QUANT
+	8|9|MOD 9|6|OBJ 10|11|INF 11|9|XMOD 12|4|PUNCT
+*PAR:	and the daughter is [: of] [* s:r] course reaching her left arm and
+	hand and elbow up to get [//] receive a cookie .
+%wor:	and the daughter is [: of] [* s:r] course reaching her left arm and
+	hand and elbow up to get [//] receive a cookie .
+%mor:	coord|and det:art|the n|daughter prep|of n|course part|reach-PRESP
+	det:poss|her adj|left n|arm coord|and n|hand coord|and v|elbow
+	adv|up inf|to v|receive det:art|a n|cookie .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|9|DET
+	8|9|MOD 9|6|OBJ 10|9|CONJ 11|10|COORD 12|6|CONJ 13|12|COORD
+	14|13|JCT 15|16|INF 16|13|XJCT 17|18|DET 18|16|OBJ 19|6|PUNCT
+*PAR:	but he's gonna go crashing on down the floor where the water is
+	going, the suds water . [+ gram] 43302_47292
+%wor:	but he's 43302_43372 gonna 43372_43582 go 43582_43732 crashing 43732_44432 on 44502_44562 down 44562_44912 the floor 45002_45142 where 45142_45252 the water 45602_45842 is  going, 45902_46082 the suds 46762_47032 water 47172_47292 . [+ gram]
+%mor:	conj|but pro:sub|he~aux|be&3S part|go&PRESP~inf|to v|go
+	part|crash-PRESP adv|on prep|down det:art|the n|floor pro:rel|where
+	det:art|the n|water aux|be&3S part|go-PRESP cm|cm det:art|the n|suds
+	n|water .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|7|SRL 7|4|COMP 8|7|JCT
+	9|7|JCT 10|11|DET 11|9|POBJ 12|16|LINK 13|14|DET 14|16|SUBJ
+	15|16|AUX 16|11|CMOD 17|16|LP 18|20|DET 19|20|MOD 20|16|OBJ
+	21|4|PUNCT
+*PAR:	I do the dishes sometimes at home . [+ exc] 48459_50219
+%wor:	I do 48459_48669 the dishes 48899_49059 sometimes 49089_49259 at 49559_49619 home 50149_50219 . [+ exc]
+%mor:	pro:sub|I v|do det:art|the n|dish-PL adv:tem|sometimes prep|at
+	n|home .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|POSTMOD 6|5|JCT 7|6|POBJ
+	8|2|PUNCT
+*PAR:	but with the dishwasher it's just pots and pans . [+ exc] 50978_52638
+%wor:	but with 50978_51248 the dishwasher 51258_51628 it's just 51988_52118 pots 52278_52488 and pans 52558_52638 . [+ exc]
+%mor:	conj|but prep|with det:art|the n|+n|dish+n|washer
+	pro:per|it~cop|be&3S adj|just n|pot-PL coord|and n|pan-PL .
+%gra:	1|6|LINK 2|6|JCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|8|MOD
+	8|6|PRED 9|6|CONJ 10|9|COORD 11|6|PUNCT
+*INV:	mhm . 52986_53476
+%wor:	mhm 52986_53476 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+< fry pans, do our eggs in the morning . [+ gram] [+ exc] 53169_55409
+%wor:	+< fry 53169_53469 pans, 53649_53929 do 54489_54549 our 54549_54579 eggs 54579_54669 in 54669_54729 the morning 55189_55409 . [+ gram] [+ exc]
+%mor:	n|fry n|pan-PL cm|cm v|do det:poss|our n|egg-PL prep|in det:art|the
+	n|morning .
+%gra:	1|2|MOD 2|4|SUBJ 3|2|LP 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*INV:	+< mhm . 55285_55915
+%wor:	+< mhm 55285_55915 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I use rubber gloves (be)cause my [/] skin cracks around my nails .
+	[+ exc] 56719_60769
+%wor:	I use 56719_57019 rubber 57019_57309 gloves 57309_57729 (be)cause 58909_59079 my [/] 59079_59139 skin 59199_59479 cracks 59509_59759 around 60009_60129 my 60479_60539 nails 60609_60769 .  [+ exc]
+%mor:	pro:sub|I n|use n|rubber n|glove-PL conj|because n|skin v|crack-3S
+	prep|around det:poss|my n|nail-PL .
+%gra:	1|2|SUBJ 2|4|MOD 3|4|MOD 4|0|INCROOT 5|7|LINK 6|7|SUBJ 7|4|CJCT
+	8|7|JCT 9|10|DET 10|8|POBJ 11|4|PUNCT
+*INV:	+< mhm . 61188_61308
+%wor:	+< mhm 61188_61308 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and I put bandaids and petroleum jelly Vaseline on them . [+ exc]
+%wor:	and I put bandaids and petroleum jelly Vaseline on them . [+ exc]
+%mor:	coord|and pro:sub|I v|put&ZERO n|bandaid-PL coord|and n|petroleum
+	n|jelly n:prop|Vaseline prep|on pro:obj|them .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|CONJ 6|7|MOD 7|5|COORD
+	8|3|OBJ 9|8|JCT 10|9|POBJ 11|3|PUNCT
+*INV:	+< that's good . 64745_65465
+%wor:	+< that's 64746_64966 good 65156_65466 .
+%mor:	pro:dem|that~cop|be&3S adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	good . 65510_65971
+%wor:	good 65511_65971 .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+< mhm . [+ exc] 65821_65941
+%wor:	+< mhm 65821_65941 . [+ exc]
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay anything else you wanna say about the picture ? 66630_68440
+%wor:	okay 66630_66960 anything 66960_67300 else 67300_67470 you wanna 67530_67670 say 67700_67810 about 67810_67980 the picture 68100_68440 ?
+%mor:	co|okay pro:indef|anything post|else pro:per|you v|want~inf|to
+	co|say prep|about det:art|the n|picture ?
+%gra:	1|5|COM 2|5|JCT 3|2|PQ 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*PAR:	the drapes are alright . 69532_69992
+%wor:	the drapes 69532_69702 are 69812_69842 alright 69842_69992 .
+%mor:	det:art|the v|drape-3S cop|be&PRES adj|alright .
+%gra:	1|2|DET 2|0|ROOT 3|2|OBJ 4|3|PRED 5|2|PUNCT
+*PAR:	I don't see anything else xxx . [+ exc] 70330_71880
+%wor:	I don't 70330_70530 see anything 71240_71500 else 71790_71880 xxx . [+ exc]
+%mor:	pro:sub|I mod|do~neg|not v|see pro:indef|anything post|else .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|5|PQ 7|4|PUNCT
+*INV:	+< okay . 71264_71854
+%wor:	+< okay 71264_71854 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

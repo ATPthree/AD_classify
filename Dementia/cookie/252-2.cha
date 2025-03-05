@@ -1,0 +1,76 @@
+@UTF8
+@PID:	11312/t-00002584-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|64;|male|ProbableAD||Participant|17||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	252-2, audio
+@G:	Cookie
+*INV:	I want you to tell me +/. 170_1410
+%wor:	I 170_210 want 210_490 you 490_670 to 670_730 tell 730_990 me 990_1410 +/.
+%mor:	pro:sub|I v|want pro:per|you inf|to v|tell pro:obj|me +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|INF 5|2|COMP 6|5|OBJ 7|2|PUNCT
+*PAR:	+< I want you to put the picture . [+ exc] 260_1390
+%wor:	+< I 260_290 want 290_490 you 490_700 to 700_810 put 810_1020 the 1020_1030 picture 1030_1390 . [+ exc]
+%mor:	pro:sub|I v|want pro:per|you inf|to v|put&ZERO det:art|the
+	n|picture .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|INF 5|2|COMP 6|7|DET 7|5|OBJ
+	8|2|PUNCT
+*INV:	yeah take a look at this picture . 1543_2953
+%wor:	yeah 1543_1723 take 1723_1993 a 1993_2023 look 2023_2253 at 2253_2383 this 2383_2543 picture 2543_2953 .
+%mor:	co|yeah v|take det:art|a v|look prep|at det:dem|this n|picture .
+%gra:	1|2|COM 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*INV:	tell me everything you see happening in that picture . 3508_6378
+%wor:	tell 3508_3728 me 3728_3948 everything 3948_4598 you 4598_4708 see 4708_4998 happening 4998_5598 in 5598_5758 that 5758_5968 picture 5968_6378 .
+%mor:	v|tell pro:obj|me pro:indef|everything pro:per|you v|see
+	part|happen-PRESP prep|in det:dem|that n|picture .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|OBJ 4|5|SUBJ 5|1|CJCT 6|5|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+*INV:	everything that's going on in there . 6940_8730
+%wor:	everything 6940_7490 that's 7490_7610 going 7610_7990 on 7990_8220 in 8220_8490 there 8490_8730 .
+%mor:	pro:indef|everything pro:rel|that~aux|be&3S part|go-PRESP adv|on
+	prep|in n|there .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|AUX 4|1|CMOD 5|4|JCT 6|4|JCT 7|6|POBJ
+	8|1|PUNCT
+*INV:	mhm . 10290_10440
+%wor:	mhm 10290_10440 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	what's happening ? 11859_12379
+%wor:	what's 11859_12029 happening 12029_12379 ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*INV:	tell me what's going on . 12510_13630
+%wor:	tell 12510_12700 me 12700_12800 what's 12800_13050 going 13050_13530 on 13530_13630 .
+%mor:	v|tell pro:obj|me pro:int|what~aux|be&3S part|go-PRESP adv|on .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|LINK 4|5|AUX 5|1|COMP 6|5|JCT 7|1|PUNCT
+*PAR:	+< well ‡ the: stool is falling over . 14420_16219
+%wor:	+< well 14420_14700 ‡ the: 14700_14780 stool 14780_15290 is 15290_15360 falling 15360_15770 over 15770_16220 .
+%mor:	co|well beg|beg det:art|the n|stool aux|be&3S part|fall-PRESP
+	adv|over .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT
+	8|6|PUNCT
+*PAR:	and the mother's &-uh sink [//] wash [//] sink is overrun . 17533_23873
+%wor:	and 17533_17933 the 17933_17993 mother's 17993_19163 &-uh 19783_19963 sink [//] 21063_21463 wash [//] 21463_21903 sink 21903_22223 is 22573_23073 overrun 23213_23873 .
+%mor:	coord|and det:art|the adj|mother&dn-POSS n|sink cop|be&3S
+	over#v|run .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*INV:	(.) anything else you see happening ? 28889_30459
+%wor:	(.) anything 28889_29309 else 29309_29549 you 29549_29649 see 29649_29849 happening 29849_30459 ?
+%mor:	pro:indef|anything post|else pro:per|you v|see part|happen-PRESP ?
+%gra:	1|0|INCROOT 2|1|PQ 3|4|SUBJ 4|1|CMOD 5|4|COMP 6|1|PUNCT
+*PAR:	(...) taking the cookies . [+ gram] 44397_45527
+%wor:	(...) taking 44397_44887 the 44887_44937 cookies 44937_45527 . [+ gram]
+%mor:	part|take-PRESP det:art|the n|cookie-PL .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*INV:	mhm . 45600_46120
+%wor:	mhm 45600_46120 .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(...) okay . 48715_51285
+%wor:	(...) okay 48715_51285 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

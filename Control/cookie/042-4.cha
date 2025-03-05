@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/t-00002213-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|59;00.|female|Control||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	042-4, audio
+@Comment:	age is educated estimate, extrapolated from incomplete
+	demographic data
+@G:	Cookie
+*PAR:	&-uh the sink is overflowing . 210_2870
+%wor:	&-uh 210_520 the 520_870 sink 1460_1780 is 1780_1900 overflowing 1900_2870 .
+%mor:	det:art|the n|sink aux|be&3S over#part|flow-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	&-uh mother is drying a dish . 3707_5867
+%wor:	&-uh 3707_3797 mother 3797_4327 is 4327_4427 drying 4427_4837 a 4837_4877 dish 4877_5867 .
+%mor:	n|mother aux|be&3S part|dry-PRESP det:art|a n|dish .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	&-um okay the boy is falling off the stool while he's getting a
+	cookie out o(f) the [/] &+k the &-uh kitchen cupboard there . 6764_14614
+%wor:	&-um 6764_7414 okay 8174_8684 the 8684_8804 boy 8804_9164 is 9164_9424 falling 9424_9754 off 9754_9904 the 9904_10004 stool 10004_10594 while 10594_10804 he's 10804_10944 getting 10944_11214 a 11214_11254  cookie 11254_11674 out 11674_11824 o(f) 11824_12034 the [/] 13004_13224 &+k the 13224_13234 &-uh 13234_13244 kitchen 13244_13594 cupboard 13594_14204 there 14204_14614 .
+%mor:	co|okay det:art|the n|boy aux|be&3S part|fall-PRESP prep|off
+	det:art|the n|stool conj|while pro:sub|he~aux|be&3S part|get-PRESP
+	det:art|a n|cookie adv|out prep|of det:art|the n|kitchen
+	n|+n|cup+n|board adv|there .
+%gra:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|5|CJCT 13|14|DET 14|12|OBJ
+	15|12|JCT 16|15|JCT 17|19|DET 18|19|MOD 19|16|POBJ 20|12|JCT
+	21|5|PUNCT
+*PAR:	the girl is reaching up for a cookie . 15145_18325
+%wor:	the 15145_15215 girl 15215_15535 is 15535_15675 reaching 15675_16135 up 16135_16605 for 17335_17565 a 17565_17595 cookie 17595_18325 .
+%mor:	det:art|the n|girl aux|be&3S part|reach-PRESP adv|up prep|for
+	det:art|a n|cookie .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*PAR:	&-um let's see . [+ exc] 19365_21975
+%wor:	&-um 19365_19885 let's 20205_20335 see 21365_21975 . [+ exc]
+%mor:	v|let~pro:obj|us v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+*INV:	anything else ? 27716_28346
+%wor:	anything 27716_28066 else 28066_28346 ?
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	dishes on the counter but there's no action with them I guess
+	&=laughs . [+ gram] 30686_33136
+%wor:	dishes 30686_30966 on 30966_31156 the 31156_31186 counter 31186_31496 but 31496_31666 there's 31666_31776 no 31776_31926 action 31926_32316 with 32316_32436 them 32436_32716 I 32876_32926 guess 32926_33136  &=laughs . [+ gram]
+%mor:	n|dish-PL prep|on det:art|the n|counter conj|but
+	pro:exist|there~cop|be&3S qn|no n|action prep|with pro:obj|them
+	pro:sub|I v|guess .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|7|LINK 6|7|SUBJ 7|13|CJCT
+	8|9|QUANT 9|7|PRED 10|9|NJCT 11|10|POBJ 12|13|SUBJ 13|1|CJCT
+	14|1|PUNCT
+*INV:	okay . 33377_33817
+%wor:	okay 33377_33817 .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+< &-uh guess that's all I see . [+ exc] 34117_35307
+%wor:	+< &-uh 34117_34127 guess 34507_34707 that's 34707_34857 all 34857_35017 I 35017_35067 see 35067_35307 . [+ exc]
+%mor:	n|guess pro:rel|that~cop|be&3S adv|all pro:sub|I v|see .
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|6|JCT 5|6|SUBJ 6|3|CPRED 7|1|PUNCT
+*INV:	okay good . 35702_36132
+%wor:	okay 35702_35822 good 35822_36132 .
+%mor:	co|okay adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

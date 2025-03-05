@@ -1,0 +1,96 @@
+@UTF8
+@PID:	11312/t-00002287-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|58;|male|Control||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	132-0, audio
+@G:	Cookie
+*INV:	there we go . 670_1030
+%mor:	adv|there pro:sub|we v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%wor:	there 670_820 we 850_910 go 910_1030 .
+*PAR:	that's it . [+ exc] 1207_1677
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%wor:	that's 1207_1497 it 1497_1677 . [+ exc]
+*PAR:	(o)kay ‡ the boy is in the cookie jar and giving them to his sister
+	. 3348_6988
+%mor:	co|okay beg|beg det:art|the n|boy cop|be&3S prep|in det:art|the
+	n|cookie n|jar coord|and part|give-PRESP pro:obj|them prep|to
+	det:poss|his n|sister .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|5|CONJ 11|10|COORD 12|11|OBJ 13|11|JCT 14|15|DET 15|13|POBJ
+	16|5|PUNCT
+%wor:	(o)kay 3348_3448 ‡ the 4298_4478 boy 4478_4738 is 4738_4898 in 4898_5068 the 5068_5078 cookie 5078_5368 jar 5398_5658 and 5658_5748 giving 5748_5968 them 5968_6098 to 6128_6238 his 6238_6608 sister 6608_6988 .
+*PAR:	mother's washing the dishes . 8576_9886
+%mor:	n|mother~aux|be&3S part|wash-PRESP det:art|the n|dish-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	mother's 8576_8916 washing 8916_9386 the 9416_9426 dishes 9426_9886 .
+*PAR:	the water's overflowing in the sink . 10000_12340
+%mor:	det:art|the n|water~aux|be&3S over#part|flow-PRESP prep|in
+	det:art|the n|sink .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%wor:	the 10000_10340 water's 10800_11170 overflowing 11170_11660 in 11660_11860 the 11860_11910 sink 11910_12340 .
+*PAR:	the boy is falling off the stool . 13155_15415
+%mor:	det:art|the n|boy aux|be&3S part|fall-PRESP prep|off det:art|the
+	n|stool .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%wor:	the 13155_13295 boy 13295_13515 is 13515_13655 falling 13655_14055 off 14055_14275 the 14275_14555 stool 14745_15415 .
+*PAR:	&-uh the girl is eating a cookie asking for another . 16786_20816
+%mor:	det:art|the n|girl aux|be&3S part|eat-PRESP det:art|a n|cookie
+	part|ask-PRESP prep|for qn|another .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|XMOD 8|7|JCT
+	9|8|POBJ 10|4|PUNCT
+%wor:	&-uh 16786_17086 the 17086_17406 girl 17406_17726 is 17726_17956 eating 18176_18566 a 18636_18666 cookie 18666_19046 asking 19846_20206 for 20296_20366 another 20366_20816 .
+*PAR:	&-uh the cover's off the cookie jar . 22796_24886
+%mor:	det:art|the n|cover~cop|be&3S prep|off det:art|the n|cookie n|jar .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+%wor:	&-uh 22796_22836 the 23166_23266 cover's 23386_23656 off 23786_23916 the 23916_23986 cookie 24066_24226 jar 24426_24886 .
+*PAR:	door to the cabinet is open . [+ gram] 26746_27736
+%mor:	n|door prep|to det:art|the n|cabinet cop|be&3S adj|open .
+%gra:	1|5|SUBJ 2|1|NJCT 3|4|DET 4|2|POBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+%wor:	door 26746_26856 to 26856_26916 the 26916_27056 cabinet 27056_27396 is 27396_27456 open 27516_27736 . [+ gram]
+*PAR:	&-uh the window outside is open . 29267_31187
+%mor:	det:art|the n|window adv|+prep|out+n|side cop|be&3S adj|open .
+%gra:	1|2|DET 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PRED 6|4|PUNCT
+%wor:	&-uh 29267_29277 the 29277_29287 window 29287_29797 outside 30067_30377 is 30377_30647 open 30777_31187 .
+*PAR:	the yard . [+ gram] 31843_32253
+%mor:	det:art|the n|yard .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%wor:	the 31843_31863 yard 31863_32253 . [+ gram]
+*PAR:	the mother is impervious of what's going on . 34567_37137
+%mor:	det:art|the n|mother cop|be&3S adj|impervious prep|of
+	pro:int|what~aux|be&3S part|go-PRESP adv|on .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|8|SUBJ 7|8|AUX 8|5|CPOBJ
+	9|8|JCT 10|3|PUNCT
+%wor:	the 34567_34577 mother 34577_34757 is 34757_35207 impervious 35307_35977 of 35977_36197 what's 36197_36397 going 36397_36827 on 36827_37137 .
+*PAR:	she's unconscious just standing in the water and wiping the dishes
+	. 38486_42946
+%mor:	pro:sub|she~aux|be&3S n|unconscious adv|just part|stand-PRESP
+	prep|in det:art|the n|water coord|and part|wipe-PRESP det:art|the
+	n|dish-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|CONJ 10|9|COORD 11|12|DET 12|10|OBJ 13|5|PUNCT
+%wor:	she's 38486_38606 unconscious 38606_39286 just 39286_39466 standing 39466_39846 in 39846_39936 the 39936_39946 water 39946_40366 and 40366_40466 wiping 41836_42336 the 42366_42766 dishes 42796_42946  .
+*PAR:	(.) that's about it . [+ exc] 44092_48922
+%mor:	pro:dem|that~cop|be&3S adv|about pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+%wor:	(.) that's 44092_44242 about 48542_48722 it 48722_48922 . [+ exc]
+*INV:	okay . 49872_49962
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	okay 49872_49962 .
+*PAR:	the wind might be blowing near the curtain . 50875_52495
+%mor:	det:art|the n|wind mod|might aux|be part|blow-PRESP prep|near
+	det:art|the n|curtain .
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+%wor:	the 50875_50975 wind 50975_51195 might 51195_51425 be 51425_51495 blowing 51495_51975 near 52005_52095 the 52335_52345 curtain 52345_52495 .
+*INV:	okey_dok(ey) . 56340_56900
+%mor:	co|okey_dokey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%wor:	okey_dok(ey) 56340_56900 .
+@End

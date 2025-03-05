@@ -1,0 +1,78 @@
+@UTF8
+@PID:	11312/t-00002697-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@Options:	multi
+@ID:	eng|Pitt|PAR|49;|female|MCI||Participant|27||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	594-0, audio
+@G:	Cookie
+*INV:	alright . 1930_2330
+%wor:	alright 1930_2330 .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	now I would like for you to take a look at this picture . 2640_6660
+%wor:	now 2640_2960 I 2990_3130 would 3130_3300 like 3300_3510 for 3510_3740 you 3740_3880 to 3880_4060 take 4060_4560 a 4560_4590 look 4590_4730 at 4730_4850 this 6130_6330 picture 6330_6660 .
+%mor:	adv:tem|now pro:sub|I mod|will&COND v|like prep|for pro:per|you
+	inf|to v|take det:art|a v|look prep|at det:dem|this n|picture .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|8|INF
+	8|4|XJCT 9|10|DET 10|8|OBJ 11|10|JCT 12|13|DET 13|11|POBJ 14|4|PUNCT
+*INV:	take a look at that picture and tell me what you see going on in
+	there . 7586_11396
+%wor:	take 7586_7936 a 7936_7966 look 7966_8136 at 8136_8196 that 8196_8366 picture 8416_8766 and 9226_9426 tell 9426_9646 me 9676_9856 what 9856_10126 you 10126_10226 see 10226_10576 going 10616_10896 on 11016_11076 in 11076_11166  there 11166_11396 .
+%mor:	v|take det:art|a v|look prep|at det:dem|that n|picture coord|and
+	v|tell pro:obj|me pro:int|what pro:per|you v|see part|go-PRESP
+	adv|on prep|in n|there .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ
+	8|7|COORD 9|8|OBJ 10|12|LINK 11|12|SUBJ 12|8|COMP 13|12|COMP
+	14|13|JCT 15|13|JCT 16|15|POBJ 17|1|PUNCT
+*INV:	tell me everything that's happening in that picture . 11807_13927
+%wor:	tell 11807_11977 me 11977_12117 everything 12117_12537 that's 12537_12797 happening 12797_13117 in 13117_13177 that 13177_13567 picture 13657_13927 .
+%mor:	v|tell pro:obj|me pro:indef|everything pro:rel|that~aux|be&3S
+	part|happen-PRESP prep|in det:dem|that n|picture .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|6|LINK 5|6|AUX 6|3|CMOD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+*PAR:	the boy is reaching for a cookie jar but the stool is falling . 14140_22430
+%wor:	the 14140_16550 boy 16550_17200 is 17350_17540 reaching 18040_18420 for 18420_18730 a 18730_18900 cookie 19090_19310 jar 19310_19690 but 19720_19810 the 19810_21250 stool 21250_21840 is 21840_22030 falling 22030_22430 .
+%mor:	det:art|the n|boy aux|be&3S part|reach-PRESP prep|for det:art|a
+	n|cookie n|jar conj|but det:art|the n|stool aux|be&3S
+	part|fall-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|13|LINK 10|11|DET 11|13|SUBJ 12|13|AUX 13|4|CJCT 14|4|PUNCT
+*PAR:	he was getting a cookie for his sister and for himself . 25276_30966
+%wor:	he 25276_25426 was 25426_25636 getting 25636_25966 a 25966_26016 cookie 26016_26376 for 26376_26626 his 26626_26816 sister 26816_27436 and 29616_29816 for 29816_30056 himself 30056_30966 .
+%mor:	pro:sub|he aux|be&PAST&13S part|get-PRESP det:art|a n|cookie
+	prep|for det:poss|his n|sister coord|and prep|for pro:refl|himself .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|CONJ 10|9|COORD 11|10|POBJ 12|3|PUNCT
+*PAR:	oh_my_gosh look at the sink is overflowing . 32695_34556
+%wor:	oh_my_gosh 32696_32846 look 32846_33036 at 33036_33186 the 33186_33506 sink 33506_33856 is 33856_34026 overflowing 34026_34556 .
+%mor:	co|oh_my_gosh v|look prep|at det:art|the n|sink aux|be&3S
+	over#part|flow-PRESP .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|7|AUX 7|2|CJCT
+	8|2|PUNCT
+*PAR:	and at the time she's dryin(g) a dish . 34660_42800
+%wor:	and 34660_34750 at 34750_34810 the 34810_40420 time 40450_40780 she's 40780_41070 dryin(g) 41070_41660 a 42210_42300 dish 42300_42800 .
+%mor:	coord|and prep|at det:art|the n|time pro:sub|she~aux|be&3S
+	part|dry-PRESP det:art|a n|dish .
+%gra:	1|7|LINK 2|7|JCT 3|4|DET 4|2|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|7|PUNCT
+*PAR:	I don't know why she didn't turn the water off . [+ exc] 48156_50146
+%wor:	I 48156_48166 don't 48166_48256 know 48256_48296 why 48296_48556 she 48556_48686 didn't 48686_48906 turn 48906_49136 the 49136_49146 water 49146_49266 off 49266_50146 . [+ exc]
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|why pro:sub|she
+	mod|do&PAST~neg|not v|turn det:art|the n|water adv|off .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|9|LINK 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|4|COMP 10|11|DET 11|9|OBJ 12|9|JCT 13|4|PUNCT
+*PAR:	(.) now <what else did> [//] what did you tell me ? [+ exc] 53883_55233
+%wor:	(.) now 53883_54103 <what 54183_54303 else 54303_54493 did 54493_54773> [//] what did you tell me ? [+ exc] 54773_55233
+%mor:	adv:tem|now pro:int|what mod|do&PAST pro:per|you v|tell pro:obj|me
+	?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*INV:	just what's happening that's all . 55289_56829
+%wor:	just 55289_55609 what's 55659_55919 happening 55919_56279 that's 56549_56739 all 56739_56829 .
+%mor:	adv|just pro:int|what~aux|be&3S part|happen-PRESP
+	pro:rel|that~cop|be&3S adv|all .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|LINK 6|4|COMP 7|6|JCT
+	8|4|PUNCT
+@End
