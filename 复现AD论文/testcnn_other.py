@@ -46,7 +46,7 @@ sentences = ["I like playing basketball",
              "It's terrible",
              "It's really sad",
              "that's terrible",
-             "I don't like playing basketball"]
+             "I don't like p laying basketball"]
 labels = [1, 1, 1,1,1,0, 0, 0, 0,0]  # 1积极, 0消极.
 
 class MyDataset(Data.Dataset):

@@ -32,7 +32,7 @@ def main():
     # test
     bert_blend_cnn.eval()
     with torch.no_grad():
-      test_text = ['a beautiful music']
+      test_text = ['I don\'t hate you']
       test = MyDataset(test_text, labels=None, with_labels=False)
       x = test.__getitem__(0)
       x = tuple(p.unsqueeze(0).to(device) for p in x)
