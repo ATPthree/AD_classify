@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Pitt.iml" filepath="$PROJECT_DIR$/.idea/Pitt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AD_detect.iml" filepath="$PROJECT_DIR$/.idea/AD_detect.iml" />
     </modules>
   </component>
 </project>

@@ -1,7 +1,7 @@
 from transformers import AutoTokenizer, AutoModel
 import torch
 import os
-model_path=os.path.abspath("D:/111/bertmodel")
+model_path=os.path.abspath("D:/111bertmodel/bertmodel")
 # 1. 加载预训练的分词器和BERT模型
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 model = AutoModel.from_pretrained(model_path)
