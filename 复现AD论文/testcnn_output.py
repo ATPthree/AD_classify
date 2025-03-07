@@ -79,7 +79,7 @@ class MyDataset(Data.Dataset):
 
 
 # TextCNN 模型
-class TextCNN(nn.Module): #修改，通过池化操作降低特征维度
+class TextCNN(nn.Module):
     def __init__(self):
         super().__init__()
         filter_sizes = [5, 10, 15, 20 ]
@@ -101,35 +101,9 @@ class TextCNN(nn.Module): #修改，通过池化操作降低特征维度
             h = F.max_pool1d(h, h.size(2)).squeeze(2)  #池化操作
             pooled.append(h)
         h_pool = torch.cat(pooled, 1)#这个是全连接层的输入
-        #print(h_pool.size()) #但是原论文中好像没有linear
-        print("testcnn的输出{}",h_pool.size())
-        print("testcnn经过fc的输出{}",self.fc(h_pool).shape)
+        print(h_pool.size()) #但是原论文中好像没有linear
         return self.fc(h_pool)
-class Lstm(nn.Module):
-    # def __init__(self):
-        # super(Lstm, self).__init__()
-        # self.hidden_size = 768
-        # self.input_size = 768
-        # self.num_layers = 1
-        # self.output_size = 1
-        # self.dropout = 0
-        # self.batch_first = True
-        # self.rnn = nn.LSTM(input_size=self.input_size, hidden_size=self.hidden_size, num_layers=self.num_layers, batch_first=self.batch_first, dropout=self.dropout )
-        # self.linear = nn.Linear(self.hidden_size, self.output_size)
-    def __init__(self, input_dim, hidden_dim, num_layers):#可以对
-        super().__init__()
-        self.lstm = nn.LSTM(
-            input_size=input_dim,  # BERT输出的隐藏维度（768）
-            hidden_size=hidden_dim,  # LSTM内部隐藏层维度（需论文指定）  后续可以自己改一下，还记得以前写的那个期货预测的LSTM吗用的两个隐藏层（或者是两个lstm拼接）加一个softmax还是linear直接输出了
-            num_layers=num_layers,  # LSTM层数（需论文指定）
-            batch_first=True  # 输入格式为 (batch, seq, feature)
-        )
 
-    def forward(self, x):
-        # x形状：(batch_size, sequence_length, input_dim)
-        _, (h_n, _) = self.lstm(x)
-        print("lstm输出的维度{}",h_n[-1].shape)
-        return h_n[-1]  # 返回最后一层的最终状态（形状：(batch_size, hidden_dim)）
 
 # 整体模型
 class BertBlendCNN(nn.Module):
@@ -137,25 +111,17 @@ class BertBlendCNN(nn.Module):
         super().__init__()
         self.bert = AutoModel.from_pretrained(model_path)
         self.cnn = TextCNN()
-        self.lstm = Lstm(input_dim=768,hidden_dim=768,num_layers=1)
-        self.linear=nn.Linear(788,2)#自己加的控制维度操作
-        self.softmax = nn.Softmax(dim=1) #输出的是概率值他的形状是[batch_size, n_class]，n_class是类别数
 
-    def forward(self, input_ids=768, attention_mask=768, token_type_ids=1):
+    def forward(self, input_ids, attention_mask, token_type_ids):
        # print(input_ids, attention_mask, token_type_ids)
         outputs = self.bert(
             input_ids=input_ids,
             attention_mask=attention_mask,
             token_type_ids=token_type_ids
         )
-        #print(outputs.last_hidden_state.size())
-        part1= self.cnn(outputs.last_hidden_state)
-        part2 = self.lstm(outputs.last_hidden_state)
-        print("合并后的维度{}",torch.cat((part1,part2),dim=1).shape)
-        final_part=torch.cat((part1,part2),1) #这里是直接相加，如果要拼接的话就是torch.cat((part1,part2),1)
+        print(outputs.last_hidden_state.size())
+        return self.cnn(outputs.last_hidden_state)
 
-        return self.softmax(self.linear(final_part))
-    #
 
 # 主函数
 def main():
@@ -216,8 +182,7 @@ def main():
 
         # 预测
         logits = model(input_ids, attn_mask, token_types)
-        print("最后的输出形状{}",logits.shape)
-        print(logits)
+        print(logits.shape)
 
 
 
