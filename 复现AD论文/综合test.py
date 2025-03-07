@@ -102,8 +102,8 @@ class TextCNN(nn.Module): #修改，通过池化操作降低特征维度
             pooled.append(h)
         h_pool = torch.cat(pooled, 1)#这个是全连接层的输入
         #print(h_pool.size()) #但是原论文中好像没有linear
-        print("testcnn的输出{}",h_pool.size())
-        print("testcnn经过fc的输出{}",self.fc(h_pool).shape)
+        #print("testcnn的输出{}",h_pool.size())
+        #print("testcnn经过fc的输出{}",self.fc(h_pool).shape)
         return self.fc(h_pool)
 class Lstm(nn.Module):
     # def __init__(self):
@@ -128,7 +128,7 @@ class Lstm(nn.Module):
     def forward(self, x):
         # x形状：(batch_size, sequence_length, input_dim)
         _, (h_n, _) = self.lstm(x)
-        print("lstm输出的维度{}",h_n[-1].shape)
+        #print("lstm输出的维度{}",h_n[-1].shape)
         return h_n[-1]  # 返回最后一层的最终状态（形状：(batch_size, hidden_dim)）
 
 # 整体模型
@@ -141,7 +141,7 @@ class BertBlendCNN(nn.Module):
         self.linear=nn.Linear(788,2)#自己加的控制维度操作
         self.softmax = nn.Softmax(dim=1) #输出的是概率值他的形状是[batch_size, n_class]，n_class是类别数
 
-    def forward(self, input_ids=768, attention_mask=768, token_type_ids=1):
+    def forward(self, input_ids, attention_mask, token_type_ids):
        # print(input_ids, attention_mask, token_type_ids)
         outputs = self.bert(
             input_ids=input_ids,
@@ -151,7 +151,7 @@ class BertBlendCNN(nn.Module):
         #print(outputs.last_hidden_state.size())
         part1= self.cnn(outputs.last_hidden_state)
         part2 = self.lstm(outputs.last_hidden_state)
-        print("合并后的维度{}",torch.cat((part1,part2),dim=1).shape)
+        #print("合并后的维度{}",torch.cat((part1,part2),dim=1).shape)
         final_part=torch.cat((part1,part2),1) #这里是直接相加，如果要拼接的话就是torch.cat((part1,part2),1)
 
         return self.softmax(self.linear(final_part))
@@ -161,9 +161,9 @@ class BertBlendCNN(nn.Module):
 def main():
     # 初始化
     model = BertBlendCNN().to(device)
-    optimizer = optim.Adam(model.parameters(), lr=1e-2)
+    optimizer = optim.Adam(model.parameters(), lr=1e-3)#要加正则化项目吗？
     criterion = nn.CrossEntropyLoss()
-    labels = [1]
+    labels = [1]         #要改
     # 数据加载
     train_loader = Data.DataLoader(
         MyDataset(sentences, labels),
@@ -171,6 +171,7 @@ def main():
         shuffle=True
     )
 
+    total_step = len(train_loader)
     # 训练循环
     for epoch in range(epoches):
         model.train()
@@ -196,6 +197,7 @@ def main():
             #print(f"Epoch {epoch + 1} Loss: {total_loss:.4f}")
         train_curve.append(total_loss)
 
+
     # 测试
     model.eval()
     with torch.no_grad():
@@ -216,8 +218,12 @@ def main():
 
         # 预测
         logits = model(input_ids, attn_mask, token_types)
-        print("最后的输出形状{}",logits.shape)
-        print(logits)
+        print("最后的输出形状{}",logits[0].shape)
+        print(logits[0])
+        if logits[0][0] > logits[0][1]: #下标0是患有阿尔茨海默病的概率，下标1是没有患有阿尔茨海默病的概率
+            print('患有阿尔茨海默病')
+        else:
+            print('没有患有阿尔茨海默病')
 
 
 
@@ -227,5 +233,7 @@ def main():
 if __name__ == "__main__":
     mp.freeze_support()
     main()
+    pd.DataFrame(train_curve).plot()
+    plt.show()
 
 

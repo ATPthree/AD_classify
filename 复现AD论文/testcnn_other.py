@@ -136,14 +136,14 @@ class Bert_Blend_CNN(nn.Module):
 def main():
     bert_blend_cnn = Bert_Blend_CNN().to(device)
 
-    optimizer = optim.Adam(bert_blend_cnn.parameters(), lr=1e-3, weight_decay=1e-2)
+    optimizer = optim.Adam(bert_blend_cnn.parameters(), lr=1e-3, weight_decay=1e-2)#weight_decay是正则化项
     loss_fn = nn.CrossEntropyLoss()
 
     train_loader=Data.DataLoader(
       dataset=MyDataset(sentences, labels),
       batch_size=batch_size,
       shuffle=True,
-      num_workers=0
+      num_workers=0#多线程
     )
     # train
     sum_loss = 0
@@ -175,7 +175,9 @@ def main():
       x = test.__getitem__(0)
       x = tuple(p.unsqueeze(0).to(device) for p in x)
       pred = bert_blend_cnn([x[0], x[1], x[2]])
-      pred = pred.data.max(dim=1, keepdim=True)[1]
+      print(pred.shape, pred)
+      pred = pred.data.max(dim=1, keepdim=True)[1] # 找到概率最大的下标
+      print(pred.shape, pred)
       if pred[0][0] == 0:
         print('消极')
       else:
