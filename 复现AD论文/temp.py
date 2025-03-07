@@ -1,56 +1,19 @@
-from sklearn.model_selection import train_test_split
-from transformers import AutoTokenizer, AutoModel
 import torch
-import os
-import numpy as np
-import pandas as pd
 import torch.nn as nn
-import torch.utils.data as Data
-import torch.nn.functional as F
 import torch.optim as optim
 from transformers import AutoModel, AutoTokenizer
+from torch.utils.data import Dataset, DataLoader
 
 # 配置参数
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 model_path = "D:/111bertmodel/bertmodel"
 batch_size = 8
 epochs = 5
-maxlen = 260
+max_len = 256
 
 
-# ----------------- 数据加载与预处理 -----------------
-def load_data(control_path, ad_path):
-    # 读取数据并添加标签
-    control_df = pd.read_csv(control_path)
-    ad_df = pd.read_csv(ad_path)
-
-    # 合并数据集
-    control_df['label'] = 1  # 正常人标签
-    ad_df['label'] = 0  # AD患者标签
-    full_df = pd.concat([control_df, ad_df], axis=0)
-
-    # 清洗数据
-    full_df = full_df[['data', 'label']].dropna()
-    return full_df
-
-
-# 加载数据（请替换实际路径）
-full_data = load_data(
-    control_path="D:/AD_detect/control_labeled.csv",
-    ad_path="D:/AD_detect/ad_labeled.csv"
-)
-
-# 分层分割数据集
-train_df, test_df = train_test_split(
-    full_data,
-    test_size=0.3,
-    stratify=full_data['label'],
-    random_state=42
-)
-
-
-# ----------------- 数据集类 -----------------
-class ADDataset(Data.Dataset):
+# 自定义数据集类
+class DementiaDataset(Dataset):
     def __init__(self, texts, labels):
         self.tokenizer = AutoTokenizer.from_pretrained(model_path)
         self.texts = texts
@@ -62,7 +25,7 @@ class ADDataset(Data.Dataset):
     def __getitem__(self, idx):
         encoding = self.tokenizer(
             self.texts[idx],
-            max_length=maxlen,
+            max_length=max_len,
             padding='max_length',
             truncation=True,
             return_tensors='pt'
@@ -74,54 +37,101 @@ class ADDataset(Data.Dataset):
         }
 
 
-# ----------------- 模型定义 -----------------
-class BertClassifier(nn.Module):
+# TextCNN 模块
+class TextCNN(nn.Module):
+    def __init__(self, hidden_size=768):
+        super().__init__()
+        filter_sizes = [3, 4, 5]
+        num_filters = 100
+        self.convs = nn.ModuleList([
+            nn.Conv2d(1, num_filters, (size, hidden_size))
+            for size in filter_sizes
+        ])
+        self.dropout = nn.Dropout(0.1)
+
+    def forward(self, x):
+        # x形状: [batch_size, seq_len, hidden_size]
+        x = x.unsqueeze(1)  # 添加通道维度 [batch, 1, seq, hidden]
+
+        pooled_outputs = []
+        for conv in self.convs:
+            conv_out = conv(x)  # [batch, num_filters, seq - filter_size + 1, 1]
+            conv_out = conv_out.squeeze(3)  # [batch, num_filters, seq - filter_size + 1]
+            pooled = F.max_pool1d(conv_out, conv_out.size(2))  # [batch, num_filters, 1]
+            pooled_outputs.append(pooled.squeeze(2))
+
+        cnn_output = torch.cat(pooled_outputs, 1)  # [batch, num_filters * len(filter_sizes)]
+        return self.dropout(cnn_output)
+
+
+# LSTM 模块
+class LSTMClassifier(nn.Module):
+    def __init__(self, input_dim=768, hidden_dim=256):
+        super().__init__()
+        self.lstm = nn.LSTM(
+            input_size=input_dim,
+            hidden_size=hidden_dim,
+            num_layers=2,
+            bidirectional=True,
+            batch_first=True
+        )
+        self.dropout = nn.Dropout(0.1)
+
+    def forward(self, x):
+        # x形状: [batch_size, seq_len, hidden_size]
+        lstm_out, _ = self.lstm(x)  # [batch, seq_len, 2*hidden_dim]
+        lstm_out = lstm_out[:, -1, :]  # 取最后一个时间步 [batch, 2*hidden_dim]
+        return self.dropout(lstm_out)
+
+
+# 完整模型
+class BertBlendCNN(nn.Module):
     def __init__(self):
         super().__init__()
         self.bert = AutoModel.from_pretrained(model_path)
+        self.cnn = TextCNN()
+        self.lstm = LSTMClassifier()
         self.classifier = nn.Sequential(
-            nn.Dropout(0.2),
-            nn.Linear(768, 256),
+            nn.Linear(300 + 512, 256),  # CNN输出300维 + LSTM输出512维
             nn.ReLU(),
+            nn.Dropout(0.2),
             nn.Linear(256, 2)
         )
 
     def forward(self, input_ids, attention_mask):
+        # BERT处理
         outputs = self.bert(
             input_ids=input_ids,
             attention_mask=attention_mask
         )
-        pooled = outputs.last_hidden_state[:, 0, :]  # CLS token
-        return self.classifier(pooled)
+        sequence_output = outputs.last_hidden_state  # [batch, seq_len, 768]
+
+        # 多模态特征提取
+        cnn_features = self.cnn(sequence_output)  # [batch, 300]
+        lstm_features = self.lstm(sequence_output)  # [batch, 512]
+
+        # 特征融合
+        combined = torch.cat([cnn_features, lstm_features], dim=1)  # [batch, 812]
+
+        # 分类
+        logits = self.classifier(combined)
+        return logits
 
 
-# ----------------- 训练与评估 -----------------
+# 训练流程
 def train_model():
-    # 初始化
-    model = BertClassifier().to(device)
+    # 示例数据（需替换为真实数据）
+    texts = ["Sample text 1", "Sample text 2"] * 100
+    labels = [1, 0] * 100
+
+    # 数据加载
+    dataset = DementiaDataset(texts, labels)
+    train_loader = DataLoader(dataset, batch_size=batch_size, shuffle=True)
+
+    # 初始化模型
+    model = BertBlendCNN().to(device)
     optimizer = optim.AdamW(model.parameters(), lr=2e-5)
     criterion = nn.CrossEntropyLoss()
-
-    # 创建数据集
-    train_dataset = ADDataset(
-        train_df['data'].tolist(),
-        train_df['label'].tolist()
-    )
-    test_dataset = ADDataset(
-        test_df['data'].tolist(),
-        test_df['label'].tolist()
-    )
-
-    # 数据加载器
-    train_loader = Data.DataLoader(
-        train_dataset,
-        batch_size=batch_size,
-        shuffle=True
-    )
-    test_loader = Data.DataLoader(
-        test_dataset,
-        batch_size=batch_size
-    )
 
     # 训练循环
     for epoch in range(epochs):
@@ -140,25 +150,9 @@ def train_model():
 
             total_loss += loss.item()
 
-        # 评估
-        model.eval()
-        correct = 0
-        total = 0
-        with torch.no_grad():
-            for batch in test_loader:
-                inputs = {k: v.to(device) for k, v in batch.items() if k != 'labels'}
-                labels = batch['labels'].to(device)
-
-                outputs = model(**inputs)
-                _, predicted = torch.max(outputs.data, 1)
-                total += labels.size(0)
-                correct += (predicted == labels).sum().item()
-
-        print(f"Epoch {epoch + 1}/{epochs}")
-        print(f"Train Loss: {total_loss / len(train_loader):.4f}")
-        print(f"Test Acc: {100 * correct / total:.2f}%")
-        print("------------------------")
+        print(f"Epoch {epoch + 1} | Loss: {total_loss / len(train_loader):.4f}")
 
 
+# 运行训练
 if __name__ == "__main__":
     train_model()

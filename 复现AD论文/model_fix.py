@@ -2,13 +2,26 @@ import os
 import numpy as np
 import pandas as pd
 import torch
+import  random
 import torch.nn as nn
 import torch.utils.data as Data
 import torch.multiprocessing as mp
 import torch.nn.functional as F
 import torch.optim as optim
 from transformers import AutoModel, AutoTokenizer
-import matplotlib.pyplot as plt
+
+from 复现AD论文.testcnn_other import n_class
+
+
+def set_seed(seed=42):
+    random.seed(seed)
+    torch.manual_seed(seed)
+    if torch.cuda.is_available():
+        torch.cuda.manual_seed_all(seed)
+        torch.backends.cuda.deterministic = True  # 固定CUDA操作顺序
+        torch.backends.cuda.flash_sdp = False  # 根据需求设置（您已禁用了flash_sdp）
+
+set_seed(42)
 
 # 配置部分
 torch.backends.cuda.enable_flash_sdp(False)
@@ -18,12 +31,12 @@ train_curve = []
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 # 模型参数
-batch_size = 4
+batch_size = 8
 epoches = 5
 model_path = "D:/111bertmodel/bertmodel"
 hidden_size = 768
-#n_class = 20  #决定输出的维度
-maxlen = 100 #320可行，260不行了？
+maxlen = 320
+n_class=20
 # 加载数据
 ad_path = "ad_labeled.csv"
 control_path = "control_labeled.csv"
@@ -40,6 +53,7 @@ df = df.sample(frac=1, random_state=42).reset_index(drop=True)
 train_size = int(0.7 * len(df))
 train_data = df[:train_size]
 test_data = df[train_size:]
+
 
 # 数据集类
 class MyDataset(Data.Dataset):
@@ -83,32 +97,30 @@ dataset_test = MyDataset(test_data['data'].tolist(), test_data['label'].tolist()
 train_loader = Data.DataLoader(dataset_train, batch_size=8, shuffle=True)
 test_loader = Data.DataLoader(dataset_test, batch_size=1, shuffle=False)
 # TextCNN 模型
-class TextCNN(nn.Module):
+class TextCNN(nn.Module): #修改，通过池化操作降低特征维度
     def __init__(self):
         super().__init__()
         filter_sizes = [5, 10, 15, 20 ]
-        num_filters = 1
+        num_filters = 1 #不同的卷积核的个数先设置为1
+
         self.convs = nn.ModuleList([
             nn.Conv2d(1, num_filters, (size, hidden_size))  #沿着时间序列走
+            #q.这里的num_filters是什么意思？
+            #a.是指每种卷积核的个数
             for size in filter_sizes
         ])
-        #self.output_dim=
-        self.linear = nn.Linear(117,100)
+        self.fc = nn.Linear(num_filters * len(filter_sizes), n_class)
 
     def forward(self, x):
         x = x.unsqueeze(1)  # [batch, 1, seq_len, hidden]
         pooled = []
-        i=1
         for conv in self.convs:      #总体融合
             h = F.relu(conv(x)).squeeze(3)  # [batch, num_filters, seq_len]  卷积操作
-            h = F.max_pool1d(h, kernel_size=3).squeeze(2)  #池化操作减少特征数量
-            i=i+1
+            h = F.max_pool1d(h, h.size(2)).squeeze(2)  #池化操作
             pooled.append(h)
-        h_pool = torch.cat(pooled, 2)#这个是全连接层的输入
-        #print("h_pool{}",h_pool.size()) #但是原论文中好像没有linear
-        h_flap=h_pool.squeeze(1) #去掉中间的维度
-        #print("h_flap{}",h_flap.shape)
-        return self.linear(h_flap)
+        h_pool = torch.cat(pooled, 1)#这个是全连接层的输入
+
+        return self.fc(h_pool)
 class Lstm(nn.Module):
     def __init__(self, input_dim, hidden_dim, num_layers):#可以对
         super().__init__()
@@ -132,9 +144,9 @@ class BertBlendCNN(nn.Module):
         self.bert = AutoModel.from_pretrained(model_path)
         self.cnn = TextCNN()
         self.lstm = Lstm(input_dim=768,hidden_dim=768,num_layers=1)
-        self.linear=nn.Linear(968,2)#自己加的控制维度操作
+        self.linear=nn.Linear(788,2)#自己加的控制维度操作
         self.softmax = nn.Softmax(dim=1) #输出的是概率值他的形状是[batch_size, n_class]，n_class是类别数
-
+        self.dropout = nn.Dropout(0.2)
     def forward(self, input_ids, attention_mask, token_type_ids):
        # print(input_ids, attention_mask, token_type_ids)
         outputs = self.bert(
@@ -145,11 +157,9 @@ class BertBlendCNN(nn.Module):
         #print(outputs.last_hidden_state.size())
         part1= self.cnn(outputs.last_hidden_state)
         part2 = self.lstm(outputs.last_hidden_state)
-        #print("cnn:",part1.shape)
-        #print("lstm",part2.shape)
-        #print("cnn:"+part1.shape+"lstm:"+part2.shape+"合并后的维度：",torch.cat((part1,part2),dim=1).shape)
+        #print("合并后的维度{}",torch.cat((part1,part2),dim=1).shape)
         final_part=torch.cat((part1,part2),1) #这里是直接相加，如果要拼接的话就是torch.cat((part1,part2),1)
-        #print(final_part.shape)
+        final_part = self.dropout(final_part)
         return self.softmax(self.linear(final_part))
     #
 

@@ -23,7 +23,7 @@ epoches = 5
 model_path = "D:/111bertmodel/bertmodel"
 hidden_size = 768
 #n_class = 20  #决定输出的维度
-maxlen = 100 #320可行，260不行了？
+maxlen = 260 #320可行，260不行了？
 # 加载数据
 ad_path = "ad_labeled.csv"
 control_path = "control_labeled.csv"
@@ -92,8 +92,7 @@ class TextCNN(nn.Module):
             nn.Conv2d(1, num_filters, (size, hidden_size))  #沿着时间序列走
             for size in filter_sizes
         ])
-        #self.output_dim=
-        self.linear = nn.Linear(117,100)
+        self.linear = nn.Linear(330,10)
 
     def forward(self, x):
         x = x.unsqueeze(1)  # [batch, 1, seq_len, hidden]
@@ -107,7 +106,7 @@ class TextCNN(nn.Module):
         h_pool = torch.cat(pooled, 2)#这个是全连接层的输入
         #print("h_pool{}",h_pool.size()) #但是原论文中好像没有linear
         h_flap=h_pool.squeeze(1) #去掉中间的维度
-        #print("h_flap{}",h_flap.shape)
+        #print("h_flap{}",h_flap.size())
         return self.linear(h_flap)
 class Lstm(nn.Module):
     def __init__(self, input_dim, hidden_dim, num_layers):#可以对
@@ -118,12 +117,13 @@ class Lstm(nn.Module):
             num_layers=num_layers,  # LSTM层数（需论文指定）
             batch_first=True  # 输入格式为 (batch, seq, feature)
         )
+        self.linear = nn.Linear(768,10)#自己加的控制维度操作
 
     def forward(self, x):
         # x形状：(batch_size, sequence_length, input_dim)
         _, (h_n, _) = self.lstm(x)
         #print("lstm输出的维度{}",h_n[-1].shape)
-        return h_n[-1]  # 返回最后一层的最终状态（形状：(batch_size, hidden_dim)）
+        return self.linear(h_n[-1])  # 返回最后一层的最终状态（形状：(batch_size, hidden_dim)）
 
 # 整体模型
 class BertBlendCNN(nn.Module):
@@ -132,7 +132,7 @@ class BertBlendCNN(nn.Module):
         self.bert = AutoModel.from_pretrained(model_path)
         self.cnn = TextCNN()
         self.lstm = Lstm(input_dim=768,hidden_dim=768,num_layers=1)
-        self.linear=nn.Linear(968,2)#自己加的控制维度操作
+        self.linear=nn.Linear(20,2)#自己加的控制维度操作
         self.softmax = nn.Softmax(dim=1) #输出的是概率值他的形状是[batch_size, n_class]，n_class是类别数
 
     def forward(self, input_ids, attention_mask, token_type_ids):
@@ -157,10 +157,10 @@ class BertBlendCNN(nn.Module):
 def main():
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     model = BertBlendCNN().to(device)
-    optimizer = optim.Adam(model.parameters(), lr=1e-4)
+    optimizer = optim.Adam(model.parameters(), lr=1e-5)
     criterion = nn.CrossEntropyLoss()
 
-    for epoch in range(10):
+    for epoch in range(25):
         model.train()
         total_loss = 0
         for input_ids, attn_mask, token_types, labels in train_loader:

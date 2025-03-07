@@ -14,7 +14,7 @@ from transformers import AutoModel, AutoTokenizer
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 model_path = "D:/111bertmodel/bertmodel"
 batch_size = 8
-epochs = 5
+epochs = 20
 maxlen = 256
 
 
@@ -92,6 +92,7 @@ class BertClassifier(nn.Module):
             attention_mask=attention_mask
         )
         pooled = outputs.last_hidden_state[:, 0, :]  # CLS token
+        #print(pooled.shape)
         return self.classifier(pooled)
 
 
