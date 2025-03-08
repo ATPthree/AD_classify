@@ -18,12 +18,12 @@ train_curve = []
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 # 模型参数
-batch_size = 4
+batch_size = 16
 epoches = 5
 model_path = "D:/111bertmodel/bertmodel"
 hidden_size = 768
 #n_class = 20  #决定输出的维度
-maxlen = 100 #320可行，260不行了？
+maxlen = 260 #320可行，260不行了？
 # 加载数据
 ad_path = "ad_labeled.csv"
 control_path = "control_labeled.csv"
@@ -31,16 +31,22 @@ control_path = "control_labeled.csv"
 df_ad = pd.read_csv(ad_path)
 df_control = pd.read_csv(control_path)
 
-df = pd.concat([df_ad, df_control], ignore_index=True)
+# 显式定义标签并合并数据集（关键改动）
+df_control['label'] = 1  # 正常人标签
+df_ad['label'] = 0    # AD患者标签
+df = pd.concat([df_control, df_ad], axis=0)
 
-# 打乱数据
-df = df.sample(frac=1, random_state=42).reset_index(drop=True)
+# 数据清洗（新增）
+df = df[['data', 'label']].dropna()  # 删除缺失值行
 
-# 计算训练集和测试集的分割索引
-train_size = int(0.7 * len(df))
-train_data = df[:train_size]
-test_data = df[train_size:]
-
+# 分层抽样分割数据集（关键改动）
+from sklearn.model_selection import train_test_split
+train_df, test_df = train_test_split(
+    df,
+    test_size=0.3,
+    stratify=df['label'],   # 保持类别分布一致性
+    random_state=42
+)
 # 数据集类
 class MyDataset(Data.Dataset):
     def __init__(self, sentences, labels=None, with_labels=True):
@@ -75,11 +81,11 @@ class MyDataset(Data.Dataset):
                 encoded['token_type_ids'].squeeze(0)
             )
 
-# 构造数据集
-dataset_train = MyDataset(train_data['data'].tolist(), train_data['label'].tolist())
-dataset_test = MyDataset(test_data['data'].tolist(), test_data['label'].tolist())
+# 构造数据集（改动）
+dataset_train = MyDataset(train_df['data'].tolist(), train_df['label'].tolist())
+dataset_test = MyDataset(test_df['data'].tolist(), test_df['label'].tolist())
 
-# 构造数据加载器
+# 数据加载器（保持batch_size一致）
 train_loader = Data.DataLoader(dataset_train, batch_size=8, shuffle=True)
 test_loader = Data.DataLoader(dataset_test, batch_size=1, shuffle=False)
 # TextCNN 模型
@@ -93,7 +99,7 @@ class TextCNN(nn.Module):
             for size in filter_sizes
         ])
         #self.output_dim=
-        self.linear = nn.Linear(117,100)
+        self.linear = nn.Linear(330,100)
 
     def forward(self, x):
         x = x.unsqueeze(1)  # [batch, 1, seq_len, hidden]
@@ -132,7 +138,9 @@ class BertBlendCNN(nn.Module):
         self.bert = AutoModel.from_pretrained(model_path)
         self.cnn = TextCNN()
         self.lstm = Lstm(input_dim=768,hidden_dim=768,num_layers=1)
-        self.linear=nn.Linear(968,2)#自己加的控制维度操作
+        self.linear1=nn.Linear(868,120)#自己加的控制维度操作
+        self.rule=nn.ReLU()
+        self.linear2=nn.Linear(120,2)
         self.softmax = nn.Softmax(dim=1) #输出的是概率值他的形状是[batch_size, n_class]，n_class是类别数
 
     def forward(self, input_ids, attention_mask, token_type_ids):
@@ -150,14 +158,17 @@ class BertBlendCNN(nn.Module):
         #print("cnn:"+part1.shape+"lstm:"+part2.shape+"合并后的维度：",torch.cat((part1,part2),dim=1).shape)
         final_part=torch.cat((part1,part2),1) #这里是直接相加，如果要拼接的话就是torch.cat((part1,part2),1)
         #print(final_part.shape)
-        return self.softmax(self.linear(final_part))
+        final_part=self.rule(self.linear1(final_part))
+        #return self.softmax(self.linear2(final_part))
+        return self.linear2(final_part)
     #
 
 # 主函数
 def main():
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     model = BertBlendCNN().to(device)
-    optimizer = optim.Adam(model.parameters(), lr=1e-4)
+    #optimizer = optim.Adam(model.parameters(), lr=1e-4)
+    optimizer = optim.AdamW(model.parameters(), lr=2e-5)
     criterion = nn.CrossEntropyLoss()
 
     for epoch in range(10):
