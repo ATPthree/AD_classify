@@ -14,7 +14,7 @@ from transformers import AutoModel, AutoTokenizer
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 model_path = "D:/111bertmodel/bertmodel"
 batch_size = 8
-epochs = 20
+epochs = 5
 maxlen = 256
 
 
@@ -129,6 +129,7 @@ class BertClassifier(nn.Module):
         self.linear2 = nn.Linear(120, 2)
         self.softmax = nn.Softmax(dim=1)  # 输出的是概率值他的形状是[batch_size, n_class]，n_class是类别数
 
+
     def forward(self, input_ids, attention_mask):
         # print(input_ids, attention_mask, token_type_ids)
         outputs = self.bert(
@@ -208,7 +209,8 @@ def train_model():
                 correct += (predicted == labels).sum().item()
 
         print(f"Epoch {epoch + 1}/{epochs}")
-        print(f"Train Loss: {total_loss / len(train_loader):.4f}")
+        #print(f"Train Loss: {total_loss / len(train_loader):.4f}")
+        print(f"Train Loss: {total_loss }")
         print(f"Test Acc: {100 * correct / total:.2f}%")
         print("------------------------")
 
