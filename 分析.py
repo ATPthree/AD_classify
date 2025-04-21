@@ -1,7 +1,7 @@
 import pandas as pd
 
 # 读取统计数据
-df = pd.read_excel('participant_test_data.xlsx')
+df = pd.read_csv('ad_labeled.csv')
 
 # 查看数据的前几行，确认数据加载正确
 print(df.head())
