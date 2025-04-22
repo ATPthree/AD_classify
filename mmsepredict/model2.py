@@ -8,8 +8,10 @@ import torch.multiprocessing as mp
 import torch.nn.functional as F
 import torch.optim as optim
 from transformers import AutoModel, AutoTokenizer
-import matplotlib.pyplot as plt
 from sklearn.metrics import mean_squared_error, mean_absolute_error
+import matplotlib.pyplot as plt
+plt.rcParams['font.sans-serif'] = ['SimHei']  # 指定默认字体为SimHei（黑体）
+plt.rcParams['axes.unicode_minus'] = False  # 解决负号显示问题
 
 # 配置部分
 torch.backends.cuda.enable_flash_sdp(False)
@@ -20,13 +22,13 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 # 模型参数
 batch_size = 16
-epoches = 5    #5个epoch的效果就区域收敛
+epoches = 20    #5个epoch的效果就区域收敛
 model_path = "D:/111bertmodel/bertmodel"
 hidden_size = 768
 maxlen = 260 
 # 数据暂时按照260来后期看看到底如何才能涵盖所有的字长，但是那个掩码遮蔽什么的还没有考虑（问问ai）
-train_data= "./data1.csv"
-test_data = "./data2.csv"
+train_data= "../data1.csv"
+test_data = "../data2.csv"
 
 df_train = pd.read_csv(train_data)
 df_test = pd.read_csv(test_data)
@@ -103,32 +105,42 @@ class TextCNN(nn.Module):
         h_flap=h_pool.squeeze(1) #去掉中间的维度
         #print("h_flap{}",h_flap.shape)
         return self.linear(h_flap)
-class Lstm(nn.Module):
-    def __init__(self, input_dim, hidden_dim, num_layers):#可以对
+
+class AttentionLstm(nn.Module):
+    def __init__(self, input_dim, hidden_dim, num_layers):
         super().__init__()
-        self.lstm = nn.LSTM(
-            input_size=input_dim,  # BERT输出的隐藏维度（768）
-            hidden_size=hidden_dim,  # LSTM内部隐藏层维度（需论文指定）  后续可以自己改一下，还记得以前写的那个期货预测的LSTM吗用的两个隐藏层（或者是两个lstm拼接）加一个softmax还是linear直接输出了
-            num_layers=num_layers,  # LSTM层数（需论文指定）
-            batch_first=True  # 输入格式为 (batch, seq, feature)
-        )
-
-    def forward(self, x):
-        # x形状：(batch_size, sequence_length, input_dim)
-        _, (h_n, _) = self.lstm(x)
-        #print("lstm输出的维度{}",h_n[-1].shape)
-        return h_n[-1]  # 返回最后一层的最终状态（形状：(batch_size, hidden_dim)）
-
+        self.lstm = nn.LSTM(input_dim, hidden_dim, num_layers, batch_first=True)
+        self.attention = nn.Linear(hidden_dim, 1)
+        self.linear = nn.Linear(hidden_dim, 100)
+        
+    def forward(self, x, mask=None):
+        # x: [batch, seq, hidden], mask: [batch, seq]
+        outputs, (h_n, _) = self.lstm(x)  # outputs: [batch, seq, hidden]
+        
+        # 应用注意力机制，但考虑mask
+        attn_scores = self.attention(outputs)  # [batch, seq, 1]
+        
+        # 如果提供了mask，将填充位置的注意力分数设为一个非常小的值
+        if mask is not None:
+            mask = mask.unsqueeze(-1)  # [batch, seq, 1]
+            attn_scores = attn_scores.masked_fill(mask == 0, -1e10)
+        
+        # 应用softmax得到注意力权重
+        attn_weights = F.softmax(attn_scores, dim=1)  # [batch, seq, 1]
+        
+        # 加权汇总输出
+        context = torch.bmm(attn_weights.transpose(1, 2), outputs)  # [batch, 1, hidden]
+        return self.linear(context.squeeze(1))  # [batch, hidden]
 
 class BertRegression(nn.Module):
     def __init__(self):
         super().__init__()
         self.bert = AutoModel.from_pretrained(model_path)
         self.cnn = TextCNN()
-        self.lstm = Lstm(input_dim=768, hidden_dim=768, num_layers=1)
-        self.linear1 = nn.Linear(868, 200)  # 自己加的控制维度操作
+        self.lstm = AttentionLstm(input_dim=768, hidden_dim=768, num_layers=1)
+        self.linear1 = nn.Linear(200, 60)  # 自己加的控制维度操作
         self.rule = nn.ReLU()
-        self.linear2 = nn.Linear(200, 60)
+        self.linear2 = nn.Linear(60, 1)
         self.linear3 = nn.Linear(60,1)
 
 
@@ -138,18 +150,28 @@ class BertRegression(nn.Module):
             input_ids=input_ids,
             attention_mask=attention_mask,
         )
-        # print(outputs.last_hidden_state.size())
-        part1 = self.cnn(outputs.last_hidden_state)
-        part2 = self.lstm(outputs.last_hidden_state)
-        # print("cnn:",part1.shape)
-        # print("lstm",part2.shape)
-        # print("cnn:"+part1.shape+"lstm:"+part2.shape+"合并后的维度：",torch.cat((part1,part2),dim=1).shape)
-        final_part = torch.cat((part1, part2), 1)  # 这里是直接相加，如果要拼接的话就是torch.cat((part1,part2),1)
-        # print(final_part.shape)
+        
+        # 获取完整的隐藏状态用于CNN
+        hidden_states = outputs.last_hidden_state
+        part1 = self.cnn(hidden_states)
+        
+        # 将完整序列传给LSTM，但同时传递attention_mask以忽略填充token
+        seq_tokens = hidden_states  # 使用完整序列
+        part2 = self.lstm(seq_tokens, attention_mask)  # 传递mask到LSTM
+        
+        #print("part1",part1.shape) #8,100
+        #print("part2",part2.shape) #8,100
+        # 拼接CNN和LSTM的输出
+        final_part = torch.cat((part1, part2), 1)
         final_part = self.rule(self.linear1(final_part))
         # return self.softmax(self.linear2(final_part))
-        final_part = self.rule(self.linear2(final_part))
-        return self.linear3(final_part)
+        #final_part = self.rule(self.linear2(final_part))
+        
+        # 确保输出是一个单一值（而不是带有额外维度）
+        output = self.linear3(final_part)
+        #print("output",output.shape)
+        
+        return output.squeeze(-1)  # 移除最后一个维度，从[batch, 1]变为[batch]
 
 # 主函数
 def main():
